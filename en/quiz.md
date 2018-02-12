@@ -108,12 +108,11 @@ You can define conditional questions based on answers provided by the user. To d
  
 It is also possible to illustrate a question by adding a photo using: `sideVisual` :
 ```xml
-<orderPage sectionId="section 1" sideVisual="House" label="Prioritize your projects" answerNumber="3">
-    <answer>Renovating</answer>
-    <answer>Buy a house</answer>
-    <answer nextPageId="tousLesBiens">Buy a car</answer>
-    <answer nextPageId="tousLesBiens">Prepare retirement</answer>
-</orderPage>
+<questionPage sectionId="FavoriteColor" sideVisual="color" label="What is your favorite color">
+    <answer score="1">pink</answer>
+    <answer score="4">yellow</answer>
+    <answer score="7">blue</answer>
+</questionPage>
 ```
 ![sideVisual](img/quiz_sideVisual.png)
 
@@ -123,7 +122,7 @@ Describes a simple page to display with either text or image:
  - `visual`: name of the image file to display (no extension, file present in `_meta` folder)
 
 ```xml
-<page sectionId="intro" label="Ceci est un test"/>
+<page sectionId="intro" label="This is a test"/>
 ```
 <!--![page label](img/page_label.jpg)
 ![page image](img/page_image.jpg)-->
@@ -168,17 +167,17 @@ To share this information with other documents or the profile info, use the `val
 
 #### `labelSliderPage`
 This displays a page with a slider with predefined values.
-- `label` : le titre ou la question à afficher.
+- `label` : Title or question to display.
 
 Add `answer` tags to add predefined values, the fisrt being the minimum and the last being the maximum.
 
 example :
 ```xml
-<labelSliderPage sectionId="section1" label="Faites vous souvent des achats en ligne ?">
-	<answer>Jamais</answer>
-	<answer>Parfois</answer>
-	<answer>Souvent</answer>
-	<answer>Toujours</answer>
+<labelSliderPage sectionId="labelSliderPage" label="You can choose a frequency for example">
+  <answer>Never</answer>
+  <answer>Sometimes</answer>
+  <answer>Often</answer>
+  <answer>Always</answer>
 </labelSliderPage>
 ```
 ![labelSliderPage](img/quiz_labelsliderpage.jpg)
@@ -257,8 +256,8 @@ Add a list of `answer` or `imageAnswer` for available choices. The two types can
 <orderPage sectionId="section 1" label="Prioritize your projects" answerNumber="3">
     <answer>Renovating</answer>
     <answer>Buy a house</answer>
-    <answer nextPageId="tousLesBiens">Buy a car</answer>
-    <answer nextPageId="tousLesBiens">Prepare retirement</answer>
+    <answer nextPageId="allRealEstate">Buy a car</answer>
+    <answer nextPageId="allRealEstate">Prepare retirement</answer>
 </orderPage>
 ```
 <!--![orderPage empty](img/orderpage_empty.jpg)-->
