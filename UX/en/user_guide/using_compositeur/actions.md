@@ -8,8 +8,8 @@
 * [Main Menu actions](#main-menu-actions) 
   * [Adding notes, blanksheet or templates](#adding-notes-blanksheet-or-templates)
   * [Adding corkboards](#adding-corkboards)
-  * [Add favorites documents](#add-favorites-documents)
-  * [Remove favorites documents](#remove-favorites-documents)
+  * [Add documents to your selection](#add-documents-to-your-selection)
+  * [Remove documents from your selection](#remove-documents-from-your-selection)
     * [Using the item action menu](#using-the-item-action-menu)
     * [Using swipe gestures](#using-swipe-gestures)
   * [Import documents](#import-documents)
@@ -21,6 +21,8 @@
   * [Your universe](#your-universe)
   * [Save your work](#save-your-work)
   * [Share your work](#share-your-work)
+    * [Using item action menu](#using-item-action-menu)
+    * [Using main menu](#using-main-menu)
   * [Quit](#quit)
 
 ## Document actions
@@ -34,7 +36,7 @@ Actions you will find on all your document propose you to:
 1. Share the document, with all the annotations and the notes pasted on it.
 1. Save a local copy of your document, with all the annotations and the notes pasted on it.
 1. Make a capture of your document (creates an image of your document, that you can freely edit).
-1. Add the document to your favorites / Remove the document from your favorites.
+1. Add the document to your selection / Remove the document from your selection.
 1. Change the ink color of your pen.
 
 ### Specific actions
@@ -46,7 +48,7 @@ Some actions are accessible only for some types of documents:
 
 ## Main menu actions
 
-The main menu contains all the actions related to your project. You can add document from this menu, blank documents, share your work, visualize your favorites, ect.
+The main menu contains all the actions related to your project. You can add document from this menu, blank documents, share your work, visualize your selection, ect.
 
 ### Adding notes, blanksheet or templates
 
@@ -67,30 +69,30 @@ To add a corkboard:
 1. Drag and drop a document you want to pin on your corkboard.
 1. Pin your document.
 
-### Add favorites documents
+### Add documents to your selection
 
-Favorites are useful to share all the important documents you have been working on during a face-to-face presentation or a meeting.
+Documents marked as selected are useful to share all the important documents you have been working on during face-to-face presentations or meetings.
 
-To add an item to your favorites:
+To add an item to your selection:
 1. Tap on the action button of the item (the item must be in the workspace).
-1. Tap on `Add to favorites`.
+1. Tap on `Add to selection`.
 
-All your favorites can be retrieved from the dock area.
+All the items belonging to your selection can be retrieved from the dock area.
 
 1. Tap on the main button menu.
-1. Tap on `Favorites` at the bottom of the menu.
+1. Tap on `Selection` at the bottom of the menu.
 
-Your favorites are now on the dock.
+Your selection appears on the dock.
 
-### Remove favorites documents
+### Remove documents from your selection
 
-To remove a favorite from the favorites, you have two options.
+To remove a document from the selection, you have two options.
 
 #### Using the item action menu
 
-1. Tap on the item in the favorites to open it. 
+1. (Optional if the item is already in the workspace) Tap on the item in the selection to open it. 
 1. Tap on the actions button of the item (bottom right corner).
-1. Tap on `Remove from favorites`.
+1. Tap on `Remove from selection`.
 
 #### Using swipe gestures
 
@@ -155,12 +157,21 @@ All the documents which belong to your project can be accessed from the dock.
 ### Share your work
 
 If you need to share the current project with your colleagues, or with your client, various options are offered: 
-* You can share a set of documents (for example, your favorites).
+* You can share a single document.
+* You can share a set of documents (for example, your selection).
 * You can share all the documents which are opened on screen.
 * You can share a screenshot of your workspace.
 * You can share a copy of your project. This copy can be opened using Compositeur Digital UX.
 
 You can send the documents by email, or save a local copy of the document on your hard drive or usb stick.
+
+#### Using item action menu
+
+If you want to share a document:
+1. Tap on the action button of the item.
+1. Tap on `Share`.
+
+#### Using main menu
 
 To share your work:
 1. Tap on the main menu button.
