@@ -28,7 +28,7 @@ Only use files that ends with `.jpg`, `.jpeg`, `.pdf`, `.png`, `.ppt` or `.pptx`
 
 To make sure slides in your slideshow are ordered, you can number them from 0 to X. Numbers won't be displayed in Compositeur Digital UX (e.g. `0 - First level` will be `First level`).
 
-**Important** : If your slideshow includes a powerpoint, and if this powerpoint has "Hot Spots", make sure the content linked from the powerpoint of your slideshow belongs to your slideshow directoty. Keep in mind that content can be put in a hidden folder, which will not appear in Compositeur Digital UX.
+**Important** : If your slideshow includes a powerpoint, and if this powerpoint has [Hot Spots](powerpoint.md#hot-spots), make sure the content linked from the powerpoint of your slideshow belongs to your slideshow directoty. Keep in mind that content can be put in a hidden folder, which will not appear in Compositeur Digital UX.
 
 Next : [Creating Templates (Compositeur Digital UX)](templates.md)
 
