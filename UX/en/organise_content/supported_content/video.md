@@ -27,4 +27,6 @@ A video file format can embed different coding/decoding standards. Those standar
 
 Our recommendation is to use WMV and MP4(H264) format for a safe use.
 
-[Bback to supported content](index.md)
+Next: [Guestbook (Compositeur Digital UX format)](guestbook.md)
+
+[Back to Supported Content](index.md)
