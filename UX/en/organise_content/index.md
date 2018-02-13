@@ -1,6 +1,6 @@
 # Documentation
 
-### [Create a universe](general_configuration)
+### [Create a universe](create_universe.md)
 Learn how to create beautiful universes.
 
 ### [Supported content](supported_content/index.md)
