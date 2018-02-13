@@ -16,6 +16,6 @@
 * [Seqences : Pre-rendered 360° view (orbital)](sequences.md)
 * [Mortgage Simulator](simulator.md)
 * [Slideshows : images, pdf and powerpoint](slideshows.md)
-* [Creating Templates](template.md)
+* [Creating Templates](templates.md)
 
-[Back to Organise Content menu](../index.md)
+[Back to Organise Content](../index.md)
