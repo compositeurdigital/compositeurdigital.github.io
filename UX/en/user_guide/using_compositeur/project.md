@@ -1,6 +1,6 @@
 # Documentation
 
-## Project
+## What is a project
 
 When starting Compositeur Digital UX, and opening a universe, a project is created immediately. A project allows you to work on a universe, and to save all the work that you'll do on the universe's documents (annotations, opened documents, ect...)
 
@@ -13,5 +13,8 @@ When they are saved, the projects will stay attached to the universe they have b
 * In a similar way, if you add new documents to this universe, the document will be accessible from all your projects.
 * Imported documents are related to projects, not universe. It means that a document you have imported in a project will not appear in another project, even if they are based on the same universe.
 
+Next : [Browsing on Compositeur Digital UX](#browsing.md)
+
+[Back to Using Compositeur Digital UX](#index.md)
 
 
