@@ -1,6 +1,4 @@
-# Documentation
-
-## What is a Universe
+# What is a Universe
 
 A universe contains all the documents you need for a specific meeting or presentation. These documents can be different, e.g. pdfs, powerpoints, images, video... They can be placed, and structured in various folders, to retrieve them easily from Compositeur Digital UX. 
 
