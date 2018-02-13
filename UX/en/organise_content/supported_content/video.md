@@ -1,14 +1,12 @@
-# Documentation
-
-## Video
+# Video
 
 Video are supported natively by Compositeur Digital UX.
 
-### File extensions 
+## File extensions 
 
 Compositeur Digital UX supports `.avi`, `.flv`, `.m4v`, `.mov`, `.mp4`, `.mpeg`, `.mpg`, `.ts` and `.wmv` files.
 
-### Action within Compositeur Digital UX
+## Action within Compositeur Digital UX
 
 * [X] Play / Pause.
 * [X] Controls the video position, using the progress bar.
@@ -21,7 +19,7 @@ Compositeur Digital UX supports `.avi`, `.flv`, `.m4v`, `.mov`, `.mp4`, `.mpeg`,
 * [X] Add the video to your favorite, using the `Add to favorites` action.
 * [X] Remove the video from your favorites, using the `Remove from favorites` action.
 
-### A/V Codecs
+## A/V Codecs
 
 A video file format can embed different coding/decoding standards. Those standards called “codecs” should be installed on your computer. K-Lite Codec Pack includes a wide variety of codecs. Please note that some uncommon codecs may not be supported within Compositeur Digital UX.
 
