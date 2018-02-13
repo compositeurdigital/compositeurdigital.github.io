@@ -1,6 +1,6 @@
 # Documentation
 
-## Navigation 
+## Browsing on Compositeur Digital UX 
 
 ### Start Page - Universes
 
@@ -68,7 +68,9 @@ You can also close a document by throwing it away on the edges of your screen. I
 
 **Important** : a document that you have closed is never lost. You can retrieve it inside the History.
 
-You can now move to the [Menu section](menu.md) 
+Next : [Actions in Compositeur Digital UX](actions.md) 
+
+[Back to Using Compositeur Digital UX](index.md)
 
 
 
