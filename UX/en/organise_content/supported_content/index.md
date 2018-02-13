@@ -3,7 +3,7 @@
 ## Supported content
 
 ### Native formats
-* [Images](picture.md)
+* [Images](images.md)
 * [Pdf](pdf.md)
 * [Powerpoint](powerpoint.md)
 * [Video](video.md)
