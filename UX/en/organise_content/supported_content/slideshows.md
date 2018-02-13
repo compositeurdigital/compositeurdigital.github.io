@@ -1,10 +1,8 @@
-# Documentation
-
-## Slideshows
+# Slideshows
 
 Slideshows are useful to concatenate various files such as images, pdfs or powerpoints to a single document.
 
-### Action within Compositeur Digital UX
+## Action within Compositeur Digital UX
 
 - [X] Annotations
 - [X] Navigation to next page or previous page using `<` or `>` buttons.
@@ -17,12 +15,12 @@ Slideshows are useful to concatenate various files such as images, pdfs or power
 - [X] Add the slideshow to your favorite, using the `Add to favorites` action.
 - [X] Remove the slideshow from your favorites, using the `Remove from favorites` action.
 
-### Content extension 
+## Content extension 
 
 To use a slideshow, put all the files you want in a folder, and add the extension `.slideshow` at the end of the name of your folder.
 Only use files that ends with `.jpg`, `.jpeg`, `.pdf`, `.png`, `.ppt` or `.pptx`.
 
-### Create a slideshow
+## Create a slideshow
 
 1. In your universe folder, create a folder named `<Name of your slideshow>.slideshow` (e.g. `Mon slideshow.slideshow`).
 2. Drag and drop all the pdfs, powerpoints and images you need.
