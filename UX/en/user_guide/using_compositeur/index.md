@@ -6,8 +6,8 @@
 
 ### [Universe](universe.md)
 
-### [Project](project_concept.md)
+### [Project](project.md)
 
-### [Navigation](navigation.md)
+### [Browsing on Compositeur Digital UX](browsing.md)
 
-### [Actions](actions.md)
+### [Actions in Compositeur Digital UX](actions.md)
