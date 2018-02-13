@@ -9,8 +9,8 @@ This content type allows you to display an interactive mortgage simulator with e
 - [X] Change loan rate (\*)
 - [X] Change monthly payment (updates loan amount accordingly)
 - [X] Make a capture (i.e. create an image of the current simulation) using the `Capture` action.
-- [X] Add the simulator to your favorites, using the `Add to favorites` action.
-- [X] Remove the simulator from your favorites, using the `Remove from favorites` action.
+- [X] Add the simulator to your selection, using the `Add to selection` action.
+- [X] Remove the simulator from your selection, using the `Remove from selection` action.
 
 *(\*)* : updates monthly payment accordingly.
 
