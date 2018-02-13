@@ -114,8 +114,10 @@ To import a document:
 You can also paste an image to your project.
 1. Copy an image to your clipboard. 
 1. Tap on the main menu button.
+1. Tap on `Add document`.
 1. Tap on `Paste`.
 1. The image is now a part of your project.
+1. You can retrieve it in the `Imported` documents.
 
 ### Manage imported documents
 
