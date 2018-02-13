@@ -10,4 +10,4 @@
 
 ### [Navigation](navigation.md)
 
-### [Menu](menu.md)
+### [Features Overview](menu.md)
