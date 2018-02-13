@@ -9,7 +9,7 @@
 * [Video](video.md)
 
 ### Compositeur Digital UX formats
-* [Gestbook](gestbook.md)
+* [Gestbook](guestbook.md)
 * [Panorama : 360° view (first person)](panorama.md)
 * [Quizz](quiz.md)
 * [Search Interface](search.md)
