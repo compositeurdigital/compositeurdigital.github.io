@@ -6,7 +6,7 @@
 
 ### [What is a Universe?](universe.md)
 
-### [What is a Project](project.md)
+### [What is a Project?](project.md)
 
 ### [Browsing on Compositeur Digital UX](browsing.md)
 
