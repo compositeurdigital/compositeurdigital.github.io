@@ -12,3 +12,5 @@ Compositeur Digital UX offers in-app purchase. If you decide to purchase the pro
 1. Click on the `Buy` button.
 1. Follow the buying instructions.
 1. Your purchase has been authorized, congratulations!
+
+[Back to Documentation](index.md)
