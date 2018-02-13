@@ -1,10 +1,8 @@
-# Documentation
-
-## Pdf
+# Pdf
 
 Pdf files are supported natively by Compositeur Digital UX.
 
-### Actions within Compositeur Digital UX
+## Actions within Compositeur Digital UX
 
 - [X] Annotations
 - [X] Navigation to next page or previous page using `<` or `>` buttons.
@@ -16,7 +14,7 @@ Pdf files are supported natively by Compositeur Digital UX.
 - [X] Add the pdf to your favorite, using the `Add to favorites` action.
 - [X] Remove the pdf from your favorites, using the `Remove from favorites` action.
 
-### Slideshow
+## Slideshow
 
 By default, `.pdf` are handled by Compositeur Digital UX like a `.slideshow` extension. [See section Slideshow](slideshows.md)
 
