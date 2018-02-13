@@ -1,6 +1,4 @@
-# Documentation
-
-## What is a project
+# What is a project
 
 When starting Compositeur Digital UX, and opening a universe, a project is created immediately. A project allows you to work on a universe, and to save all the work that you'll do on the universe's documents (annotations, opened documents, ect...)
 
