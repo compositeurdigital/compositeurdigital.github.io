@@ -71,6 +71,10 @@ To add a corkboard:
 
 Favorites are useful to share all the important documents you have been working on during a face-to-face presentation or a meeting.
 
+To add an item to your favorites:
+1. Tap on the action button of the item (the item must be in the workspace).
+1. Tap on `Add to favorites`.
+
 All your favorites can be retrieved from the dock area.
 
 1. Tap on the main button menu.
