@@ -1,14 +1,12 @@
-# Documentation
-
-## Images
+# Images
 
 Images are supported natively by Compositeur Digital UX.
 
-### File extensions
+## File extensions
 
 Compositeur Digital UX supports `.jpg`, `.jpeg` and `.png` files.
 
-### Actions within Compositeur Digital UX
+## Actions within Compositeur Digital UX
 
 - [X] Annotations.
 - [X] Can be sticked on any document.
