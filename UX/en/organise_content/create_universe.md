@@ -24,7 +24,7 @@ Compositeur Digital UX uses the file extension to setup the various elements of 
 
 By default the Windows File explorer application hides file extensions. We strongly recommend to change this setting.
 
-## Universer
+## Universe
 
 Technically, a universe is materialized as a folder on your computer. By default Compositeur Digital UX will look for content located in `Documents\Compositeur Digital UX`
 
@@ -73,4 +73,4 @@ To customize the thumbnail image of a document, drag and drop an image file usin
 
 Next : [Supported Content](supported_content/index.md)
 
-[Back to Organise Content menu](index.md)
+[Back to Organise Content](index.md)
