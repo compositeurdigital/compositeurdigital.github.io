@@ -1,10 +1,8 @@
-# Documentation
-
-## Quizz
+# Quizz
 
 This type of content allows you to display interactive Quizz, that will help you understanding your user needs.
 
-### Actions within Compositeur Digital UX
+## Actions within Compositeur Digital UX
 
 - [X] Navigation to next page or previous page using `<` or `>` buttons.
 - [X] Select an answer from a set of possible answers.
@@ -17,13 +15,13 @@ This type of content allows you to display interactive Quizz, that will help you
 - [X] Add the quizz to your favorites, using the `Add to favorites` action.
 - [X] Remove the quizz from your favorites, using the `Remove from favorites` action.
 
-### Content extension
+## Content extension
 
 To use a quizz, put all the items you need in a folder, and add the extension `.quizz` at the end of the name of your folder.
 
 Inside your folder, provide a file called `_questions.xml`, and a folder called `_meta` which will contain all the images used inside the quizz.
 
-#### Questions : `_questions.xml`
+### Questions : `_questions.xml`
 
 The Quiz file must contains two parts:  `sections` and `pages`.
 Generic file structure:
@@ -40,7 +38,7 @@ Generic file structure:
 
 Each pages will describe a question. Sections will let you group pages that have the same section name. 
 
-##### Sections
+#### Sections
 Set the section display name in a `section` tag and optionnaly define the `id` attribute if you need to create a
 reference to this section.
 
@@ -48,19 +46,19 @@ reference to this section.
 <section id="intro">1. INTRODUCTION</section>
 ```
 
-##### Pages
+#### Pages
 You can create a quiz with different page types but all pages should have the following items in common:
  - a `sectionId` attribute that assigns a page to a section. The section name will appear on top of the page.
  - an optional `id` attribute to be used as an identifier if a reference to that page is needed. 
  - a `nextPageId` attribute: optional reference to the page that shoud be displayed next. If not set, the following page described in the file will be used. 
 
-##### Page order 
+#### Page order 
 The first page described in the list will always be the first page displayed.
 The last page described will be by default the last page displayed,
 To force a page to finish the quiz, set the `nextPageId` attribute value to `@end`.
 
-##### Page types
-###### `questionPage`
+#### Page types
+##### `questionPage`
 This type lets you create a question with multiple answers. Please note that an answer must be selected before going to the next page.
 
 Here are the attributes for `questionPage`:
@@ -114,7 +112,7 @@ It is also possible to illustrate a question by adding a photo using: `sideVisua
 ```
 ![sideVisual](img/quiz_sideVisual.png)
 
-###### `page`
+##### `page`
 Describes a simple page to display with either text or image:
  - `label`: text to display
  - `visual`: name of the image file to display (no extension, file present in `_meta` folder)
@@ -126,7 +124,7 @@ Describes a simple page to display with either text or image:
 ![page image](img/page_image.jpg)-->
 
 
-###### `infoPage`
+##### `infoPage`
 Displays a simple form in which the user can type in texted answers. Set the `label` attribute of the `info` tags to define a name for the text box.
 
 ```xml
@@ -138,7 +136,7 @@ Displays a simple form in which the user can type in texted answers. Set the `la
 <!--![infoPage](img/quiz_infoPage.jpg)-->
 
 
-###### `numericSliderPage`
+##### `numericSliderPage`
 Displays a page with a single slider that lets the user choose a (rounded) numerical value:
  - `label`: question text. Takes precedence over `visual`.
  - `visual`: name of the image file to display (no extension, file present in `_meta` folder).
@@ -160,7 +158,7 @@ Displays a page with a single slider that lets the user choose a (rounded) numer
 <!--![numericSliderPage](img/quiz_numericSliderPage.jpg)-->
 
 
-###### `labelSliderPage`
+##### `labelSliderPage`
 This displays a page with a slider with predefined values.
 - `label` : le titre ou la question à afficher.
 
@@ -178,7 +176,7 @@ example :
 ![labelSliderPage](img/quiz_labelsliderpage.jpg)
 
 
-###### `imageSliderPage`
+##### `imageSliderPage`
 This type offers the same functionality as the previous `labelSliderPage` but using images for predefined values.
  - `label`: question text. Takes precedence over `visual`.
  - `visual`: name of the image file to display (no extension, file present in `_meta` folder).
@@ -192,7 +190,7 @@ This type offers the same functionality as the previous `labelSliderPage` but us
 <!--![imageSliderPage label](img/quiz_labelsliderpage.jpg)-->
 <!--![imageSliderPage image](img/quiz_imageSliderPage.jpg)-->
 
-###### `videoPage`
+##### `videoPage`
 To put a video, add the tag `video` which is given the name of it in the attribute `content`.
 This tag has 2 other attributes :
  - `disableSkip` which will be `true` so as not to pass to the next or previous slides until the video is finished, otherwise it will be `false`
@@ -205,7 +203,7 @@ This tag has 2 other attributes :
 <videoPage content="presentation" disableSkip="true" endAction="FadeToNextPage">
 </videoPage>
 ```
-###### `scoresResultPage`
+##### `scoresResultPage`
 
 It is possible to add a score to the question and thus have a result page.
 To do this, add the attribute `score` to the answers and define a number.
@@ -229,7 +227,7 @@ For the result page, use the <scoresResultPage> and <scoreResult> tags and add t
 
 ![scoreResultPage](img/quiz_scoreResultPage.png)
 
-###### `documentPage`
+##### `documentPage`
 Displays a link to open a document in the Compositeur Digital.
 - `label`: Title or question text.
 - `document`: name of the document, which must be available in the same folder as the quiz.
@@ -240,7 +238,7 @@ Displays a link to open a document in the Compositeur Digital.
 <!--![documentPage](img/quiz_documentPage.jpg)-->
 
 
-###### `orderPage`
+##### `orderPage`
 Displays a lists of values to be ordered by the user.
 - `label`: titel or question text.
 - `answerNumber`: minimum number of answers to select.
@@ -263,8 +261,6 @@ Add a list of `answer` or `imageAnswer` for available choices. The two types can
     <visualAnswer visual="flat" visualChecked="test2">Flat</visualAnswer>
   </orderPage>
 ```
-
-#### 
 
 Next : [Search Interface (Compositeur Digital UX format)](search.md)
 
