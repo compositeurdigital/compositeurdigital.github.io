@@ -17,3 +17,5 @@
 * [Mortgage Simulator](simulator.md)
 * [Slideshows : images, pdf and powerpoint](slideshows.md)
 * [Creating Templates](template.md)
+
+[Back to Organise Content menu](../index.md)
