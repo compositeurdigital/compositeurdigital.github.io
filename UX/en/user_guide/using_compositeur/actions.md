@@ -173,6 +173,6 @@ To quit a project:
 1. Tap on the main menu button.
 1. Tap on `Save and exit`.
 
-Next : [Use Cases](../use_cases/index.md)
+Next : [Compositeur Digital UX Account](account.md)
 
 [Back to Using Compositeur Digital UX](index.md)
