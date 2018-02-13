@@ -102,6 +102,6 @@ Compositeur Digital UX offers in-app purchase. If you decide to purchase the pro
 1. Follow the buying instructions.
 1. Your purchase has been authorized, congratulations!
 
-
+[Back to Main menu](../index.md)
 
 
