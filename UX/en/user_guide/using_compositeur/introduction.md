@@ -1,6 +1,4 @@
-# Documentation
-
-## Introduction 
+# Introduction 
 
 Compositeur Digital UX is a unique solution to enhance professional presentations in face to face meetings. 
 Leverage all your existing files (PDF, PowerPoint, images, videos) to achieve high value added sales or boost collaboration.
