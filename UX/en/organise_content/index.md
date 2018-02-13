@@ -8,9 +8,11 @@ List of supported content types and related actions.
 
 ### [Advanced settings : Metadata](advanced_setting.md)
 
+Discover advanced configuration, and learn how to use meta files.
+
 ### [Advanced configuration](advanced_configuration)
 
 ### [Deploy & share universe](deploy_share_universe.md)
 
 
-[Back to Main menu](../index.md)
+[Back to Documentation](../index.md)
