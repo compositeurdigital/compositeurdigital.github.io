@@ -1,6 +1,6 @@
 # Documentation
 
-## Templates
+## Creating Templates
 
 Compositeur Digital UX allows you to put templates inside your universe. A template is a document which can be instantiated as many times as needed.
 Templates are useful when it comes to apply specific methods that requires a lot of documents (e.g. "Speedboat" method). They allow you not to have too many documents inside your universe.
