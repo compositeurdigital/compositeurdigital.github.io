@@ -1,6 +1,4 @@
-# Documentation
-
-## Advanced setting
+# Advanced setting
 
 You can modify a document's behavior or associated actions using specific parameters described in a file named `_meta.txt`.
 
@@ -19,7 +17,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 > Example : `*.table.hideCommands = true`
 
 
-### Document configuration :
+## Document configuration :
 *Buttons :*
  - `table.hideCommands = true` hides the control buttons of a document. On a slideshow, the buttons `<` and `>` will disappear.
 
@@ -50,4 +48,4 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 *Video :*
  - `video.loop = true` enables loop mode for the video player. 
 
-[Back to the menu](indexe.md)
+[Back to Organise Content](indexe.md)
