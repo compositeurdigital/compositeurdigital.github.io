@@ -1,6 +1,4 @@
-# Documentation
-
-## Compositeur Digital UX account
+# Compositeur Digital UX account
 
 Compositeur Digital UX offers a free version which allows you to use a limited set of the features offered by Compositeur Digital UX.
 
@@ -8,9 +6,9 @@ To overcome this limitation, if you already have a Compositeur Digital account, 
 
 If you don't have an account, [feel free to create one!](http://www.compositeurdigital.com/Account/Register) Once your account has been created and validated, use it in Compositeur Digital UX.
 
-### Use your Compositeur Digital UX account
+## Use your Compositeur Digital UX account
 
-#### I am using a laptop
+### I am using a laptop
 
 ![1. Sign-in on your laptop](../../img/signin-laptop-1.jpg)
 
@@ -32,7 +30,7 @@ At any time, you can freely decide to sign out.
 2. Click on `Sign out`.
 
 
-##### I am using a shared device (e.g. Microsoft Surface Hub)
+#### I am using a shared device (e.g. Microsoft Surface Hub)
 
 ![1. Sign-in on shared devices](../../img/signin-shareddevice-1.jpg)
 
@@ -66,9 +64,9 @@ At any time, you can freely decide to sign out.
 1. Click on the `Settings` button.
 1. On the settings page, click on `Sign out`.
 
-### Purchase a Compositeur Digital UX license
+## Purchase a Compositeur Digital UX license
 
-#### In-app purchase
+### In-app purchase
 
 Compositeur Digital UX offers in-app purchase. If you decide to purchase the product, all the restrictions which come with the free version will be removed and you'll use an unlimited version of Compositeur Digital UX. 
 
