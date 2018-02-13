@@ -190,6 +190,7 @@ If you're working from a universe for the first time, a pop up will ask you if y
 To quit a project:
 1. Tap on the main menu button.
 1. Tap on `Save and exit`.
+1. (Optional) If you are working on a project for the very first time, a prompt will ask you if you want to save your work.
 
 Next : [Compositeur Digital UX Account](account.md)
 
