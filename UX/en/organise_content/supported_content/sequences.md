@@ -1,10 +1,8 @@
-# Documentation
-
-## Seqences : 360° view
+# Sequences : 360° view
 
 This content type allows you to display a 360° view of any objects, using a sequence of pre-rendered images (e.g. buildings).
 
-### Action within Compositeur Digital UX
+## Action within Compositeur Digital UX
 
 - [X] Move forward and backward in the sequence of images using the slider.
 - [X] Make a copy of your sequence using the `Duplicate` action.
@@ -12,16 +10,16 @@ This content type allows you to display a 360° view of any objects, using a seq
 - [X] Add the sequence to your favorite, using the `Add to favorites` action.
 - [X] Remove the sequence from your favorites, using the `Remove from favorites` action.
 
-### Content extension
+## Content extension
 
 To use a sequence, put all the images which are composing your sequence in a folder, and add the extension `.sequence` at the end of the name of your folder. Inside your sequence, only use files that end with `.jpeg`, `.jpg` or `.png`.
 
-### Create a sequence
+## Create a sequence
 
 1. In your universer folder, create a folder named `<Name of your sequence>.sequence` (e.g. `My sequence.sequence`).
 2. Drag and drop all the files which are composing your sequence in this folder.
 
-### Layers
+## Layers
 
 If you have multiple layers to display (the different floors of a building for example), you can organize your images folders for each layer, and put them in a global .sequence folder.
 
