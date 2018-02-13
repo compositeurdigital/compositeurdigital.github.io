@@ -1,10 +1,8 @@
-# Documentation
-
-## Panorama : 360° view
+# Panorama : 360° view
 
 This content type allows you to display a 360° view of a scene (e.g. landscapes, interior views...) using specific images.
 
-### Action within Compositeur Digital UX
+## Action within Compositeur Digital UX
 
 - [X] Enable / Disable navigation mode.
 - [X] In navigation mode, sliding your finder on the item rotates the camera inside the scene.
@@ -13,12 +11,12 @@ This content type allows you to display a 360° view of a scene (e.g. landscapes
 - [X] Add the panorama to your favorites, using the `Add to favorites` action.
 - [X] Remove the panorama from your favorites, using the `Remove from favorites` action.
 
-### Content extension
+## Content extension
 
 To use a panorama, put the images to render in a folder, and add the extension `.panorama` at the end of the name of your folder.
 Inside your panorama, only use files that end with `.jpeg`, `.jpg`, `.png`.
 
-### Create a panorama
+## Create a panorama
 
 1. In your universe folder, create a folder named `<Name of your panorama>.panorama` (e.g. `My Panorama.panorama`).
 2. Drag and drop all the files which are composing your panorama in this folder.
@@ -27,13 +25,13 @@ Inside your panorama, only use files that end with `.jpeg`, `.jpg`, `.png`.
 
 Two types of projection are supported.
 
-#### Spherical projection
+### Spherical projection
 
 Place a single image with the spherical projection of the scene in the folder. 
 
 **Important** : Do not place any other images in this folder (except `_preview` files).
 
-#### Cube projection
+### Cube projection
 
 Place 6 images, corresponding to the six faces of your cube in the folder.
 
