@@ -1,10 +1,8 @@
-# Documentation
-
-## Mortgage Simulator
+# Mortgage Simulator
 
 This content type allows you to display an interactive mortgage simulator with editable parameters.
 
-### Action within Compositeur Digital UX
+## Action within Compositeur Digital UX
 
 - [X] Change loan amount (\*)
 - [X] Change duration of loan (\*)
@@ -16,11 +14,11 @@ This content type allows you to display an interactive mortgage simulator with e
 
 *(\*)* : updates monthly payment accordingly.
 
-### Content extension
+## Content extension
 
 To use a mortgage simulator, add the extension `.simupret` at the end of the name of your folder.
 
-### Create a mortgage simulator
+## Create a mortgage simulator
 
 1. In your universe folder, create a folder named `<Name of your mortgage simulator>.simupret` (e.g. `My simulator.simupret`).
 
