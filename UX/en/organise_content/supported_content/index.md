@@ -16,6 +16,6 @@
 * [Slideshows : images, pdf and powerpoint](slideshows.md)
 * [Creating Templates](templates.md)
 
-Next : [Advanced settings : metadata](advanced_setting.md)
+Next : [Advanced settings : metadata](../advanced_setting.md)
 
 [Back to Organise Content](../index.md)
