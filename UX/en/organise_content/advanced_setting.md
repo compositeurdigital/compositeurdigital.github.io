@@ -50,4 +50,4 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 *Video :*
  - `video.loop = true` enables loop mode for the video player. 
 
-[Back to the menu](index.md)
+[Back to the menu](indexe.md)
