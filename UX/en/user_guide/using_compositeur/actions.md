@@ -2,6 +2,29 @@
 
 ## Actions : what can i do?
 
+### Summary
+
+* [Document actions](#document-actions)
+  * [Basic actions](#basic-actions)
+  * [Specific actions](#specific-actions)
+* [Main Menu actions](#main-menu-actions) 
+  * [Adding notes, blanksheet or templates](#adding-notes-blanksheet-or-templates)
+  * [Adding corkboards](#adding-corkboards)
+  * [Add favorites documents](#add-favorites-documents)
+  * [Remove favorites documents](#remove-favorites-documents)
+    * [1. Using the item action menu](#using-the-item-action-menu)
+    * [2. Using swipe gestures](#using-swipe-gestures)
+  * [Import documents](#import-documents)
+    * [1. From your files](#from-your-files)
+    * [2. Paste an image](#paste-an-image)
+  * [Manage imported documents](#manage-imported-documents)
+  * [History](#history)
+    * [Remove documents from history](#remove-documents-from-history)
+  * [Your universe](#your-universe)
+  * [Save your work](#save-your-work)
+  * [Share your work](#share-your-work)
+  * [Quit](#quit)
+
 ### Document actions
 
 Actions can be triggered by tapping on the bottom right corner of any document. These actions depend on the document you are manipulating.
@@ -36,7 +59,7 @@ To add one of these documents in your project:
 1. Browse the documents area to select the type of document you want to add.
 1. Drag and drop the document in the workspace, or just tap on it.
 
-#### Adding corkboard 
+#### Adding corkboards 
 
 Corkboards are useful to centralize all your important documents and keep them visible on screen.
 To add a corkboard:
@@ -46,7 +69,7 @@ To add a corkboard:
 1. Drag and drop a document you want to pin on your corkboard.
 1. Pin your document.
 
-#### Favorites documents
+#### Add favorites documents
 
 Favorites are useful to share all the important documents you have been working on during a face-to-face presentation or a meeting.
 
@@ -57,19 +80,21 @@ All your favorites can be retrieved from the dock area.
 
 Your favorites are now on the dock.
 
+#### Remove favorites documents
+
 To remove a favorite from the favorites, you have two options.
 
-##### Option 1 : Using the item action menu
+##### Using the item action menu
 
 1. Tap on the item in the favorites to open it. 
 1. Tap on the actions button of the item (bottom right corner).
 1. Tap on `Remove from favorites`.
 
-##### Option 2 : Using swipe gestures
+##### Using swipe gestures
 
 1. Perform a swipe on the item, from the top to the bottom of the item. The item will be removed.
 
-#### Imported documents
+#### Import documents
 
 During a session, if you realize that there is a document missing that you want to add to your project, you can import it at any time.
 
@@ -89,7 +114,7 @@ You can also paste an image to your project.
 1. Tap on `Paste`.
 1. The image is now a part of your project.
 
-##### Handling imported documents
+#### Manage imported documents
 
 All the imported documents can be retrieved from the dock area.
 
@@ -109,14 +134,14 @@ To access the History:
 1. Tap on `History` at the bottom of the menu.
 1. The history is now accesible from the dock.
 
-##### Remove document from history
+##### Remove documents from history
 
 To remove a document from the history:
 1. Perform a swipe on the item, from the top to the bottom of the item. The item will be removed.
 
-#### Universe's documents
+#### Your universe
 
-All the document which belong to your project can be accessed from the dock.
+All the documents which belong to your project can be accessed from the dock.
 
 1. Tap on the main menu button.
 1. Tap on `Universe`.
@@ -144,8 +169,10 @@ If you're working from a project, all the changes are automatically saved when l
 
 If you're working from a universe for the first time, a pop up will ask you if you want to save the changes that you have made to a new project.
 
-#### Leaving a project
+#### Quit
 
-To leave a project:
+To quit a project:
 1. Tap on the main menu button.
 1. Tap on `Save and exit`.
+
+[Back to Using Compositeur Digital UX](index.md)
