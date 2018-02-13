@@ -1,8 +1,8 @@
 # Documentation
 
-## Menu 
+## Actions : what can i do?
 
-### Document menu
+### Document actions
 
 Actions can be triggered by tapping on the bottom right corner of any document. These actions depend on the document you are manipulating.
 
@@ -23,7 +23,7 @@ Some actions are accessible only for some types of documents:
 1. Slides, to visualise all the slides of any PDF, Powerpoint, or `slideshow` document.
 1. Loop, to loop a video.
 
-### Main menu
+### Main menu actions
 
 The main menu contains all the actions related to your project. You can add document from this menu, blank documents, share your work, visualize your favorites, ect.
 
