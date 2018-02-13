@@ -70,3 +70,7 @@ To create a thumbnail for a folder simply drag and drop an image file named `_pr
 ### Document thumbnail
 
 To customize the thumbnail image of a document, drag and drop an image file using the same name but suffixed with `_preview` in the same folder.
+
+Next : [Supported Content](supported_content/index.md)
+
+[Back to Organise Content menu](indexe.md)
