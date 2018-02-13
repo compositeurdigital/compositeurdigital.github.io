@@ -5,12 +5,12 @@
 1. Multitouch enabled PC.
 1. Windows 10 Creators Update (10.0, Build 15063) or later.
 
-*How can I know which Windows 10 version I am using?*
+> *How can I know which Windows 10 version I am using?*
 
-1. Hit the "Search Windows" button (looks like a magnifying glass).
-1. Enter `winver`.
-1. Click on first item, labelled "Run Command".
-1. Your Windows version appears.
+> 1. Hit the "Search Windows" button (looks like a magnifying glass).
+> 1. Enter `winver`.
+> 1. Click on first item, labelled "Run Command".
+> 1. Your Windows version appears.
 
 ## Download Compositeur Digital UX
 
