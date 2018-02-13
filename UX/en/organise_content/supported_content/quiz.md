@@ -12,8 +12,8 @@ This type of content allows you to display interactive Quizz, that will help you
 - [X] Make a copy of your quizz (including all answered questions) using the `Duplicate` action.
 - [X] Save a local copy (pdf with all the question currently answered by the user) using the `Save as` action.
 - [X] Share the quizz, as a pdf document containing all the question currently answered by the user, using the `Share` action.
-- [X] Add the quizz to your favorites, using the `Add to favorites` action.
-- [X] Remove the quizz from your favorites, using the `Remove from favorites` action.
+- [X] Add the quizz to your selection, using the `Add to selection` action.
+- [X] Remove the quizz from your selection, using the `Remove from selection` action.
 
 ## Content extension
 
