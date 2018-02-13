@@ -16,8 +16,8 @@ Compositeur Digital UX supports `.avi`, `.flv`, `.m4v`, `.mov`, `.mp4`, `.mpeg`,
 * [X] Make a capture (i.e. create an image of the current frame displayed by the video player) using the `Capture` action.
 * [X] Save a local copy using the `Save as` action.
 * [X] Share the video, using the `Share` action.
-* [X] Add the video to your favorite, using the `Add to favorites` action.
-* [X] Remove the video from your favorites, using the `Remove from favorites` action.
+* [X] Add the video to your selection, using the `Add to selection` action.
+* [X] Remove the video from your selection, using the `Remove from selection` action.
 
 ## A/V Codecs
 
