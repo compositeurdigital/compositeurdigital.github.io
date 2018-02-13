@@ -12,5 +12,6 @@
 
 ### [Actions in Compositeur Digital UX](actions.md)
 
+### [Compositeur Digital UX account](account.md)
 
 [Back to User Guide](../index.md)
