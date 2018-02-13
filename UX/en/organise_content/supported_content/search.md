@@ -1,10 +1,8 @@
-# Documentation
-
-## Search
+# Search Interface
 
 This content type allows you to display a search interface for any item (e.g. apartments, plans, cars, ect) that is placed in the same folder.
 
-### Action within Compositeur Digital UX
+## Action within Compositeur Digital UX
 
 - [X] Select filters to apply on the items, amongst a set of filters
 - [X] Visualise search results on the same interface (e.g. using `.filter` extension) or on another page (e.g. using `.search` or `.apartments` extensions.
@@ -13,13 +11,13 @@ This content type allows you to display a search interface for any item (e.g. ap
 - [X] Add the search interface to your favorite, using the `Add to favorites` action.
 - [X] Remove the search interface from your favorites, using the `Remove from favorites` action.
 
-### Content extension
+## Content extension
 
 To use a search interface, put all the items you need in a folder, and add the extension `.filter` or `.search` or `.apartments` (for real estate needs) at the end of the name of your folder.
 
 Inside your folder, provide a file named `_list.csv`.
 
-#### Spreadsheet : \_list.csv
+### Spreadsheet : \_list.csv
 
 This file contains the set of data which will be used for search criteria. This document is a `.csv` file, using `;` as delimiters. It can be edited using Microsoft Excel. 
 
@@ -45,7 +43,7 @@ The second line of the spreadsheet represents the criteria name, which will be d
 
 Starting from the third line, each line represent an item that can be searched using the search interface.
 
-#### `.search` Extension
+### `.search` Extension
 
 The `.search` extension is useful to display a search interface that is not dynamic. The user is selecting all the filters she wants to apply, and then press a button labelled "Search". The search results are computed and the items matching the criteria are displayed.
 
@@ -53,19 +51,19 @@ If the user presses the back arrow at the top left corner of the view, the filte
 
 The design of a result item corresponds to a thumbnail of the item, and its name.
 
-#### `.filter` Extension
+### `.filter` Extension
 
 The `.filter` extension provides a dynamic search interface. Each time the user is changing a filter, the results displayed on the right side of the view are automatically updated to match the current selection.
 
 The design of a result item corresponds to a thumbnail of the item, and its name.
 
-#### `.apartments` Extension
+### `.apartments` Extension
 
 The `.apartment` extension uses the same interface as the `.search` extension. The only difference is how the result looks.
 
 The design of a result item indicates various information about the item : surface, orientation, type, floor, ect...
 
-### Create a search interface
+## Create a search interface
 
 1. In your universe, create a folder named `<Name of your search interface>.search` or `<Name of your search interface>.filter` or `<Name of your search interface>.apartments` depending of the type of view you prefer (e.g. `Search.search`, or `Search.filter`).
 1. Inside this folder, create a file called `_list.csv`. 
