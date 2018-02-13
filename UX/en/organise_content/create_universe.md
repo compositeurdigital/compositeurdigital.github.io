@@ -1,6 +1,4 @@
-# Documentation
-
-## Create your universe
+# Create a universe
 
 Compositeur Digital UX processes documents stored on a specific location in your computer. Those documents can be organized in folders to facilitate the presentation.
 
@@ -14,13 +12,13 @@ You should be confortable with :
 - Renaming files and folder
 - That's all :relaxed:
 
-### File extensions
+## File extensions
 
 Compositeur Digital UX uses the file extension to setup the various elements of a universe.  The `file extension` indicating the type of document is usually a set of 3 to 4 characters following the dot in the file name :
 
-- Images : e.g. "photo1.jpg", "photo2.png".
-- Presentation : e.g. "pres1.pptx", "pres2.pdf"
-- Text file : e.g. "table of content.txt"
+- Images : e.g. `photo1.jpg`, `photo2.png`.
+- Presentation : e.g. `pres1.pptx`, `pres2.pdf`
+- Text file : e.g. `table of content.txt`
 
 By default the Windows File explorer application hides file extensions. We strongly recommend to change this setting.
 
@@ -32,7 +30,7 @@ To create your own universe, you can duplicate an exisiting one in the default l
 
 ## Background
 
-You can customize your universe by changing the background image. To do so, simply add an image file (.png or .jpg) named `_background` in the universe's folder.
+You can customize your universe by changing the background image. To do so, simply add an image file (`.png` or `.jpg`) named `_background` in the universe's folder.
 
 ## Folders
 
@@ -42,7 +40,7 @@ The first level of folders is displayed in Compositeur Digital UX in the dock lo
 
 >### <a name="contentFolder"></a> Hidden folders feature
 >
->Folders using '.content' in their name will not be displayed in Compositeur Digital UX.
+>Folders using `.content` in their name will not be displayed in Compositeur Digital UX.
 >See interactive slideshow to see the common use of this feature.
 
 ## Documents
@@ -55,8 +53,6 @@ Check the Supported content for an exhaustive list of supported file types.
 
 Compositeur Digital UX will display folders and documents in alphabetical order. You can however force a specific viewing sequence for documents and folders by prefixing the file name or folder name with a number. Compositeur Digital UX will not display the numbers but will arrange the items accordingly.
 
->Note : If you ever need to display a file with a name starting with a number (e.g. `3D render`) please refer to the Advanced configuration section.
-
 ## Thumbnails 
 
 The Compositeur Digital will automatically create thumbnails for all documents. You can customize the thumbnail of each document or folder of your universe.
@@ -65,7 +61,7 @@ The Compositeur Digital will automatically create thumbnails for all documents. 
 
 If a thumbnail image has not been defined for a folder, the Compositeur Digital will auto-create a thumbnail image based on the first document of the folder.
 
-To create a thumbnail for a folder simply drag and drop an image file named `_preview` (.png or .jpg) directly in the folder:
+To create a thumbnail for a folder simply drag and drop an image file named `_preview` (`.png` or `.jpg`) directly in the folder:
 
 ### Document thumbnail
 
