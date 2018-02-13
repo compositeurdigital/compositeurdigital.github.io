@@ -10,6 +10,7 @@ Discover how to interact with *Compositeur Digital UX*.
 Learn how to build your own universes and what type of content you can use.
 
 ### [Purchase a license](purchase_license.md)
+How a license can be purchased using *Compositeur Digital UX*.
 
 ### [FAQ](FAQ/index.md)
 Contains frequently asked questions about installing and using *Compositeur Digital UX* and provides solutions to common problems.
