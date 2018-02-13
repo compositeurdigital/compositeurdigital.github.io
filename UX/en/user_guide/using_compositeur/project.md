@@ -13,8 +13,8 @@ When they are saved, the projects will stay attached to the universe they have b
 * In a similar way, if you add new documents to this universe, the document will be accessible from all your projects.
 * Imported documents are related to projects, not universe. It means that a document you have imported in a project will not appear in another project, even if they are based on the same universe.
 
-Next : [Browsing on Compositeur Digital UX](#browsing.md)
+Next : [Browsing on Compositeur Digital UX](browsing.md)
 
-[Back to Using Compositeur Digital UX](#index.md)
+[Back to Using Compositeur Digital UX](index.md)
 
 
