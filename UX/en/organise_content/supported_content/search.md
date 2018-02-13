@@ -8,8 +8,8 @@ This content type allows you to display a search interface for any item (e.g. ap
 - [X] Visualise search results on the same interface (e.g. using `.filter` extension) or on another page (e.g. using `.search` or `.apartments` extensions.
 - [X] Open an item from the result page in the workspace.
 - [X] Make a copy of the search interface using the `Duplicate` action.
-- [X] Add the search interface to your favorite, using the `Add to favorites` action.
-- [X] Remove the search interface from your favorites, using the `Remove from favorites` action.
+- [X] Add the search interface to your selection, using the `Add to selection` action.
+- [X] Remove the search interface from your selection, using the `Remove from selection` action.
 
 ## Content extension
 
