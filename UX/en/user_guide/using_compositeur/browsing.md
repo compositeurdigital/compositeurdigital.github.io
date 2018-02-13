@@ -1,8 +1,6 @@
-# Documentation
+# Browsing on Compositeur Digital UX 
 
-## Browsing on Compositeur Digital UX 
-
-### Start Page - Universes
+## Start Page - Universes
 
 The Compositeur Digital UX start page presents all the universes available. 
 
@@ -17,7 +15,7 @@ If you don't have any universes when starting Compositeur Digital UX, a pop up w
 You can also start an empty universe by clicking on:
 ![Compositeur Digital UX empty universe](../../img/empty-universe).
 
-### Start Page - Projects
+## Start Page - Projects
 
 Clicking on "Open" drives you to the projects you have worked on. All the projects that you have saved will appear here.
 
@@ -26,9 +24,9 @@ Clicking on "Open" drives you to the projects you have worked on. All the projec
 1. These projects can be sorted by creation date, last access date, name, or universe type.
 2. Clicking on "New" drives you to your universes pages.
 
-### Working Page
+## Working Page
 
-#### Overview
+### Overview
 
 The working page is divided into 3 area:
 
@@ -45,14 +43,14 @@ The working page is divided into 3 area:
    1. Save your project
    1. Visualize all your documents : favorites, imported documents, history, universe.
   
-#### Opening a document
+### Opening a document
 
 1. On the dock, tap on the folder to open it.
 1. In the folder view, tap on any document to display it.
 
-#### Manipulating a document
+### Manipulating a document
 
-##### Gestures
+#### Gestures
 
 Compositeur Digital UX has been designed to be used with tactile interactions and gestures.
 The following gestures are supported:
@@ -60,7 +58,7 @@ The following gestures are supported:
 1. Pinch / Spread to zoom in /out.
 1. Rotation
 
-##### Closing a document
+#### Closing a document
 
 A document can be closed by tapping on the cross at the top right corner.
 
