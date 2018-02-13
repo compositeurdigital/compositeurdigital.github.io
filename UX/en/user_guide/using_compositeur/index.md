@@ -14,4 +14,4 @@
 
 ## [Use Cases](../use_cases/index.md)
 
-[Back to User Guide](../index.md)
+[Back to Documentation](../../index.md)
