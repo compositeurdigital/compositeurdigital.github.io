@@ -4,7 +4,7 @@
 
 ### [Introduction](introduction.md)
 
-### [Universe](universe_concept.md)
+### [Universe](universe.md)
 
 ### [Project](project_concept.md)
 
