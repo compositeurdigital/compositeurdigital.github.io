@@ -107,6 +107,7 @@ To import a document:
 1. Tap on `Add document`.
 1. Using the filepicker, select the document you want to add.
 1. Your document is now a part of your project.
+1. You can retrieve it in the `Imported` documents.
 
 #### Paste an image
 
