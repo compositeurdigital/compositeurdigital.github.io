@@ -72,4 +72,6 @@ The design of a result item indicates various information about the item : surfa
 1. Fill the spreadsheet with the criteria you want, and describe your item.
 1. For each item that belongs to the column `id` of your `_list.csv`, add an item inside your search folder (image, pdf, ect...)
 
+Next : [Seqences : Pre-rendered 360° view (orbital, Compositeur Digital UX format)](sequences.md)
+
 [Back to Supported Content](index.md)
