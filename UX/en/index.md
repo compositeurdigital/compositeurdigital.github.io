@@ -9,6 +9,8 @@ Discover how to interact with *Compositeur Digital UX*.
 ### [Organise content](organise_content/index.md)
 Learn how to build your own universes and what type of content you can use.
 
+### [Purchase a license](purchase_license.md)
+
 ### [FAQ](FAQ/index.md)
 Contains frequently asked questions about installing and using *Compositeur Digital UX* and provides solutions to common problems.
 
