@@ -32,4 +32,6 @@ To make sure slides in your slideshow are ordered, you can number them from 0 to
 
 **Important** : If your slideshow includes a powerpoint, and if this powerpoint has "Hot Spots", make sure the content linked from the powerpoint of your slideshow belongs to your slideshow directoty. Keep in mind that content can be put in a hidden folder, which will not appear in Compositeur Digital UX.
 
+Next : [Creating Templates (Compositeur Digital UX)](templates.md)
+
 [Back to Supported Content](index.md)
