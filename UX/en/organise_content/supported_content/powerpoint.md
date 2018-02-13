@@ -1,14 +1,12 @@
-# Documentation
-
-## Powerpoint
+# Powerpoint
 
 Powerpoints are supported natively by Compositeur Digital UX.
 
-### File extensions
+## File extensions
 
 Format supported are `.ppt` and `.pptx`.
 
-### Actions within Compositeur Digital UX
+## Actions within Compositeur Digital UX
 
 - [X] Annotations.
 - [X] Navigation to next page or previous page using `<` or `>` buttons.
@@ -21,7 +19,7 @@ Format supported are `.ppt` and `.pptx`.
 - [X] Add the powerpoint to your favorite, using the `Add to favorites` action.
 - [X] Remove the powerpoint from your favorites, using the `Remove from favorites` action.
 
-### Hot Spots
+## Hot Spots
 
 You can create a "hot spot" on a document to open another document when touched. This interaction is created using Microsoft Powerpoint editor.
 
@@ -39,9 +37,7 @@ You can create a "hot spot" on a document to open another document when touched.
 	
 4. Save your Powerpoint presentation at the desired location in your universe folder.
 
-![powerpoint slideshow liens](img/powerpoint_slideshow_liens.jpg)
-
-### Slideshow
+## Slideshow
 
 By default, powerpoint files are handled by Compositeur Digital UX like `.slideshow` extension. [See Slideshow section](slideshows.md).
 
