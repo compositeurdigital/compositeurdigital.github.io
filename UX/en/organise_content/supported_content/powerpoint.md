@@ -11,7 +11,6 @@ Format supported are `.ppt` and `.pptx`.
 ### Actions within Compositeur Digital UX
 
 - [X] Annotations.
-- [X] Can be sticked on any document.
 - [X] Navigation to next page or previous page using `<` or `>` buttons.
 - [X] Open a linked document by tapping on interactive area on the slide.
 - [X] Go-to a specific slide using the `Slides` action.
@@ -44,5 +43,7 @@ You can create a "hot spot" on a document to open another document when touched.
 ### Slideshow
 
 By default, powerpoint files are handled by Compositeur Digital UX like `.slideshow` extension. [See Slideshow section](slideshows.md).
+
+Next [Video files](video.md)
 
 [Back to Supported Content](index.md)
