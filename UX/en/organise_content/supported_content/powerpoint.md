@@ -16,8 +16,8 @@ Format supported are `.ppt` and `.pptx`.
 - [X] Make a capture (i.e. create an image of a slide that you can edit in your workspace) using the `Capture` action.
 - [X] Save a local copy using the `Save as` action.
 - [X] Share the powerpoint, as a pdf document containing a picture of each slides, with its annotations and pasted document, using the `Share` action.
-- [X] Add the powerpoint to your favorite, using the `Add to favorites` action.
-- [X] Remove the powerpoint from your favorites, using the `Remove from favorites` action.
+- [X] Add the powerpoint to your selection, using the `Add to selection` action.
+- [X] Remove the powerpoint from your selection, using the `Remove from selection` action.
 
 ## Hot Spots
 
