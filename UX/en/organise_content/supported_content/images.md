@@ -28,4 +28,4 @@ If you want to add "Hot Spots" to your image, i.e. to add the possibility to ope
 
 Next : [Pdf files](pdf.md)
 
-[Go back to Supported Content menu](index.md)
+[Go back to Supported Content](index.md)
