@@ -20,11 +20,11 @@ Compositeur Digital UX supports `.jpg`, `.jpeg` and `.png` files.
 
 ### Make a slideshow
 
-If you have several images, you can turn them into a slideshow. [See the section Slideshow.](slideshows.md)
+If you have several images, you can turn them into a slideshow. [See the section Slideshows.](slideshows.md)
 
 ### Add Hot Spot using Microsoft Powerpoint
 
-If you want to add "Hot Spots" to your image, i.e. to add the possibility to open a document when your user interacts with a specific area of your image, you can turn your image to a Powerpoint presentation, and then follow this guide.
+If you want to add "Hot Spots" to your image, i.e. to add the possibility to open a document when your user interacts with a specific area of your image, you can turn your image to a Powerpoint presentation, and then [follow this guide.](powerpoint.md#hot-spots)
 
 Next : [Pdf files](pdf.md)
 
