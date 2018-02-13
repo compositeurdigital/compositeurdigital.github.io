@@ -266,3 +266,7 @@ Add a list of `answer` or `imageAnswer` for available choices. The two types can
 
 #### 
 
+Next : [Search Interface (Compositeur Digital UX format)](search.md)
+
+[Back to Supported Content](index.md)
+
