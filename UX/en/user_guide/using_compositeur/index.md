@@ -2,7 +2,7 @@
 
 ## Using Compositeur Digital UX
 
-### [Intro](intro.md)
+### [Introduction](introduction.md)
 
 ### [Universe](universe_concept.md)
 
