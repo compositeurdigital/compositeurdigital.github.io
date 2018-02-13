@@ -33,7 +33,8 @@ You can create a "hot spot" on a document to open another document when touched.
 
 2. Select the shape, and go to INSERT 
 1. Go to HyperLink and define the location of the target document.
-> Note 1 : The target document must be somewhere in your universe folder. You can use the `.hidden` folder feature if you do not wish to display the target folder in your environment. (see Hidden folders for more details). 
+> Note 1 : The target document must be somewhere in your universe folder. You can use the `.hidden` folder feature if you do not wish to display the target folder in your environment. (see Hidden folders for more details).
+
 > Note 2: You can also right-click on the shape and go to the HyperLink menu
 	
 4. Save your Powerpoint presentation at the desired location in your universe folder.
