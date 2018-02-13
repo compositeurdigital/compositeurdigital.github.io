@@ -43,4 +43,6 @@ Layers will be ordered by their names, from bottom to top, i.e. :
 * Floor 2
 * Floor 1
 
+Next : [Mortgage Simulator (Compositeur Digital UX format)](simulator.md)
+
 [Back to Supported Content](index.md)
