@@ -24,4 +24,6 @@ To use a mortgage simulator, add the extension `.simupret` at the end of the nam
 
 1. In your universe folder, create a folder named `<Name of your mortgage simulator>.simupret` (e.g. `My simulator.simupret`).
 
+Next : [Slideshows (Compositeur Digital UX format)](slideshows.md)
+
 [Back to Supported Content](index.md)
