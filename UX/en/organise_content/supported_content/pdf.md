@@ -20,4 +20,6 @@ Pdf files are supported natively by Compositeur Digital UX.
 
 By default, `.pdf` are handled by Compositeur Digital UX like a `.slideshow` extension. [See section Slideshow](slideshows.md)
 
-[Back to Supported Content](index.md)
+Next : [Powerpoint files](powerpoint.md)
+
+[Back to Supported Content menu](index.md)
