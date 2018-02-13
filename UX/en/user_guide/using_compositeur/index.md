@@ -1,17 +1,17 @@
-# Documentation
+# Using Compositeur Digital UX
 
-## Using Compositeur Digital UX
+## [Introduction](introduction.md)
 
-### [Introduction](introduction.md)
+## [What is a Universe?](universe.md)
 
-### [What is a Universe?](universe.md)
+## [What is a Project?](project.md)
 
-### [What is a Project?](project.md)
+## [Browsing on Compositeur Digital UX](browsing.md)
 
-### [Browsing on Compositeur Digital UX](browsing.md)
+## [Actions in Compositeur Digital UX](actions.md)
 
-### [Actions in Compositeur Digital UX](actions.md)
+## [Compositeur Digital UX account](account.md)
 
-### [Compositeur Digital UX account](account.md)
+## [Use Cases](../use_cases/index.md)
 
 [Back to User Guide](../index.md)
