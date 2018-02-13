@@ -8,8 +8,8 @@ This content type allows you to display a 360° view of a scene (e.g. landscapes
 - [X] In navigation mode, sliding your finder on the item rotates the camera inside the scene.
 - [X] Make a copy of your panorama using the `Duplicate` action.
 - [X] Make a capture (i.e. create an image of the current view) using the `Capture` action.
-- [X] Add the panorama to your favorites, using the `Add to favorites` action.
-- [X] Remove the panorama from your favorites, using the `Remove from favorites` action.
+- [X] Add the panorama to your selection, using the `Add to selection` action.
+- [X] Remove the panorama from your selection, using the `Remove from selection` action.
 
 ## Content extension
 
