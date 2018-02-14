@@ -1,12 +1,12 @@
 # Guestbook
 
-This content type allows you to create a guestbook (can be useful in kiosk mode to collect feedback from your users).
+This content type allows you to create a guestbook which can be useful to collect feedback from your users.
 
 ![Guestbook displayed within Compositeur Digital UX](../../img/content_guestbook.JPG)
 
 ## Actions within Compositeur Digital UX
 
-Guestbook support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
+Guestbook items support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
 
 **Actions menu**
 
@@ -26,9 +26,11 @@ To use a guestbook, add the extension `.guestbook` at the end of name of your fo
 
 ## Create a guestbook
 
-1. In your environment folder, create a folder named `<Name of your guestbook>.guestbook` (e.g. `My guestbook.guestbook`).
+1. In your universe folder, create a folder named `<Name of your guestbook>.guestbook` (e.g. `My guestbook.guestbook`).
 2. (Optional) add a background for your guestbook in this folder (named `_background.jpg` or `_background.png`).
-3. (Optional) add a preview for your guestbook in the folder (named `_preview.jpg` or `_preview.png`).
+3. (Optional) add a preview for your guestbook in the folder (named `_preview.jpg` or `_preview.png`). The default preview is show below.
+
+![Guestbook folder](../../img/content_guestbook_folder.JPG) ![Guestbook preview](../../img/content_guestbook_preview.JPG)
 
 Next : [Panorama : 360° view (first person, Compositeur Digital UX format)](panorama.md)
 
