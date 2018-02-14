@@ -2,6 +2,8 @@
 
 This content type allows you to create a guestbook (can be useful in kiosk mode to collect feedback from your users).
 
+![Guestbook displayed within Compositeur Digital UX](../../img/content_guestbook.JPG)
+
 ## Actions within Compositeur Digital UX
 
 - [X] Annotations
