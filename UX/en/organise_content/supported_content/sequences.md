@@ -26,8 +26,9 @@ To use a sequence, put all the images which are composing your sequence in a fol
 
 ## Create a sequence
 
-1. In your environment folder, create a folder named `<Name of your sequence>.sequence` (e.g. `My sequence.sequence`).
+1. In your universe folder, create a folder named `<Name of your sequence>.sequence` (e.g. `My sequence.sequence`).
 2. Drag and drop all the files which are composing your sequence in this folder.
+3. (Optional) If you want to display several layers, add one folder for each layer inside your `.sequence` folder. Then put all the images you need for each layer inside their folder. The folder representing a layer can end with `.sequence` or not.
 
 ## Layers
 
@@ -36,11 +37,10 @@ If you have multiple layers to display (the different floors of a building for e
 Here is an example :
 
 * Building.sequence
-  * Floor 1
+  * Ground Floor
     * 001.png
     * 002.png
-...
-  * Floor 2
+  * Floor 1
     * 001.png
     * 002.png
 ...
@@ -48,8 +48,10 @@ Here is an example :
 Layers will be ordered by their names, from bottom to top, i.e. :
 
 ...
-* Floor 2
 * Floor 1
+* Ground Floor
+
+![Sequence explorer](../../img/content_sequence_folder.JPG) ![Sequence layers](../../img/content_sequence_layers.JPG)
 
 Next : [Mortgage Simulator (Compositeur Digital UX format)](simulator.md)
 
