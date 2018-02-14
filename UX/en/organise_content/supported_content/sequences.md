@@ -16,7 +16,7 @@ To use a sequence, put all the images which are composing your sequence in a fol
 
 ## Create a sequence
 
-1. In your universer folder, create a folder named `<Name of your sequence>.sequence` (e.g. `My sequence.sequence`).
+1. In your environment folder, create a folder named `<Name of your sequence>.sequence` (e.g. `My sequence.sequence`).
 2. Drag and drop all the files which are composing your sequence in this folder.
 
 ## Layers
