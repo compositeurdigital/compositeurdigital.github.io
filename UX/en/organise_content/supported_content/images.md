@@ -12,9 +12,17 @@ Compositeur Digital UX supports `.jpg`, `.jpeg` and `.png` files.
 
 Images support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
 
-| Annotate | Capture  | Duplicate | Save as  | Selection | Share    | Stick    |
-|:--------:|:--------:|:---------:|:--------:|:---------:|:--------:|:--------:|
-| &#x2714; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714; | &#x2714; |
+**Actions menu**
+
+| Annotate | Capture  | Duplicate | Save as  | Selection | Share    |
+|:--------:|:--------:|:---------:|:--------:|:---------:|:--------:|
+| &#x2714; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714; |
+
+**Interaction with the item**
+
+| Stick    |
+|:--------:|
+| &#x2714; |
 
 ### Make a slideshow
 
