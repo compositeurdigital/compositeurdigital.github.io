@@ -6,7 +6,7 @@ Pdf files are supported natively by Compositeur Digital UX.
 
 ## Actions within Compositeur Digital UX
 
-Images support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
+Pdf files support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
 
 **Actions menu**
 
