@@ -2,6 +2,8 @@
 
 Powerpoints are supported natively by Compositeur Digital UX.
 
+![Powerpoints displayed within Compositeur Digital UX](../../img/content_powerpoint.JPG)
+
 ## File extensions
 
 Format supported are `.ppt` and `.pptx`.
