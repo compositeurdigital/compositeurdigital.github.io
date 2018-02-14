@@ -35,7 +35,8 @@ Inside your panorama, only use files that end with `.jpeg`, `.jpg`, `.png`.
 ## Create a panorama
 
 1. In your environment folder, create a folder named `<Name of your panorama>.panorama` (e.g. `My Panorama.panorama`).
-2. Drag and drop all the files which are composing your panorama in this folder.
+1. Drag and drop all the files which are composing your panorama in this folder.
+1. (Optional) Add an image (`.jpg` or `.png`) named `_preview` to change the preview.
 
 ### Projection types
 
@@ -44,6 +45,8 @@ Two types of projection are supported.
 ### Spherical projection
 
 Place a single image with the spherical projection of the scene in the folder. 
+
+![Panorama folder sphere](../../img/content_panorama_sphere_folder.JPG)
 
 **Important** : Do not place any other images in this folder (except `_preview` files).
 
@@ -58,6 +61,8 @@ Place 6 images, corresponding to the six faces of your cube in the folder.
    * *back* : named "b" or matches "\_b\_", "\_b", "b\_", "back" (e.g. `b.jpg`, `pano_b.jpg`, `back.jpg`)
    * *left* : named "l" or matches "\_l\_", "\_l", "l\_", "left" (e.g. `l.jpg`, `pano_left.jpg`, `left.jpg`)
    * *right* : named "r" or matches "\_r\_", "\_r", "r\_", "right" (e.g. `r.jpg`, `pano_r.jpg`, `right.jpg`)
+
+![Panorama folder cubes](../../img/content_panorama_cubes_folder.JPG)
 
 **Important** : Do not place any other images in this folder (except `_preview` files).
 
