@@ -6,13 +6,19 @@ This content type allows you to create a guestbook (can be useful in kiosk mode 
 
 ## Actions within Compositeur Digital UX
 
-- [X] Annotations
-- [X] Navigation in the pages created by the users using the `<` and `>` buttons.
-- [X] Change the ink color of the pen, using the `Ink` action.
-- [X] Save a local copy, as a pdf document containing all the annotations, using the `Save as` action.
-- [X] Share the guestbook, as a pdf document containing all the annotations, using the `Share` action.
-- [X] Add the guestbook to your selection, using the `Add to selection` action.
-- [X] Remove the guestbook from your selection, using the `Remove from selection` action.
+Guestbook support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
+
+**Actions menu**
+
+| Annotate | Capture  | Duplicate | Save as  | Selection | Share    |
+|:--------:|:--------:|:---------:|:--------:|:---------:|:--------:|
+| &#x2714; | &#x2716; | &#x2716;  | &#x2714; | &#x2714;  | &#x2714; |
+
+**Interaction with the item**
+
+| Next     | Previous | Save Page |
+|:--------:|:--------:|:---------:|
+| &#x2714; | &#x2714; | &#x2714;  |
 
 ## Context extension
 
