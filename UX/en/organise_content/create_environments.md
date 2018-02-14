@@ -10,7 +10,7 @@ You should be confortable with :
 
 - Organizing folders 
 - Renaming files and folder
-- That's all :relaxed:
+- That's all &#x1F601;
 
 ## File extensions
 
