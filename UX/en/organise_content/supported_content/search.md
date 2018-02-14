@@ -2,14 +2,23 @@
 
 This content type allows you to display a search interface for any item (e.g. apartments, plans, cars, ect) that is placed in the same folder.
 
+![Search interface : filters](../../img/content_filters.JPG)
+
 ## Action within Compositeur Digital UX
 
-- [X] Select filters to apply on the items, amongst a set of filters
-- [X] Visualise search results on the same interface (e.g. using `.filter` extension) or on another page (e.g. using `.search` or `.apartments` extensions.
-- [X] Open an item from the result page in the workspace.
-- [X] Make a copy of the search interface using the `Duplicate` action.
-- [X] Add the search interface to your selection, using the `Add to selection` action.
-- [X] Remove the search interface from your selection, using the `Remove from selection` action.
+Search interfaces support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
+
+**Actions menu**
+
+| Annotate | Capture  | Duplicate | Save as  | Selection | Share    |
+|:--------:|:--------:|:---------:|:--------:|:---------:|:--------:|
+| &#x2716; | &#x2716; | &#x2716;  | &#x2716; | &#x2714;  | &#x2716; |
+
+**Interaction with the item**
+
+| Filters  | Launch items |
+|:--------:|:------------:|
+| &#x2714; | &#x2714;     | 
 
 ## Content extension
 
@@ -20,6 +29,8 @@ Inside your folder, provide a file named `_list.csv`.
 ### Spreadsheet : \_list.csv
 
 This file contains the set of data which will be used for search criteria. This document is a `.csv` file, using `;` as delimiters. It can be edited using Microsoft Excel. 
+
+![\_list.csv sample](../../img/content_search_csv.JPG)
 
 **Format**
 
@@ -49,11 +60,17 @@ The `.search` extension is useful to display a search interface that is not dyna
 
 If the user presses the back arrow at the top left corner of the view, the filters can be changed.
 
+![.search filters](../../img/content_search1.JPG) ![.search results](../../img/content_search2.JPG)
+
 The design of a result item corresponds to a thumbnail of the item, and its name.
+
+![.search result item](../../img/content_search_default_item.JPG)
 
 ### `.filter` Extension
 
 The `.filter` extension provides a dynamic search interface. Each time the user is changing a filter, the results displayed on the right side of the view are automatically updated to match the current selection.
+
+![.filter extension](../../img/content_filters.JPG)
 
 The design of a result item corresponds to a thumbnail of the item, and its name.
 
@@ -61,7 +78,11 @@ The design of a result item corresponds to a thumbnail of the item, and its name
 
 The `.apartment` extension uses the same interface as the `.search` extension. The only difference is how the result looks.
 
+![.apartments results min](../../img/content_apartments.JPG)
+
 The design of a result item indicates various information about the item : surface, orientation, type, floor, ect...
+
+![.apartments item min](../../img/content_apartments_item_min.JPG) ![.apartments item full](../../img/content_apartments_item_full.JPG)
 
 ## Create a search interface
 
