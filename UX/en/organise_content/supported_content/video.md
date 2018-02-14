@@ -2,6 +2,8 @@
 
 Video are supported natively by Compositeur Digital UX.
 
+![Video displayed within Compositeur Digital UX](../../img/content_video.JPG)
+
 ## File extensions 
 
 Compositeur Digital UX supports `.avi`, `.flv`, `.m4v`, `.mov`, `.mp4`, `.mpeg`, `.mpg`, `.ts` and `.wmv` files.
