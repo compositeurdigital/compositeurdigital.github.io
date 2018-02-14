@@ -89,7 +89,7 @@ It is not possible to mix text answers with visual answers in the same question.
 You can define conditional questions based on answers provided by the user. To do so, use the `nextPageId` attribute to jump to a specific page for a given answer : 
 
 ```xml
-<questionPage id="Q1" sectionId="section 2" label="To which aquestion do you wish to answer ?" >
+<questionPage id="Q1" sectionId="section 2" label="To which question do you wish to answer ?" >
 	<answer>The next question</answer>
 	<answer nextPageId="Q1">This one again</answer>
 	<answer nextPageId="Q3">Skip one please</answer>
@@ -103,8 +103,7 @@ You can define conditional questions based on answers provided by the user. To d
 	...
 </questionPage>
 ```
-<!--![questionPage imageAnswer](img/questionpage_imageanswer.jpg)-->
-
+![questionPage](../../img/content_quizz_questionpage.JPG)
 
 ##### `page`
 Describes a simple page to display with either text or image:
@@ -112,11 +111,8 @@ Describes a simple page to display with either text or image:
  - `visual`: name of the image file to display (no extension, file present in `_meta` folder)
 
 ```xml
-<page sectionId="intro" label="Ceci est un test"/>
+<page sectionId="intro" label="This is a test"/>
 ```
-<!--![page label](img/page_label.jpg)
-![page image](img/page_image.jpg)-->
-
 
 ##### `infoPage`
 Displays a simple form in which the user can type in texted answers. Set the `label` attribute of the `info` tags to define a name for the text box.
@@ -127,8 +123,8 @@ Displays a simple form in which the user can type in texted answers. Set the `la
 	<info label="Surname"/>
 </infoPage>
 ```
-<!--![infoPage](img/quiz_infoPage.jpg)-->
 
+![infoPage](../../img/content_quizz_infopage.JPG)
 
 ##### `numericSliderPage`
 Displays a page with a single slider that lets the user choose a (rounded) numerical value:
@@ -149,8 +145,7 @@ Displays a page with a single slider that lets the user choose a (rounded) numer
 ```xml
 <numericSliderPage id="funds" sectionId="section 3" label="Your available funds" min="0" max="5000000" stepSize="5000" format="C0" valueKey="finance.budget" />
 ```
-<!--![numericSliderPage](img/quiz_numericSliderPage.jpg)-->
-
+![numericSliderPage](../../img/content_quizz_numericslider.JPG)
 
 ##### `labelSliderPage`
 This displays a page with a slider with predefined values.
@@ -181,9 +176,7 @@ This type offers the same functionality as the previous `labelSliderPage` but us
 ```xml
 <imageSliderPage sectionId="part 1" label="What characterizes you most:" leftVisual="image1" rightVisual="image2" stepQuantity="10"/>
 ```
-<!--![imageSliderPage label](img/quiz_labelsliderpage.jpg)-->
-<!--![imageSliderPage image](img/quiz_imageSliderPage.jpg)-->
-
+![imageSliderPage](../../img/content_quizz_imageslider.JPG)
 
 ##### `documentPage`
 Displays a link to open a document in the Compositeur Digital.
@@ -191,10 +184,8 @@ Displays a link to open a document in the Compositeur Digital.
 - `document`: name of the document, which must be available in the same folder as the quiz.
 
 ```xml
-<documentPage label="Your documents:" document="Documents A"/>
+<documentPage text="Loan simulator" nextPageId="@end" document="Loan simulator"/>
 ```
-<!--![documentPage](img/quiz_documentPage.jpg)-->
-
 
 ##### `orderPage`
 Displays a lists of values to be ordered by the user.
@@ -211,7 +202,6 @@ Add a list of `answer` or `imageAnswer` for available choices. The two types can
     <answer nextPageId="tousLesBiens">Prepare retirement</answer>
 </orderPage>
 ```
-<!--![orderPage empty](img/orderpage_empty.jpg)-->
 
 ```xml
 <orderPage sectionId="section 1" label="I would rather live in a" answerNumber="2">
