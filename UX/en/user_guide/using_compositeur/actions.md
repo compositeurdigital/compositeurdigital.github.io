@@ -18,7 +18,7 @@
   * [Manage imported documents](#manage-imported-documents)
   * [History](#history)
     * [Remove documents from history](#remove-documents-from-history)
-  * [Your universe](#your-universe)
+  * [Your environment](#your-environment)
   * [Save your work](#save-your-work)
   * [Share your work](#share-your-work)
     * [Using item action menu](#using-item-action-menu)
@@ -146,12 +146,12 @@ To access the History:
 To remove a document from the history:
 1. Perform a swipe on the item, from the top to the bottom of the item. The item will be removed.
 
-### Your universe
+### Your environment
 
 All the documents which belong to your project can be accessed from the dock.
 
 1. Tap on the main menu button.
-1. Tap on `Universe`.
+1. Tap on the button which contains your environment's name.
 1. All the documents are now part of the dock.
 
 ### Share your work
@@ -183,7 +183,7 @@ To share your work:
 
 If you're working from a project, all the changes are automatically saved when leaving the project.
 
-If you're working from a universe for the first time, a pop up will ask you if you want to save the changes that you have made to a new project.
+If you're working on an environment for the first time, a pop up will ask you if you want to save the changes that you have made to a new project.
 
 ### Quit
 
