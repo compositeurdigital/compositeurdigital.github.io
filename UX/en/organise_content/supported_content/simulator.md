@@ -2,17 +2,15 @@
 
 This content type allows you to display an interactive mortgage simulator with editable parameters.
 
-## Action within Compositeur Digital UX
+## Actions within Compositeur Digital UX
 
-- [X] Change loan amount (\*)
-- [X] Change duration of loan (\*)
-- [X] Change loan rate (\*)
-- [X] Change monthly payment (updates loan amount accordingly)
-- [X] Make a capture (i.e. create an image of the current simulation) using the `Capture` action.
-- [X] Add the simulator to your selection, using the `Add to selection` action.
-- [X] Remove the simulator from your selection, using the `Remove from selection` action.
+Mortgage simulator supports the following action. To have a complete overview of each action, [see the section Actions](actions.md)
 
-*(\*)* : updates monthly payment accordingly.
+**Actions menu**
+
+| Annotate | Capture  | Duplicate | Save as  | Selection | Share    |
+|:--------:|:--------:|:---------:|:--------:|:---------:|:--------:|
+| &#x2716; | &#x2714; | &#x2716;  | &#x2714; | &#x2714;  | &#x2714; |
 
 ## Content extension
 
@@ -20,7 +18,11 @@ To use a mortgage simulator, add the extension `.simupret` at the end of the nam
 
 ## Create a mortgage simulator
 
-In your environment folder, create a folder named `<Name of your mortgage simulator>.simupret` (e.g. `My simulator.simupret`).
+1. In your environment folder, create a folder named `<Name of your mortgage simulator>.simupret` (e.g. `My simulator.simupret`).
+1. (Optional) You can change the preview of the mortgage simulator. In your `.simupret` folder, put an image (`.jpg` or `.png`) named `_preview`. If you don't provide a `_preview`, the item will have a default preview (shown below).
+
+![Mortgage simulator folder](../../img/content_mortgage_simulator_folder.JPG) ![Mortgage simulator preview](../../img/content_mortgage_simulator_preview.JPG)
+
 
 Next : [Slideshows (Compositeur Digital UX format)](slideshows.md)
 
