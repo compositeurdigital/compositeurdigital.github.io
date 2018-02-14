@@ -1,31 +1,34 @@
-# Quizz
+# Quiz
 
-This type of content allows you to display interactive Quizz, that will help you understanding your user needs.
+This type of content allows you to display interactive Quiz, that will help you understanding your user needs.
 
-![Quizz displayed within Compositeur Digital UX](../../img/content_quizz.JPG)
+![Quiz displayed within Compositeur Digital UX](../../img/content_quizz.JPG)
 
 ## Actions within Compositeur Digital UX
 
-- [X] Navigation to next page or previous page using `<` or `>` buttons.
-- [X] Select an answer from a set of possible answers.
-- [X] Select a numeric value using a slider.
-- [X] Order a set of answers by priority.
-- [X] Open a linked document by tapping on interactive area on the slide.
-- [X] Make a copy of your quizz (including all answered questions) using the `Duplicate` action.
-- [X] Save a local copy (pdf with all the question currently answered by the user) using the `Save as` action.
-- [X] Share the quizz, as a pdf document containing all the question currently answered by the user, using the `Share` action.
-- [X] Add the quizz to your selection, using the `Add to selection` action.
-- [X] Remove the quizz from your selection, using the `Remove from selection` action.
+Quizzes support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
+
+**Actions menu**
+
+| Annotate | Capture  | Duplicate | Save as  | Selection | Share    |
+|:--------:|:--------:|:---------:|:--------:|:---------:|:--------:|
+| &#x2716; | &#x2716; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714; |
+
+**Interaction with the item**
+
+| Next     | Previous | Questions |
+|:--------:|:--------:|:---------:|
+| &#x2714; | &#x2714; | &#x2714;  |
 
 ## Content extension
 
-To use a quizz, put all the items you need in a folder, and add the extension `.quizz` at the end of the name of your folder.
+To use a quiz, put all the items you need in a folder, and add the extension `.quiz` at the end of the name of your folder.
 
-Inside your folder, provide a file called `_questions.xml`, and a folder called `_meta` which will contain all the images used inside the quizz.
+Inside your folder, provide a file called `_questions.xml`, and a folder called `_meta` which will contain all the images used inside the quiz.
 
 ### Questions : `_questions.xml`
 
-The Quiz file must contains two parts:  `sections` and `pages`.
+The quiz file must contains two parts:  `sections` and `pages`.
 Generic file structure:
 ```xml
 <quizz>
@@ -219,13 +222,13 @@ Add a list of `answer` or `imageAnswer` for available choices. The two types can
 
 ![Order page sample](../../img/content_quizz_orderpage.JPG)
 
-## Create a quizz
+## Create a quiz
 
-1. In your environment folder, create a folder named `<Name of your sequence>.quiz` (e.g. `My quizz.quiz`).
+1. In your environment folder, create a folder named `<Name of your sequence>.quiz` (e.g. `My quiz.quiz`).
 1. In this folder, add a file named `_questions.xml`.
-1. If you need graphical resources for your quizz, create a folder named `_meta`.
+1. If you need graphical resources for your quiz, create a folder named `_meta`.
 1. Put all the images you need in this folder.
-1. If you want to link documents from your quizz, put these documents inside the `.quiz` folder.
+1. If you want to link documents from your quiz, put these documents inside the `.quiz` folder.
 
 Next : [Search Interface (Compositeur Digital UX format)](search.md)
 
