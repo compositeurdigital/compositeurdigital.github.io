@@ -16,6 +16,10 @@
 * [Slideshows : images, pdf and powerpoint](slideshows.md)
 * [Creating Templates](templates.md)
 
+## [Actions](actions.md)
+
+Summarizes all the actions you can achieve using each type of items.
+
 Next : [Advanced settings : metadata](../advanced_setting.md)
 
 [Back to Organise Content](../index.md)
