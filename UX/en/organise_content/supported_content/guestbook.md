@@ -18,7 +18,7 @@ To use a guestbook, add the extension `.guestbook` at the end of name of your fo
 
 ## Create a guestbook
 
-1. In your universe folder, create a folder named `<Name of your guestbook>.guestbook` (e.g. `My guestbook.guestbook`).
+1. In your environment folder, create a folder named `<Name of your guestbook>.guestbook` (e.g. `My guestbook.guestbook`).
 2. (Optional) add a background for your guestbook in this folder (named `_background.jpg` or `_background.png`).
 3. (Optional) add a preview for your guestbook in the folder (named `_preview.jpg` or `_preview.png`).
 
