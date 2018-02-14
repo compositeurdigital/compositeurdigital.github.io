@@ -65,7 +65,7 @@ The design of a result item indicates various information about the item : surfa
 
 ## Create a search interface
 
-1. In your universe, create a folder named `<Name of your search interface>.search` or `<Name of your search interface>.filter` or `<Name of your search interface>.apartments` depending of the type of view you prefer (e.g. `Search.search`, or `Search.filter`).
+1. In your environment, create a folder named `<Name of your search interface>.search` or `<Name of your search interface>.filter` or `<Name of your search interface>.apartments` depending of the type of view you prefer (e.g. `Search.search`, or `Search.filter`).
 1. Inside this folder, create a file called `_list.csv`. 
 1. Fill the spreadsheet with the criteria you want, and describe your item.
 1. For each item that belongs to the column `id` of your `_list.csv`, add an item inside your search folder (image, pdf, ect...)
