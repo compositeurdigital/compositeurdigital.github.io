@@ -22,7 +22,7 @@ Only use files that ends with `.jpg`, `.jpeg`, `.pdf`, `.png`, `.ppt` or `.pptx`
 
 ## Create a slideshow
 
-1. In your universe folder, create a folder named `<Name of your slideshow>.slideshow` (e.g. `Mon slideshow.slideshow`).
+1. In your environment folder, create a folder named `<Name of your slideshow>.slideshow` (e.g. `Mon slideshow.slideshow`).
 2. Drag and drop all the pdfs, powerpoints and images you need.
 
 
