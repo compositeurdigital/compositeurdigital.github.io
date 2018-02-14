@@ -24,16 +24,16 @@ Actions menu can be triggered using the action button (bottom right corner) of a
 
 The actions triggered by a tap on these buttons are listed below.
 
-| Action                  | Description                                                                                          |
-|:------------------------|:-----------------------------------------------------------------------------------------------------|
-| *Annotate*              | Allows you to write on the item using a pencil. Change the ink color using the `Ink` action.         |
-| *Capture*               | Make a capture (i.e. create an image of the item) using the `Capture` action.                        |
-| *Duplicate*             | Make a copy of your item using the `Duplicate` action.                                               |
-| *Save as*               | Save a local copy\* using the Save as action.                                                        |
-| *Selection*             | Add or remove the item from your selection, using the `Add to selection` or `Remove from selection` action.                       |
-| *Share*                 | Share the item\* using the `Share` action.                                                           |
+| Action                  | Description                                                                                                |
+|:------------------------|:-----------------------------------------------------------------------------------------------------------|
+| *Annotate*              | Allows you to write on the item using a pencil. Change the ink color using the `Ink` action.               |
+| *Capture*               | Make a capture (i.e. create an image of the item) using the `Capture` action.                              |
+| *Duplicate*             | Make a copy of your item using the `Duplicate` action.                                                     |
+| *Save as*               | Save a local copy\* using the `Save` as action.                                                            |
+| *Selection*             | Add or remove the item from your selection, using the `Add to selection` or `Remove from selection` action.|
+| *Share*                 | Share the item\* using the `Share` action.                                                                 |
 
-> \* : depending on the item, the document shared will change. It can be an image of the document, with its annoations ahd notes attached, or a document that summarizes user's actions (e.g. quizz). |
+> \* : depending on the item, the document shared will change. It can be an image of the document, with its annoations ahd notes attached, or a document that summarizes user's actions (e.g. quizz).
 
 ## Custom Actions
 
