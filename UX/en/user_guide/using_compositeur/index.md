@@ -2,9 +2,9 @@
 
 ## [Introduction](introduction.md)
 
-## [What is a Universe?](universe.md)
+## [Environments](environment.md)
 
-## [What is a Project?](project.md)
+## [Projects](project.md)
 
 ## [Browsing on Compositeur Digital UX](browsing.md)
 
