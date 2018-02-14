@@ -2,6 +2,8 @@
 
 Pdf files are supported natively by Compositeur Digital UX.
 
+![Pdf displayed within Compositeur Digital UX](../../img/content_pdf.JPG)
+
 ## Actions within Compositeur Digital UX
 
 - [X] Annotations
