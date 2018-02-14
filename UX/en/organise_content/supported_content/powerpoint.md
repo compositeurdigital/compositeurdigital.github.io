@@ -10,16 +10,19 @@ Format supported are `.ppt` and `.pptx`.
 
 ## Actions within Compositeur Digital UX
 
-- [X] Annotations.
-- [X] Navigation to next page or previous page using `<` or `>` buttons.
-- [X] Open a linked document by tapping on interactive area on the slide.
-- [X] Go-to a specific slide using the `Slides` action.
-- [X] Make a copy of your powerpoint (including all annotations, and pasted documents) using the `Duplicate` action.
-- [X] Make a capture (i.e. create an image of a slide that you can edit in your workspace) using the `Capture` action.
-- [X] Save a local copy using the `Save as` action.
-- [X] Share the powerpoint, as a pdf document containing a picture of each slides, with its annotations and pasted document, using the `Share` action.
-- [X] Add the powerpoint to your selection, using the `Add to selection` action.
-- [X] Remove the powerpoint from your selection, using the `Remove from selection` action.
+Powerpoints support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
+
+**Actions menu**
+
+| Annotate | Capture  | Duplicate | Save as  | Selection | Share    | Slides   |
+|:--------:|:--------:|:---------:|:--------:|:---------:|:--------:|:--------:|
+| &#x2714; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714; | &#x2714; | 
+
+**Interaction with the item**
+
+| Captures mode | Hyperlink | Next     | Previous | 
+|:-------------:|:---------:|:--------:|:--------:|
+| &#x2714;      | &#x2714;  | &#x2714; | &#x2714; |
 
 ## Hot Spots
 
