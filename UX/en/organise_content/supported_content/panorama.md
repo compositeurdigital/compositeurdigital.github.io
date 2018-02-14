@@ -13,12 +13,19 @@ You can also press the `end navigation` button (next to the action button) to en
 
 ## Action within Compositeur Digital UX
 
-- [X] Enable / Disable navigation mode.
-- [X] In navigation mode, sliding your finder on the item rotates the camera inside the scene.
-- [X] Make a copy of your panorama using the `Duplicate` action.
-- [X] Make a capture (i.e. create an image of the current view) using the `Capture` action.
-- [X] Add the panorama to your selection, using the `Add to selection` action.
-- [X] Remove the panorama from your selection, using the `Remove from selection` action.
+Panorama items support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
+
+**Actions menu**
+
+| Annotate | Capture  | Duplicate | Save as  | Selection | Share    | 
+|:--------:|:--------:|:---------:|:--------:|:---------:|:--------:|
+| &#x2716; | &#x2714; | &#x2714;  | &#x2716; | &#x2714;  | &#x2716; |
+
+**Interaction with the item**
+
+| Navigation Mode |
+|:---------------:|
+| &#x2714;        |
 
 ## Content extension
 
@@ -45,12 +52,12 @@ Place a single image with the spherical projection of the scene in the folder.
 Place 6 images, corresponding to the six faces of your cube in the folder.
 
 **Naming** : your files should respect the following conventions:
-   * *up* : named "u" or matches "\_u\_", "\_u", "u\_", "up" (e.g. "u.jpg", "pano_u.jpg", "up.jpg")
-   * *down* : named "d" or matches "\_d\_", "\_d", "d\_", "down" (e.g. "d.jpg", "pano_d.jpg", "down.jpg")
-   * *front* : named "f" or matches "\_f\_", "\_f", "f\_", "front" (e.g. "f.jpg", "pano_f.jpg", "front.jpg")
-   * *back* : named "b" or matches "\_b\_", "\_b", "b\_", "back" (e.g. "b.jpg", "pano_b.jpg", "back.jpg")
-   * *left* : named "l" or matches "\_l\_", "\_l", "l\_", "left" (e.g. "l.jpg", "pano_left.jpg", "left.jpg")
-   * *right* : named "r" or matches "\_r\_", "\_r", "r\_", "right" (e.g. "r.jpg", "pano_r.jpg", "right.jpg")
+   * *up* : named "u" or matches "\_u\_", "\_u", "u\_", "up" (e.g. `u.jpg`, `pano_u.jpg`, `up.jpg`)
+   * *down* : named "d" or matches "\_d\_", "\_d", "d\_", "down" (e.g. `d.jpg`, `pano_d.jpg`, `down.jpg`)
+   * *front* : named "f" or matches "\_f\_", "\_f", "f\_", "front" (e.g. `f.jpg`, `pano_f.jpg`, `front.jpg`)
+   * *back* : named "b" or matches "\_b\_", "\_b", "b\_", "back" (e.g. `b.jpg`, `pano_b.jpg`, `back.jpg`)
+   * *left* : named "l" or matches "\_l\_", "\_l", "l\_", "left" (e.g. `l.jpg`, `pano_left.jpg`, `left.jpg`)
+   * *right* : named "r" or matches "\_r\_", "\_r", "r\_", "right" (e.g. `r.jpg`, `pano_r.jpg`, `right.jpg`)
 
 **Important** : Do not place any other images in this folder (except `_preview` files).
 
