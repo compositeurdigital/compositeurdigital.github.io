@@ -1,7 +1,7 @@
 # Organise Content
 
-## [Create a universe](create_universe.md)
-Learn how to create beautiful universes.
+## [Create your environments](create_environments.md)
+Learn how to create beautiful environments.
 
 ## [Supported content](supported_content/index.md)
 List of supported content types and related actions.
