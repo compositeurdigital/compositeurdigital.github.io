@@ -18,7 +18,7 @@ Inside your panorama, only use files that end with `.jpeg`, `.jpg`, `.png`.
 
 ## Create a panorama
 
-1. In your universe folder, create a folder named `<Name of your panorama>.panorama` (e.g. `My Panorama.panorama`).
+1. In your environment folder, create a folder named `<Name of your panorama>.panorama` (e.g. `My Panorama.panorama`).
 2. Drag and drop all the files which are composing your panorama in this folder.
 
 ### Projection types
