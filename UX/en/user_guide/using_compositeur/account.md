@@ -64,6 +64,6 @@ At any time, you can freely decide to sign out.
 1. Click on the `Settings` button.
 1. On the settings page, click on `Sign out`.
 
-Next : [Compositeur Digital UX Account](../use_cases/index.md)
+Next : [Use Cases](../use_cases/index.md)
 
 [Back to Using Compositeur Digital UX](index.md)
