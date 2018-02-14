@@ -10,13 +10,11 @@ Compositeur Digital UX supports `.jpg`, `.jpeg` and `.png` files.
 
 ## Actions within Compositeur Digital UX
 
-- [X] Annotations.
-- [X] Can be sticked on any document.
-- [X] Make a copy of your image (including all annotations, and pasted documents) using the `Duplicate` action.
-- [X] Save a local copy using the `Save as` action.
-- [X] Share the image, as a `.jpg` image containing current annotations and pasted document, using the `Share` action.
-- [X] Add the image to your selection, using the `Add to selection` action.
-- [X] Remove the image from your favorites, using the `Remove from selection` action.
+Images support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
+
+| Annotate | Capture  | Duplicate | Save as  | Selection | Share    | Stick    |
+|:--------:|:--------:|:---------:|:--------:|:---------:|:--------:|:--------:|
+| &#x2714; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714; | &#x2714; |
 
 ### Make a slideshow
 
@@ -24,7 +22,7 @@ If you have several images, you can turn them into a slideshow. [See the section
 
 ### Add Hot Spot using Microsoft Powerpoint
 
-If you want to add "Hot Spots" to your image, i.e. to add the possibility to open a document when your user interacts with a specific area of your image, you can turn your image to a Powerpoint presentation, and then [follow this guide.](powerpoint.md#hot-spots)
+If you want to add "Hot Spots" to your image, i.e. to add the possibility to open a document when your user interacts with a specific area of your image, you can turn your image to a Powerpoint presentation, and then [see the section Hot Spots](powerpoint.md#hot-spots)
 
 Next : [Pdf files](pdf.md)
 
