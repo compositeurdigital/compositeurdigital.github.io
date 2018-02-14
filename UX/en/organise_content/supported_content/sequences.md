@@ -2,13 +2,23 @@
 
 This content type allows you to display a 360° view of any objects, using a sequence of pre-rendered images (e.g. buildings).
 
-## Action within Compositeur Digital UX
+![Sequence with several layers](../../img/content_sequence.JPG)
 
-- [X] Move forward and backward in the sequence of images using the slider.
-- [X] Make a copy of your sequence using the `Duplicate` action.
-- [X] Make a capture (i.e. create an image of current position in the sequence) using the `Capture` action.
-- [X] Add the sequence to your selection, using the `Add to selection` action.
-- [X] Remove the sequence from your selection, using the `Remove from selection` action.
+## Actions within Compositeur Digital UX
+
+Sequences support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
+
+**Actions menu**
+
+| Annotate | Capture  | Duplicate | Save as  | Selection | Share    |
+|:--------:|:--------:|:---------:|:--------:|:---------:|:--------:|
+| &#x2716; | &#x2714; | &#x2714;  | &#x2716; | &#x2714;  | &#x2716; |
+
+**Interaction with the item**
+
+| Layers   | Move     |
+|:--------:|:--------:|
+| &#x2714; | &#x2714; | 
 
 ## Content extension
 
