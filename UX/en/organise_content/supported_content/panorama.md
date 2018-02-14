@@ -1,6 +1,15 @@
-# Panorama : 360° view
+# Panorama : 360° view - first person
 
 This content type allows you to display a 360° view of a scene (e.g. landscapes, interior views...) using specific images.
+
+To interact with a Panorama, press the navigation button at the center of the item : it starts the navigation mode.
+
+![Panorama navigation mode disabled](../../img/content_panorama_start.JPG)
+
+In navigation mode, slide your finder on the item to rotate the camera and see all the scene. If you don't touch the panorama for 10 seconds in navigation mode, it will automatically disable the navigation mode and your item will behave normally when you touch it.
+You can also press the `end navigation` button (next to the action button) to end navigation.
+
+![Panarama navigation mode enabled](../../img/content_panorama_end.JPG)
 
 ## Action within Compositeur Digital UX
 
