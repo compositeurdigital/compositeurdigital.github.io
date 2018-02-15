@@ -17,7 +17,7 @@ This section highlights the actions you can achieve in a meeting situation using
   * [Make your selection](#make-your-selection)
     * [Add a document](#add-a-document)
     * [Check your current selection](#check-your-current-selection)
-    * [Remove your document](#remove-your-selection)
+    * [Remove documents](#remove-documents)
   * [Check your history to retrieve documents](#check-your-history-to-retrieve-documents)
 * [End of your meeting](#end-of-your-meeting)
   * [Share your work](#share-your-work)
