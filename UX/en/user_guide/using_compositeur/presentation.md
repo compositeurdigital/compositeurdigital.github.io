@@ -71,18 +71,18 @@ Clicking on "Open" drives you to the projects you have been working on. All the 
 Once you have decided which project or universe you want to work on, tapping on the project/universe icon will launch the workspace.
 The workspace is divided into 3 areas:
 
-![Compositeur Digital UX working page](../../img/pres-workspace.jpg)
+![Compositeur Digital UX working page](../../img/pres_workspace.jpg)
 
 1. The workspace : a collaborative area, to display, manipulate and edit content.
 1. A dock to browse and access your content.
 1. The menu button, available on the right side and left side of the screen, useful to : 
-   1. Add notes, blanksheets or templates.
-   1. Change the ink color of your pen.
-   1. Access settings of your project.
-   1. Import / paste new documents
-   1. Share your work
-   1. Save your project
-   1. Visualize all your documents : favorites, imported documents, history, environment.
+   a. Add notes, blanksheets or templates.
+   b. Change the ink color of your pen.
+   c. Access settings of your project.
+   d. Import / paste new documents
+   e. Share your work
+   f. Save your project
+   g. Visualize all your documents : favorites, imported documents, history, environment.
 
 #### Open a document
 
