@@ -44,15 +44,18 @@ Two types of projection are supported.
 
 ### Spherical projection
 
-Place a single image with the spherical projection of the scene in the folder. 
+Place a single image with the spherical projection of the scene in the folder. The name of the file does not matter, just keep in mind that this file cannot be named `_background` or `_preview`.
 
 ![Panorama folder sphere](../../img/content_panorama_sphere_folder.JPG)
 
-**Important** : Do not place any other images in this folder (except `_preview` files).
+
+**Important** : Do not place any other images in this folder (except one `_preview` file, if you want to change the preview).
 
 ### Cube projection
 
-Place 6 images, corresponding to the six faces of your cube in the folder.
+Place 6 images, corresponding to the six faces of your cube in the folder. Keep in mind that none of the files should be named `_background` or `_preview`.
+
+> Note : The default preview displayed, if a `_preview` file is not placed in the folder, will be the front face of the cube.
 
 **Naming** : your files should respect the following conventions:
    * *up* : named "u" or matches "\_u\_", "\_u", "u\_", "up" (e.g. `u.jpg`, `pano_u.jpg`, `up.jpg`)
@@ -64,7 +67,7 @@ Place 6 images, corresponding to the six faces of your cube in the folder.
 
 ![Panorama folder cubes](../../img/content_panorama_cubes_folder.JPG)
 
-**Important** : Do not place any other images in this folder (except `_preview` files).
+**Important** : Do not place any other images in this folder (except one `_preview` file).
 
 Next : [Quizz (Compositeur Digital UX format)](quiz.md)
 
