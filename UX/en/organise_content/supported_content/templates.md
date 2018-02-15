@@ -20,7 +20,7 @@ All the templates are located at the root of your universe folder, in a folder c
 
 Inside this folder, you can create as many folders as you want, and place any type of documents (`.jpg`, `.png`, `.pdf`, `ppt`...).
 
-[See how to use template inside Compositeur Digital UX](../../user_guide/using_compositeur/actions.md#adding-notes-blanksheet-or-templates)
+[See how to use template inside Compositeur Digital UX](../../user_guide/workflow.md#use-templates)
 
 ### Notes templates
 
