@@ -9,6 +9,7 @@ This section highlights the actions you can achieve in a meeting situation using
   * [Annotate your document](#annotate-your-document)
   * [Use blanksheets and notes](#use-blanksheets-and-notes)
   * [Use templates](#use-templates)
+  * [Structure your workspace with a corkboard](#structure-your-workspace-with-a-corkboard)
   * [Create a copy of your document](#create-a-copy-of-your-document)
   * [Import a document](#import-a-document)
     * [From your hard drive](#from-your-hard-drive)
@@ -78,6 +79,10 @@ To add one of these documents to your project:
 1. Browse the documents area to select the type of document you want to add.
 1. Drag and drop the document in the workspace, or just tap on it.
 
+Notes can be sticked on any document, just like post-it in real life!
+
+Blanksheets can also be sticked on documents, using the tape.
+
 ### Use templates 
 
 Templates can be very useful, depending on your meeting type (todo list, models, ect...). Compositeur Digital UX supports [template edition and creation](../organise_content/supported_content/templates.md)
@@ -89,6 +94,20 @@ To add a template to your workspace:
 1. Tap on the main button menu.
 1. Browse the documents area to select the template you want to add.
 1. Drag and drop the template in the workspace, or just tap on it.
+
+### Structure your workspace with a corkboard
+
+A corkboard is very useful to structure your workspace. The documents attached to the corkboard cannot be manipulated until they are detached from the corkboard. You're free to manipulate the corkboard. To move it, to resize it, ect.
+
+![Workspace corkboard](../img/workflow_corkboard.jpg)
+
+To add a corkboard to your workspace:
+1. Tap on the main button menu.
+1. Browse the documents area to select a type of corkboard.
+1. Drag and drop the corkboard in the workspace, or just tap on it.
+1. Drag and drop a document you want to pin on your corkboard.
+1. Pin your document.
+
 
 ### Create a copy of your document
 
@@ -134,7 +153,7 @@ You can import images from outside Compositeur Digital UX. Simply copy an image 
 
 When you have applied key changes to a specific document, or if the document itselft is very important, you can add it to your selection. The selection allows you to save all the documents which matter to your project's goals, and to share them easily.
 
-####  Add a document
+#### Add a document
 
 ![Workflow add selection](../img/workflow_add_selection.jpg)
 
