@@ -48,7 +48,7 @@ The Compositeur Digital UX start page presents all the universes available.
 
 ![Compositeur Digital UX start page - universes](../img/pres_universes.jpg)
 
-1. Depending on your device type, on the top left corner you can connect to your Compositeur Digital account ([see section Compositeur Digital UX account](account.md)).
+1. Depending on your device type, on the top left corner you can connect to your Compositeur Digital account ([see section Compositeur Digital UX account](../administrative_guide/account.md)).
 1. A tab displays all the universes available. 
 1. At the bottom of the page, a navigation bar offers you to access the settings of the application, and if you don't own a full version of Compositeur Digital UX, to buy one.
 
@@ -111,5 +111,6 @@ You can also close a document by throwing it away on the edges of your screen. I
 
 **Important** : a document that you have closed is never lost. You can retrieve it from "History".
 
+Next : [Workflow](workflow.md)
 
 [Back to User Guide](index.md)
