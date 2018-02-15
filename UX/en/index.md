@@ -1,7 +1,7 @@
 # Documentation
 
 ### [Getting started](gettingstarted/index.md)
-Installing and launching *Compositeur Digital UX*.
+Install and launch *Compositeur Digital UX*.
 
 ### [User guide](user_guide/using_compositeur/index.md)
 Discover how to interact with *Compositeur Digital UX*.  
@@ -9,8 +9,8 @@ Discover how to interact with *Compositeur Digital UX*.
 ### [Organise content](organise_content/index.md)
 Learn how to build your own environment and what type of content you can use.
 
-### [Purchase a license](purchase_license.md)
-How a license can be purchased using *Compositeur Digital UX*.
+### [Administrative guide](administrative_guide.md)
+Manage your *Compositeur Digital UX* version.
 
 ### [FAQ](FAQ/index.md)
 Contains frequently asked questions about installing and using *Compositeur Digital UX* and provides solutions to common problems.
