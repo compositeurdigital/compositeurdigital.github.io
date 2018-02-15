@@ -4,7 +4,7 @@ Slideshows are useful to concatenate various files such as images, pdfs or power
 
 ![Slideshows](../../img/content_pdf.JPG) ![Slideshows](../../img/content_powerpoint.JPG)
 
-## Action within Compositeur Digital UX
+## Actions within Compositeur Digital UX
 
 Slideshows support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
 
