@@ -17,7 +17,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 > Example : `*.table.hideCommands = true`
 
 
-## Document configuration :
+## Metadata supported
 
 | Metadata Key                      | Value            | Description                                                                 |
 |:---------------------------------:|:----------------:|:----------------------------------------------------------------------------|
