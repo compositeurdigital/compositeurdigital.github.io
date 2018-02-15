@@ -1,5 +1,7 @@
 # Supported content
 
+This section describes all the content which can be used inside Compositeur Digital UX : it includes a description of their format, how you can build them, what type of actions you can achieve with them within Compositeur Digital UX.
+
 ## Native formats
 * [Images](images.md)
 * [Pdf](pdf.md)
