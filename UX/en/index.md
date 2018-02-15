@@ -3,13 +3,13 @@
 ### [Getting started](gettingstarted/index.md)
 Install and launch *Compositeur Digital UX*.
 
-### [User guide](user_guide/using_compositeur/index.md)
+### [User guide](user_guide/index.md)
 Discover how to interact with *Compositeur Digital UX*.  
 
 ### [Organise content](organise_content/index.md)
 Learn how to build your own environment and what type of content you can use.
 
-### [Administrative guide](administrative_guide.md)
+### [Administrative guide](administrative_guide/index.md)
 Manage your *Compositeur Digital UX* version.
 
 ### [FAQ](FAQ/index.md)
