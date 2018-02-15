@@ -2,6 +2,19 @@
 
 Compositeur Digital UX processes documents stored on a specific location in your computer. Those documents can be organized in folders to facilitate the presentation.
 
+## Summary
+* [Required skills and resources](#required-skills-and-resources)
+* [File extensions](#file-extensions)
+* [Universe](#universe)
+* [Background](#background)
+* [Folders](#folders)
+  * [Hidden folders feature](#hidden-folders-feature)
+* [Documents](#documents)
+* [Content Viewing Order](#content-viewing-order)
+* [Thumbnails](#thumbnails)
+  * [Folder thumbnail](#folder-thumbnail)
+  * [Document thumbnail](#document-thumbnail)
+
 ## Required skills and resources
 
 The preparation of a universe is done using the Microsoft Windows built-in file explorer application
@@ -47,7 +60,7 @@ The first level of folders is displayed in Compositeur Digital UX in the dock lo
 ![Universe folder](../img/universe_background.JPG)
 ![Universe dock](../img/universe_dock.JPG)
 
->### <a name="contentFolder"></a> Hidden folders feature
+>### Hidden folders feature
 >
 >Folders using `.content` in their name will not be displayed in Compositeur Digital UX.
 >See [Powerpoints Hot Spots](supported_content/powerpoint.md#hot-spots) to see the common use of this feature.
