@@ -7,7 +7,7 @@ Install and launch *Compositeur Digital UX*.
 Discover how to interact with *Compositeur Digital UX*.  
 
 ### [Organise content](organise_content/index.md)
-Learn how to build your own environment and what type of content you can use.
+Learn how to build your own universe and what type of content you can use.
 
 ### [Administrative guide](administrative_guide/index.md)
 Manage your *Compositeur Digital UX* version.
