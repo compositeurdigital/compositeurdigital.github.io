@@ -216,9 +216,14 @@ Add a list of `answer` or `imageAnswer` for available choices. The two types can
 
 1. In your environment folder, create a folder named `<Name of your sequence>.quiz` (e.g. `My quiz.quiz`).
 1. In this folder, add a file named `_questions.xml`.
-1. If you need graphical resources for your quiz, create a folder named `_meta`.
-1. Put all the images you need in this folder.
-1. If you want to link documents from your quiz, put these documents inside the `.quiz` folder.
+1. (Optional) If you need graphical resources for your quiz, create a folder named `_meta`.
+1. (Optional)Put all the images you need in this folder.
+1. (Optional) If you want to link documents from your quiz, put these documents inside the `.quiz` folder.
+1. (Optional) If you want to add a preview to your quiz, add a file named `_preview.jpg` or `_preview.png` in your folder. 
+
+**Note** : By default, a quiz does not have a preview. Don't forget to create one if you need one.
+
+![Quiz folder](../../img/content_quizz_folder.JPG)
 
 Next : [Search Interface (Compositeur Digital UX format)](search.md)
 
