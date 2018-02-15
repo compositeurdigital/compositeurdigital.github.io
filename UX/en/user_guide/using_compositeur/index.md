@@ -1,17 +1,12 @@
-# Using Compositeur Digital UX
+# User Guide
 
-## [Introduction](introduction.md)
+## [Presentation](presentation.md)
+Discover Compositeur Digital UX : the ideas behind it, the main concepts of the user interface
 
-## [Environments](environment.md)
+## [Workflow](workflow.md)
+From the beginning of your meeting, to its end, understand how to use Compositeur Digital UX.
 
-## [Projects](project.md)
-
-## [Browsing on Compositeur Digital UX](browsing.md)
-
-## [Actions in Compositeur Digital UX](actions.md)
-
-## [Compositeur Digital UX account](account.md)
-
-## [Use Cases](../use_cases/index.md)
+## [Use Cases : Recommendations](use_cases.md)
+We provide you a set of recommendations which will suit your needs depending on your working context. 
 
 [Back to Documentation](../../index.md)
