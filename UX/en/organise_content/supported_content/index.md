@@ -11,7 +11,7 @@ This section describes all the contents which can be used inside Compositeur Dig
 ## Compositeur Digital UX formats
 * [Guestbook](guestbook.md)
 * [Panorama : 360° view (first person)](panorama.md)
-* [Quizz](quiz.md)
+* [Quiz](quiz.md)
 * [Search Interface](search.md)
 * [Sequences : Pre-rendered 360° view (orbital)](sequences.md)
 * [Mortgage Simulator](simulator.md)
