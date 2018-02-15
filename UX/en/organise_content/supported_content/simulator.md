@@ -2,6 +2,8 @@
 
 This content type allows you to display an interactive mortgage simulator with editable parameters.
 
+![Content Mortgage Simulator](../../img/content_mortgage_simulator.JPG)
+
 ## Actions within Compositeur Digital UX
 
 Mortgage simulator supports the following action. To have a complete overview of each action, [see the section Actions](actions.md)
