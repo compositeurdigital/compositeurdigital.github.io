@@ -88,7 +88,8 @@ Each item has different actions. This section summarizes all the actions you can
 | Action                  | Description                                                                                          |
 |:------------------------|:-----------------------------------------------------------------------------------------------------|
 | *Capture mode*          | Capture mode can be turned on when all the Slides of the slideshow are displayed. In this mode, tapping on a slide will open a capture of the slide. |
-| *Launch item*           | If your slideshow includes [Hot Spots](#slideshow.md#hot-spots), a tap on a hot spot launch an item. |                                                                                |
+| *Hyperlinks*            | If your file includes hyperlink (to access another page of your file, or to launch external web sites, these hyperlinks will work |
+| *Launch item*           | If your slideshow includes [Hot Spots](#slideshow.md#hot-spots), a tap on a hot spot launch an item. |  
 | *Next*                  | Go to the next page.                                                                                 |
 | *Previous*              | Go to the previous page.                                                                             |
 | *Slides mode*           | Display all the slides of the slideshow, using the `Slides` action.                                  |
