@@ -1,4 +1,4 @@
-# What is a project
+# Projects
 
 When starting Compositeur Digital UX, and opening an environment, a project is created immediately. A project allows you to work on an environment, and to save all the work that you'll do on the environment's documents (annotations, opened documents, ect...)
 
@@ -13,6 +13,6 @@ When they are saved, the projects will stay attached to the environment they hav
 
 Next : [Browsing on Compositeur Digital UX](browsing.md)
 
-[Back to Using Compositeur Digital UX](index.md)
+[Back to User Guide](index.md)
 
 
