@@ -9,4 +9,4 @@ From the beginning of your meeting, to its end, understand how to use Compositeu
 ## [Use Cases : Recommendations](use_cases.md)
 We provide you a set of recommendations which will suit your needs depending on your working context. 
 
-[Back to Documentation](../../index.md)
+[Back to Documentation](../index.md)
