@@ -13,7 +13,7 @@ The Compositeur Digital UX start page presents all the environments available.
 If you don't have any environments when starting Compositeur Digital UX, a pop up will ask you to install the Demo Content. 
 
 You can also start an empty environments by clicking on:
-![Compositeur Digital UX empty environments](../../img/browsing_icon_ empty_univers.png).
+![Compositeur Digital UX empty environments](../../img/browsing_icon_empty_univers.png).
 
 ## Start Page - Projects
 
