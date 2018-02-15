@@ -1,4 +1,4 @@
-# Advanced setting
+# Advanced settings : metadata
 
 You can modify a document's behavior or associated actions using specific parameters described in a file named `_meta.txt`.
 
@@ -18,34 +18,29 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 
 
 ## Document configuration :
-*Buttons :*
- - `table.hideCommands = true` hides the control buttons of a document. On a slideshow, the buttons `<` and `>` will disappear.
 
-*Gestures :*
- - `table.noRotate = true` inhibits rotation for the document
- - `table.noScale = true` inhibits resizing for the document 
- - `table.noMove = true` inhibits all movements for the document (it will be opened in the middle of the screen)
- 
- *Mortgage Simulator :*
-- `simulator.creditMaxValue = 800000` sets the maximum value of a loan
-- `simulator.creditTickFrequency = 5000` sets the interval between two values for a loan
-- `simulator.creditDefaultValue = 3000000` sets the default loan value
-- `simulator.durationMinValue = 5` sets the shortest duration of a loan
-- `simulator.durationMaxValue = 30` sets the longest duration of a loan
-- `simulator.durationTickFrequency = 1` sets the interval between two values for a loan duration
-- `simulator.durationDefaultValue = 20` sets the default duration of a loan
+| Metadata Key                      | Value            | Description                                                                 |
+|:---------------------------------:|:----------------:|:----------------------------------------------------------------------------|
+| `desiredHeight`                   | 400 (number      | sets the default height of the document                                     |
+| `desiredWidth`                    | 400 (number)     | sets the default width of the document                                      |
+| `isPaper`                         | true/false - 1/0 | removes the background of the document's buttons (action and close buttons) |
+| `maxHeight`                       | 400 (number)     | sets the maximum height                                                     |
+| `maxWidth`                        | 400 (number)     | sets the maximum width                                                      |
+| `minHeight`                       | 400 (number)     | sets the minimum height                                                     |
+| `minWidth`                        | 400 (number)     | sets the minimum width                                                      |
+| `orientation`                     | 90 (number)      | rotates the document using a specified value : `-90` to turn left, `90` to turn right or `180` to flip the document |
+| `simulator.creditMaxValue`        | 800000 (number)  | sets the maximum value of a loan                                            |
+| `simulator.creditTickFrequency`   | 5000(number)     | sets the interval between two values for a loan                             |
+| `simulator.creditDefaultValue`    | 3000000 (number) | sets the default loan value                                                 |
+| `simulator.durationMinValue`      |   5 (number)     | sets the shortest duration of a loan                                        |
+| `simulator.durationMaxValue`      |  30 (number)     | sets the longest duration of a loan                                         |
+| `simulator.durationTickFrequency` | 1 (number)       | sets the interval between two values for a loan duration                    |
+| `simulator.durationDefaultValue`  | 20 (number)      | sets the default duration of a loan                                         |
+| `table.hideCommands`              | true/false - 1/0 | hides the control buttons of a document. On a slideshow, the buttons `<` and `>` will disappear. |
+| `table.noRotate`                  | "                | inhibits rotation for the document                                          |
+| `table.noScale`                   | "                | inhibits resizing for the document                                          |
+| `table.noMove`                    | "                | inhibits all movements for the document (it will be opened in the middle of the screen) |
+| `video.loop`                      | "                | enables loop mode for the video player                                      | 
 
-*Size and displayed tags :*
- - `desiredHeight = 400` sets the default height of the document
- - `desiredWidth = 400` sets the default width of the document
- - `maxHeight = 400` sets the maximum height
- - `maxWidth = 400` sets the maximum width
- - `minHeight = 400` sets the minimum height
- - `minWidth = 400` sets the minimum width
- - `orientation = 90` rotates the document using a specified value : `-90` to turn left, `90` to turn right or `180` to flip the document
- - `isPaper = true` removes the background of the document's buttons (action and close buttons)
- 
-*Video :*
- - `video.loop = true` enables loop mode for the video player. 
 
 [Back to Organise Content](index.md)
