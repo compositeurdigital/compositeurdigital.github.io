@@ -4,7 +4,7 @@
 
 The Compositeur Digital UX start page presents all the environments available. 
 
-![Compositeur Digital UX start page - environments](../../img/start-page-universes.jpg)
+![Compositeur Digital UX start page - environments](../../img/browsing_start_page.png)
 
 1. Depending on your device type, on the top left corner you can connect to your Compositeur Digital account ([see section Compositeur Digital UX account](account.md)).
 1. A tab displays all the environments available. 
