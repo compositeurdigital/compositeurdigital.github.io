@@ -24,9 +24,9 @@ Search interfaces support the following action. To have a complete overview of e
 
 To use a search interface, put all the items you need in a folder, and add the extension `.filter` or `.search` or `.apartments` (for real estate needs) at the end of the name of your folder.
 
-Inside your folder, provide a file named `_list.csv`.
+Inside your folder, provide a file named `_list.csv` or `_catalog.csv`. There are no differences between these files, but only these names are supported by Compositeur Digital UX.
 
-### Spreadsheet : \_list.csv
+### Spreadsheet : \_list.csv or \_catalog.csv
 
 This file contains the set of data which will be used for search criteria. This document is a `.csv` file, using `;` as delimiters. It can be edited using Microsoft Excel. 
 
@@ -87,9 +87,9 @@ The design of a result item indicates various information about the item : surfa
 ## Create a search interface
 
 1. In your environment, create a folder named `<Name of your search interface>.search` or `<Name of your search interface>.filter` or `<Name of your search interface>.apartments` depending of the type of view you prefer (e.g. `Search.search`, or `Search.filter`).
-1. Inside this folder, create a file called `_list.csv`. 
+1. Inside this folder, create a file called `_list.csv` (or `_catalog.csv`). 
 1. Fill the spreadsheet with the criteria you want, and describe your item.
-1. For each item that belongs to the column `id` of your `_list.csv`, add an item inside your search folder (image, pdf, ect...)
+1. For each item that belongs to the column `id` of your `_list.csv` (or `_catalog.csv`), add an item inside your search folder (image, pdf, ect...)
 
 Next : [Sequences : Pre-rendered 360° view (orbital, Compositeur Digital UX format)](sequences.md)
 
