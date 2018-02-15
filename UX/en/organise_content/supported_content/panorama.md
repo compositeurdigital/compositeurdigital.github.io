@@ -69,7 +69,7 @@ Place 6 images, corresponding to the six faces of your cube in the folder. Keep 
 
 **Important** : Do not place any other images in this folder (except one `_preview` file).
 
-Next : [Quizz (Compositeur Digital UX format)](quiz.md)
+Next : [Quiz (Compositeur Digital UX format)](quiz.md)
 
 [Back to Supported Content](index.md)
 
