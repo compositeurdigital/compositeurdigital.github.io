@@ -108,4 +108,4 @@ You can also close a document by throwing it away on the edges of your screen. I
 **Important** : a document that you have closed is never lost. You can retrieve it from "History".
 
 
-[Back to Using Compositeur Digital UX](index.md)
+[Back to User Guide](index.md)
