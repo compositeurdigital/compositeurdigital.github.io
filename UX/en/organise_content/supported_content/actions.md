@@ -9,9 +9,9 @@ This page describes all the actions you can achieve using Compositeur Digital UX
   - [Guestbook](#guestbook) 
   - [Images](#images)
   - [Panorama](#panorama)
-  - [Quizz](#quizz)
+  - [Quiz](#quiz)
   - [Sequences](#sequences)
-  - [Search Interface](#search-interfaces) 
+  - [Search Interface](#search-interface) 
   - [Slideshows](#slideshows)
   - [Video](#video) 
 - [Recap](#recap)
@@ -89,7 +89,7 @@ Each item has different actions. This section summarizes all the actions you can
 |:------------------------|:-----------------------------------------------------------------------------------------------------|
 | *Capture mode*          | Capture mode can be turned on when all the Slides of the slideshow are displayed. In this mode, tapping on a slide will open a capture of the slide. |
 | *Hyperlinks*            | If your file includes hyperlink (to access another page of your file, or to launch external web sites, these hyperlinks will work |
-| *Launch item*           | If your slideshow includes [Hot Spots](#slideshow.md#hot-spots), a tap on a hot spot launch an item. |  
+| *Launch item*           | If your slideshow includes [Hot Spots](powerpoint.md#hot-spots), a tap on a hot spot launch an item. |  
 | *Next*                  | Go to the next page.                                                                                 |
 | *Previous*              | Go to the previous page.                                                                             |
 | *Slides mode*           | Display all the slides of the slideshow, using the `Slides` action.                                  |
