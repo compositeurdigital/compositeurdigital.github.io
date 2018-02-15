@@ -22,6 +22,7 @@ Take your face-to-face presentations to the next level and unleash the power of 
     * [Open a document](#open-a-document)
     * [Manipulate a document](#manipulate-a-document)
     * [Close a document](#close-a-document)
+
 ## Vocabulary 
 
 * **Universe** : a universe is a windows folder which contains a set of documents, images, video, 3D models which will be used during your working session. During your work through the workspace, changes to these files can be saved in different projects.
