@@ -1,6 +1,6 @@
 # Creating Templates
 
-Compositeur Digital UX allows you to put templates inside your environment. A template is a document which can be instantiated as many times as needed.
+Compositeur Digital UX allows you to put templates inside your universe. A template is a document which can be instantiated as many times as needed.
 Templates are useful when it comes to apply specific methods that requires a lot of documents (e.g. "Speedboat" method). They allow you not to have too many documents inside your universe.
 
 Templates are accessible from the main menu.
@@ -16,7 +16,7 @@ Depending on the type of file (i.e. slideshows or images...) check the correspon
 
 ## Content extension
 
-All the templates are located at the root of your environment folder, in a folder called `_toolbox`.
+All the templates are located at the root of your universe folder, in a folder called `_toolbox`.
 
 Inside this folder, you can create as many folders as you want, and place any type of documents (`.jpg`, `.png`, `.pdf`, `ppt`...).
 
