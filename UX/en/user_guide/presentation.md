@@ -88,6 +88,9 @@ The workspace is divided into 3 areas:
 
 1. On the dock, tap on the folder to open it.
 1. In the folder view, tap on any document to display it.
+1. Your item is now displayed on the workspace.
+
+![Open a document](../img/pres_open_document.jpg)
 
 #### Manipulate a document
 
