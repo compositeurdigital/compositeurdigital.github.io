@@ -190,7 +190,7 @@ To remove a document from the selection, you have two options.
 
 1. Perform a swipe on the item, from the top to the bottom of the item. The item will be removed.
 
-### Chek your history to retrieve documents
+### Check your history to retrieve documents
 
 If you have removed a document from the workspace, keep in mind that this document is not lost! It can be retrieved from your history.
 
