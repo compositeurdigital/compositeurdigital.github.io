@@ -32,4 +32,6 @@ If you want to add new templates for your Blanksheets, inside your `_toolbox` fo
 
 ![Templates folder](../../img/content_template_folder.JPG)
 
+Next : [Actions recap](actions.md)
+
 [Back to Supported Content](index.md)
