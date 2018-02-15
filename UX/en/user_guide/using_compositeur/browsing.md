@@ -13,13 +13,13 @@ The Compositeur Digital UX start page presents all the environments available.
 If you don't have any environments when starting Compositeur Digital UX, a pop up will ask you to install the Demo Content. 
 
 You can also start an empty environments by clicking on:
-![Compositeur Digital UX empty environments](../../img/empty-universe).
+![Compositeur Digital UX empty environments](../../img/browsing_icon_ empty_univers.png).
 
 ## Start Page - Projects
 
 Clicking on "Open" drives you to the projects you have worked on. All the projects that you have saved will appear here.
 
-![Compositeur Digital UX start page - projects](../../img/start-page-projects.jpg)
+![Compositeur Digital UX start page - projects](../../img/browsing_sort_by.png)
 
 1. These projects can be sorted by creation date, last access date, name, or environment type.
 2. Clicking on "New" drives you to your environments pages.
@@ -30,7 +30,7 @@ Clicking on "Open" drives you to the projects you have worked on. All the projec
 
 The working page is divided into 3 area:
 
-![Compositeur Digital UX working page](../../img/working-page.jpg)
+![Compositeur Digital UX working page](../../img/browsing_working-page.png)
 
 1. The workspace : a collaborative area, to display, manipulate and edit content.
 1. A dock to browse and access your content.
