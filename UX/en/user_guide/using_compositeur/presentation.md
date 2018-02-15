@@ -71,7 +71,7 @@ Clicking on "Open" drives you to the projects you have been working on. All the 
 Once you have decided which project or universe you want to work on, tapping on the project/universe icon will launch the workspace.
 The workspace is divided into 3 areas:
 
-![Compositeur Digital UX working page](../../img/pres-workspace.png)
+![Compositeur Digital UX working page](../../img/pres-workspace.jpg)
 
 1. The workspace : a collaborative area, to display, manipulate and edit content.
 1. A dock to browse and access your content.
