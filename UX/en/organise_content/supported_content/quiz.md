@@ -16,9 +16,9 @@ Quizzes support the following action. To have a complete overview of each action
 
 **Interaction with the item**
 
-| Next     | Previous | Questions |
-|:--------:|:--------:|:---------:|
-| &#x2714; | &#x2714; | &#x2714;  |
+| Launch items | Next     | Previous | Questions |
+|:------------:|:--------:|:--------:|:---------:|
+| &#x2714;     | &#x2714; | &#x2714; | &#x2714;  |
 
 ## Content extension
 
