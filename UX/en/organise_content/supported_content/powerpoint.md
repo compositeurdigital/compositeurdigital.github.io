@@ -28,6 +28,8 @@ Powerpoints support the following action. To have a complete overview of each ac
 
 You can create a "hot spot" on a document to open another document when touched. This interaction is created using Microsoft Powerpoint editor.
 
+![Hot spots](../../img/content_powerpoint_hot_spots.JPG)
+
 1. Create a transparent shape on top of the selected hot spot area. The shape should cover entire hot spot area.
 
 **Warning 1 : If the area is the text box. Select the text BOX. Do not not select the TEXT**
@@ -35,7 +37,7 @@ You can create a "hot spot" on a document to open another document when touched.
 **Warning 2 : The color of the shape must be TRANSPARENT. If you are creating a shape that is not filled by any color, the link will not work.** 
 
 2. Select the shape, and go to INSERT 
-1. Go to HyperLink and define the location of the target document.
+3. Go to HyperLink and define the location of the target document.
 
 > Note 1 : The target document must be somewhere in your universe folder. You can use the `.content` folder feature if you do not wish to display the target folder in your universe.
 
