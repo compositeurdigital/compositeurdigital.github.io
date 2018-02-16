@@ -4,6 +4,25 @@ This type of content allows you to display interactive Quiz, that will help you 
 
 ![Quiz displayed within Compositeur Digital UX](../../img/content_quizz.JPG)
 
+## Summary 
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
+* [Content extension](#content-extension)
+* [Questions : questions.xml](#questions--_questionsxml)
+	* [Sections](#sections)
+	* [Pages](#pages)
+	* [Page Order](#page-order)
+	* [Page Types](#page-types)
+   		* [Question Page](#questionpage)
+   		* [Page](#page)
+		* [Info Page](#infopage)
+		* [Numeric Slider Page](#numericsliderpage)
+		* [Label Slider Page](#labelsliderpage)
+		* [Image Slider Page](#imagesliderpage)
+		* [Document Page](#documentpage)
+		* [Order Page](#orderpage)
+* [Create a quiz](#create-a-quiz)	
+   
+
 ## Actions within Compositeur Digital UX
 
 Quizzes support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
@@ -26,7 +45,7 @@ To use a quiz, put all the items you need in a folder, and add the extension `.q
 
 Inside your folder, provide a file called `_questions.xml`, and a folder called `_meta` which will contain all the images used inside the quiz.
 
-### Questions : `_questions.xml`
+### <a name="questions"></a>Questions : `_questions.xml`
 
 The quiz file must contains two parts:  `sections` and `pages`.
 Generic file structure:
@@ -67,9 +86,15 @@ To force a page to finish the quiz, set the `nextPageId` attribute value to `@en
 This type lets you create a question with multiple answers. Please note that an answer must be selected before going to the next page.
 
 Here are the attributes for `questionPage`:
- - `label`: Question type. Superseeds the `visual` attribute.
- - `visual`: name of the question image file (without extension). The file must exist in the `_meta` folder.
- - `allowMultiple`: set to `true` to allow the selection of multiple answer.
+
+| Keys            | Description                                                                                        |
+|:----------------|:---------------------------------------------------------------------------------------------------|
+| `allowMultiple` | Set to `true` to allow the selection of multiple answers.					       | 
+| `id`            | The id of the question.                                                                            |
+| `label`         | Question text to display. Supersedes the `visual` attribute.    				       |
+| `sectionId`     | Defines the section id to which the question belongs.                                              |
+| `sideVisual`    | Allows you to display an image besides your questions. The image must exist in the `_meta` folder. |
+| `visual`        | Name of the question image file (without extension). The file must exist in the `_meta` folder.    |
 
 The content of the `questionPage` is the list of answers, which can be of various types:
  - texted answers, with the tag `answer`:
@@ -107,15 +132,28 @@ You can define conditional questions based on answers provided by the user. To d
 
 ##### `page`
 Describes a simple page to display with either text or image:
- - `label`: text to display
- - `visual`: name of the image file to display (no extension, file present in `_meta` folder)
+
+| Keys            | Description                                                                                        |
+|:----------------|:---------------------------------------------------------------------------------------------------|
+| `id`            | The id of the question.                                                                            |
+| `label`         | Question text to display. Supersedes the `visual` attribute.	    			       |
+| `sectionId`     | Defines the section id to which the question belongs.                                              |
+| `visual`        | Name of the question image file (without extension). The file must exist in the `_meta` folder.    |	 
 
 ```xml
 <page sectionId="intro" label="This is a test"/>
 ```
 
 ##### `infoPage`
-Displays a simple form in which the user can type in texted answers. Set the `label` attribute of the `info` tags to define a name for the text box.
+Displays a simple form in which the user can type in texted answers. 
+
+| Keys            | Description                                                                                        |
+|:----------------|:---------------------------------------------------------------------------------------------------|
+| `id`            | The id of the question.                                                                            |
+| `label`         | Title of the information page.  			                                               | 
+| `sectionId`     | Defines the section id to which the question belongs.                                              |
+
+Set the `label` attribute of the `info` tags to define a name for the text box.
 
 ```xml
 <infoPage sectionId="intro" label="Please fill out your identity">
@@ -128,17 +166,21 @@ Displays a simple form in which the user can type in texted answers. Set the `la
 
 ##### `numericSliderPage`
 Displays a page with a single slider that lets the user choose a (rounded) numerical value:
- - `label`: question text. Takes precedence over `visual`.
- - `visual`: name of the image file to display (no extension, file present in `_meta` folder).
- - `min`: minimum selectable value
- - `max`: maximum selectable value
- - `minLabel`: (optional) : specific display value for the minimum value
- - `maxLabel`: (optional) : specific display value for the maximum value
- - `default`: (optional) preselected value
- - `stepSize`: difference between two steps of the cursor
- - `format`: changes the way the value is displayed
 
- Some possible formats are:
+| Keys            | Description                                                                                        |
+|:----------------|:---------------------------------------------------------------------------------------------------|
+| `default`       | (Optional) Preselected value.                                                                      |
+| `format`        | Changes the way the value is displayed.                                                            |
+| `id`            | The id of the question.                                                                            |
+| `label`         | Question text to display.                                    	    			       |
+| `max`           | Maximum selectable value.                                                                          |
+| `maxLabel`      | (Optional) Specific display value for the maximum value.                                           |  
+| `min`           | Minimum selectable value.                                                                          |
+| `minLabel`      | (Optional) Specific display value for the minimum value.                                           | 
+| `sectionId`     | Defines the section id to which the question belongs.                                              |
+| `stepSize`      | Difference between two steps of the cursor.							       |
+
+Some possible `format`:
  - `N0`: rounded value
  - `C0`: rounded monetary value according to the current regional setting (i.e. uses €, £, $, etc. where relevant)
 
@@ -149,7 +191,12 @@ Displays a page with a single slider that lets the user choose a (rounded) numer
 
 ##### `labelSliderPage`
 This displays a page with a slider with predefined values.
-- `label` : le titre ou la question à afficher.
+
+| Keys            | Description                                                                                        |
+|:----------------|:---------------------------------------------------------------------------------------------------|
+| `id`            | The id of the question.                                                                            |
+| `label`         | Question text to display.  			                                                       | 
+| `sectionId`     | Defines the section id to which the question belongs.                                              |
 
 Add `answer` tags to add predefined values, the fisrt being the minimum and the last being the maximum.
 
@@ -167,11 +214,16 @@ example :
 
 ##### `imageSliderPage`
 This type offers the same functionality as the previous `labelSliderPage` but using images for predefined values.
- - `label`: question text. Takes precedence over `visual`.
- - `visual`: name of the image file to display (no extension, file present in `_meta` folder).
- - `leftVisual`: picture to the left of the cursor.
- - `rightVisual`: picture to the right of the cursor.
- - `stepQuantity`: the nomber of selectable steps (recommended value: 10)
+
+| Keys            | Description                                                                                        |
+|:----------------|:---------------------------------------------------------------------------------------------------|
+| `id`            | The id of the question.                                                                            |
+| `label`         | Title of the page.  			                                               | 
+| `leftVisual`    | Picture to the left of the cursor.                                                                 |
+| `rightVisual`   | Picture to the right of the cursor.                                                                |
+| `sectionId`     | Defines the section id to which the question belongs.                                              |
+| `stepQuantity`  | The number of selectable steps (recommended value : 10).                                           |
+| `visual`        | Name of the question image file (without extension). The file must exist in the `_meta` folder.    |
 
 ```xml
 <imageSliderPage sectionId="part 1" label="What characterizes you most:" leftVisual="image1" rightVisual="image2" stepQuantity="10"/>
@@ -180,8 +232,13 @@ This type offers the same functionality as the previous `labelSliderPage` but us
 
 ##### `documentPage`
 Displays a link to open a document in the Compositeur Digital.
-- `label`: Title or question text.
-- `document`: name of the document, which must be available in the same folder as the quiz.
+
+| Keys            | Description                                                                                        |
+|:----------------|:---------------------------------------------------------------------------------------------------|
+| `document`      | Name of the document to open, which must be available in the same folder as the quiz.              |
+| `id`            | The id of the question.                                                                            |
+| `label`         | Title of the page.  			                                             	       | 
+| `sectionId`     | Defines the section id to which the question belongs.                                              |
 
 ```xml
 <documentPage text="Loan simulator" nextPageId="@end" document="Loan simulator"/>
@@ -189,8 +246,14 @@ Displays a link to open a document in the Compositeur Digital.
 
 ##### `orderPage`
 Displays a lists of values to be ordered by the user.
-- `label`: titel or question text.
-- `answerNumber`: minimum number of answers to select.
+
+| Keys            | Description                                                                                        |
+|:----------------|:---------------------------------------------------------------------------------------------------|
+| `answerNumber`  | Minimum number of answers to select.           						       |
+| `id`            | The id of the question.                                                                            |
+| `label`         | Question text to display.  			                                             	       | 
+| `sectionId`     | Defines the section id to which the question belongs.                                              |
+| `sideVisual`    | Allows you to display an image besides your questions. The image must exist in the `_meta` folder. |
 
 Add a list of `answer` or `imageAnswer` for available choices. The two types cannot be mixed.
 
