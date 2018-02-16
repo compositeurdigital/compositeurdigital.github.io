@@ -4,7 +4,16 @@ This content type allows you to display a search interface for any item (e.g. ap
 
 ![Search interface : filters](../../img/content_filters.JPG)
 
-## Action within Compositeur Digital UX
+## Summary
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
+* [Content extension](#content-extension)
+  * [Spreadsheet : \_list.csv or \_catalog.csv](#spreadsheet--_listcsv-or-_catalogcsv)
+  * [`.search` Extension](#search-extension)
+  * [`.filter` Extension](#filter-extension)
+  * [`.apartments` Extension](#apartments-extension)
+* [Create a search interface](#create-a-search-interface)
+
+## Actions within Compositeur Digital UX
 
 Search interfaces support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
 
@@ -35,20 +44,23 @@ This file contains the set of data which will be used for search criteria. This 
 **Format**
 
 The first line of the spreadsheet represents the *type of criteria*. Select one amongst the following:
-* *id* : **MANDATORY**. This columun must match with a document name in the folder. It will not be displayed as a criteria but will be used to open a result.
-* *double* : criteria to display a decimal number.
-* *float* : criteria to display a decimal number
-* *int* : criteria to select an integer.
-* *multiple* : criteria for multiple selection.
-* *price* : represents a price. Do not specify unit.
-* *single* : criteria for single choice
-* *string* : criteria for multiple selection.
-* *surface* : represents a surface. Type in "m²". Do not specify unit.
-* *floor* : floor level (real estate use case)
-* *orientation* : criteria to select an orientation (e.g. "North", "South"... real estate use case)
-* *state* : criteria to select a state (real estate use case)
-* *type* : number of room (real estate use case)
-* *visual* : criteria to select a visual (real estate use case)
+
+| Keys          | Description                                                                                           |
+|:--------------|:------------------------------------------------------------------------------------------------------|
+| `id`          | **MANDATORY**. This columun must match with a document name in the folder. It will not be displayed as a criteria but will be used to open a result.                                                                                          |
+| `double`      | Criteria to display a decimal number.                                                                 |
+| `float`       | Criteria to display a decimal number                                                                  |
+| `int`         | Criteria to select an integer.                                                                        |
+| `multiple`    | Criteria for multiple selection.                                                                      |
+| `price`       | Represents a price. Do not specify unit.                                                              |
+| `single`      | Criteria for single choice.                                                                           |
+| `string`      | Criteria for multiple selection.                                                                      |
+| `surface`     | Represents a surface. Type in "m²". Do not specify unit.                                              |
+| `floor`       | Floor level (real estate use case).                                                                   |
+| `orientation` | Criteria to select an orientation (e.g. "North", "South"... real estate use case).                    |
+| `state`       | Criteria to select a state (real estate use case).                                                    |
+| `type`        | Number of room (real estate use case).                                                                |
+| `visual`      | Criteria to select a visual (real estate use case).                                                   |
 
 The second line of the spreadsheet represents the criteria name, which will be displayed in the search interface.
 
