@@ -17,8 +17,3 @@ Contains frequently asked questions about installing and using *Compositeur Digi
 
 ### [Release notes](release_notes/index.md)
 Description of new features and bug fixes in releases of the *Compositeur Digital UX*  
-
-
-<button onclick="http://www.google.com">Click me</button>
-
-<a href="#top">Back to top</a>
