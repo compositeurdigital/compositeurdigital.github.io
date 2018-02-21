@@ -1,1 +1,1 @@
-[<img width="300" src="UX/en/img/main_doc_ux.jpg"/>](http://doc.compositeurdigital.com/UX/en/)  [<img width="300" src="UX/en/img/main_doc_v4.jpg"/>](http://doc.compositeurdigital.com/doc_language.html)
+[<img width="290" src="UX/en/img/main_doc_ux.jpg"/>](http://doc.compositeurdigital.com/UX/en/) [<img width="290" src="UX/en/img/main_doc_v4.jpg"/>](http://doc.compositeurdigital.com/doc_language.html)
