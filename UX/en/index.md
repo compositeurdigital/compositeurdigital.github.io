@@ -19,6 +19,6 @@ Contains frequently asked questions about installing and using *Compositeur Digi
 Description of new features and bug fixes in releases of the *Compositeur Digital UX*  
 
 
-"<button onclick="http://www.google.com">Click me</button>{background-color: #4CAF50; color: white;}"
+<button onclick="http://www.google.com">Click me</button>{background-color: #4CAF50; color: white;}
 
 <a href="#top">Back to top</a>
