@@ -1,4 +1,4 @@
-# Documentation
+# Compositeur Digital UX Documentation
 
 ### [Getting started](gettingstarted/index.md)
 Install and launch *Compositeur Digital UX*.
@@ -17,3 +17,6 @@ Contains frequently asked questions about installing and using *Compositeur Digi
 
 ### [Release notes](release_notes/index.md)
 Description of new features and bug fixes in releases of the *Compositeur Digital UX*  
+
+
+[Back to Documentation choice](../../index.md)
