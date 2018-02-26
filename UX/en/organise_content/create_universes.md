@@ -7,6 +7,7 @@ Compositeur Digital UX processes documents stored on a specific location in your
 * [File extensions](#file-extensions)
 * [Universe](#universe)
 * [Background](#background)
+* [Interactive background](#interactive-background)
 * [Folders](#folders)
   * [Hidden folders feature](#hidden-folders-feature)
 * [Documents](#documents)
@@ -50,6 +51,12 @@ To create your own universe, you can duplicate an exisiting one in the default l
 You can customize your universe by changing the background image. To do so, simply add an image file (`.png` or `.jpg`) named `_background` in the universe's folder.
 
 ![Universe background folder](../img/universe_background.JPG) ![Universe background Compositeur Digital UX](../img/universe_background_cdux.JPG)
+
+## Interactive Background
+
+If you want to have an interactive background, which contains hyperlinks to display your content, it is also possible. Prepare a powerpoint file, with one slide containing your background image. In this slide, do not forget to create [Hot Spots](../supported_content/powerpoint.md#hot-spots) to display your menus, or files. The name of the file should be `_background.ppt`. 
+
+![Interactive background folder](../img/interactive_background.JPG)
 
 ## Folders
 
