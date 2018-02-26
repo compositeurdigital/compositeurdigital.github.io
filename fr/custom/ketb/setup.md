@@ -19,11 +19,7 @@ Se rendre sur la page de la [bibliothèque Sharepoint](https://insideso.sharepoi
 
 Si la version de OneDrive est récente, la fonctionnalité "Fichiers à la demande" est activée par défaut. Se rendre dans les paramètres et décocher la case intitulée `Libérez de l'espace et téléchargez les fichiers quand vous avez besoin de les utiliser`.
 
-**_Remarque : la synchronisation initiale provoque le téléchargement de plusieurs dizaines de Go de données : elle ne doit pas être faite sur site K&B. Seules les mises à jour différentielles sont faites sur site K&B. Suivre l'une des méthodes suivantes :_**
->- Faire la synchro initiale sur un réseau rapide avant de mettre en place le PC sur site.
->- Récupérer les contenus sur un PC déjà synchronisé, les copier sur la machine cible à l’aide d’une clef USB/disque externe dans le répertoire %userprofile%\Excense\Kaufman & Broad - Documents\ avant de lancer la synchro avec OneDrive à partir du site SharePoint. OneDrive demande dans ce cas s’il faut bien réutiliser le dossier existant, répondre oui. 
->Attention à bien respecter la hiérarchie exacte lors de la copie avec cette méthode (le répertoire %userprofile%\Excense\Kaufman & Broad - Documents\ doit contenir un répertoire "Compositeur Digital").
-
+**_Remarque : la synchronisation initiale provoque le téléchargement de plusieurs dizaines de Go de données : elle ne doit pas être faite sur site K&B. Seules les mises à jour différentielles sont faites sur site K&B.**
 
 ### 2. Installer Compositeur Digital
 En ligne à partir de l'adresse [http://www.compositeurdigital.com/deploy/ketb](http://www.compositeurdigital.com/deploy/ketb).
@@ -48,6 +44,10 @@ ALT+F4 ou à travers le gestionnaire des tâches.
 
 ### Mise à jour manuelle
 Procédure identique à l'installation.
+
+### Correction des erreurs de synchronisation OneDrive
+
+![Erreur OneDrive](img/onedrive_sync_error.jpg)
 
 ### Version
 Sur la page d'accueil en bas à droite.
