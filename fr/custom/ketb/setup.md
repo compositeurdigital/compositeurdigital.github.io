@@ -53,7 +53,7 @@ L'erreur suivante peut parfois survenir :
 
 Pour corriger ces erreurs il faut réinitialiser OneDrive en suivant les étapes suivantes :
 
-1. Dans les paramètres OneDrive, cliquer sur `arrêter la synchronisation`.
+1. Dans l'onglet `Compte` des paramètres OneDrive, cliquer sur `arrêter la synchronisation`.
 2. **Attendre quelques minutes** la fin de la désynchronisation. Une invite de connexion OneDrive s'affiche à l'issue de la désynchronisation ; fermer la fenêtre.
 3. Supprimer les contenus synchronisés (répertoire `C:\Users\\[USER]\Excense\Kaufman & Broad - Documents` par défaut)
 4. Refaire la configuration OneDrive comme indiqué dans la section 'Installation'.
