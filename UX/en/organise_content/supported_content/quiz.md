@@ -20,7 +20,8 @@ This type of content allows you to display interactive Quiz, that will help you 
 		* [Image Slider Page](#imagesliderpage)
 		* [Document Page](#documentpage)
 		* [Order Page](#orderpage)
-* [Create a quiz](#create-a-quiz)	
+* [Create a quiz](#create-a-quiz)
+* [Download a sample](#download-a-sample)
    
 
 ## Actions within Compositeur Digital UX
@@ -287,6 +288,10 @@ Add a list of `answer` or `imageAnswer` for available choices. The two types can
 **Note** : By default, a quiz does not have a preview. Don't forget to create one if you need one.
 
 ![Quiz folder](../../img/content_quizz_folder.JPG)
+
+## Download a sample
+
+A Demo Universe which contains a sample for the guestbook is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
 
 Next : [Search Interface (Compositeur Digital UX format)](search.md)
 
