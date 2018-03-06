@@ -15,6 +15,8 @@ Compositeur Digital UX processes documents stored on a specific location in your
 * [Thumbnails](#thumbnails)
   * [Folder thumbnail](#folder-thumbnail)
   * [Document thumbnail](#document-thumbnail)
+* [Demo Universe](#demo-universe) 
+
 
 ## Required skills and resources
 
@@ -106,6 +108,10 @@ To customize the thumbnail image of a document, drag and drop an image file usin
 
 ![With document thumbnail](../img/universe_document_preview.JPG) 
 ![With document thumbnail doc](../img/universe_document_preview_dock.JPG)
+
+## Demo Universe
+
+A Demo universe is available and can be [downloaded here](Demo-Universe.zip). Once downloaded, unzip the file and put the content inside your `Compositeur Digital UX` folder. This demo universe includes samples for each type of content you can create within Compositeur Digital UX.
 
 Next : [Supported Content](supported_content/index.md)
 
