@@ -291,7 +291,7 @@ Add a list of `answer` or `imageAnswer` for available choices. The two types can
 
 ## Download a sample
 
-A Demo Universe which contains a sample for the guestbook is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
+A Demo Universe which contains a sample for a quiz is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
 
 Next : [Search Interface (Compositeur Digital UX format)](search.md)
 
