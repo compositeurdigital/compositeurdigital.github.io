@@ -69,6 +69,10 @@ Place 6 images, corresponding to the six faces of your cube in the folder. Keep 
 
 **Important** : Do not place any other images in this folder (except one `_preview` file).
 
+## Download a sample
+
+A Demo Universe which contains samples for panorama contents is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
+
 Next : [Quiz (Compositeur Digital UX format)](quiz.md)
 
 [Back to Supported Content](index.md)
