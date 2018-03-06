@@ -12,6 +12,7 @@ This content type allows you to display a search interface for any item (e.g. ap
   * [`.filter` Extension](#filter-extension)
   * [`.apartments` Extension](#apartments-extension)
 * [Create a search interface](#create-a-search-interface)
+* [Download a sample](#download-a-sample)
 
 ## Actions within Compositeur Digital UX
 
@@ -102,6 +103,11 @@ The design of a result item indicates various information about the item : surfa
 1. Inside this folder, create a file called `_list.csv` (or `_catalog.csv`). 
 1. Fill the spreadsheet with the criteria you want, and describe your item.
 1. For each item that belongs to the column `id` of your `_list.csv` (or `_catalog.csv`), add an item inside your search folder (image, pdf, ect...)
+
+## Download a sample
+
+A Demo Universe which contains samples for search interfaces is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
+
 
 Next : [Sequences : Pre-rendered 360° view (orbital, Compositeur Digital UX format)](sequences.md)
 
