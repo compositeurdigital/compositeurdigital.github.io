@@ -53,6 +53,11 @@ Layers will be ordered by their names, from bottom to top, i.e. :
 
 ![Sequence explorer](../../img/content_sequence_folder.JPG) ![Sequence layers](../../img/content_sequence_layers.JPG)
 
+## Download a sample
+
+A Demo Universe which contains a sample for a sequence is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
+
+
 Next : [Mortgage Simulator (Compositeur Digital UX format)](simulator.md)
 
 [Back to Supported Content](index.md)
