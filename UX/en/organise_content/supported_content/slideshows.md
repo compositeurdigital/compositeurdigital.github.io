@@ -38,6 +38,11 @@ Only use files that ends with `.jpg`, `.jpeg`, `.pdf`, `.png`, `.ppt` or `.pptx`
 
 **Important** : If your slideshow includes a powerpoint, and if this powerpoint has [Hot Spots](powerpoint.md#hot-spots), make sure the content linked from the powerpoint of your slideshow belongs to your slideshow directoty. Keep in mind that content can be put in a hidden folder, which will not appear in Compositeur Digital UX.
 
+## Download a sample
+
+A Demo Universe which contains a sample for a slideshow is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
+
+
 Next : [Creating Templates (Compositeur Digital UX)](templates.md)
 
 [Back to Supported Content](index.md)
