@@ -32,6 +32,10 @@ To use a guestbook, add the extension `.guestbook` at the end of name of your fo
 
 ![Guestbook folder](../../img/content_guestbook_folder.JPG) ![Guestbook preview](../../img/content_guestbook_preview.JPG)
 
+## Download a sample
+
+A Demo Universe which contains a sample for the guestbook is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
+
 Next : [Panorama : 360° view (first person, Compositeur Digital UX format)](panorama.md)
 
 [Back to Supported Content](index.md)
