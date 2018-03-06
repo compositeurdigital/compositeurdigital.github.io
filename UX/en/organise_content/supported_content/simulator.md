@@ -25,6 +25,10 @@ To use a mortgage simulator, add the extension `.simupret` at the end of the nam
 
 ![Mortgage simulator folder](../../img/content_mortgage_simulator_folder.JPG) ![Mortgage simulator preview](../../img/content_mortgage_simulator_preview.JPG)
 
+## Download a sample
+
+A Demo Universe which contains samples for a mortgage simulator is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
+
 
 Next : [Slideshows (Compositeur Digital UX format)](slideshows.md)
 
