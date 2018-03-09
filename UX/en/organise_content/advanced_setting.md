@@ -38,8 +38,9 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `simulator.durationDefaultValue`  | 20 (number)      | sets the default duration of a loan                                         |
 | `table.hideCommands`              | true/false - 1/0 | hides the control buttons of a document. On a slideshow, the buttons `<` and `>` will disappear. |
 | `table.noRotate`                  | "                | inhibits rotation for the document                                          |
-| `table.noScale`                   | "                | inhibits resizing for the document                                          |
 | `video.loop`                      | "                | enables loop mode for the video player                                      | 
 
+<!--| `table.noScale` | " | inhibits resizing for the document |-->
+<!--| `table.noMove` | " | inhibits moving the document | -->
 
 [Back to Organise Content](index.md)
