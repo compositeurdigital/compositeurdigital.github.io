@@ -39,7 +39,6 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `table.hideCommands`              | true/false - 1/0 | hides the control buttons of a document. On a slideshow, the buttons `<` and `>` will disappear. |
 | `table.noRotate`                  | "                | inhibits rotation for the document                                          |
 | `table.noScale`                   | "                | inhibits resizing for the document                                          |
-| `table.noMove`                    | "                | inhibits all movements for the document (it will be opened in the middle of the screen) |
 | `video.loop`                      | "                | enables loop mode for the video player                                      | 
 
 
