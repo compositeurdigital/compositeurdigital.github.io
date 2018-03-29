@@ -12,7 +12,7 @@
 | Perspectives                     | SFTP      | Visuels/Perspectives HD/*                              | 1 - Présentation/2 - Perspectives/                                                  |
 | Plans masses                     | SFTP      | Visuels/Plan masse illustré/*                          | 1 - Présentation/4 - Plan Masse.slideshow/                                          |
 | Vidéo                            | SFTP      | Vidéos/                                                | 5 - Film.mp4                                                                        |
-| Plans de quartier                | SFTP      | Plan de situation/                                     | 1 - Présentation/3 - Plan de situation.slideshow/                                   |
+| Plans de quartier                | SFTP      | Plan de situation/*                                    | 1 - Présentation/3 - Plan de situation.slideshow/                                   |
 | Plans d'étages                   | SFTP      | Plans étages colorisés/*                               | 3 - Plans d'étages.slideshow/                                                       |
 | Infos                            | SFTP      | Infos/*                                                | 5 - Infos/                                                                          |
 |                                  |           |                                                        |                 
