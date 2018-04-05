@@ -23,14 +23,14 @@ If you don't have an account, [feel free to create one!](http://www.compositeurd
 ![1. Sign in part 1](../img/administrative_signin1.JPG)
 
 1. On the app start page, click on the `...` at the bottom right corner of the page.
-1. Click on the `Settings` button.
+2. Click on the `Settings` button.
 
 ![1. Sign in part 2](../img/administrative_signin2.JPG)
 
 3. On the settings page, click on `Add license`, under `Compositeur Digital license`.
-1. Enter your username and password.
-1. Click on `Sign in`
-1. You're connected! Your name appears under `Compositeur Digital license`. 
+4. Enter your username and password.
+5. Click on `Sign in`
+6. You're connected! Your name appears under `Compositeur Digital license`. 
 
 Once you are back on the app start page, your license information appears at the bottom right corner. 
 
