@@ -4,13 +4,43 @@ Follow this guide to learn how you can manage your Compositeur Digital UX admini
 
 ## Summary
 
-* [Use your Compositeur Digital UX account](account.md)
+* [Use your Compositeur Digital UX account](#use-your-compositeur-digital-ux-account)
+  * [Enter your credentials](#enter-your-credentials)
 * [Purchase a Compositeur Digital UX license](#purchase-a-compositeur-digital-ux-license)
   * [In-app purchase](#in-app-purchase)
 * [Add existing Compositeur Digital folders](#add-existing-compositeur-digital-folders)
 
-## [Use your Compositeur Digital UX account](account.md)
-You can connect to your Compositeur Digital UX account to unlock some functionalities.
+## Use your Compositeur Digital UX account
+
+Compositeur Digital UX offers a free version which allows you to use a limited set of the features offered by Compositeur Digital UX.
+
+To overcome this limitation, if you already have a Compositeur Digital account, you can use this account to connect to Compositeur Digital UX.
+
+If you don't have an account, [feel free to create one!](http://www.compositeurdigital.com/Account/Register) Once your account has been created and validated, use it in Compositeur Digital UX.
+
+### Enter your credentials
+
+![1. Sign in part 1](../img/administrative_signin1.JPG)
+
+1. On the app start page, click on the `...` at the bottom right corner of the page.
+1. Click on the `Settings` button.
+
+![1. Sign in part 2](../img/administrative_signin2.JPG)
+
+3. On the settings page, click on `Add license`, under `Compositeur Digital license`.
+1. Enter your username and password.
+1. Click on `Sign in`
+1. You're connected! Your name appears under `Compositeur Digital license`. 
+
+Once you are back on the app start page, your license information appears at the bottom right corner. 
+
+**Note** : The device will remember you, and when you'll start a new session on your device, Compositeur Digital UX will use your account.
+
+At any time, you can freely decide to sign out.
+
+1. On the app start page, click on the `...` at the bottom right corner of the page.
+1. Click on the `Settings` button.
+1. On the settings page, click on your name under `Compositeur Digital license`, then click on `Sign out`.
 
 ## Purchase a Compositeur Digital UX license
 
