@@ -4,22 +4,24 @@ Follow this guide to learn how you can manage your Compositeur Digital UX admini
 
 ## Summary
 
-* [Use your Compositeur Digital UX account](#use-your-compositeur-digital-ux-account)
-  * [Enter your credentials](#enter-your-credentials)
+* [Compositeur Digital UX account](#compositeur-digital-ux-account)
+  * [Sign-in method](#sign-in-method)
+  * [Sign-out method](#sign-out-method)
 * [Purchase a Compositeur Digital UX license](#purchase-a-compositeur-digital-ux-license)
   * [In-app purchase](#in-app-purchase)
+  * [Contact us](#contact-us)
 * [Add existing Compositeur Digital folders](#add-existing-compositeur-digital-folders)
 
-## Use your Compositeur Digital UX account
+## Compositeur Digital UX account
 
 The Compositeur Digital UX offers a preview mode a with a limited set of features without account creation. 
 
-If you have an existing Compositeur Digital account please follow the description below to sign in from the application 
+If you have an existing Compositeur Digital account please follow the description below to sign in from the application. 
 
-Alternatively you can create an account [here](http://www.compositeurdigital.com/Account/Register) and contact us or purchase a license
+Alternatively, you can create an account [here](http://www.compositeurdigital.com/Account/Register) and contact us or purchase a license
 
 
-### Enter your credentials
+### Sign-in method
 
 ![1. Sign in part 1](../img/administrative_signin1.JPG)
 
@@ -30,12 +32,14 @@ Alternatively you can create an account [here](http://www.compositeurdigital.com
 
 3. On the settings page, click on `Add license`, under `Compositeur Digital license`.
 4. Enter your username and password.
-5. Click on `Sign in`
+5. Click on `Sign in`.
 6. You're connected! Your name appears under `Compositeur Digital license`. 
 
 Once you are back on the app start page, your license information appears at the bottom right corner. 
 
-**Note** : The device will remember you, and when you'll start a new session on your device, Compositeur Digital UX will use your account.
+**Note** : The device will store your credentials. The Compositeur Digital UX will use the last signed-in account anytime you start a new session. 
+
+### Sign-out method
 
 At any time, you can freely decide to sign out.
 
@@ -55,6 +59,10 @@ Compositeur Digital UX offers in-app purchase. If you decide to purchase the pro
 1. Click on the `Buy` button.
 1. Follow the buying instructions.
 1. Your purchase has been authorized, congratulations!
+
+### Contact us
+
+[Check the different plans we offer](http://www.compositeurdigital.com/Home/Pricing) or [get in touch with us](mailto:contact@excense.fr).
 
 ## Add existing Compositeur Digital folders
 
