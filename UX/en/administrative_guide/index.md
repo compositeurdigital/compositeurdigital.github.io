@@ -8,8 +8,6 @@ Follow this guide to learn how you can manage your Compositeur Digital UX admini
   * [Sign-in method](#sign-in-method)
   * [Sign-out method](#sign-out-method)
 * [Purchase a Compositeur Digital UX license](#purchase-a-compositeur-digital-ux-license)
-  * [In-app purchase](#in-app-purchase)
-  * [Contact us](#contact-us)
 * [Add existing Compositeur Digital folders](#add-existing-compositeur-digital-folders)
 
 ## Compositeur Digital UX account
@@ -18,7 +16,7 @@ The Compositeur Digital UX offers a preview mode a with a limited set of feature
 
 If you have an existing Compositeur Digital account please follow the description below to sign in from the application. 
 
-Alternatively, you can create an account [here](http://www.compositeurdigital.com/Account/Register) and contact us or purchase a license
+Alternatively, you can create an account [here](http://www.compositeurdigital.com/Account/Register) and [contact us](mailto:contact@excense.fr) or purchase a license.
 
 
 ### Sign-in method
@@ -49,8 +47,6 @@ At any time, you can freely decide to sign out.
 
 ## Purchase a Compositeur Digital UX license
 
-### In-app purchase
-
 Compositeur Digital UX offers in-app purchase. If you decide to purchase the product, all the restrictions which come with the free version will be removed and you'll use an unlimited version of Compositeur Digital UX. 
 
 ![1. Buy license](../img/administrative_buy.JPG)
@@ -59,10 +55,6 @@ Compositeur Digital UX offers in-app purchase. If you decide to purchase the pro
 1. Click on the `Buy` button.
 1. Follow the buying instructions.
 1. Your purchase has been authorized, congratulations!
-
-### Contact us
-
-[Check the different plans we offer](http://www.compositeurdigital.com/Home/Pricing) or [get in touch with us](mailto:contact@excense.fr).
 
 ## Add existing Compositeur Digital folders
 
