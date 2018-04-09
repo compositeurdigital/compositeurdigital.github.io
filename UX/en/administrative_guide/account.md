@@ -2,7 +2,7 @@
 
 The Compositeur Digital UX offers a preview mode a with a limited set of features without account creation. 
 
-To unlock this limitation, use your existing Compositeur Digital account or create one [here!] (http://www.compositeurdigital.com/Account/Register)
+To unlock this limitation, use your existing Compositeur Digital account or create one [here](http://www.compositeurdigital.com/Account/Register)
 
 Please follow the description below to sign in from the application 
 
