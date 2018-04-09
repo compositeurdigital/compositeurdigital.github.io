@@ -12,11 +12,11 @@ Follow this guide to learn how you can manage your Compositeur Digital UX admini
 
 ## Use your Compositeur Digital UX account
 
-Compositeur Digital UX offers a free version which allows you to use a limited set of the features offered by Compositeur Digital UX.
+The Compositeur Digital UX offers a preview mode a with a limited set of features without account creation. 
 
-To overcome this limitation, if you already have a Compositeur Digital account, you can use this account to connect to Compositeur Digital UX.
+To unlock this limitation, use your existing Compositeur Digital account or create one [here](http://www.compositeurdigital.com/Account/Register)
 
-If you don't have an account, [feel free to create one!](http://www.compositeurdigital.com/Account/Register) Once your account has been created and validated, use it in Compositeur Digital UX.
+Please follow the description below to sign in from the application 
 
 ### Enter your credentials
 
