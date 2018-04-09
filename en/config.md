@@ -136,6 +136,11 @@ Each parameter must be written using the following structure :
 
 The universes can be sorted into categories by naming them with the pattern `category name, universe name` .
 In the start page, you will then see buttons for each category that will display their inner universe on clic.
-To customize categories look, you can add images named `category name_preview.jpg` in your `Compositeur Digital` folder.
+To customize categories look, you can add images named `category name_preview.jpg` or `category name_icon.jpg`in your `Compositeur Digital` folder.
+In this same folder you can add a `_meta.txt` :
+- `hidePageTitle = true` hides the `Compositeur Digital` title and logo
+- `hideCategoriesTitle = true` hides the names of all categories
+
+
 
 [Back to the menu](index.md)
