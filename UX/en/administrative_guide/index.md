@@ -14,9 +14,10 @@ Follow this guide to learn how you can manage your Compositeur Digital UX admini
 
 The Compositeur Digital UX offers a preview mode a with a limited set of features without account creation. 
 
-To unlock this limitation, use your existing Compositeur Digital account or create one [here](http://www.compositeurdigital.com/Account/Register)
+If you have an existing Compositeur Digital account please follow the description below to sign in from the application 
 
-Please follow the description below to sign in from the application 
+Alternatively you can create an account [here](http://www.compositeurdigital.com/Account/Register) and contact us or purchase a license
+
 
 ### Enter your credentials
 
