@@ -65,7 +65,7 @@ Example : `*.table.hideCommands = true`
 *Language:*
 - `culture = en` in a file `_meta.txt` at the universe root force the UI language for this universe. (supported languages : en, fr). Note that default used language is based on your Windows language.
 
-## Configuration files
+### Configuration files
 Each parameter must be written using the following structure : 
 
 `<param name="parameterName" value="parameterValue, secondOptionalValue, third, etc" />`
@@ -120,7 +120,7 @@ Each parameter must be written using the following structure :
  - `AdditionalRootItemsFolderPaths` list of addional directories in which the application will look for new environments 
  - `CacheDirectory` sets a specific folder to store cached files 
  
- ## Data exchanged between documents
+ ### Data exchanged between documents
  
  Some types of documents allow you to exchange data between documents  (e.g getting a value previously saved and modifying it)
  A keyword is used to operate this exchange of values. The following keys target attributes of the customer in the Profile view in the menu.
@@ -132,7 +132,7 @@ Each parameter must be written using the following structure :
   - `organization`
   - `finance.budget`
 
- ## Universes Categories
+### Universes Categories
 
 The universes can be sorted into categories by naming them with the pattern `category name, universe name` .
 In the start page, you will then see buttons for each category that will display their inner universe on clic.
