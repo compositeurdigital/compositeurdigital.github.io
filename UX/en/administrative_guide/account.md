@@ -1,38 +1,38 @@
 # Compositeur Digital UX account
 
-Compositeur Digital UX offers a free version which allows you to use a limited set of the features offered by Compositeur Digital UX.
+The Compositeur Digital UX offers a preview mode a with a limited set of features without account creation. 
 
-To overcome this limitation, if you already have a Compositeur Digital account, you can use this account to connect to Compositeur Digital UX.
+To unlock this limitation, use your existing Compositeur Digital account or create one [here!] (http://www.compositeurdigital.com/Account/Register)
 
-If you don't have an account, [feel free to create one!](http://www.compositeurdigital.com/Account/Register) Once your account has been created and validated, use it in Compositeur Digital UX.
+Please follow the description below to sign in from the application 
 
-## Use your Compositeur Digital UX account
+## Sign-in methods 
 
-### I am using a laptop
+### From a laptop
 
-![Sign-in on your laptop](../img/administrative_connect_laptop.JPG)
+![Sign in on from the app installed on your laptop](../img/administrative_connect_laptop.JPG)
 
 1. On the app start page, click on `Sign in`.
 1. Enter your username and password.
-1. You're connected!
+1. You're done !
 
-At any time, you can freely decide to sign out.
+To sign out :  
 
 1. On the app start page, click on your name
 2. Click on `Sign out`.
 
 
-#### I am using a shared device (e.g. Microsoft Surface Hub)
+### From a shared device (e.g. Microsoft Surface Hub)
 
 1. On the app start page, click on the `...` at the bottom right corner of the page.
 1. Click on the `Settings` button.
 1. On the settings page, click on `Sign in`.
 1. Enter your username and password.
-1. You're connected! 
+1. You're done ! 
 
-**Note** : The device will remember you, and when you'll start a new session on your device, Compositeur Digital UX will use your account.
+**Note** : The device will store your credentials. The Compositeur Digital UX will use your account anytime you start a new session 
 
-At any time, you can freely decide to sign out.
+To sign out : 
 
 1. On the app start page, click on the `...` at the bottom right corner of the page.
 1. Click on the `Settings` button.
