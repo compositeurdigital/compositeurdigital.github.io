@@ -30,7 +30,7 @@ To sign out :
 1. Enter your username and password.
 1. You're done ! 
 
-**Note** : The device will store your credentials. The Compositeur Digital UX will use your account anytime you start a new session 
+**Note** : The device will store your credentials. The Compositeur Digital UX will use the last signed-in account anytime you start a new session 
 
 To sign out : 
 
