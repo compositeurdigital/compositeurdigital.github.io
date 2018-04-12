@@ -196,8 +196,8 @@ Each parameter must be written using the following structure :
 
 ## Data exchanged between documents
  
- Some types of documents allow you to exchange data between documents  (e.g getting a value previously saved and modifying it)
- A keyword is used to operate this exchange of values. The following keys target attributes of the customer in the Profile view in the menu.
+ Some types of documents allow you to exchange data between documents  (e.g getting a value previously saved and modifying it).
+ A keyword is used to operate this exchange of values. The following keys target attributes of the customer in the `Profile` view in the menu.
  Available keys are :
   - `firstName`
   - `lastName`
@@ -216,7 +216,7 @@ In this same folder you can add a `_meta.txt` :
 | Metadata key              | Value            | Description                                                                        |
 |:--------------------------|:----------------:|:-----------------------------------------------------------------------------------|
 | `hideCategoriesTitle`     | true/false - 1/0 | Hides the names of all categories.                                                 |
-| `hidePageTitle`           | "                | hides the `Compositeur Digital` title and logo.                                    |
+| `hidePageTitle`           | "                | Hides the `Compositeur Digital` title and logo.                                    |
 
 
 [Back to the menu](index.md)
