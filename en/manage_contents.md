@@ -30,11 +30,11 @@ The Compositeur Digital can be use for various use-cases
 
 Real estate
 
-![univers 1](img/univers1.jpg)
+![univers 1](img/univers1_v2.jpg)
 
 Banking services
 
-![univers 2](img/univers2.jpg)
+![univers 2](img/univers2_v2.jpg)
 
 Technically, an environment is materialized as folder on your computer. By default the Compositeur Digital will look for content located in `Documents\Compositeur Digital`
 
