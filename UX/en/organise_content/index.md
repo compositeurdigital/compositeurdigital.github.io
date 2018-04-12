@@ -11,7 +11,7 @@ Learn how to use metadata files.
 
 ## Demo Universe
 
-[Download a Demo Universe](../Demo-Universe.zip) and check all the samples we have provided to you.
+[Download a Demo Universe](../Demo-Universe.zip) and try all the samples available.
 
 <!--
 ## [Advanced configuration](advanced_configuration)
