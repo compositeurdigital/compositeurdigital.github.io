@@ -31,13 +31,13 @@ The slideshow offers the following interactions :
 
 Example of folder organization for similar document types
 
-![explorer slideshow img](img/explorer_slideshow_img.jpg)
+![explorer slideshow img](img/explorer_slideshow_img_v2.jpg)
 
 You can also create a single slideshow with a combination of Powerpoint, PDF and image files. Place all files in a folder using the `slideshow` extension.
 
 Example of folder organization :
 
-![explorer slideshow docs](img/explorer_slideshow_docs.jpg)
+![explorer slideshow docs](img/explorer_slideshow_docs_v2.jpg)
 
 In this case, the resulting slideshow will display slides in the following sequence : the first image file, the slides from the 2 PDF files and then the last image file.
 
@@ -54,6 +54,6 @@ You can create a "hot spot" on a document to open another document when touched 
 	
 6. Save your Powerpoint presentation at the desired location in your environment folder.
 
-![powerpoint slideshow liens](img/powerpoint_slideshow_liens.jpg)
+![powerpoint slideshow liens](img/powerpoint_slideshow_liens_v2.jpg)
 
 [Back to supported content](content_types.md)
