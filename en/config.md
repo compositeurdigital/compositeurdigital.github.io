@@ -1,4 +1,27 @@
 # Advanced configuration
+
+## Summary
+
+* [Metadata](#metadata)
+  * [Document configuration](#document-configuration)
+    * [Buttons](#buttons)
+    * [Gestures](#gestures)
+    * [Size and displayed tags](#size-and-displayed-tags)
+  * [Environment parameters](#environment-parameters)
+    * [Theme color](#theme-color)
+    * [Buttons](#buttons)
+    * [Favorites](#favorites)
+    * [Paper notes](#paper-notes)
+    * [Language](#language)
+* [Configuration files](#configuration-files)
+  * [App.xml](#app.xml)
+  * [Favorites.xml](#favorites.xml)
+  * [Page.xml](#page.xml)
+  * [Common.xml](#common.xml)
+* [Data exchanged between documents](#data-exchanged-between-documents)
+* [Universes categories](#universes-categories)
+    
+
 ## Metadata
 You can modify a document's behavior or associated actions using specific parameters described in a file named `_meta.txt`.
 
@@ -87,7 +110,7 @@ Example : `*.table.hideCommands = true`
 | Metadata key              | Value            | Description                                                                        |
 |:--------------------------|:----------------:|:-----------------------------------------------------------------------------------|
 | `paper.disableBlankSheet` | true/false - 1/0 | Hides the blanksheet creation button.                                              |
-| `paper.disablePostIt`     | true/false - 1/0 | Hides the note creation button.                                                    |
+| `paper.disablePostIt`     | "                | Hides the note creation button.                                                    |
 
 #### Language 
 
@@ -97,33 +120,33 @@ Example : `*.table.hideCommands = true`
 
 *Note that the default used language is based on your Windows language.*
 
-### Configuration files
+## Configuration files
 Each parameter must be written using the following structure : 
 
 `<param name="parameterName" value="parameterValue, secondOptionalValue, third, etc" />`
 
-#### App.xml
+### App.xml
 
 | Tag                           | Value               | Description                                                                |
 |:------------------------------|:-------------------:|:---------------------------------------------------------------------------|
-| `HomePage`                    | Table               | Defines how the home page is structured.                                   |
+| `AdditionalShareDestinations` | xml code *          | Adds new targets for share operations. Handles windows and Compositeur Digital environment variables. |
+| `CustomLogUIPath`             | `C:\MyPath\` (path) | Path where UI logs (= analytics) will be stored. Copy previous logs saved in the default folder into this custom folder. Handle windows environment variables. |
 | `DemoItems`                   |  url, path          | Address of the demo content (default is `http://www.compositeurdigital.com/demo/contents/config.json`). It can also be the address of an embedded resource (ex : `/Compositeur Digital;component/DemoContent.zip`). |
 | `ExplicitPlugins`             | plugins             | List of dll plugins to use (ex : `CompositeurDigital.ShowUI.BoardPlugins.Wpf.dll`). |
-| `ResetOnItemLoading`          | true / false - 1 /0 | Resets the environment on loading.                                         |
-| `KioskMode`                   | "                   | If set to true, activates the kiosk mode. It hides all menus and the quit button (except if there are several environments). |
+| `FavoritesDestinationPath`    | `C:\MyPath\` (path) | Folder path to where favorites will be saved.                              |
+| `HelpEmailAdress`             | email               | Custom support email adress.                                               |
+| `HomePage`                    | Table               | Defines how the home page is structured.                                   |
+| `KioskMode`                   | true / false - 1 /0 | If set to true, activates the kiosk mode. It hides all menus and the quit button (except if there are several environments). |
 | `AutoResetInterval`           | 3 (minutes)         | In kiosk mode only, duration in minutes between the last user action an automatic environment reload. |
-| `FavoritesDestinationPath`    | `C:\MyPath\` (path) | Folder path to where favorites will be saved.                           |
-| `DisablePrint`                | true / false - 1 /0 | If set to true, disables print feature.                                    |
+| `ResetOnItemLoading`          | true / false - 1 /0 | Resets the environment on loading.                                         |
 | `DisableAnnotation`           | "                   | If set to true, disables annotations.                                      |
-| `UseLegacyTouchEvents`        | "                   | If set to true, forces the use of Windows 7 touch events.                  |
-| `DisplayOnSecondaryScreen`    | "                   | If set to true, uses the secondary screen when available.                  |
+| `DisableBlankSheet`           | "                   | If set to true, hides the blanksheet creation.                             |
 | `DisableFastShare`            | "                   | If set to true,  hides the quick share button on all documents.            |
 | `DisableFavorites`            | "                   | If set to true, disables the basket/favorites feature.                     |
-| `DisableBlankSheet`           | "                   | If set to true, hides the blanksheet creation.                             |
+| `DisplayOnSecondaryScreen`    | "                   | If set to true, uses the secondary screen when available.                  |
+| `DisablePrint`                | "                   | If set to true, disables print feature.                                    |
 | `DisablePostIt`               | "                   | If set to true, hides the note creation button.                            |
-| `CustomLogUIPath`             | `C:\MyPath\` (path) | Path where UI logs (= analytics) will be stored. Copy previous logs saved in the default folder into this custom folder. Handle windows environment variables. |
-| `HelpEmailAdress`             | myEmail@myprovider.com (example) | Custom support email adress.                                  |
-| `AdditionalShareDestinations` | xml code *          | Adds new targets for share operations. Handles windows and Compositeur Digital environment variables. |
+| `UseLegacyTouchEvents`        | "                   | If set to true, forces the use of Windows 7 touch events.                  |
 
 \* Example : 
 
@@ -135,15 +158,15 @@ Each parameter must be written using the following structure :
 </param>
 ```
 
-#### Favorites.xml
+### Favorites.xml
 
 | Tag                           | Value               | Description                                                                |
 |:------------------------------|:-------------------:|:---------------------------------------------------------------------------|
-| `FolderName`                  | characters          | Displayed name for the basket feature. By default, set to "basket".        |
 | `ContactInfos`                | xml code *          | Contains the list of fields to be stored.                                  |
-| `FavoritesDestinationPath`    | `C:\MyPath\` (path) | Folder path to which favorites document will be saved.                     |
 | `DisableFastShare`            | true / false - 1 /0 | Hides the quick share button on all documents.                             |
 | `DisableFavorites`            | "                   | Disables the document basket/favorites feature.                            |
+| `FavoritesDestinationPath`    | `C:\MyPath\` (path) | Folder path to which favorites document will be saved.                     |
+| `FolderName`                  | characters          | Displayed name for the basket feature. By default, set to "basket".        |
  
  \* Example :
  
@@ -155,15 +178,23 @@ Each parameter must be written using the following structure :
 ```
 
 
-*Page.xml*
- - `DisableDuplicate` hides the duplicate button
- - `DisableSendBehind` hides the "send to background" button
+### Page.xml
 
-*Common.xml*
- - `AdditionalRootItemsFolderPaths` list of addional directories in which the application will look for new environments 
- - `CacheDirectory` sets a specific folder to store cached files 
- 
-### Data exchanged between documents
+| Tag                           | Value               | Description                                                                |
+|:------------------------------|:-------------------:|:---------------------------------------------------------------------------|
+| `DisableDuplicate`            | true / false - 1 /0 | Hides the duplicate button on all documents.                               |
+| `DisableSendBehind`           | "                   | Hides the `Send to background` button on all documents.                    |
+
+### Common.xml
+
+
+| Tag                              | Value               | Description                                                             |
+|:---------------------------------|:-------------------:|:------------------------------------------------------------------------|
+| `AdditionalRootItemsFolderPaths` | path                | List of addional directories in which the application will look for new environments. |
+| `CacheDirectory`                 | "                   | Sets a specific folder to store cached files.                           |
+
+
+## Data exchanged between documents
  
  Some types of documents allow you to exchange data between documents  (e.g getting a value previously saved and modifying it)
  A keyword is used to operate this exchange of values. The following keys target attributes of the customer in the Profile view in the menu.
@@ -175,15 +206,17 @@ Each parameter must be written using the following structure :
   - `organization`
   - `finance.budget`
 
-### Universes Categories
+## Universes categories
 
 The universes can be sorted into categories by naming them with the pattern `category name, universe name` .
 In the start page, you will then see buttons for each category that will display their inner universe on clic.
 To customize categories look, you can add images named `category name_preview.jpg` or `category name_icon.jpg`in your `Compositeur Digital` folder.
 In this same folder you can add a `_meta.txt` :
-- `hidePageTitle = true` hides the `Compositeur Digital` title and logo
-- `hideCategoriesTitle = true` hides the names of all categories
 
+| Metadata key              | Value            | Description                                                                        |
+|:--------------------------|:----------------:|:-----------------------------------------------------------------------------------|
+| `hideCategoriesTitle`     | true/false - 1/0 | Hides the names of all categories.                                                 |
+| `hidePageTitle`           | "                | hides the `Compositeur Digital` title and logo.                                    |
 
 
 [Back to the menu](index.md)
