@@ -10,7 +10,7 @@ You should be confortable with :
 
 - Organizing folders 
 - Renaming files and folder
-- That's all :)
+- That's all &#x1F601;
 
 ### File extensions
 
@@ -38,7 +38,7 @@ Banking services
 
 Technically, an environment is materialized as folder on your computer. By default the Compositeur Digital will look for content located in `Documents\Compositeur Digital`
 
-![Environement view using the built-in Window file explorer](img/explorer_univers.jpg)
+![Environement view using the built-in Window file explorer](img/explorer_univers_v2.jpg)
 
 To create your own environment, you can duplicate an exisiting one in the default location: `Documents\Compositeur Digital`.
 
@@ -46,7 +46,18 @@ To create your own environment, you can duplicate an exisiting one in the defaul
 
 You can customize your environment by changing the background image. To do so, simply add an image file named `_background` in the environment's folder as described below:
 
-![universe background](img/explorer_background.jpg)
+![explorer background](img/explorer_background.jpg).
+
+The background will appear in your universe.
+
+![universe background](img/universe_background.jpg)
+
+## Interactive Background
+
+If you want to have an interactive background, which contains hyperlinks to display your content, it is also possible. Prepare a powerpoint file, with one slide containing your background image. In this slide, do not forget to create [Hot Spots](slideshow#interactive) to display your menus, or files. The name of the file should be `_background.pptx`. 
+
+![Interactive background folder](img/interactive_background.jpg)
+
 
 ## Folders
 
@@ -54,9 +65,9 @@ You can organize your documents in folders and sub-folders.
 
 The first level of folders is displayed in the Compositeur Digital in the dock located at the bottom of the environment view : 
 
-![explorer root folders](img/explorer_root_folders.jpg)
+![explorer root folders](img/explorer_root_folder_v2.jpg)
 
-![root folders](img/root_folders.jpg)
+![root folders](img/root_folders_v2.jpg)
 
 >### <a name="contentFolder"></a> Hidden folders feature
 >
@@ -83,21 +94,21 @@ The Compositeur Digital will automatically create thumbnails for all documents. 
 
 If a thumbnail image has not been defined for a folder, the Compositeur Digital will auto-create a thumbnail image based on the first document of the folder:
 
-![explorer no preview folder](img/explorer_nopreview_folder.jpg)
+![explorer no preview folder](img/explorer_no_preview_folder_v2.jpg)
 
-![no preview folder](img/nopreview_folder.jpg) 
+![no preview folder](img/no_preview_folder_v2.jpg) 
 
 To create a thumbnail for a folder simply drag and drop an image file named `_preview` (.png or .jpg) directly in the folder:
 
-![explorer no preview folder](img/explorer_preview_folder.jpg)
+![explorer no preview folder](img/explorer_preview_folder_v2.jpg)
 
-![no preview folder](img/preview_folder.jpg) 
+![no preview folder](img/preview_folder_v2.jpg) 
 
 ### Document thumbnail
 
 To customize the thumbnail image of a document, drag and drop an image file using the same name but suffixed with `_preview` in the same folder:
 
-![explorer preview file](img/explorer_preview_file.jpg)
+![explorer preview file](img/explorer_file_preview_v2.jpg)
 
 ## Stand by video
 
@@ -105,6 +116,6 @@ When the Kiosk mode is activated a fullscreen video can be automatically started
 
 Place a supported video file named `_standby` in the environment's folder:
 
-![standby](img/explorer_standby.jpg) 
+![standby](img/explorer_standby_v2.jpg) 
 
 Check the [supported video types](video.md) section for further details.
