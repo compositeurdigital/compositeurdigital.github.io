@@ -17,53 +17,85 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 Example : `*.table.hideCommands = true`
 
 
-### Document configuration :
-*Buttons :*
- - `table.hideCommands = true` hides the control buttons of a document. On a slideshow, the buttons Next, Previous and Slides will disappear. On a video, the buttons play/pause, mute and the progress bar will disappear.
- - `disablePrint = true` hides the print button
- - `disableAnnotation = true` hides the annotation button
- - `disableDuplicate = true` hides the duplicate button
- - `disableSendBehind = true` hides the "send to background" button
+### Document configuration
 
-*Gestures :*
- - `table.noRotate = true` inhibits rotation for the document
- - `table.noScale = true` inhibits resizing for the document 
- - `table.noMove = true` inhibits all movements for the document (it will be opened in the middle of the screen)
+#### Buttons
 
-*Size and displayed tags :*
- - `desiredHeight = 400` sets the default height of the document
- - `desiredWidth = 400` sets the default width of the document
- - `minHeight = 400` sets the minimum height
- - `minWidth = 400` sets the minimum width
- - `maxHeight = 400` sets the maximum height
- - `maxWidth = 400` sets the maximum width
- - `table.hideChrome = true` hides the shadow, the menu and the close button of a document
- - `table.alwaysBehind = true` forces the document to stay in background, behind the other documents
- - `name = toto` change the displayed name of a document to "toto" (example)
- - `hideLinkLabel = true` hides the name of the document
- - `orientation = 90` rotates the document using a specified value : `-90` to turn left, `90` to turn right or `180` to flip the document
- 
+| Metadata key         | Value            | Description                                                                             |
+|:---------------------|:----------------:|:----------------------------------------------------------------------------------------|
+| `disableAnnotation`  | true/false - 1/0 | Hides the annotation button.                                                            |
+| `disableDuplicate`   | "                | Hides the duplicate button.                                                             |
+| `disablePrint`       | "                | Hides the print button.                                                                 |
+| `disableSendBehind`  | "                | Hides the "send to background" button.                                                  |
+| `table.hideCommands` |"                 | Hides the control buttons of a document. On a slideshow, the buttons Next, Previous and Slides will disappear. On a video, the buttons play/pause, mute and the progress bar will disappear. |
+
+
+#### Gestures
+
+| Metadata key         | Value            | Description                                                                             |
+|:---------------------|:----------------:|:----------------------------------------------------------------------------------------|
+| `table.noRotate`     | true/false - 1/0 | Inhibits rotation for the document.                                                     |
+| `table.noScale`      | "                | Inhibits resizing for the document.                                                     |
+| `table.noMove`       | "                | Inhibits all movements for the document (it will be opened in the middle of the screen).|
+
+#### Size and displayed tags
+
+| Metadata key         | Value                          | Description                                                               |
+|:---------------------|:------------------------------:|:--------------------------------------------------------------------------|
+| `desiredHeight`      | 400 (number) or 60% (percent*) | Sets the default height of the document.                                  |
+| `desiredWidth`       | "                              | Sets the default width of the document.                                   |
+| `hideLinkLabel`      | true/false - 1/0               | Hides the name of the document.                                           |
+| `minHeight`          | 400 (number) or 60% (percent*) | Sets the minimum height of the document.                                  |
+| `minWidth`           | "                              | Sets the minimum width of the document.                                   |
+| `maxHeight`          | "                              | Sets the maximum height of the document.                                  |
+| `maxWidth`           | "                              | Sets the maximum width of the document.                                   |
+| `name`               | A name (characters)            | Changes the displayed name of a document to "A name" (example).           |
+| `table.alwaysBehind` | true/false - 1/0               | Forces the document to stay in background, behind the other documents.    |
+| `table.hideChrome`   | "                              | Hides the shadow, the menu and the close button of a document.            |
+| `orientation`        | -90 or 90 or 180 (number)      | Rotates the document using a specified value : `-90` to turn left, `90` to turn right or `180` to flip the document. |
+
+\* *60% means that the document will take 60% of the width (or height) of the screen.*
+
 ### Environment parameters
-*Theme color*
- - `themeColor = 9c211f` sets a specified value for the theme color. By default, the value is set the mean value of the color of the background
 
-*Buttons :*
- - `disableGoBack = true` hides the back button
- - `disableReset = true` hides the reset button
- - `disableQuit = true` hides the quit button
- - `disableHelp = true` hides the help button
- - `disableContactUs = true` hides the contact button
+#### Theme color
 
-*Favorites :*
- - `favorites.disableFastShare = true` hides the quick share button on all documents
- - `favorites.disableFavorites = true` disables the document basket/favorites feature.
+| Metadata key | Value                      | Description                                                                           |
+|:-------------|:--------------------------:|:--------------------------------------------------------------------------------------|
+| `themeColor` | 9c211f (hexadecimal color) | Sets a specified value for the theme color. By default, the value computed is based on the color of the background (mean value). |
 
-*Paper notes:*
- - `paper.disableBlankSheet = true` hides the blanksheet creation button
- - `paper.disablePostIt = true` hides the note creation button
+#### Buttons
 
-*Language:*
-- `culture = en` in a file `_meta.txt` at the universe root force the UI language for this universe. (supported languages : en, fr). Note that default used language is based on your Windows language.
+| Metadata key       | Value            | Description                                                                               |
+|:-------------------|:----------------:|:------------------------------------------------------------------------------------------|
+| `disableContactUs` | true/false - 1/0 | Hides the contact button.                                                                 |
+| `disableHelp`      | "                | Hides the help button.                                                                    |
+| `disableGoBack`    | "                | Hides the back button.                                                                    |
+| `disableQuit`      | "                | Hides the quit button.                                                                    |
+| `disableReset`     | "                | Hides the reset button.                                                                   |
+
+
+#### Favorites
+
+| Metadata key                 | Value            | Description                                                                     |
+|:-----------------------------|:----------------:|:--------------------------------------------------------------------------------|
+| `favorites.disableFastShare` | true/false - 1/0 | Hides the quick share button on all documents.                                  |
+| `favorites.disableFavorites` | "                | Disables the document basket/favorites feature.                                 |
+
+#### Paper notes
+
+| Metadata key              | Value            | Description                                                                        |
+|:--------------------------|:----------------:|:-----------------------------------------------------------------------------------|
+| `paper.disableBlankSheet` | true/false - 1/0 | Hides the blanksheet creation button.                                              |
+| `paper.disablePostIt`     | true/false - 1/0 | Hides the note creation button.                                                    |
+
+#### Language 
+
+| Metadata key       | Value            | Description                                                                               |
+|:-------------------|:----------------:|:------------------------------------------------------------------------------------------|
+| `culture`          | en / fr          | In a file `_meta.txt` at the universe root, it forces the UI language for this universe.  |   
+
+*Note that the default used language is based on your Windows language.*
 
 ### Configuration files
 Each parameter must be written using the following structure : 
