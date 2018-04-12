@@ -132,6 +132,13 @@ Each parameter must be written using the following structure :
 | `AdditionalShareDestinations` | xml code *          | Adds new targets for share operations. Handles windows and Compositeur Digital environment variables. |
 | `CustomLogUIPath`             | `C:\MyPath\` (path) | Path where UI logs (= analytics) will be stored. Copy previous logs saved in the default folder into this custom folder. Handle windows environment variables. |
 | `DemoItems`                   |  url, path          | Address of the demo content (default is `http://www.compositeurdigital.com/demo/contents/config.json`). It can also be the address of an embedded resource (ex : `/Compositeur Digital;component/DemoContent.zip`). |
+| `DisableAnnotation`           | true / false - 1 /0 | If set to true, disables annotations.                                      |
+| `DisableBlankSheet`           | "                   | If set to true, hides the blanksheet creation.                             |
+| `DisableFastShare`            | "                   | If set to true,  hides the quick share button on all documents.            |
+| `DisableFavorites`            | "                   | If set to true, disables the basket/favorites feature.                     |
+| `DisplayOnSecondaryScreen`    | "                   | If set to true, uses the secondary screen when available.                  |
+| `DisablePrint`                | "                   | If set to true, disables print feature.                                    |
+| `DisablePostIt`               | "                   | If set to true, hides the note creation button.                            |
 | `ExplicitPlugins`             | plugins             | List of dll plugins to use (ex : `CompositeurDigital.ShowUI.BoardPlugins.Wpf.dll`). |
 | `FavoritesDestinationPath`    | `C:\MyPath\` (path) | Folder path to where favorites will be saved.                              |
 | `HelpEmailAdress`             | email               | Custom support email adress.                                               |
@@ -139,13 +146,6 @@ Each parameter must be written using the following structure :
 | `KioskMode`                   | true / false - 1 /0 | If set to true, activates the kiosk mode. It hides all menus and the quit button (except if there are several environments). |
 | `AutoResetInterval`           | 3 (minutes)         | In kiosk mode only, duration in minutes between the last user action an automatic environment reload. |
 | `ResetOnItemLoading`          | true / false - 1 /0 | Resets the environment on loading.                                         |
-| `DisableAnnotation`           | "                   | If set to true, disables annotations.                                      |
-| `DisableBlankSheet`           | "                   | If set to true, hides the blanksheet creation.                             |
-| `DisableFastShare`            | "                   | If set to true,  hides the quick share button on all documents.            |
-| `DisableFavorites`            | "                   | If set to true, disables the basket/favorites feature.                     |
-| `DisplayOnSecondaryScreen`    | "                   | If set to true, uses the secondary screen when available.                  |
-| `DisablePrint`                | "                   | If set to true, disables print feature.                                    |
-| `DisablePostIt`               | "                   | If set to true, hides the note creation button.                            |
 | `UseLegacyTouchEvents`        | "                   | If set to true, forces the use of Windows 7 touch events.                  |
 
 \* Example : 
