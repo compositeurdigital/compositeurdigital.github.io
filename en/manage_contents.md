@@ -22,7 +22,7 @@ The Compositeur Digital uses the file extension to setup the various elements of
 
 By default the Windows File explorer application hides file extensions. We strongly recommend to change this setting:
 
-![show extensions](img/show_extensions.jpg)
+![show extensions](img/show_extensions_v2.jpg)
 
 ## Environment
 
