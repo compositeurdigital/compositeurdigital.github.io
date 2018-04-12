@@ -34,9 +34,9 @@ Example : `*.table.hideCommands = true`
 
 | Metadata key         | Value            | Description                                                                             |
 |:---------------------|:----------------:|:----------------------------------------------------------------------------------------|
-| `table.noRotate`     | true/false - 1/0 | Inhibits rotation for the document.                                                     |
+| `table.noMove`       | true/false - 1/0 | Inhibits all movements for the document (it will be opened in the middle of the screen).|
+| `table.noRotate`     | "                | Inhibits rotation for the document.                                                     |
 | `table.noScale`      | "                | Inhibits resizing for the document.                                                     |
-| `table.noMove`       | "                | Inhibits all movements for the document (it will be opened in the middle of the screen).|
 
 #### Size and displayed tags
 
@@ -102,37 +102,50 @@ Each parameter must be written using the following structure :
 
 `<param name="parameterName" value="parameterValue, secondOptionalValue, third, etc" />`
 
-*App.xml*
+#### App.xml
 
- - `HomePage` by default : Table 
- - `DemoItems` address of the demo content (set by default to http://www.compositeurdigital.com/demo/contents/config.json ). It can also be the address of an embedded resource (ex : /Compositeur Digital;component/DemoContent.zip)
- - `ExplicitPlugins` : list of dll plugins to use
- - `ResetOnItemLoading` resets the environment on loading
- - `KioskMode` activates the kiosk mode : Hides all menus and the quit button (except if there are several environments)
- - `AutoResetInterval` in kiosk mode only : Duration in minutes between the last user action an automatic environment reload
- - `FavoritesDestinationPath` folder path to where favorites will be saved
- - `DisablePrint` disables print feature
- - `DisableAnnotation` disables annotations
- - `UseLegacyTouchEvents` if set to true, forces the use of Windows 7 touch events
- - `DisplayOnSecondaryScreen` if set to true, uses the secondary screen when available
- - `DisableFastShare` if set to true,  hides the quick share button on all documents
- - `DisableFavorites` disables the basket/favorites feature.
- - `DisableBlankSheet` hides the blanksheet creation 
- - `DisablePostIt` hides the note creation button
- - `CustomLogUIPath` path where UI logs (= analytics) will be stored. Copy previous logs saved in the default folder into this custom folder. Handle windows environment variables.
- - `HelpEmailAdress` custom support email adress
- - `AdditionalShareDestinations` adds new targets for share operations. Handles windows and Compositeur Digital environment variables. eg :
-```xml
+| Tag                           | Value               | Description                                                                |
+|:------------------------------|:-------------------:|:---------------------------------------------------------------------------|
+| `HomePage`                    | Table               | Defines how the home page is structured.                                   |
+| `DemoItems`                   |  url, path          | Address of the demo content (default is `http://www.compositeurdigital.com/demo/contents/config.json`). It can also be the address of an embedded resource (ex : `/Compositeur Digital;component/DemoContent.zip`). |
+| `ExplicitPlugins`             | plugins             | List of dll plugins to use (ex : `CompositeurDigital.ShowUI.BoardPlugins.Wpf.dll`). |
+| `ResetOnItemLoading`          | true / false - 1 /0 | Resets the environment on loading.                                         |
+| `KioskMode`                   | "                   | If set to true, activates the kiosk mode. It hides all menus and the quit button (except if there are several environments). |
+| `AutoResetInterval`           | 3 (minutes)         | In kiosk mode only, duration in minutes between the last user action an automatic environment reload. |
+| `FavoritesDestinationPath`    | `C:\MyPath\` (path) | Folder path to where favorites will be saved.                           |
+| `DisablePrint`                | true / false - 1 /0 | If set to true, disables print feature.                                    |
+| `DisableAnnotation`           | "                   | If set to true, disables annotations.                                      |
+| `UseLegacyTouchEvents`        | "                   | If set to true, forces the use of Windows 7 touch events.                  |
+| `DisplayOnSecondaryScreen`    | "                   | If set to true, uses the secondary screen when available.                  |
+| `DisableFastShare`            | "                   | If set to true,  hides the quick share button on all documents.            |
+| `DisableFavorites`            | "                   | If set to true, disables the basket/favorites feature.                     |
+| `DisableBlankSheet`           | "                   | If set to true, hides the blanksheet creation.                             |
+| `DisablePostIt`               | "                   | If set to true, hides the note creation button.                            |
+| `CustomLogUIPath`             | `C:\MyPath\` (path) | Path where UI logs (= analytics) will be stored. Copy previous logs saved in the default folder into this custom folder. Handle windows environment variables. |
+| `HelpEmailAdress`             | myEmail@myprovider.com (example) | Custom support email adress.                                  |
+| `AdditionalShareDestinations` | xml code *          | Adds new targets for share operations. Handles windows and Compositeur Digital environment variables. |
+
+\* Example : 
+
+```xml 
 <param name="AdditionalShareDestinations">
- <shareDestinations>
-  <shareDestination name="Universe" path="%UNIVERSE%\Exported Documents\" />
- </shareDestinations>
+  <shareDestinations>
+    <shareDestination name="Universe" path="%UNIVERSE%\Exported Documents\" />
+  </shareDestinations>
 </param>
 ```
 
-*Favorites.xml*
- - `FolderName` displayed name for the basket feature. By default, set to "basket"
- - `ContactInfos` contains the list of fields to be stored. By default set to :
+#### Favorites.xml
+
+| Tag                           | Value               | Description                                                                |
+|:------------------------------|:-------------------:|:---------------------------------------------------------------------------|
+| `FolderName`                  | characters          | Displayed name for the basket feature. By default, set to "basket".        |
+| `ContactInfos`                | xml code *          | Contains the list of fields to be stored.                                  |
+| `FavoritesDestinationPath`    | `C:\MyPath\` (path) | Folder path to which favorites document will be saved.                     |
+| `DisableFastShare`            | true / false - 1 /0 | Hides the quick share button on all documents.                             |
+| `DisableFavorites`            | "                   | Disables the document basket/favorites feature.                            |
+ 
+ \* Example :
  
  ```xml
     <contactInfos>
@@ -140,9 +153,7 @@ Each parameter must be written using the following structure :
       <contactInfo label="email" />
     </contactInfos>
 ```
- - `FavoritesDestinationPath` folder path to which favorites document will be saved
- - `DisableFastShare` hides the quick share button on all documents
- - `DisableFavorites` disable the document basket/favorites feature.
+
 
 *Page.xml*
  - `DisableDuplicate` hides the duplicate button
