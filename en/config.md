@@ -210,6 +210,8 @@ Each parameter must be written using the following structure :
 
 The universes can be sorted into categories by naming them with the pattern `category name, universe name` .
 In the start page, you will then see buttons for each category that will display their inner universe on clic.
+Using the same rule you can have mutiple levels of categories : `categoryA, subcategory2, subsubcategoryZ, universe4`
+
 To customize categories look, you can add images named `category name_preview.jpg` or `category name_icon.jpg`in your `Compositeur Digital` folder.
 In this same folder you can add a `_meta.txt` :
 
