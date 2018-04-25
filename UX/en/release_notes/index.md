@@ -10,6 +10,7 @@
 -	New « Creativity Meeting » and « Project Meeting » demos
 -	Toolbox: better custom note UI
 -	Bug fixes and performance improvements
+- Annotate without stylus
 
 
 [Back to Documentation](../index.md)
