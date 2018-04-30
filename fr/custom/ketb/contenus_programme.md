@@ -3,7 +3,7 @@
 | Contenus                         | Source    |  Identifiant / répertoire                              |  OneDrive                                                                           |
 |----------------------------------|-----------|--------------------------------------------------------|-------------------------------------------------------------------------------------|
 | Icône                            | Flux XML  | VISUEL                                                 | _preview.jpg                                                                        |
-| Brochure / plaquette             | Flux XML  | type_media=document_telechargeable(brochure|plaquette) | 1 - Présentation/1 - Brochure.slideshow/                                            |
+| Brochure / plaquette             | Flux XML  | type_media=document_telechargeable(brochure\|plaquette) | 1 - Présentation/1 - Brochure.slideshow/                                            |
 |   Maquette 3D                    | Flux XML  | source=vue-generale                                    | 2 - Maquette 3D/Vue générale.sequence/                                              |
 | Visites virtuelles               |  Flux XML | bien:VISITE_VIRTUELLE                                  | 0 - Recherche.productsearch/{shortref}.productsheet/Visite virtuelle {nombrepiece}/ |
 | Plans 3D                         | Flux XML  | bien:PLAN_3D                                           | 0 - Recherche.productsearch/{shortref}.productsheet/Plan 3D.slideshow/              |
