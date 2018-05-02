@@ -24,7 +24,7 @@ The quiz folder contains:
 
 The configuration file specifies each page of the quiz. It is formatted in XML and can be edited using Notepad or any other text editing application.
 
-You can download a sample quiz file by clicking here ![QuizExample](img/QuizExample.quiz.zip)
+You can download a sample quiz file by [clicking here.](http://doc.compositeurdigital.com/en/img/QuizExample.quiz.zip)
 
 ### Configuration file structure
 
