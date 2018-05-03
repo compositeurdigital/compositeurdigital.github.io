@@ -1,8 +1,8 @@
 # Release notes
 
-### 1.2.15
+### 1.2.18
 
--	Windows 10 April 2018 Update (1803) support
+-	Windows 10 April 2018 Update support
 -	Notes: ink to text conversion
 -	Share: multiple selection
 -	Share: single PDF option
@@ -11,6 +11,7 @@
 -	Toolbox: better custom note UI
 -	Bug fixes and performance improvements
 - Annotate without stylus
+- Full-screen action on documents
 
 
 [Back to Documentation](../index.md)
