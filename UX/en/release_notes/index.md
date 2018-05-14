@@ -1,5 +1,9 @@
 # Release notes
 
+### 1.2.19
+
+-	Fix: documents sometimes lock after inking
+
 ### 1.2.18
 
 -	Windows 10 April 2018 Update support
