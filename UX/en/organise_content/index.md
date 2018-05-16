@@ -11,7 +11,7 @@ Learn how to use metadata files.
 
 ## Demo Universe
 
-[Download a Demo Universe](./Demo-Universe.zip) and try all the samples available.
+[Download a Demo Universe](http://doc.compositeurdigital.com/UX/en/organise_content/Demo-Universe.zip) and try all the samples available.
 
 <!--
 ## [Advanced configuration](advanced_configuration)
