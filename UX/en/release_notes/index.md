@@ -1,5 +1,15 @@
 # Release notes
 
+### 1.3.0
+
+- Support : Samsung Flip stylus
+-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet
+- Custom toolbox notes : ink to text conversion.
+-	New experience when launching Compositeur Digital UX for the first time
+-	Speed-up launching time
+-	Aras PLM demo.
+
+
 ### 1.2.19
 
 -	Fix: documents sometimes lock after inking
