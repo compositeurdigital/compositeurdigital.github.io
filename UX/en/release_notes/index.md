@@ -1,6 +1,6 @@
 # Release notes
 
-### 1.3.0
+### 1.4.0
 
 - Support : Samsung Flip stylus
 -	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet
