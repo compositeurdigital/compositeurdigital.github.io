@@ -33,7 +33,7 @@ To put/remove the focus on/from a part, tap on its name.
 
 **Interaction with the item**
 
-| Navigation Mode |
+| Manipulation Mode |
 |:---------------:|
 | &#x2714;        |
 
