@@ -7,6 +7,8 @@ Templates are accessible from the main menu.
 
 ![Templates](../../img/content_template_menu.JPG)
 
+Templates are also a good way to brand your notes and blanksheets to respect your design guidelines in terms of documents.
+
 ## Actions within Compositeur Digital UX
 
 Depending on the type of file (i.e. slideshows or images...) check the corresponding page:
