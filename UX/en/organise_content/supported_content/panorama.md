@@ -4,12 +4,18 @@ This content type allows you to display a 360° view of a scene (e.g. landscapes
 
 To interact with a Panorama, press the navigation button at the center of the item : it starts the navigation mode.
 
+This content type supports [krpano tour](https://krpano.com/tours/weingut/). It allows the user to navigate in a virtual space and explore various scenes clicking on hotspots to move from one scene to another one.
+
 ![Panorama navigation mode disabled](../../img/content_panorama_start.JPG)
 
 In navigation mode, slide your finder on the item to rotate the camera and see all the scene. If you don't touch the panorama for 10 seconds in navigation mode, it will automatically disable the navigation mode and your item will behave normally when you touch it.
 You can also press the `end navigation` button (next to the action button) to end navigation.
 
 ![Panarama navigation mode enabled](../../img/content_panorama_end.JPG)
+
+When a hotspot is available, tapping on it will drive you to the next scene. 
+
+![Panorama hotspot](../../img/content_panorama_hotspot.JPG)
 
 ## Action within Compositeur Digital UX
 
@@ -30,7 +36,7 @@ Panorama items support the following action. To have a complete overview of each
 ## Content extension
 
 To use a panorama, put the images to render in a folder, and add the extension `.panorama` at the end of the name of your folder.
-Inside your panorama, only use files that end with `.jpeg`, `.jpg`, `.png`.
+Inside your panorama, only use files that end with `.jpeg`, `.jpg`, `.png`, or `.xml` to include krpano tours.
 
 ## Create a panorama
 
@@ -38,7 +44,15 @@ Inside your panorama, only use files that end with `.jpeg`, `.jpg`, `.png`.
 1. Drag and drop all the files which are composing your panorama in this folder.
 1. (Optional) Add an image (`.jpg` or `.png`) named `_preview` to change the preview.
 
-### Projection types
+## Create a tour
+
+1. In your environment folder, create a folder named `<Name of your tour>.panorama` (e.g. `My Tour.panorama`).
+1. Drag and drop all files which are composing your tour in this folder. These files must include a file named `_tour.xml`. This file includes all the descriptions of the various scenes and hotspots which are composing your tour. 
+The graphical resources coming with your tour should also be pasted in your `panorama` folder. Their path should be the same as the one described by your krpano file. 
+1. (Optional) You can customize the look of your hotspots. Add an image (`.png`) named `_hotspot.png` to change the look of the hotspots.
+1. (Optional) Add an image (`.jpg` or `.png`) named `_preview` to change the preview.
+
+## Projection types
 
 Two types of projection are supported.
 
@@ -67,7 +81,7 @@ Place 6 images, corresponding to the six faces of your cube in the folder. Keep 
 
 ![Panorama folder cubes](../../img/content_panorama_cubes_folder.JPG)
 
-**Important** : Do not place any other images in this folder (except one `_preview` file).
+**Important** : Do not place any other images in this folder (except one `_preview` file, or `_hotspot` file if you are creating a tour).
 
 ## Download a sample
 
