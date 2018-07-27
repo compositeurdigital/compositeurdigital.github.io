@@ -6,6 +6,9 @@ Learn how to create beautiful universes.
 ## [Supported content](supported_content/index.md)
 Check the list of supported content types and related actions.
 
+## [Templates](templates.md)
+Learn how to boost your productivity with templates.
+
 ## [Advanced settings : Metadata](advanced_setting.md)
 Learn how to use metadata files.
 
