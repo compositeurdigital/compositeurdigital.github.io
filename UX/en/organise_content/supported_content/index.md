@@ -9,6 +9,7 @@ This section describes all the contents which can be used inside Compositeur Dig
 * [Video](video.md)
 
 ## Compositeur Digital UX formats
+* [3D Objects](3dobj.md)
 * [Guestbook](guestbook.md)
 * [Panorama : 360° view (first person)](panorama.md)
 * [Quiz](quiz.md)
