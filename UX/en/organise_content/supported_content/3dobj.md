@@ -33,9 +33,9 @@ To put/remove the focus on/from a part, tap on its name.
 
 **Interaction with the item**
 
-| Manipulation Mode |
-|:---------------:|
-| &#x2714;        |
+| Manipulation Mode | Focus Part | Show/Hide Part |
+|:-----------------:|:-----------|:---------------|
+| &#x2714;          | &#x2714;   | &#x2714;       |
 
 ## Content extension
 
