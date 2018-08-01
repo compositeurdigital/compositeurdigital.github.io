@@ -8,7 +8,7 @@ This content type supports [krpano tour](https://krpano.com/tours/weingut/). It 
 
 ![Panorama navigation mode disabled](../../img/content_panorama_start.JPG)
 
-In navigation mode, slide your finder on the item to rotate the camera and see all the scene. If you don't touch the panorama for 10 seconds in navigation mode, it will automatically disable the navigation mode and your item will behave normally when you touch it.
+In navigation mode, slide your finger on the item to rotate the camera and see all the scene. If you don't touch the panorama for 10 seconds in navigation mode, it will automatically disable the navigation mode and your item will behave normally when you touch it.
 You can also press the `end navigation` button (next to the action button) to end navigation.
 
 ![Panarama navigation mode enabled](../../img/content_panorama_end.JPG)
