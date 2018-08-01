@@ -43,6 +43,6 @@ Only use files that ends with `.jpg`, `.jpeg`, `.pdf`, `.png`, `.ppt` or `.pptx`
 A Demo Universe which contains a sample for a slideshow is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
 
 
-Next : [Creating Templates (Compositeur Digital UX)](templates.md)
+Next : [Web Pages](web_page.md)
 
 [Back to Supported Content](index.md)
