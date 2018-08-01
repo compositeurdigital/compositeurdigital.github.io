@@ -59,6 +59,7 @@ Each item has different actions. This section summarizes all the actions you can
 |:------------------------|:-----------------------------------------------------------------------------------------------------|
 | *Navigation On*         | Turn on navigation mode. In navigation mode, sliding your finger on the item will rotate the camera. |
 | *Navigation Off*        | Turn off navigation mode.                                                                            |
+| *Hot Spots*             | In `tour` mode, allows the user to navigate from one scene to another.                               |
 
 ### Quiz
 
@@ -109,7 +110,7 @@ The following table compares all the actions which can be triggered from the act
 |:-----------------------|:--------:|:--------:|:---------:|:--------:|:---------:|:-------------:|
 | **Guestbook**          | &#x2714; | &#x2716; | &#x2716;  | &#x2714; | &#x2714;  | &#x2714;      |
 | **Images**             | &#x2714; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
-| **Mortgage simulator** | &#x2716; | &#x2714; | &#x2716;  | &#x2714; | &#x2714;  | &#x2714;      |
+| **Mortgage simulator** | &#x2716; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
 | **Panorama**           | &#x2716; | &#x2714; | &#x2714;  | &#x2716; | &#x2714;  | &#x2716;      |
 | **Quiz**               | &#x2716; | &#x2716; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
 | **Search Interface**   | &#x2716; | &#x2716; | &#x2716;  | &#x2716; | &#x2714;  | &#x2716;      |
