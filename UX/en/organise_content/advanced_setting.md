@@ -39,7 +39,12 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `simulator.durationDefaultValue`  | 20 (number)         | sets the default duration of a loan                                       |
 | `table.hideCommands`              | true/false - 1/0    | hides the control buttons of a document. On a slideshow, the buttons `<` and `>` will disappear. |
 | `table.noRotate`                  | "                   | inhibits rotation for the document                                        |
-| `video.loop`                      | "                   | enables loop mode for the video player                                    | 
+| `table.viewer`                    | cdux                | Makes sure the `cdurl` link will be displayed inside Compositeur Digital UX |
+| `video.loop`                      | "                   | enables loop mode for the video player                                    |
+| `web.manipulationMode`            | 1 or 0              | If 1, the user will have to enable navigation mode, then the view will behave like a browser. If 0, the navigation mode will be reduced. |
+| `web.showChrome`                  | true/false - 1/0    | If true, a navigation bar at the top of the view will be shown. Else, no navigation bar will be displayed. |
+| `web.viewport.width`              | 1000 (number)       | Sets the default width of the view.                                       |
+| `web.viewport.height`             | 800 (number)        | Sets the default height of the view.                                      |
 
 <!--| `table.noScale` | " | inhibits resizing for the document |-->
 <!--| `table.noMove` | " | inhibits moving the document | -->
