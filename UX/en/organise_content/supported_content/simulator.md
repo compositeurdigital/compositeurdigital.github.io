@@ -12,7 +12,7 @@ Mortgage simulator supports the following action. To have a complete overview of
 
 | Annotate | Capture  | Duplicate | Save as  | Selection | Share    |
 |:--------:|:--------:|:---------:|:--------:|:---------:|:--------:|
-| &#x2716; | &#x2714; | &#x2716;  | &#x2714; | &#x2714;  | &#x2714; |
+| &#x2716; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714; |
 
 ## Content extension
 
