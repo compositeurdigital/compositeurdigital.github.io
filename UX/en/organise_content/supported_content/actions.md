@@ -6,6 +6,7 @@ This page describes all the actions you can achieve using Compositeur Digital UX
 
 - [Actions Menu](#actions-menu)
 - [Custom actions](#custom-actions)
+  - [3D Objects](#3d-objects)
   - [Guestbook](#guestbook) 
   - [Images](#images)
   - [Panorama](#panorama)
@@ -14,6 +15,7 @@ This page describes all the actions you can achieve using Compositeur Digital UX
   - [Search Interface](#search-interface) 
   - [Slideshows](#slideshows)
   - [Video](#video) 
+  - [Web pages](#web-pages)
 - [Recap](#recap)
   
 ## Actions Menu
@@ -38,6 +40,15 @@ The actions triggered by a tap on these buttons are listed below.
 ## Custom Actions
 
 Each item has different actions. This section summarizes all the actions you can do for all the item.
+
+### 3D Objects
+
+| Action                  | Description                                                                                          |
+|:------------------------|:-----------------------------------------------------------------------------------------------------|
+| *Manipulation On*       | Turn on manipulation mode. In manipulation mode, sliding your finger on the item will rotate the object. |
+| *Manipulation Off*      | Turn off manipulation mode.                                                                          |
+| *Focus Part*            | Put the focus on a subpart of the object                                                             |
+| *Show/Hide Part*        | Show/hide a subpart of the object                                                                    |
 
 ### Guestbook
 
@@ -102,12 +113,21 @@ Each item has different actions. This section summarizes all the actions you can
 | *Loop*                  | When turned on, loop the video endlessly. Use the `Loop` action                                      |
 | *Player*                | Play / Pause, Mute, change the position of the video.                                                |
 
+### Web pages
+
+| Action                  | Description                                                                                          |
+|:------------------------|:-----------------------------------------------------------------------------------------------------|
+| *Navigation On*         | Turn on navigation mode. In navigation mode, the web view will consume all the touch interactions.   |
+| *Navigation Off*        | Turn off navigation mode.                                                                            |
+| *Web page navigation*   | Content inside the web page (buttons, links ect) are enabled.                                        |
+
 ## Recap
 
 The following table compares all the actions which can be triggered from the action menu for all the items.
 
 | Item                   | Annotate | Capture  | Duplicate | Save as  | Selection | Share         |
 |:-----------------------|:--------:|:--------:|:---------:|:--------:|:---------:|:-------------:|
+| **3D Objects**         | &#x2716; | &#x2714; | &#x2714;  | &#x2716; | &#x2714;  | &#x2716;      |
 | **Guestbook**          | &#x2714; | &#x2716; | &#x2716;  | &#x2714; | &#x2714;  | &#x2714;      |
 | **Images**             | &#x2714; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
 | **Mortgage simulator** | &#x2716; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
@@ -117,7 +137,7 @@ The following table compares all the actions which can be triggered from the act
 | **Sequence**           | &#x2716; | &#x2714; | &#x2714;  | &#x2716; | &#x2714;  | &#x2716;      |
 | **Slideshow**          | &#x2714; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
 | **Video**              | &#x2716; | &#x2716; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
-
+| **Web Pages**          | &#x2716; | &#x2716; | &#x2714;  | &#x2716; | &#x2714;  | &#x2716;      |
 
 [Back to Supported Content](index.md)
 
