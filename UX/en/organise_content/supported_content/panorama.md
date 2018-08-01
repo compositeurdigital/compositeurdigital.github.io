@@ -29,9 +29,9 @@ Panorama items support the following action. To have a complete overview of each
 
 **Interaction with the item**
 
-| Navigation Mode |
-|:---------------:|
-| &#x2714;        |
+| Navigation Mode | Hotspot Selection |
+|:---------------:|:------------------|
+| &#x2714;        | &#x2714;          |
 
 ## Content extension
 
