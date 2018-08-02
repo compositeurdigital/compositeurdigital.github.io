@@ -87,6 +87,7 @@ Each item has different actions. This section summarizes all the actions you can
 |:------------------------|:-----------------------------------------------------------------------------------------------------|
 | *Layers*                | Select the layer of the sequence you want to interact with.                                          |
 | *Move*                  | Use a slider to move forward or backward in the sequence of images.                                  |
+| *Hot spots*             | Allows you to open a document if you interact with it
 
 ### Search Interface
 
