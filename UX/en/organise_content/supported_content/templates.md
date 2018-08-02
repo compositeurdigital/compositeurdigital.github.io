@@ -5,7 +5,7 @@ Templates are useful when it comes to apply specific methods that requires a lot
 
 Templates are accessible from the main menu.
 
-![Templates](../../img/content_template_menu.JPG)
+![Templates](../../img/content_templates_menu.JPG)
 
 Templates are also a good way to brand your notes and blanksheets to respect your design guidelines in terms of documents.
 
