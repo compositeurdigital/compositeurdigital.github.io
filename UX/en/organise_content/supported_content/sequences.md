@@ -4,6 +4,10 @@ This content type allows you to display a 360° view of any objects, using a seq
 
 ![Sequence with several layers](../../img/content_sequence.JPG)
 
+Sequences also support hot spots : you can define area on each slides of your sequence to create interactive hot spots. When hot spots are touched, they will open the content they are linked to. In the picture below, hot spots appear in red.
+
+![Sequence with hot spots](../../img/content_sequence_hotspots.JPG)
+
 ## Actions within Compositeur Digital UX
 
 Sequences support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
@@ -16,9 +20,9 @@ Sequences support the following action. To have a complete overview of each acti
 
 **Interaction with the item**
 
-| Layers   | Move     |
-|:--------:|:--------:|
-| &#x2714; | &#x2714; | 
+| Layers   | Move     | Hot spots |
+|:--------:|:--------:|:----------|
+| &#x2714; | &#x2714; | &#x2714;  |
 
 ## Content extension
 
@@ -53,10 +57,13 @@ Layers will be ordered by their names, from bottom to top, i.e. :
 
 ![Sequence explorer](../../img/content_sequence_folder.JPG) ![Sequence layers](../../img/content_sequence_layers.JPG)
 
+## Hot spots
+
+A sample containing hot spots definitions for sequences is available in the section below.
+
 ## Download a sample
 
 A Demo Universe which contains a sample for a sequence is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
-
 
 Next : [Mortgage Simulator (Compositeur Digital UX format)](simulator.md)
 
