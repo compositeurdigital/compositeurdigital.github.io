@@ -7,6 +7,8 @@ Use this content type to display a 360° view of objects from a sequence of pre-
 On a 360° sequence you can:
 
 - Move forward and backward in the sequence of images using the slider
+- Select a layer to dislay (e.g. a ground in a building).
+- Click on a hot spot to open a document attached to the hot spot (e.g. plans of an apartment).
 
 ## Content management
 
@@ -28,6 +30,6 @@ Here is an example :
     - 001.png
     - 002.png
     - ..
-
+    
 
 [Back to supported content](content_types.md)
