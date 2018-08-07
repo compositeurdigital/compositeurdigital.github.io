@@ -5,9 +5,9 @@
 
 ### 1.4.7
 
-- Add app screenshot feature (for computers running Windows 10 April 2018 update)
-- Add support for HTML folders. 
-- Bug fixes and performance improvements
+- App screenshot feature (for computers running Windows 10 April 2018 update).
+- Support for HTML folders. 
+- Bug fixes and performance improvements.
 
 ### 1.4.0
 
