@@ -3,6 +3,12 @@
 
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 
+### 1.4.7
+
+- Bug fixes and performance improvements
+- Add app screenshot feature (for computers running Windows 10 April 2018 update)
+- Add support for HTML folders. 
+
 ### 1.4.0
 
 - Support : Samsung Flip stylus
