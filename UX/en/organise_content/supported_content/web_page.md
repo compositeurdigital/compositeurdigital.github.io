@@ -6,7 +6,7 @@ To interact with a web page, press the navigation button at the center of the it
 
 ![Web page navigation mode enabled](../../img/content_web_page_start.JPG)
 
-In navigation mode, slide your finger on the item to rotate the camera and see the scene. If you don't touch the web page for 10 seconds in navigation mode, it will automatically disable the navigation mode and your item will behave normally when you touch it. You can also press the `end navigation` button (next to the action button) to end navigation.
+In navigation mode, you can interact with the website as you would do on a web browser. However, the manipulation actions (move, zoom, rotate) you can ordinary use on all documents are disabled (unless you touch the document on its top bar, where the website name is written). Pess the `end navigation` button (next to the action button) to end navigation.
 
 ![Web page navigation mode disabled](../../img/content_web_page_end.JPG)
 
@@ -53,6 +53,35 @@ With this line, the web page will be opened inside your Compositeur Digital UX.
 To display local HTML content, create a folder and add the extension `.html` or `.web` at the end of the name of your folder. Inside your `web` folder, you can use `css`, `htm`, `html` and `js` files. You can use images as well.
 
 If you have several `html` files inside this folder, by default, Compositeur Digital UX will look for a file named `index.hmtl`. If no such file can be found, the starting file will be the first regarding the alphabetical order.
+
+### Interactions with Compositeur Digital UX
+
+With html contents, you can have interaction between your webpage an your Compositeur Digital UX using javascript.
+All actions are available through the object `CDUX`.
+
+openItem: open an item from your universe by giving its relative path from your webview
+`<a href="javascript:CDUX.openItem('../image.jpg');">open image</a>`
+`<a href="javascript:CDUX.openItem('2ndPage.html?name=test');">open new webview</a>`
+
+getProjectData: retrieve a value stored on current project by giving its key
+
+`var budget = CDUX.getProjectData("firstName");`
+
+setProjectData: sets a value on current project for a given key
+
+`CDUX.setProjectData("finance.budget", 600000);`
+
+getInstanceData: retrieve a value stored on current document instance by giving its key
+
+`var value = CDUX.getProjectData("questionnay.thirdAnswer");`
+
+setInstanceData: sets a value on current document instance for a given key
+
+`CDUX.setProjectData("questionnay.thirdAnswer", "Yes");`
+
+ProjectData are shared with all other documents whereas instanceData only concerns the current instance of your document (Note that InstanceData will be copied in case you duplicate the webview).
+With ProjectData you can interact with with the values of an other webview, but also of a [Quiz](quiz.md) or a [Mortgage simulator](simulator.md)
+
 
 ![Local HTML content](../../img/content_web_page_local_folder.JPG)
 
