@@ -54,6 +54,8 @@ To display local HTML content, create a folder and add the extension `.html` or 
 
 If you have several `html` files inside this folder, by default, Compositeur Digital UX will look for a file named `index.hmtl`. If no such file can be found, the starting file will be the first regarding the alphabetical order.
 
+![Local HTML content](../../img/content_web_page_local_folder.JPG)
+
 ### Interactions with Compositeur Digital UX
 
 With html contents, you can have interaction between your webpage an your Compositeur Digital UX using javascript.
@@ -64,26 +66,20 @@ openItem: open an item from your universe by giving its relative path from your 
 `<a href="javascript:CDUX.openItem('2ndPage.html?name=test');">open new webview</a>`
 
 getProjectData: retrieve a value stored on current project by giving its key
-
 `var budget = CDUX.getProjectData("firstName");`
 
 setProjectData: sets a value on current project for a given key
-
 `CDUX.setProjectData("finance.budget", 600000);`
 
 getInstanceData: retrieve a value stored on current document instance by giving its key
-
 `var value = CDUX.getProjectData("questionnay.thirdAnswer");`
 
 setInstanceData: sets a value on current document instance for a given key
-
 `CDUX.setProjectData("questionnay.thirdAnswer", "Yes");`
 
 ProjectData are shared with all other documents whereas instanceData only concerns the current instance of your document (Note that InstanceData will be copied in case you duplicate the webview).
 With ProjectData you can interact with with the values of an other webview, but also of a [Quiz](quiz.md) or a [Mortgage simulator](simulator.md)
 
-
-![Local HTML content](../../img/content_web_page_local_folder.JPG)
 
 ### Summup
 
