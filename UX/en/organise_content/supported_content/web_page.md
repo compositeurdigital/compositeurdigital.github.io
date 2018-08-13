@@ -62,20 +62,20 @@ With html contents, you can have interaction between your webpage an your Compos
 All actions are available through the object `CDUX`.
 
 openItem: open an item from your universe by giving its relative path from your webview
-`<a href="javascript:CDUX.openItem('../image.jpg');">open image</a>`
-`<a href="javascript:CDUX.openItem('2ndPage.html?name=test');">open new webview</a>`
+<br />`<a href="javascript:CDUX.openItem('../image.jpg');">open image</a>`
+<br />`<a href="javascript:CDUX.openItem('2ndPage.html?name=test');">open new webview</a>`
 
 getProjectData: retrieve a value stored on current project by giving its key
-`var budget = CDUX.getProjectData("firstName");`
+<br />`var budget = CDUX.getProjectData("firstName");`
 
 setProjectData: sets a value on current project for a given key
-`CDUX.setProjectData("finance.budget", 600000);`
+<br />`CDUX.setProjectData("finance.budget", 600000);`
 
 getInstanceData: retrieve a value stored on current document instance by giving its key
-`var value = CDUX.getProjectData("questionnay.thirdAnswer");`
+<br />`var value = CDUX.getProjectData("questionnay.thirdAnswer");`
 
 setInstanceData: sets a value on current document instance for a given key
-`CDUX.setProjectData("questionnay.thirdAnswer", "Yes");`
+<br />`CDUX.setProjectData("questionnay.thirdAnswer", "Yes");`
 
 ProjectData are shared with all other documents whereas instanceData only concerns the current instance of your document (Note that InstanceData will be copied in case you duplicate the webview).
 With ProjectData you can interact with with the values of an other webview, but also of a [Quiz](quiz.md) or a [Mortgage simulator](simulator.md)
