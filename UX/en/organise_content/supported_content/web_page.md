@@ -2,11 +2,11 @@
 
 This content allows you to display a local html content, or a web site page inside your Compositeur Digital UX. Web site pages can also be displayed as links, so that when they are selected, an external web browser is showing them.
 
-To interact with a web page, press the navigation button at the center of the item: it starts the navigation mode.
+To interact with a web page, press the navigation button at the center of the item: This will trigger the navigation mode.
 
 ![Web page navigation mode enabled](../../img/content_web_page_start.JPG)
 
-In navigation mode, you can interact with the website as you would do on a web browser. However, the manipulation actions (move, zoom, rotate) you can ordinary use on all documents are disabled (unless you touch the document on its top bar, where the website name is written). Pess the `end navigation` button (next to the action button) to end navigation.
+In navigation mode, you can interact with the content displayed in webview in the same manner as you would do on a web browser. However, the manipulation actions (move, zoom, rotate) you can ordinary use on all documents are disabled (unless you touch the document on its top bar, where the website name is written). Press the `end navigation` button (next to the action button) to end navigation.
 
 ![Web page navigation mode disabled](../../img/content_web_page_end.JPG)
 
