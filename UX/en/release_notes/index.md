@@ -3,13 +3,13 @@
 
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 
-### 1.5.0
+### 1.5.1
 
-- Support for virtual tours navigation : from a panorama, various scenes can be played.
-- Support for 3D models (.obj, .3ds)
-- Improve navigation in HTML folders on Surface HUB
-- When exporting items of a project, the screen capture is added inside the merged pdf if the option "merge as single pdf" is checked.
-- The "zoom" button of the item now zooms the items to fill the space available on screen.
+- Support for virtual tours navigation beteween scenes.
+- Support for 3D models (.obj, .3ds).
+- Improved navigation in web folders on Surface HUB.
+- Include screen capture in single pdf exports.
+- The "zoom" document button fits the avalaible space.
 - Bug fixes and performance improvements.
 
 ### 1.4.7
