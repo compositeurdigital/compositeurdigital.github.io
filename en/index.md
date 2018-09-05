@@ -1,4 +1,4 @@
-# Documentation
+# Compositeur Digital 4 Documentation
 
 ### [Getting started](gettingstarted.md)
 Installing and launching the *Compositeur Digital*.
