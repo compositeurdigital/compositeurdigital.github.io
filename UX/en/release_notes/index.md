@@ -3,28 +3,33 @@
 
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 
+
+### 1.5.2
+
+- Support for .sequence polygonal pois
+
 ### 1.5.1
 
-- Support for virtual tours navigation beteween scenes.
-- Support for 3D models (.obj, .3ds).
-- Improved navigation in web folders on Surface HUB.
-- Include screen capture in single pdf exports.
-- The "zoom" document button fits the avalaible space.
-- Bug fixes and performance improvements.
+- Support for virtual tours navigation beteween scenes
+- Support for 3D models (.obj, .3ds)
+- Improved navigation in web folders on Surface HUB
+- Include screen capture in single pdf exports
+- The "zoom" document button fits the avalaible space
+- Bug fixes and performance improvements
 
 ### 1.4.7
 
-- App screenshot feature (for computers running Windows 10 April 2018 update).
-- Support for HTML folders. 
-- Bug fixes and performance improvements.
+- App screenshot feature (for computers running Windows 10 April 2018 update)
+- Support for HTML folders
+- Bug fixes and performance improvements
 
 ### 1.4.0
 
 - Support : Samsung Flip stylus
-- Custom toolbox notes : ink to text conversion.
+- Custom toolbox notes : ink to text conversion
 -	New experience when launching Compositeur Digital UX for the first time
 -	Speed-up launching time
--	Aras PLM demo.
+-	Aras PLM demo
 
 ### 1.2.19
 
