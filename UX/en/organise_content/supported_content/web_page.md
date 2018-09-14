@@ -94,7 +94,7 @@ Metadata will help you to customize the way your web viewer behaves.
 | Metadata Key                      | Value               | Description                                                               |
 |:---------------------------------:|:-------------------:|:--------------------------------------------------------------------------|
 | `table.viewer`                    | cdux                | Makes sure the `cdurl` link will be displayed inside Compositeur Digital UX |
-| `web.manipulationMode`            | 1 or 0              | If 1, the user will have to enable navigation mode, then the view will behave like a browser. If 0, the navigation mode will be reduced. |
+| `web.manipulationMode`            | `toggle` or `integrated`              | If `toggle`, all touch movements acts only on the container until the user enable navigation mode, then all interactions are transmited to the web content. If `integrated`, single taps are transmited to web content whereas more complex touch movements (slide, zoom, ...) will move the container  |
 | `web.showChrome`                  | True of False       | If true, a navigation bar at the top of the view will be shown. Else, no navigation bar will be displayed. |
 | `web.viewport.width`              | 1000 (number)       | Sets the default width of the view.                                       |
 | `web.viewport.height`             | 800 (number)        | Sets the default height of the view.                                      |
