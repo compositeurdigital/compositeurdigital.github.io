@@ -5,9 +5,9 @@
 
 ### 1.5.5
 - Fixed random crashes when displaying a video
-- New video customization options, see [Advanced settings - Video](../advanced_setting.html#video)
+- New video customization options, see [Advanced settings - Video](../organise_content/advanced_setting.html#video)
 - Fixed 3DS files support for untextured models
-- Loan simulator rates made customizable, see [Advanced settings - Loan simulator](../advanced_setting.html#loan-simulator)
+- Loan simulator rates made customizable, see [Advanced settings - Loan simulator](../organise_content/advanced_setting.html#loan-simulator)
 - Fixed web view audio playing in background
 - Web view capture support
 
