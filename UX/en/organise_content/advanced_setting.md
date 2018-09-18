@@ -16,37 +16,74 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 
 > Example : `*.table.hideCommands = true`
 
+## Value types
+
+|Type         | Description | Examples|
+|:------------|:------------|:--------|
+| `text`      | a string of characters | `some text`, `My document` |
+| `number`    | an integral or decimal number | `123`, `123.45` |
+| `dimension` | a size in pixels or a percentage of the containing view | `400`, `75%` |
+| `boolean`   | true or false | `true`/`false`, `1`/`0`  |
+
 
 ## Metadata supported
 
-| Metadata Key                      | Value               | Description                                                               |
-|:---------------------------------:|:-------------------:|:--------------------------------------------------------------------------|
-| `desiredHeight`                   | 400 (number)        | sets the default height of the document                                   |
-| `desiredWidth`                    | "                   | sets the default width of the document                                    |
-| `isPaper`                         | true/false - 1/0    | removes the background of the document's buttons (action and close buttons)|
-| `maxHeight`                       | 400 (number)        | sets the maximum height                                                   |
-| `maxWidth`                        | "                   | sets the maximum width                                                    |
-| `minHeight`                       | "                   | sets the minimum height                                                   |
-| `minWidth`                        | "                   | sets the minimum width                                                    |
-| `name`                            | A name (characters) | change the displayed name of the document to "A name" (example)           |
-| `orientation`                     | 90 (number)         | rotates the document using a specified value : `-90` to turn left, `90` to turn right or `180` to flip the document |
-| `simulator.creditMaxValue`        | 800000 (number)     | sets the maximum value of a loan                                          |
-| `simulator.creditTickFrequency`   | 5000(number)        | sets the interval between two values for a loan                           |
-| `simulator.creditDefaultValue`    | 3000000 (number)    | sets the default loan value                                               |
-| `simulator.durationMinValue`      | 5 (number)          | sets the shortest duration of a loan                                      |
-| `simulator.durationMaxValue`      | 30 (number)         | sets the longest duration of a loan                                       |
-| `simulator.durationTickFrequency` | 1 (number)          | sets the interval between two values for a loan duration                  |
-| `simulator.durationDefaultValue`  | 20 (number)         | sets the default duration of a loan                                       |
-| `table.hideCommands`              | true/false - 1/0    | hides the control buttons of a document. On a slideshow, the buttons `<` and `>` will disappear. |
-| `table.noRotate`                  | "                   | inhibits rotation for the document                                        |
-| `table.viewer`                    | cdux                | Makes sure the `cdurl` link will be displayed inside Compositeur Digital UX |
-| `video.loop`                      | "                   | enables loop mode for the video player                                    |
-| `web.manipulationMode`            | 1 or 0              | If 1, the user will have to enable navigation mode, then the view will behave like a browser. If 0, the navigation mode will be reduced. |
-| `web.showChrome`                  | true/false - 1/0    | If true, a navigation bar at the top of the view will be shown. Else, no navigation bar will be displayed. |
-| `web.viewport.width`              | 1000 (number)       | Sets the default width of the view.                                       |
-| `web.viewport.height`             | 800 (number)        | Sets the default height of the view.                                      |
+| Metadata Key                      | Type         | Default | Description |
+|:--------------------------------- |:-------------|:--------|:-|
+| `desiredHeight`                   | `dimension`  | 400     | sets the default height of the document |
+| `desiredWidth`                    | `dimension`  | 400     | sets the default width of the document |
+| `isPaper`                         | `boolean`    | false   | removes the background of the document's buttons (action and close buttons)|
+| `maxHeight`                       | `dimension`  | -       | sets the maximum height |
+| `maxWidth`                        | `dimension`  | -       | sets the maximum width |
+| `minHeight`                       | `dimension`  | -       | sets the minimum height |
+| `minWidth`                        | `dimension`  | -       | sets the minimum width |
+| `name`                            | `text`       | file name | change the displayed name of the document to "A name" (example) |
+| `orientation`                     | `number`     | 0       | rotates the document: `-90` to turn left, `90` to turn right or `180` to flip the document |
+| `table.hideCommands`              | `boolean`    | false   | hides the control buttons of a document (previous/next page, video playback controls…) |
+| `table.noRotate`                  | `boolean`    | false   | inhibits rotation for the document |
+| `table.viewer`                    | `cdux`       | unset   | Makes sure the `cdurl` link will be displayed inside Compositeur Digital UX |
+                                 
+
 
 <!--| `table.noScale` | " | inhibits resizing for the document |-->
 <!--| `table.noMove` | " | inhibits moving the document | -->
+
+## Content specific metadata
+
+### Video
+
+| Metadata Key                      | Type      | Default | Description |
+|:--------------------------------- |:----------|:--------|:-|
+| `video.autoplay`                  | `boolean` | true    | start playing video on display |
+| `video.autoplay.delay`            | `number ` | 0       | delay autoplay by the number of seconds specified |
+| `video.rewind`                    | `boolean` | false   | go back to the first frame when the video ends |
+| `video.loop`                      | `boolean` | false   | replay from start when the video ends |
+| `video.controls.alwaysvisible`    | `boolean` | false   | force the display of the video playback controls |
+
+### Web
+
+| Metadata Key                      | Type      | Default | Description |
+|:--------------------------------- |:----------|:--------|:-|
+| `web.manipulationMode`            | `number`  | 0       | If `1`, the user will have to enable navigation mode, then the view will behave like a browser. If `0`, the navigation mode will be reduced. |
+| `web.showChrome`                  | `boolean` | false   | display a navigation bar at the top of the view |
+| `web.viewport.width`              | `number`  | 1000    | Sets the default width of the page view |
+| `web.viewport.height`             | `number`  | 800     | Sets the default height of the page view |
+
+### Loan simulator
+
+| Metadata Key                      | Type     | Default | Description |
+|:--------------------------------- |:---------|:--------|:-|
+| `simulator.creditMaxValue`        | `number` | 800000  | sets the maximum value of a loan |
+| `simulator.creditTickFrequency`   | `number` | 5000    | sets the interval between two values for a loan |
+| `simulator.creditDefaultValue`    | `number` | 300000  | sets the default loan value |
+| `simulator.durationMinValue`      | `number` | 5       | sets the shortest duration of a loan |
+| `simulator.durationMaxValue`      | `number` | 30      | sets the longest duration of a loan |
+| `simulator.durationTickFrequency` | `number` | 1       | sets the interval between two values for a loan duration |
+| `simulator.durationDefaultValue`  | `number` | 20      | sets the default duration of a loan |
+
+
+
+
+
 
 [Back to Organise Content](index.md)
