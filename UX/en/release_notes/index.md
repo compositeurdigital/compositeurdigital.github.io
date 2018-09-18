@@ -3,6 +3,9 @@
 
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 
+### 1.5.5
+- Fixed random crashes when displaying a video
+- New video customization options, see [Advanced settings - Video](http://doc.compositeurdigital.com/UX/en/organise_content/advanced_setting.html#video)
 
 ### 1.5.2
 
@@ -25,7 +28,7 @@
 
 ### 1.4.0
 
-- Support : Samsung Flip stylus
+- Support: Samsung Flip stylus
 - Custom toolbox notes : ink to text conversion
 -	New experience when launching Compositeur Digital UX for the first time
 -	Speed-up launching time
