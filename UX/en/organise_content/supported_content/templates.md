@@ -34,6 +34,16 @@ If you want to add new templates for your Blanksheets, inside your `_toolbox` fo
 
 ![Templates folder](../../img/content_template_folder.JPG)
 
+### Templates with text inputs
+
+If you want to add new templates which embed text fields input, from PowerPoint add a text area and make it start with an `@`.
+
+![PowerPoint, text area with @](../../img/content_template_text.JPG)
+
+Then, when the template will be viewed inside Compositeur Digital UX, if the user taps on the text field, the virtual keyboard will appear and the text field will be completed with the text entered.
+
+![Template with text, Compositeur Digital UX](../../img/content_template_text_cdux.JPG)
+
 Next : [Actions recap](actions.md)
 
 [Back to Supported Content](index.md)
