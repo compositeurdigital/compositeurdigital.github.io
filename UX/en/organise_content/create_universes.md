@@ -54,6 +54,22 @@ You can customize your universe by changing the background image. To do so, simp
 
 ![Universe background folder](../img/universe_background.JPG) ![Universe background Compositeur Digital UX](../img/universe_background_cdux.JPG)
 
+### Handle ratio of your screen
+
+Different backgrounds can be defined, adapted to different screen ratio. For example, a file named `_background3_2` will be selected if the app is running on a device which matches a 3:2 screen.
+
+Here is a list of all supported screen format.
+
+| Ratio | Background name    |
+|:-----:|:------------------:|
+| 3:2   | `_background3_2`   |
+| 4:3   | `_background4_3`   |
+| 5:4   | `_background5_4`   |
+| 16:9  | `_background16_9`  |
+| 16:10 | `_background16_10` |
+
+Using different background files, adapted to different screen ratio allows you to make sure you can show your universe on any screen.
+
 ## Interactive Background
 
 If you want to have an interactive background, which contains hyperlinks to display your content, it is also possible. Prepare a powerpoint file, with one slide containing your background image. In this slide, do not forget to create [Hot Spots](../supported_content/powerpoint.md#hot-spots) to display your menus, or files. The name of the file should be `_background.pptx`. 
