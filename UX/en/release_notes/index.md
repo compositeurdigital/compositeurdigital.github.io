@@ -3,6 +3,10 @@
 
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 
+### 1.5.7
+- Product sheets
+- Webview fix for long-running scripts
+
 ### 1.5.5
 - Fixed random crashes when displaying a video
 - New video customization options, see [Advanced settings - Video](../organise_content/advanced_setting.html#video)
