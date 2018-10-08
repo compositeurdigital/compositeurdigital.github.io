@@ -164,7 +164,7 @@ Displays a page with a single slider that lets the user choose a (rounded) numer
 ```
 <!--![numericSliderPage](img/quiz_numericSliderPage.jpg)-->
 
-To share this information with other documents or the profile info, use the `valueKey` attribute of the `info` tag (see [shared data](config#valueKeys)).
+To share this information with other documents or the profile info, use the `valueKey` attribute of the `info` tag (see [shared data](config#data-exchanged-between-documents)).
 
 #### `labelSliderPage`
 This displays a page with a slider with predefined values.
