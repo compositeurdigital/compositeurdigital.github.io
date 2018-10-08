@@ -153,6 +153,7 @@ Displays a simple form in which the user can type in texted answers.
 | `id`            | The id of the question.                                                                            |
 | `label`         | Title of the information page.  			                                               | 
 | `sectionId`     | Defines the section id to which the question belongs.                                              |
+| `valueKey`      | Link this value to a value shared at your project level. See page [Shared values](../advanced_setting.md#shared-values).
 
 Set the `label` attribute of the `info` tags to define a name for the text box.
 
@@ -180,6 +181,7 @@ Displays a page with a single slider that lets the user choose a (rounded) numer
 | `minLabel`      | (Optional) Specific display value for the minimum value.                                           | 
 | `sectionId`     | Defines the section id to which the question belongs.                                              |
 | `stepSize`      | Difference between two steps of the cursor.							       |
+| `valueKey`      | Link this value to a value shared at your project level. See page [Shared values](../advanced_setting.md#shared-values). The only numeric value wich can be shared is `finance.budget`. It defines the current mortgage loan. |
 
 Some possible `format`:
  - `N0`: rounded value
