@@ -140,7 +140,7 @@ Displays a simple form in which the user can type in texted answers. Set the `la
 ```
 <!--![infoPage](img/quiz_infoPage.jpg)-->
 
-To use this information as an input for other documents or populate the profile info, use the `valueKey` attribute of the `info` tag (see [shared data](config#valueKeys)).
+To use this information as an input for other documents or populate the profile info, use the `valueKey` attribute of the `info` tag (see [shared data](config#data-exchanged-between-documents)).
 
 
 #### `numericSliderPage`
