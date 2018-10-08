@@ -16,6 +16,15 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 
 > Example : `*.table.hideCommands = true`
 
+## Summary 
+* [Value types](#value-types)
+* [Metadata supported](#metadata-supported)
+* [Content specific metadata](#content-specific-metadata)
+  * [Video](#video)
+  * [Web](#web)
+  * [Loan simulator](#loan-simulator)
+* [Shared values](#shared-values)
+
 ## Value types
 
 |Type         | Description | Examples|
@@ -81,9 +90,18 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `simulator.durationTickFrequency` | `number` | 1       | sets the interval between two values for a loan duration |
 | `simulator.durationDefaultValue`  | `number` | 20      | sets the default duration of a loan |
 
+## Shared values
 
+Some values can be shared between different items, e.g. informations about a contact in a quiz or the result of a mortgage loan.
 
-
+| Shared key                       | Type      | Description |
+|:---------------------------------|:----------|:------------|
+| `firstName`                      | `text`    | defines the first name of the current contact |
+| `lastName`                       | `text`    | defines the last name of the current contact |
+| `email`                          | `text`    | defines the email of the current contact |
+| `phoneNumber`                    | `text`    | defines the phone number of the current contact |
+| `organization`                   | `text`    | defines the organization of the current contact |
+| `finance.budget`                 | `number`  | defines the amount of the mortgage loan of the current contact |
 
 
 [Back to Organise Content](index.md)
