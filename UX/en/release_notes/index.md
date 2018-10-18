@@ -3,6 +3,13 @@
 
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 
+### 1.5.8
+- 3D focus & lighting improvements, skybox support 
+- Support for license-defined analytics policy
+- Support for metadata files in universe sources (e.g. USB drive)
+- Fixed orientation for some image files
+- Fixed share single pdf
+
 ### 1.5.7
 - Product sheets
 - Webview fix for long-running scripts
