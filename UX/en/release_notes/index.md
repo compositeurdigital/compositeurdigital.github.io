@@ -3,18 +3,18 @@
 
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 
-### 1.5.8
+### 1.5.8 : 18/10/2018
 - 3D focus & lighting improvements, skybox support 
 - Support for license-defined analytics policy
 - Support for metadata files in universe sources (e.g. USB drive)
 - Fixed orientation for some image files
 - Fixed share single pdf
 
-### 1.5.7
+### 1.5.7 : 05/10/2018
 - Product sheets
 - Webview fix for long-running scripts
 
-### 1.5.5
+### 1.5.5 : 18/09/2018
 - Fixed random crashes when displaying a video
 - New video customization options, see [Advanced settings - Video](../organise_content/advanced_setting.html#video)
 - Support for background video
@@ -23,26 +23,26 @@
 - Fixed web view audio playing in background
 - Web view capture support
 
-### 1.5.2
+### 1.5.2 : 10/09/2018
 
 - Support for .sequence polygonal pois
 
-### 1.5.1
+### 1.5.1 : 03/09/2018
 
-- Support for virtual tours navigation beteween scenes
+- Support for virtual tours navigation between scenes
 - Support for 3D models (.obj, .3ds)
 - Improved navigation in web folders on Surface HUB
 - Include screen capture in single pdf exports
 - The "zoom" document button fits the avalaible space
 - Bug fixes and performance improvements
 
-### 1.4.7
+### 1.4.7 : 07/08/2018
 
 - App screenshot feature (for computers running Windows 10 April 2018 update)
 - Support for HTML folders
 - Bug fixes and performance improvements
 
-### 1.4.0
+### 1.4.0 : 21/06/2018
 
 - Support: Samsung Flip stylus
 - Custom toolbox notes : ink to text conversion
@@ -50,11 +50,11 @@
 -	Speed-up launching time
 -	Aras PLM demo
 
-### 1.2.19
+### 1.2.19 : 14/05/2018
 
 -	Fix: documents sometimes lock after inking
 
-### 1.2.18
+### 1.2.18 : 03/05/2018
 
 -	Windows 10 April 2018 Update support
 -	Notes: ink to text conversion
