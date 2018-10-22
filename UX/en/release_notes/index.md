@@ -7,6 +7,7 @@
 - 3D focus & lighting improvements, skybox support 
 - Support for license-defined analytics policy
 - Support for metadata files in universe sources (e.g. USB drive)
+- Support aspect / ratio (`3_2`, `4_3`, `5_4`, `16_9` and `16_10`) for powerpoint files defined as `_background` 
 - Fixed orientation for some image files
 - Fixed share single pdf
 
