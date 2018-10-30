@@ -32,7 +32,8 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `text`      | a string of characters | `some text`, `My document` |
 | `number`    | an integral or decimal number | `123`, `123.45` |
 | `dimension` | a size in pixels or a percentage of the containing view | `400`, `75%` |
-| `boolean`   | true or false | `true`/`false`, `1`/`0`  |
+| `boolean`   | true or false | `true`/`false`, `1`/`0` |
+| `color`     | hexadecimal color code | `#AAAAAA`, `#f03b5e` |
 
 
 ## Metadata supported
@@ -89,6 +90,14 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `simulator.durationMaxValue`      | `number` | 30      | sets the longest duration of a loan |
 | `simulator.durationTickFrequency` | `number` | 1       | sets the interval between two values for a loan duration |
 | `simulator.durationDefaultValue`  | `number` | 20      | sets the default duration of a loan |
+
+### 3D objects
+
+| Metadata Key                      | Type     | Default | Description |
+|:--------------------------------- |:---------|:--------|:-|
+| `obj3D.backgroundcolor`           | `color`  | -       | sets the maximum value of a loan |
+| `obj3D.camera.h`                  | `number` | 0       | sets the default azimuth (horizontal rotation) for the camera position |
+| `obj3D.camera.v`                  | `number` | 0       | sets the default pitch (vertical rotation) for the camera position |
 
 ## Shared values
 
