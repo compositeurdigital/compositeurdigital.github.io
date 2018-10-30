@@ -46,6 +46,7 @@ Inside your 3d object folder, only use files that end with `.3ds`, `.bmp`, `.dds
 
 1. In your environment folder, create a folder named `<Name of your 3D model>.3ds` (e.g. `My loader.3ds`).
 1. Drag and drop all the files which are composing your 3d models in this folder.
+1. (Optional) Add skybox file named `_skybox.dds`.
 1. (Optional) Add an image (`.jpg` or `.png`) named `_preview` to change the preview.
 
 
