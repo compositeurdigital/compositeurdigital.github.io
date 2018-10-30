@@ -3,6 +3,10 @@
 
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 
+### 1.5.10 : 30/10/2018
+- Improved 3D objets manipulation
+- PowerBI interaction similar to websites
+
 ### 1.5.8 : 18/10/2018
 - 3D focus & lighting improvements, skybox support 
 - Support for license-defined analytics policy
