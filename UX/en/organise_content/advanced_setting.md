@@ -95,7 +95,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 
 | Metadata Key                      | Type     | Default | Description |
 |:--------------------------------- |:---------|:--------|:-|
-| `obj3D.backgroundcolor`           | `color`  | -       | sets the maximum value of a loan |
+| `obj3D.backgroundcolor`           | `color`  | <span background="#dce1e1" >#dce1e1</span> | sets a solid background color |
 | `obj3D.camera.h`                  | `number` | 0       | sets the default azimuth (horizontal rotation) for the camera position |
 | `obj3D.camera.v`                  | `number` | 0       | sets the default pitch (vertical rotation) for the camera position |
 
