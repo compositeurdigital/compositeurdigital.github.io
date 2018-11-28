@@ -1,5 +1,9 @@
 # Release Notes
 
+### 4.1.0.29
+
+- App uses the user default proxy when performing web tasks. 
+
 ### 4.1.0.1
 
 - Universes sortable by category
