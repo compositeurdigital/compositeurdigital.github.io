@@ -12,15 +12,15 @@ Inside your folder, provide a file called `_questions.xml`
 ## <a name="contents"></a>Contents : `_questions.xml`
 
 A form is composed of small elements to present or collect informations : 
-	- `<input>` to collect informations
-	- `<presenter>` to display informations
+* `<input>` to collect informations
+* `<presenter>` to display informations
 
 They both can be described with the following attributes :
-	- `type` : what the element will look like (see sections [Input Types](#input-types) and [Presenter Types](#presenter-types))
-	- `text` : the title or question displayed above the element
-	- `tooltip` : adds a question mark button next to the title to display the text given here
-	- `valuekey` : store and retrieve the value of an input under this key
-	- `visiblewhen` : show the element only when the condition given is fulfilled (see section [Elements Visibility](#elements-visibility))
+* `type` : what the element will look like (see sections [Input Types](#input-types) and [Presenter Types](#presenter-types))
+* `text` : the title or question displayed above the element
+* `tooltip` : adds a question mark button next to the title to display the text given here
+* `valuekey` : store and retrieve the value of an input under this key
+* `visiblewhen` : show the element only when the condition given is fulfilled (see section [Elements Visibility](#elements-visibility))
 
 ##Organize elements
 Inputs and presenters can be written in the order of appearance inside the tag `form` or organised into columns thanks to the tag `<section>`
@@ -57,18 +57,18 @@ Its value must have the pattern `key``comparator``value(s)`.
 The key is the `valueKey` attribute of the input `Y`
 
 The different comparators allow to test :
-	- equality "="
-	- difference "!=" 
-	- numeric comparisons ("<","<=", ">=", ">")
-	- unstrict containance "=*"
+* equality "="
+* difference "!=" 
+* numeric comparisons ("<","<=", ">=", ">")
+* unstrict containance "=*"
 
 #Examples#
 If we have a multiple choice input with the possible answers `A`, `B` and `C`, we can have the following visbility behaviors on an other element :
-	- `visiblewhen="myKey=A"` : visible if the answer `A` is the only one selected
-  - `visiblewhen="myKey!=A"` : visible if `B`, `C` or both are selected
-  - `visiblewhen="myKey=*A"` : visible if at least `A` is selected (`B` and `C` can also be selected)
-  - `visiblewhen="myKey=B&C"` : visible if `B` and `C` are selected and `A` is not
-  - `visiblewhen="myKey=B|C"` : visible if `B`, `C` or both are selected and `A` is not
+* `visiblewhen="myKey=A"` : visible if the answer `A` is the only one selected
+* `visiblewhen="myKey!=A"` : visible if `B`, `C` or both are selected
+* `visiblewhen="myKey=*A"` : visible if at least `A` is selected (`B` and `C` can also be selected)
+* `visiblewhen="myKey=B&C"` : visible if `B` and `C` are selected and `A` is not
+* `visiblewhen="myKey=B|C"` : visible if `B`, `C` or both are selected and `A` is not
 
 
 ##<a name="input-types"></a>Input Types
