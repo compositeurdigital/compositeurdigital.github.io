@@ -1,6 +1,6 @@
 # Form
 
-This type of content allows you to display interactive Form, that will help you collect informations.
+This type of content allows you to display interactive Form that will help you collect informations.
 
 ![form](../../img/content_form.jpg)
 
@@ -89,6 +89,7 @@ If both `text` and `image` attributes are filled, the text will be displated at 
 </input>
 ```
 ### Single line text
+A free-text zone on a single line.
 
 ![single line](../../img/content_form_singlelinetext.jpg)
 
@@ -110,7 +111,7 @@ If both `text` and `image` attributes are filled, the text will be displated at 
 <input type="slider" text="Monthly incomes" minvalue="0" maxvalue="8000" format="# ##0 €" minlabel="no income" maxlabel="+ 8 000 €" />
 ```
 
-* `minlabel` and `maxlabel` are non mandatory attributes but allows you to cusomize the displayed values.*
+* `minlabel` and `maxlabel` are non mandatory attributes but allows you to cusomize the displayed values.
 * For possible `format` values see [standard format](https://docs.microsoft.com/en-gb/dotnet/standard/base-types/standard-numeric-format-strings) and [custom format](https://docs.microsoft.com/en-gb/dotnet/standard/base-types/custom-numeric-format-strings)
 * the attribute `frequency` sets the interval between two possible values
 
