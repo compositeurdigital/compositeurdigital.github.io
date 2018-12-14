@@ -22,10 +22,10 @@ They both can be described with the following attributes :
 * `valuekey` : store and retrieve the value of an input under this key
 * `visiblewhen` : show the element only when the condition given is fulfilled (see section [Elements Visibility](#elements-visibility))
 
-##Organize elements
+## Organize elements
 Inputs and presenters can be written in the order of appearance inside the tag `form` or organised into columns thanks to the tag `<section>`
 
-#Examples#
+*Examples*
 Four inputs displayed in a single column :
 ```xml
 <form>
@@ -50,7 +50,7 @@ Four elements displayed into two columns :
 </form>
 ```
 
-##<a name="elements-visibility"></a>Elements visibility
+## <a name="elements-visibility"></a>Elements visibility
 You can choose to display an element `X` (input, presenter or section) based on the value of an input `Y` using the attribute `visiblewhen`.
 Its value must have the pattern `key``comparator``value(s)`.
 
@@ -62,7 +62,7 @@ The different comparators allow to test :
 * numeric comparisons ("<","<=", ">=", ">")
 * unstrict containance "=*"
 
-#Examples#
+*Examples*
 If we have a multiple choice input with the possible answers `A`, `B` and `C`, we can have the following visbility behaviors on an other element :
 * `visiblewhen="myKey=A"` : visible if the answer `A` is the only one selected
 * `visiblewhen="myKey!=A"` : visible if `B`, `C` or both are selected
@@ -71,20 +71,20 @@ If we have a multiple choice input with the possible answers `A`, `B` and `C`, w
 * `visiblewhen="myKey=B|C"` : visible if `B`, `C` or both are selected and `A` is not
 
 
-##<a name="input-types"></a>Input Types
+## <a name="input-types"></a>Input Types
 
-###Single choice
-###Multiple choice
-###Single line text
-###Multiple line text
-###Slider
-###Combobox
+### Single choice
+### Multiple choice
+### Single line text
+### Multiple line text
+### Slider
+### Combobox
 
-##<a name="presenter-types"></a>Presenter Types
+## <a name="presenter-types"></a>Presenter Types
 
-###Documents
+### Documents
 
-##Other Values
+## Other Values
 To allow the user to fill an other value than the ones you present, add a `<choice>` of type `othervalue`.
 A `<choice>` of type `novalue` adds a check box under the input to deselect all other answers
 
