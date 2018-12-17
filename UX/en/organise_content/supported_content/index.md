@@ -19,6 +19,7 @@ This section describes all the contents which can be used inside Compositeur Dig
 * [Slideshows : images, pdf and powerpoint](slideshows.md)
 * [Web pages](web_page.md)
 * [Creating Templates](templates.md)
+* [Forms](form.md)
 
 ## [Actions](actions.md)
 
