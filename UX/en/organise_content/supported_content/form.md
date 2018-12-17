@@ -158,6 +158,7 @@ To list a big quantity of answers in a reduced space, its recommanded to use a `
 A `<choice>` of type `novalue` adds a check box under the input to deselect all other answers.
 
 ![novalue](../../img/content_form_novalue.jpg)
+
 ```xml
 <input type="slider" text="Monthly incomes" minvalue="0" maxvalue="8000" format="# ##0 €">
     <choice type="novalue" text="I don't want to answer" />
@@ -165,7 +166,9 @@ A `<choice>` of type `novalue` adds a check box under the input to deselect all 
 ```
 
 To allow the user to fill an other value than the ones you present, add a `<choice>` of type `othervalue`.
+
 ![othervalue](../../img/content_form_othervalue.jpg)
+
 ```xml
 <input type="multiplechoice" text="Who will be concerned by this contract ?">
     <choice text="Me" />
