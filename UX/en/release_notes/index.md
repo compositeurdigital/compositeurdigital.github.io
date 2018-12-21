@@ -3,6 +3,19 @@
 
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 
+### 2.0.0
+- Connect to your Sharepoint libraries and Teams channels
+- New start page UI
+- New project save UI
+- Faster project loading
+- Forms
+- White corrector 
+- Teams integration
+- New document import experience
+- Support du Français
+- [Web] Interact with Compositeur Digital UX, see  [Web pages](../organise_content/web_pages.html#interactions-with-compositeur-digital-ux)
+
+
 ### 1.5.10 : 30/10/2018
 - Improved 3D objets manipulation
 - PowerBI interaction similar to websites
