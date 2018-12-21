@@ -13,7 +13,7 @@
 - Teams integration
 - New document import experience
 - Support du Français
-- [Web] Interact with Compositeur Digital UX, see  [Web pages](../organise_content/web_pages.html#interactions-with-compositeur-digital-ux)
+- [Web] Interact with Compositeur Digital UX, see  [Web pages](../organise_content/supported_content/web_page.html#interactions-with-compositeur-digital-ux)
 
 
 ### 1.5.10 : 30/10/2018
