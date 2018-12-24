@@ -8,8 +8,7 @@
 - New start page UI
 - New project save UI
 - Faster project loading
-- Forms
-- White corrector 
+- Interactive forms
 - Teams integration
 - New document import experience
 - Support du Français
