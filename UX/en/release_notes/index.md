@@ -3,7 +3,7 @@
 
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 
-### 2.0.0
+### 2.0 : 31/12/2018
 - Connect to your Sharepoint libraries and Teams channels
 - New start page UI
 - New project save UI
