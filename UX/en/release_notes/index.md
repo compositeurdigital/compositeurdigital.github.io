@@ -4,13 +4,14 @@
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 
 ### 2.0 : 31/12/2018
-- Connect to your Sharepoint libraries and Teams channels
-- New start page UI
-- New project save UI
+- Connect to your Sharepoint libraries and Teams channels: access universes and store projects
+- New start page UI: manage and navigate between store locations, connect to your Office 365 account
+- New project save UI: dynamically add location
 - Faster project loading
-- Interactive forms
-- Teams integration
+- Interactive forms: fill info using sliders, pictures, text box, etc.
+- Microsoft Teams integration: list, create or open new project directly from a team channel.
 - New document import experience
+- Improved search engine: french region selector, dropdown, multi-levels search
 - Support du Français
 - [Web] Interact with Compositeur Digital UX, see  [Web pages](../organise_content/supported_content/web_page.html#interactions-with-compositeur-digital-ux)
 
