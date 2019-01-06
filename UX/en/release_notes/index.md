@@ -3,7 +3,7 @@
 
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 
-### 2.0 : 31/12/2018
+### 2.0.1 : 31/12/2018
 - Connect to your Sharepoint libraries and Teams channels: access universes and store projects
 - New start page UI: manage and navigate between store locations, connect to your Office 365 account
 - New project save UI: dynamically add location
