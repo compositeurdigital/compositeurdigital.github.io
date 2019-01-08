@@ -5,6 +5,7 @@
 ### 2.0.4 : 08/01/2019
 - Improved search engine : map controller
 - Fixed store locations not updated after a connection to an Office 365 account
+- Fixed sorting of projects when changing store location
 - Bug fixes
 
 ### 2.0.1 : 31/12/2018
