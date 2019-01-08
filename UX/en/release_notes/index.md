@@ -2,6 +2,10 @@
 
 
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
+### 2.0.4 : 08/01/2019
+- Improved search engine : map controller
+- Fixed store locations not updated after a connection to an Office 365 account
+- Bug fixes
 
 ### 2.0.1 : 31/12/2018
 - Connect to your Sharepoint libraries and Teams channels: access universes and store projects
