@@ -1,6 +1,6 @@
 # Release notes
 
-[comment]: # ### 2.0.6 : 
+[comment]: # ### 2.0.7 : 
 [comment]: # - Empty universe projects saved on selected location by default
 [comment]: # - Return to current location when leaving project
 [comment]: # - Pptx report templates
