@@ -1,5 +1,13 @@
 # Release notes
 
+[comment]: # ### 2.0.6 : 
+[comment]: # - Empty universe projects saved on selected location by default
+[comment]: # - Return to current location when leaving project
+[comment]: # - Pptx report templates
+[comment]: # - Exportable product sheets
+[comment]: # - Toggle between map and list search results
+[comment]: # - Fixed open project restore
+[comment]: # - Fixed error when changing project location to OneDrive
 
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 ### 2.0.4 : 08/01/2019
