@@ -20,6 +20,7 @@ This section describes all the contents which can be used inside Compositeur Dig
 * [Web pages](web_page.md)
 * [Creating Templates](templates.md)
 * [Forms](form.md)
+* [Reports](reports.md)
 
 ## [Actions](actions.md)
 
