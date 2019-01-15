@@ -223,3 +223,7 @@ You can also add an attribute `value` to each choice and refer to this value ins
     <entry source="contract 1.pdf" />
 </presenter>
 ```
+
+Next : [Report](report.md)
+
+[Back to Supported Content](index.md)
