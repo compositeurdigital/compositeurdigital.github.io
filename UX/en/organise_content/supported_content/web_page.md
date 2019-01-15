@@ -115,5 +115,6 @@ ShowChrome True (left) and ShowChrome False (right)
 
 A Demo Universe which contains samples for web page contents is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
 
-Next : [Creating Templates](templates.md)
+Next : [Forms](form.md)
 
+[Back to Supported Content](index.md)
