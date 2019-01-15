@@ -1,20 +1,18 @@
 # Release notes
 
 ### 2.0.7 : 11/01/2019
-- Empty universe projects saved on selected location by default
-- Return to current location when leaving project
-- Pptx report templates
 - Exportable product sheets
 - Toggle between map and list search results
-- Fixed open project restore
-- Fixed error when changing project location to OneDrive
+- [FIX] Empty universe projects saved on selected location by default
+- [FIX] Return to current location when leaving project
+- [FIX] Restore project state when close/restart app
+- [FIX] Fixed error when changing project location to OneDrive
 
 [comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 ### 2.0.4 : 08/01/2019
-- Improved search engine : map controller
-- Fixed store locations not updated after a connection to an Office 365 account
-- Fixed sorting of projects when changing store location
-- Bug fixes
+- Improved search engine : map view
+- [FIX] Fixed store locations not updated after a connection to an Office 365 account
+- [FIX] Fixed sorting of projects when changing store location
 
 ### 2.0.1 : 31/12/2018
 - Connect to your Sharepoint libraries and Teams channels: access universes and store projects
