@@ -44,5 +44,6 @@ Finally, when the [forms](form.md) are edited through Compositeur Digital UX, th
 |:--------:|:------------|
 | @@@creationdate | Filled automatically with the current date. |
 
+Next : [Creating templates](templates.md)
 
 [Back to Supported Content](index.md)
