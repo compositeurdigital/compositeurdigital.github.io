@@ -1,5 +1,10 @@
 # Release notes
 
+### 2.0.8 : 16/01/2019
+- From an empty universe, on a shared device (e.g. a SurfaceHub), it is now possible to add a cloud location to save your project directly from the save window.
+- Improved search engine : zoom functions tuned in map view.
+- [FIX] Fixed error when launching a Map without a token.
+
 ### 2.0.7 : 11/01/2019
 - Exportable product sheets
 - Toggle between map and list search results
