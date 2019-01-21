@@ -5,7 +5,7 @@
 - Handle navigation key commands (Left & Right) to navigate in a slideshow (the last touched slideshow receives the commands)
 
 ### 2.0.9 : 17/01/2019
-- Corkboard can be exported as an image, or as multiple documents depending on the document pinned on it.
+- Corkboard can be exported as an image, or as multiple documents, or as a single pdf, depending on the documents pinned on it.
 - Navigation commands in 3D viewer and virtual tour viewer are always reachable when the item is in a corner.
 - Slide capture command in a slideshow is always reachable when the item is in a corner.
 
