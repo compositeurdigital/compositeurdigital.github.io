@@ -1,5 +1,14 @@
 # Release notes
 
+### 2.0.10 : 18/01/2019
+- Add support for PPSX file
+- Handle navigation key commands (Left & Right) to navigate in a slideshow (the last touched slideshow receives the commands)
+
+### 2.0.9 : 17/01/2019
+- Corkboard can be exported as an image, or as multiple documents depending on the document pinned on it.
+- Navigation commands in 3D viewer and virtual tour viewer are always reachable when the item is in a corner.
+- Slide capture command in a slideshow is always reachable when the item is in a corner.
+
 ### 2.0.8 : 16/01/2019
 - From an empty universe, on a shared device (e.g. a SurfaceHub), it is now possible to add a cloud location to save your project directly from the save window.
 - Improved search engine : zoom functions tuned in map view.
