@@ -1,5 +1,13 @@
 # Release notes
 
+### 2.0.11 : 23/01/2019
+- Document menu stays behind attached documents and notes.
+- Restored missing touch eraser button
+- [FIX] Document imported twice in some cases
+- [FIX] Links to files with uppercase extensions not found
+- [FIX] Setting video autoplay delay disables autoplay
+- [FIX] 'To text' action results in ArgNullException when note has no text
+
 ### 2.0.10 : 18/01/2019
 - Add support for PPSX file
 - Handle navigation key commands (Left & Right) to navigate in a slideshow (the last touched slideshow receives the commands)
