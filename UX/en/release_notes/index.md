@@ -1,5 +1,12 @@
 # Release notes
 
+### 2.0.12 : 24/01/2019
+- Choose between a report or all attched documments when sharing a pinboard
+- [FIX] 'To text' action not working in note templates
+- [FIX] Powerpoint presentations not loading in some cases
+- [FIX] catalog map results navigation
+- [FIX] catalog combined filters updates with hidden filters
+
 ### 2.0.11 : 23/01/2019
 - Document menu stays behind attached documents and notes.
 - Restored missing touch eraser button
