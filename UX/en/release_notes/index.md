@@ -1,5 +1,10 @@
 # Release notes
 
+### 2.0.13 : 28/01/2019
+- CRM search UI improvements
+- [FIX] Report pptx template converted to pdf from o365
+- [FIX] Cannot manipulate some templates with text input areas
+
 ### 2.0.12 : 24/01/2019
 - Choose between a report or all attached documents when sharing a pinboard
 - [FIX] 'To text' action not working in note templates
