@@ -1,5 +1,9 @@
 # Release notes
 
+### 2.0.14 : 28/01/2019
+- Warn if document is used when removing from imported
+- [FIX] Slideshow error introduced in 2.0.13
+
 ### 2.0.13 : 28/01/2019
 - CRM search UI improvements
 - [FIX] Report pptx template converted to pdf from o365
