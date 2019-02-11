@@ -40,6 +40,8 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 
 | Metadata Key                      | Type         | Default | Description |
 |:--------------------------------- |:-------------|:--------|:-|
+| `canStick`                        | `boolean`    |false    | indicates that the object can be sticked like a note |
+| `canWrite`                        | `boolean`    |false    | indicates that text can be typed on this object |
 | `desiredHeight`                   | `dimension`  | 400     | sets the default height of the document |
 | `desiredWidth`                    | `dimension`  | 400     | sets the default width of the document |
 | `isPaper`                         | `boolean`    | false   | removes the background of the document's buttons (action and close buttons)|
