@@ -69,6 +69,8 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 |:--------------------------------- |:----------|:--------|:-|
 | `video.autoplay`                  | `boolean` | true    | start playing video on display |
 | `video.autoplay.delay`            | `number ` | 0       | delay autoplay by the number of seconds specified |
+| `video.autoclose`                 | `boolean` | false   | close the video when playback reaches end |
+| `video.autoclose.delay`           | `number ` | 0       | delay autoclose by the number of seconds specified |
 | `video.rewind`                    | `boolean` | false   | go back to the first frame when the video ends |
 | `video.loop`                      | `boolean` | false   | replay from start when the video ends |
 | `video.controls.alwaysvisible`    | `boolean` | false   | force the display of the video playback controls |
