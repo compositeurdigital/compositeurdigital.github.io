@@ -1,5 +1,15 @@
 # Release notes
 
+### 2.0.18 : February 18, 2019
+- Video: auto close configuration, see [Advanced settings - Video](../organise_content/advanced_setting.html#video)
+- CRM search improvements
+- Loan simulator:  'Additional costs' slider and disclaimer, see [Advanced settings - Loan simulator](../organise_content/advanced_setting.html#loan-simulator)
+- Select a default location from the settings page
+- Long press / right click on a location to refresh or remove
+- Deleted Sharepoint sources are automatically removed from locations
+- Better project date grouping: day of week for last 7 days, then month for last 12 months, then year
+- [FIX] powerpoint import errors
+
 ### 2.0.17 : February 11, 2019
 - Open universe source upon 'Add location' or plugging in a USB drive
 - [FIX] 'Ctrl+V' text sometimes imported as invalid url
