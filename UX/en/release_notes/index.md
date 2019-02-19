@@ -1,6 +1,6 @@
 # Release notes
 
-### 2.0.18 : February 18, 2019
+### 2.0.18 : February 19, 2019
 - Video: auto close configuration, see [Advanced settings - Video](../organise_content/advanced_setting.html#video)
 - CRM search improvements
 - Loan simulator:  'Additional costs' slider and disclaimer, see [Advanced settings - Loan simulator](../organise_content/advanced_setting.html#loan-simulator)
