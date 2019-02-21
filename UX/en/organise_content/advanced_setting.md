@@ -33,7 +33,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `number`    | an integral or decimal number | `123`, `123.45` |
 | `dimension` | a size in pixels or a percentage of the containing view | `400`, `75%` |
 | `boolean`   | true or false | `true`/`false`, `1`/`0` |
-| `color`     | hexadecimal color code | `#AAAAAA`, `#f03b5e` |
+| `color`     | hexadecimal color code or rgb code | `#AAAAAA`, `#f03b5e`, `112, 12, 67` |
 
 
 ## Metadata supported
