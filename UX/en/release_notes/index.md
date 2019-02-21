@@ -1,5 +1,10 @@
 # Release notes
 
+
+### 2.0.19 : February 22, 2019
+- [FIX] Powerpoint links with unescaped uri may open incorrect document
+- [FIX] Catalog search criterias layout sometimes hide options
+
 ### 2.0.18 : February 19, 2019
 - Video: auto close configuration, see [Advanced settings - Video](../organise_content/advanced_setting.html#video)
 - CRM search improvements
