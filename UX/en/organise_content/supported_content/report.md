@@ -1,5 +1,14 @@
 # Report
 
+## Summary
+* [Description](#description)
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
+* [Content extension](#content-extension)
+* [Create a report](#create-a-report)
+* [Special tags](#special-tags)
+
+## Description
+
 Reports are used to summarize all the information collected through [forms](form.md) and [quiz](quiz.md). 
 
 ![Report](../../img/content_report_ui.JPG)
