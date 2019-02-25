@@ -1,10 +1,7 @@
 # Search Interface
 
-This content type allows you to display a search interface for any item (e.g. apartments, plans, cars, ect) that is placed in the same folder.
-
-![Search interface : filters](../../img/content_filters.JPG)
-
 ## Summary
+* [Description](#description)
 * [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
 * [Content extension](#content-extension)
   * [Spreadsheet : \_list.csv or \_catalog.csv](#spreadsheet--_listcsv-or-_catalogcsv)
@@ -14,6 +11,13 @@ This content type allows you to display a search interface for any item (e.g. ap
 * [Create a search interface](#create-a-search-interface)
 * [Metadata available](#metadata-available)
 * [Download a sample](#download-a-sample)
+
+
+## Description 
+
+This content type allows you to display a search interface for any item (e.g. apartments, plans, cars, ect) that is placed in the same folder.
+
+![Search interface : filters](../../img/content_filters.JPG)
 
 ## Actions within Compositeur Digital UX
 
