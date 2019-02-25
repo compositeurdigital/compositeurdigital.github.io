@@ -10,7 +10,19 @@ In navigation mode, you can interact with the content displayed in webview in th
 
 ![Web page navigation mode disabled](../../img/content_web_page_end.JPG)
 
-## Action within Compositeur Digital UX
+## Summary
+
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
+* [Content extensions](#content-extensions)
+  * [I want to display a web site link which will be opened in a web browser](#i-want-to-display-a-web-site-link-which-will-be-opened-in-a-web-browser)
+  * [I want to display an external web site inside my Compositeur Digital UX](#i-want-to-display-an-external-web-site-inside-my-compositeur-digital-ux)
+  * [I want to display local HTML content](#i-want-to-display-local-html-content)
+* [Interactions with Compositeur Digital UX](#interactions-with-compositeur-digital-ux)
+* [Summup](#summup)
+* [Metadata available](#metadata-available)
+* [Download a sample](#download-a-sample)
+
+## Actions within Compositeur Digital UX
 
 Web page items support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
 
