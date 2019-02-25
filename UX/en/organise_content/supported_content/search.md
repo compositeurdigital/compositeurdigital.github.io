@@ -12,6 +12,7 @@ This content type allows you to display a search interface for any item (e.g. ap
   * [`.filters` Extension](#filters-extension)
   * [`.apartments` Extension](#apartments-extension)
 * [Create a search interface](#create-a-search-interface)
+* [Metadata available](#metadata-available)
 * [Download a sample](#download-a-sample)
 
 ## Actions within Compositeur Digital UX
@@ -102,6 +103,15 @@ The design of a result item indicates various information about the item : surfa
 1. Inside this folder, create a file called `_list.csv` (or `_catalog.csv`). 
 1. Fill the spreadsheet with the criteria you want, and describe your item.
 1. For each item that belongs to the column `id` of your `_list.csv` (or `_catalog.csv`), add an item inside your search folder (image, pdf, ect...)
+
+## Metadata available
+
+Metadata will help you to customize the way your search interface behaves.
+
+| Metadata Key                      | Type     | Default | Description |
+|:----------------------------------|:---------|:--------|:------------|
+| `catalog.resultsMaxCount`         |`number`  | 40      | The maximum number of results wich can be viewed in the result page. |
+
 
 ## Download a sample
 
