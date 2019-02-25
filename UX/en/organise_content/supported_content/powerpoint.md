@@ -1,5 +1,14 @@
 # Powerpoint
 
+## Summary
+* [Description](#description)
+* [File extensions](#file-extensions)
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
+* [Hot spots](#hot-spots)
+* [Slideshow](#slideshow)
+
+## Description
+
 Powerpoints are supported natively by Compositeur Digital UX.
 
 ![Powerpoints displayed within Compositeur Digital UX](../../img/content_powerpoint.JPG)
