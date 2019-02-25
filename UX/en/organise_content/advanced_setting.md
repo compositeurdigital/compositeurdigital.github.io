@@ -23,6 +23,8 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
   * [Video](#video)
   * [Web](#web)
   * [Loan simulator](#loan-simulator)
+  * [3D objects](#3d-objects)
+  * [Search interface](#search-interfaces)
 * [Shared values](#shared-values)
 
 ## Value types
@@ -108,6 +110,12 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `obj3D.backgroundcolor`           | `color`  | #dce1e1 | sets a solid background color |
 | `obj3D.camera.h`                  | `number` | 0       | sets the default azimuth (horizontal rotation) for the camera position |
 | `obj3D.camera.v`                  | `number` | 0       | sets the default pitch (vertical rotation) for the camera position |
+
+### Search interfaces
+
+| Metadata Key                      | Type     | Default | Description |
+|:----------------------------------|:---------|:--------|:------------|
+| `catalog.resultsMaxCount`         |`number`  | 40      | The maximum number of results wich can be viewed in the result page. |
 
 ## Shared values
 
