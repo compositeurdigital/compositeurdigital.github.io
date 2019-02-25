@@ -55,7 +55,6 @@ The first line of the spreadsheet represents the *type of criteria*. Select one 
 | `multiple`    | Criteria for multiple selection.                                                                      |
 | `price`       | Represents a price. Do not specify unit.                                                              |
 | `single`      | Criteria for single choice.                                                                           |
-| `string`      | Criteria for multiple selection.                                                                      |
 | `surface`     | Represents a surface. Type in "m²". Do not specify unit.                                              |
 | `floor`       | Floor level (real estate use case).                                                                   |
 | `orientation` | Criteria to select an orientation (e.g. "North", "South"... real estate use case).                    |
