@@ -1,5 +1,15 @@
 # 3D Objects
 
+## Summary
+* [Description](#description)
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
+* [Content extension](#content-extension)
+* [Create a 3D object](#create-a-3d-object)
+* [Metadata available](#metadata-available)
+* [Download a sample](#download-a-sample)
+
+## Description 
+
 This content type allows you to directly visualize and manipulate 3D objects (`.3ds`, `.obj`).
 
 To interact with a 3D object, press the manipulation button at the center of the item : it starts the manipulation mode.
@@ -20,13 +30,6 @@ To hide/show a part, tap on the check box next to the name of the part you want 
 To put/remove the focus on/from a part, tap on its name.
 
 ![3D Object hide part](../../img/content_3d-obj_focus_part.JPG)
-
-## Summary
-* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
-* [Content extension](#content-extension)
-* [Create a 3D object](#create-a-3d-object)
-* [Metadata available](#metadata-available)
-* [Download a sample](#download-a-sample)
 
 ## Actions within Compositeur Digital UX
 
