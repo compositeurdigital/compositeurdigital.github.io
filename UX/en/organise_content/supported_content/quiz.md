@@ -1,10 +1,7 @@
 # Quiz
 
-This type of content allows you to display interactive Quiz, that will help you understanding your user needs.
-
-![Quiz displayed within Compositeur Digital UX](../../img/content_quizz.JPG)
-
 ## Summary 
+* [Description](#description)
 * [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
 * [Content extension](#content-extension)
 * [Questions : questions.xml](#questions--_questionsxml)
@@ -22,7 +19,12 @@ This type of content allows you to display interactive Quiz, that will help you 
       * [Order Page](#orderpage)
 * [Create a quiz](#create-a-quiz)
 * [Download a sample](#download-a-sample)
-   
+
+## Description
+
+This type of content allows you to display interactive Quiz, that will help you understanding your user needs.
+
+![Quiz displayed within Compositeur Digital UX](../../img/content_quizz.JPG)   
 
 ## Actions within Compositeur Digital UX
 
