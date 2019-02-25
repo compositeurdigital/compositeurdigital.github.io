@@ -1,5 +1,16 @@
 # Sequences : 360° view
 
+## Summary
+* [Description](#description)
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
+* [Content extension](#content-extension)
+* [Create a sequence](#create-a-sequence)
+* [Layers](#layers)
+* [Hot spot](#hot-spots)
+* [Download a sample](#download-a-sample)
+
+## Description
+
 This content type allows you to display a 360° view of any objects, using a sequence of pre-rendered images (e.g. buildings).
 
 ![Sequence with several layers](../../img/content_sequence.JPG)
