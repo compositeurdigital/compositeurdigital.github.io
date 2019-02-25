@@ -22,7 +22,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 * [Content specific metadata](#content-specific-metadata)
   * [Video](#video)
   * [Web](#web)
-  * [Loan simulator](#loan-simulator)
+  * [Mortgage simulator](#mortgage-simulator)
   * [3D objects](#3d-objects)
   * [Search interface](#search-interfaces)
 * [Shared values](#shared-values)
@@ -86,7 +86,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `web.viewport.width`              | `number`  | 1000    | Sets the default width of the page view |
 | `web.viewport.height`             | `number`  | 800     | Sets the default height of the page view |
 
-### Loan simulator
+### Mortgage simulator
 
 | Metadata Key                                 | Type     | Default            | Description |
 |:-------------------------------------------- |:---------|:-------------------|:-|
