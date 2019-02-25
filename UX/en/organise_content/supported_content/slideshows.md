@@ -1,5 +1,14 @@
 # Slideshows
 
+## Summary
+* [Description](#description)
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
+* [Content extension](#content-extension)
+* [Create a slideshow](#create-a-slideshow)
+* [Download a sample](#download-a-sample)
+
+## Description
+
 Slideshows are useful to concatenate various files such as images, pdfs or powerpoints to a single document.
 
 ![Slideshows](../../img/content_pdf.JPG) ![Slideshows](../../img/content_powerpoint.JPG)
