@@ -21,7 +21,14 @@ To put/remove the focus on/from a part, tap on its name.
 
 ![3D Object hide part](../../img/content_3d-obj_focus_part.JPG)
 
-## Action within Compositeur Digital UX
+## Summary
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
+* [Content extension](#content-extension)
+* [Create a 3D object](#create-a-3d-object)
+* [Metadata available](#metadata-available)
+* [Download a sample](#download-a-sample)
+
+## Actions within Compositeur Digital UX
 
 3D objects items support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
 
@@ -49,6 +56,13 @@ Inside your 3d object folder, only use files that end with `.3ds`, `.bmp`, `.dds
 1. (Optional) Add skybox file named `_skybox.dds`.
 1. (Optional) Add an image (`.jpg` or `.png`) named `_preview` to change the preview.
 
+## Metadata available
+
+| Metadata Key                      | Type     | Default | Description |
+|:--------------------------------- |:---------|:--------|:-|
+| `obj3D.backgroundcolor`           | `color`  | #dce1e1 | sets a solid background color |
+| `obj3D.camera.h`                  | `number` | 0       | sets the default azimuth (horizontal rotation) for the camera position |
+| `obj3D.camera.v`                  | `number` | 0       | sets the default pitch (vertical rotation) for the camera position |
 
 ## Download a sample
 
