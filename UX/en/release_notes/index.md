@@ -1,5 +1,9 @@
 # Release notes
 
+### 2.0.20 : March 06, 2019
+- Customizable maximum catalog search results
+- [FIX] Background color ignored for 3D models
+- [FIX] Sidebar menu click responsiveness
 
 ### 2.0.19 : February 22, 2019
 - [FIX] Powerpoint links with unescaped uri may open incorrect document
