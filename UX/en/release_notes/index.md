@@ -1,6 +1,6 @@
 # Release notes
 
-### 2.0.27 - April 5, 2019
+### 2.0.26 - April 5, 2019
 - MP3 files support
 -	In-app survey
 -	Stickers/magnets
