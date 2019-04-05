@@ -1,5 +1,24 @@
 # Release notes
 
+### 2.0.27 - April 5, 2019
+- MP3 files support
+-	In-app survey
+-	Stickers/magnets
+-	Annoted then closed document kept available in projects
+- Catalog: search documents in current universe
+- Catalog: text filter	
+- Form and quizz ui improvements
+- Web views opened from links inherit configuration
+-	Import multiple files at once
+- Faster project closing
+- Open document exports in external apps
+- Refresh button on universes and projects lists
+- Cloud locations sorted by site/team then library/channel 
+- [FIX] Initial camera position for 3D objects
+- [FIX] Templates text values lost when opening project
+- [FIX] Sticked notes and documents cropped on export
+- [FIX] Subscription randomly forgotten
+
 ### 2.0.20 - March 6, 2019
 - Customizable maximum catalog search results
 - [FIX] Background color ignored for 3D models
