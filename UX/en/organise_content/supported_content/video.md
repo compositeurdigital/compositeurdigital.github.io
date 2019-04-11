@@ -49,6 +49,7 @@ Our recommendation is to use WMV and MP4(H264) format for a safe use.
 | `video.autoclose.delay`           | `number ` | 0       | delay autoclose by the number of seconds specified |
 | `video.rewind`                    | `boolean` | false   | go back to the first frame when the video ends |
 | `video.loop`                      | `boolean` | false   | replay from start when the video ends |
+| `video.mute`                      | `boolean` | false   | force the video to be muted |
 | `video.controls.alwaysvisible`    | `boolean` | false   | force the display of the video playback controls |
 
 Next: [Guestbook (Compositeur Digital UX format)](guestbook.md)
