@@ -1,5 +1,23 @@
 # Release notes
 
+### 2.0.28 - April 18, 2019
+- Confirm dialog on app exit
+- Global touch ink in the palette side menu
+- 360° video support
+- video.mute meta
+- Prompt for MS account if absent when opening a cdux protocol link
+- [FIX] font alignment on some Powerpoint presentations
+- [FIX] real estate demo links
+- [FIX] cannot signout
+- [FIX] shared \_meta.txt file ignored for online sources	
+- [FIX] crashes when loading 3ds model & panorama with no images
+- [FIX] crashes when launching a quizz document page with a broken item link
+- [FIX] cache cleared when removing a cloud source
+- [FIX] Capturing a 3D model shows all the controls, even if navigation is not started
+- [FIX] Default location is not selected after removing a location
+- [FIX] sticked notes move when a document aspect ratio changes
+- [FIX] cdux protocol not launching a synchronized source if user name in the link does not match logged in user
+
 ### 2.0.26 - April 5, 2019
 - MP3 files support
 -	In-app survey
