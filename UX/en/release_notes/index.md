@@ -1,5 +1,13 @@
 # Release notes
 
+
+### 2.0.29 - April 23, 2019
+- Videos streamed from cloud on shared devices
+- [FIX] .cdurl folder link with trailing '/' not recognized in cloud universes
+- [FIX] Lighting causing 3D objects to appear all white
+- [FIX] Empty notes appear in history
+- [FIX] Locations listed twice
+
 ### 2.0.28 - April 18, 2019
 - Confirm dialog on app exit
 - Global touch ink in the palette side menu
