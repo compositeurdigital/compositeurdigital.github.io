@@ -57,6 +57,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `table.hideCommands`              | `boolean`    | false     | hides the control buttons of a document (previous/next page, video playback controls…) |
 | `table.noRotate`                  | `boolean`    | false     | inhibits rotation for the document |
 | `table.viewer`                    | `cdux` or `extern` | unset   | Using `cdux` it makes sure the `cdurl` link will be displayed inside Compositeur Digital UX. With `extern`, the document is opened using the native viewer. |
+| `themeColor`                      | `color`      | -         | forces a theme color for the universe. | 
                                  
 
 
