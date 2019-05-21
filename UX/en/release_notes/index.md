@@ -1,5 +1,10 @@
 # Release notes
 
+### 2.0.30 - May 15, 2019
+ - Faster project preparation from cloud
+ - [FIX] Quiz multiple values answer not updating project data
+ - [FIX] Duplicate document action
+
 
 ### 2.0.29 - April 23, 2019
 - Videos streamed from cloud on shared devices
