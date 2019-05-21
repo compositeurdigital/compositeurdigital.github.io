@@ -38,9 +38,9 @@ To put/remove the focus on/from a part, tap on its name.
 
 **Actions menu**
 
-| Annotate | Capture  | Duplicate | Save as  | Selection | Share    | 
-|:--------:|:--------:|:---------:|:--------:|:---------:|:--------:|
-| &#x2716; | &#x2714; | &#x2714;  | &#x2716; | &#x2714;  | &#x2716; |
+| Annotate | Capture  | Duplicate | Open in native app | Save as  | Selection | Share    | 
+|:--------:|:--------:|:---------:|:------------------:|:--------:|:---------:|:--------:|
+| &#x2716; | &#x2714; | &#x2714;  | &#x2716;           | &#x2716; | &#x2714;  | &#x2716; |
 
 **Interaction with the item**
 
