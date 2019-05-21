@@ -16,6 +16,7 @@
    * [Documents](#documents)
 * [Other Values](#other-values)
 * [Elements visibility](#elements-visibility)
+* [Download a sample](#download-a-sample)
 
 ## Description
 
@@ -242,6 +243,9 @@ You can also add an attribute `value` to each choice and refer to this value ins
     <entry source="contract 1.pdf" />
 </presenter>
 ```
+## Download a sample
+
+A Demo Universe which contains a form is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
 
 Next : [Report](report.md)
 
