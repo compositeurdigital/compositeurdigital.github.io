@@ -9,6 +9,7 @@
 * [Projection types](#projection-types)
    * [Spherical projection](#spherical-projection)
    * [Cube projection](#cube-projection)
+   * [Video projection](#video-projection)
 * [Download a sample](#download-a-sample)
 
 ## Description
@@ -95,6 +96,19 @@ Place 6 images, corresponding to the six faces of your cube in the folder. Keep 
 ![Panorama folder cubes](../../img/content_panorama_cubes_folder.JPG)
 
 **Important** : Do not place any other images in this folder (except one `_preview` file, or `_hotspot` file if you are creating a tour).
+
+### Video projection
+
+It is possible to navigate in a video if this video is a 360° video. Put your video file inside your `panorama` folder. The name of the file is not important as long as the file has a [video format supported by Compositeur Digital UX](../video.md).
+
+In the video player, to move the camera, hit the `360°` button in the media control bar. 
+
+![Panorama video 360 enabled](../../img/content_panorama_video360_enable.JPG)
+
+To stop the navigation, click on the `360°` button again.
+
+![Panorama video 360 disabled](../../img/content_panorama_video360_disable.JPG)
+
 
 ## Download a sample
 
