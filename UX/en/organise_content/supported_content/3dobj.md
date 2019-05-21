@@ -5,6 +5,7 @@
 * [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
 * [Content extension](#content-extension)
 * [Create a 3D object](#create-a-3d-object)
+* [Scene background](#scene-background)
 * [Metadata available](#metadata-available)
 * [Download a sample](#download-a-sample)
 
