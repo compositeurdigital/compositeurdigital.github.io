@@ -23,9 +23,9 @@ Videos support the following action. To have a complete overview of each action,
 
 **Actions menu**
 
-| Annotate | Capture  | Duplicate | Save as  | Selection | Share    | Loop     |
-|:--------:|:--------:|:---------:|:--------:|:---------:|:--------:|:--------:|
-| &#x2716; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714; | &#x2714; | 
+| Annotate | Capture  | Duplicate | Open in native app | Save as  | Selection | Share    | Loop     |
+|:--------:|:--------:|:---------:|:------------------:|:--------:|:---------:|:--------:|:--------:|
+| &#x2716; | &#x2714; | &#x2714;  | &#x2714;           | &#x2714; | &#x2714;  | &#x2714; | &#x2714; | 
 
 **Interaction with the item**
 
