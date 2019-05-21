@@ -1,10 +1,7 @@
 # Search Interface
 
-This content type allows you to display a search interface for any item (e.g. apartments, plans, cars, ect) that is placed in the same folder.
-
-![Search interface : filters](../../img/content_filters.JPG)
-
 ## Summary
+* [Description](#description)
 * [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
 * [Content extension](#content-extension)
   * [Spreadsheet : \_list.csv or \_catalog.csv](#spreadsheet--_listcsv-or-_catalogcsv)
@@ -12,7 +9,15 @@ This content type allows you to display a search interface for any item (e.g. ap
   * [`.filters` Extension](#filters-extension)
   * [`.apartments` Extension](#apartments-extension)
 * [Create a search interface](#create-a-search-interface)
+* [Metadata available](#metadata-available)
 * [Download a sample](#download-a-sample)
+
+
+## Description 
+
+This content type allows you to display a search interface for any item (e.g. apartments, plans, cars, ect) that is placed in the same folder.
+
+![Search interface : filters](../../img/content_filters.JPG)
 
 ## Actions within Compositeur Digital UX
 
@@ -55,7 +60,6 @@ The first line of the spreadsheet represents the *type of criteria*. Select one 
 | `multiple`    | Criteria for multiple selection.                                                                      |
 | `price`       | Represents a price. Do not specify unit.                                                              |
 | `single`      | Criteria for single choice.                                                                           |
-| `string`      | Criteria for multiple selection.                                                                      |
 | `surface`     | Represents a surface. Type in "m²". Do not specify unit.                                              |
 | `floor`       | Floor level (real estate use case).                                                                   |
 | `orientation` | Criteria to select an orientation (e.g. "North", "South"... real estate use case).                    |
@@ -103,6 +107,15 @@ The design of a result item indicates various information about the item : surfa
 1. Inside this folder, create a file called `_list.csv` (or `_catalog.csv`). 
 1. Fill the spreadsheet with the criteria you want, and describe your item.
 1. For each item that belongs to the column `id` of your `_list.csv` (or `_catalog.csv`), add an item inside your search folder (image, pdf, ect...)
+
+## Metadata available
+
+Metadata will help you to customize the way your search interface behaves.
+
+| Metadata Key                      | Type     | Default | Description |
+|:----------------------------------|:---------|:--------|:------------|
+| `catalog.resultsMaxCount`         |`number`  | 40      | The maximum number of results wich can be viewed in the result page. |
+
 
 ## Download a sample
 

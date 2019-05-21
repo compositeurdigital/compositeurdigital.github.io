@@ -18,9 +18,9 @@ This section describes all the contents which can be used inside Compositeur Dig
 * [Mortgage Simulator](simulator.md)
 * [Slideshows : images, pdf and powerpoint](slideshows.md)
 * [Web pages](web_page.md)
-* [Creating Templates](templates.md)
 * [Forms](form.md)
-* [Reports](reports.md)
+* [Report](report.md)
+* [Creating Templates](templates.md)
 
 ## [Actions](actions.md)
 

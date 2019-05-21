@@ -1,5 +1,14 @@
 # Images
 
+## Summary
+* [Description](#description)
+* [File extension](#file-extensions)
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
+   * [Make a slideshow](#make-a-slideshow)
+   * [Add Hot Spot using Microsoft Powerpoint](#add-hot-spot-using-microsoft-powerpoint)
+
+## Description
+
 Images are supported natively by Compositeur Digital UX.
 
 ![Images displayed within Compositeur Digital UX](../../img/content_img.JPG)

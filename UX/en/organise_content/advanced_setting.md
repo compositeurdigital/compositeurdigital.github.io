@@ -22,7 +22,9 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 * [Content specific metadata](#content-specific-metadata)
   * [Video](#video)
   * [Web](#web)
-  * [Loan simulator](#loan-simulator)
+  * [Mortgage simulator](#mortgage-simulator)
+  * [3D objects](#3d-objects)
+  * [Search interface](#search-interfaces)
 * [Shared values](#shared-values)
 
 ## Value types
@@ -33,25 +35,29 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `number`    | an integral or decimal number | `123`, `123.45` |
 | `dimension` | a size in pixels or a percentage of the containing view | `400`, `75%` |
 | `boolean`   | true or false | `true`/`false`, `1`/`0` |
-| `color`     | hexadecimal color code | `#AAAAAA`, `#f03b5e` |
+| `color`     | hexadecimal color code or rgb code | `#AAAAAA`, `#f03b5e`, `112, 12, 67` |
 
 
 ## Metadata supported
 
-| Metadata Key                      | Type         | Default | Description |
-|:--------------------------------- |:-------------|:--------|:-|
-| `desiredHeight`                   | `dimension`  | 400     | sets the default height of the document |
-| `desiredWidth`                    | `dimension`  | 400     | sets the default width of the document |
-| `isPaper`                         | `boolean`    | false   | removes the background of the document's buttons (action and close buttons)|
-| `maxHeight`                       | `dimension`  | -       | sets the maximum height |
-| `maxWidth`                        | `dimension`  | -       | sets the maximum width |
-| `minHeight`                       | `dimension`  | -       | sets the minimum height |
-| `minWidth`                        | `dimension`  | -       | sets the minimum width |
+| Metadata Key                      | Type         | Default   | Description |
+|:--------------------------------- |:-------------|:----------|:-|
+| `culture`                         | `text`       | unset     | indicates the language used in the universe. Supported values are `fr` or `en` |
+| `canStick`                        | `boolean`    |false      | indicates that the object can be sticked like a note |
+| `canWrite`                        | `boolean`    |false      | indicates that text can be typed on this object |
+| `desiredHeight`                   | `dimension`  | 400       | sets the default height of the document |
+| `desiredWidth`                    | `dimension`  | 400       | sets the default width of the document |
+| `isPaper`                         | `boolean`    | false     | removes the background of the document's buttons (action and close buttons)|
+| `maxHeight`                       | `dimension`  | -         | sets the maximum height |
+| `maxWidth`                        | `dimension`  | -         | sets the maximum width |
+| `minHeight`                       | `dimension`  | -         | sets the minimum height |
+| `minWidth`                        | `dimension`  | -         | sets the minimum width |
 | `name`                            | `text`       | file name | change the displayed name of the document to "A name" (example) |
-| `orientation`                     | `number`     | 0       | rotates the document: `-90` to turn left, `90` to turn right or `180` to flip the document |
-| `table.hideCommands`              | `boolean`    | false   | hides the control buttons of a document (previous/next page, video playback controls…) |
-| `table.noRotate`                  | `boolean`    | false   | inhibits rotation for the document |
-| `table.viewer`                    | `cdux`       | unset   | Makes sure the `cdurl` link will be displayed inside Compositeur Digital UX |
+| `orientation`                     | `number`     | 0         | rotates the document: `-90` to turn left, `90` to turn right or `180` to flip the document |
+| `table.hideCommands`              | `boolean`    | false     | hides the control buttons of a document (previous/next page, video playback controls…) |
+| `table.noRotate`                  | `boolean`    | false     | inhibits rotation for the document |
+| `table.viewer`                    | `cdux` or `extern` | unset   | Using `cdux` it makes sure the `cdurl` link will be displayed inside Compositeur Digital UX. With `extern`, the document is opened using the native viewer. |
+| `themeColor`                      | `color`      | -         | forces a theme color for the universe. | 
                                  
 
 
@@ -66,6 +72,9 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 |:--------------------------------- |:----------|:--------|:-|
 | `video.autoplay`                  | `boolean` | true    | start playing video on display |
 | `video.autoplay.delay`            | `number ` | 0       | delay autoplay by the number of seconds specified |
+| `video.autoclose`                 | `boolean` | false   | close the video when playback reaches end |
+| `video.autoclose.delay`           | `number ` | 0       | delay autoclose by the number of seconds specified |
+| `video.mute`                      | `boolean` | false   | defines if a video is muted or not |
 | `video.rewind`                    | `boolean` | false   | go back to the first frame when the video ends |
 | `video.loop`                      | `boolean` | false   | replay from start when the video ends |
 | `video.controls.alwaysvisible`    | `boolean` | false   | force the display of the video playback controls |
@@ -79,17 +88,22 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `web.viewport.width`              | `number`  | 1000    | Sets the default width of the page view |
 | `web.viewport.height`             | `number`  | 800     | Sets the default height of the page view |
 
-### Loan simulator
+### Mortgage simulator
 
-| Metadata Key                      | Type     | Default | Description |
-|:--------------------------------- |:---------|:--------|:-|
-| `simulator.creditMaxValue`        | `number` | 800000  | sets the maximum value of a loan |
-| `simulator.creditTickFrequency`   | `number` | 5000    | sets the interval between two values for a loan |
-| `simulator.creditDefaultValue`    | `number` | 300000  | sets the default loan value |
-| `simulator.durationMinValue`      | `number` | 5       | sets the shortest duration of a loan |
-| `simulator.durationMaxValue`      | `number` | 30      | sets the longest duration of a loan |
-| `simulator.durationTickFrequency` | `number` | 1       | sets the interval between two values for a loan duration |
-| `simulator.durationDefaultValue`  | `number` | 20      | sets the default duration of a loan |
+| Metadata Key                                 | Type     | Default            | Description |
+|:-------------------------------------------- |:---------|:-------------------|:-|
+| `simulator.additionalCostsRateDefaultValue`  | `number` | 0                  | sets the default value of the addtional costs rate |
+| `simulator.additionalCostsRateLabel`         | `text`   | `Additional costs` | sets the label of the additional costs line | 
+| `simulator.additionalCostsRateMinValue`      | `number` | 0                  | sets the min value for the additional costs rate |
+| `simulator.additionalCostsRateMaxValue`      | `number` | 50                 | sets the max value for the additional costs rate |
+| `simulator.additionalCostsRateTickFrequency` | `number` | 1                  | sets the interval between two values for the additional costs rate |
+| `simulator.creditMaxValue`                   | `number` | 800000             | sets the maximum value of a loan |
+| `simulator.creditTickFrequency`              | `number` | 5000               | sets the interval between two values for a loan |
+| `simulator.creditDefaultValue`               | `number` | 300000             | sets the default loan value |
+| `simulator.durationMinValue`                 | `number` | 5                  | sets the shortest duration of a loan |
+| `simulator.durationMaxValue`                 | `number` | 30                 | sets the longest duration of a loan |
+| `simulator.durationTickFrequency`            | `number` | 1                  | sets the interval between two values for a loan duration |
+| `simulator.durationDefaultValue`             | `number` | 20                 | sets the default duration of a loan |
 
 ### 3D objects
 
@@ -98,6 +112,12 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `obj3D.backgroundcolor`           | `color`  | #dce1e1 | sets a solid background color |
 | `obj3D.camera.h`                  | `number` | 0       | sets the default azimuth (horizontal rotation) for the camera position |
 | `obj3D.camera.v`                  | `number` | 0       | sets the default pitch (vertical rotation) for the camera position |
+
+### Search interfaces
+
+| Metadata Key                      | Type     | Default | Description |
+|:----------------------------------|:---------|:--------|:------------|
+| `catalog.resultsMaxCount`         |`number`  | 40      | The maximum number of results wich can be viewed in the result page. |
 
 ## Shared values
 

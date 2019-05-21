@@ -1,5 +1,14 @@
 # Guestbook
 
+## Summary
+* [Description](#description)
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
+* [Content extension](#content-extension)
+* [Create a guestbook](#create-a-guestbook)
+* [Download a sample](#download-a-sample)
+
+## Description
+
 This content type allows you to create a guestbook which can be useful to collect feedback from your users.
 
 ![Guestbook displayed within Compositeur Digital UX](../../img/content_guestbook.JPG)

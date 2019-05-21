@@ -1,5 +1,18 @@
 # Web Pages
 
+## Summary
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
+* [Content extensions](#content-extensions)
+  * [I want to display a web site link which will be opened in a web browser](#i-want-to-display-a-web-site-link-which-will-be-opened-in-a-web-browser)
+  * [I want to display an external web site inside my Compositeur Digital UX](#i-want-to-display-an-external-web-site-inside-my-compositeur-digital-ux)
+  * [I want to display local HTML content](#i-want-to-display-local-html-content)
+* [Interactions with Compositeur Digital UX](#interactions-with-compositeur-digital-ux)
+* [Summup](#summup)
+* [Metadata available](#metadata-available)
+* [Download a sample](#download-a-sample)
+
+## Description
+
 This content allows you to display a local html content, or a web site page inside your Compositeur Digital UX. Web site pages can also be displayed as links, so that when they are selected, an external web browser is showing them.
 
 To interact with a web page, press the navigation button at the center of the item: This will trigger the navigation mode.
@@ -10,7 +23,7 @@ In navigation mode, you can interact with the content displayed in webview in th
 
 ![Web page navigation mode disabled](../../img/content_web_page_end.JPG)
 
-## Action within Compositeur Digital UX
+## Actions within Compositeur Digital UX
 
 Web page items support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
 
@@ -58,24 +71,24 @@ If you have several `html` files inside this folder, by default, Compositeur Dig
 
 ### Interactions with Compositeur Digital UX
 
-With html contents, you can have interaction between your webpage an your Compositeur Digital UX using javascript.
+With html contents, you can have interaction between your webpage an Compositeur Digital UX using javascript.
 All actions are available through the object `CDUX`.
 
 openItem: open an item from your universe by giving its relative path from your webview
 <br />`<a href="javascript:CDUX.openItem('../image.jpg');">open image</a>`
 <br />`<a href="javascript:CDUX.openItem('2ndPage.html?name=test');">open new webview</a>`
 
-getProjectData: retrieve a value stored on current project by giving its key
+getProjectData: retrieve a value stored on the current project by giving its key
 <br />`var budget = CDUX.getProjectData("firstName");`
 
-setProjectData: sets a value on current project for a given key
+setProjectData: sets a value on the current project for a given key
 <br />`CDUX.setProjectData("finance.budget", 600000);`
 
-getInstanceData: retrieve a value stored on current document instance by giving its key
-<br />`var value = CDUX.getProjectData("questionnay.thirdAnswer");`
+getInstanceData: retrieve a value stored on the current page instance by giving its key
+<br />`var value = CDUX.getInstanceData("questionnay.thirdAnswer");`
 
-setInstanceData: sets a value on current document instance for a given key
-<br />`CDUX.setProjectData("questionnay.thirdAnswer", "Yes");`
+setInstanceData: sets a value on the current page for a given key
+<br />`CDUX.setInstanceData("questionnay.thirdAnswer", "Yes");`
 
 ProjectData are shared with all other documents whereas instanceData only concerns the current instance of your document (Note that InstanceData will be copied in case you duplicate the webview).
 With ProjectData you can interact with with the values of an other webview, but also of a [Quiz](quiz.md) or a [Mortgage simulator](simulator.md)
@@ -115,5 +128,6 @@ ShowChrome True (left) and ShowChrome False (right)
 
 A Demo Universe which contains samples for web page contents is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
 
-Next : [Creating Templates](templates.md)
+Next : [Forms](form.md)
 
+[Back to Supported Content](index.md)

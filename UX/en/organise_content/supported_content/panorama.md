@@ -1,5 +1,18 @@
 # Panorama : 360° view - first person
 
+## Summary
+* [Description](#description)
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
+* [Content extension](#content-extension)
+* [Create a panorama](#create-a-panorama)
+* [Create a tour](#create-a-tour)
+* [Projection types](#projection-types)
+   * [Spherical projection](#spherical-projection)
+   * [Cube projection](#cube-projection)
+* [Download a sample](#download-a-sample)
+
+## Description
+
 This content type allows you to display a 360° view of a scene (e.g. landscapes, interior views...) using specific images.
 
 To interact with a Panorama, press the navigation button at the center of the item : it starts the navigation mode.
@@ -17,7 +30,7 @@ When a hotspot is available, tapping on it will drive you to the next scene.
 
 ![Panorama hotspot](../../img/content_panorama_hotspot.JPG)
 
-## Action within Compositeur Digital UX
+## Actions within Compositeur Digital UX
 
 Panorama items support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
 

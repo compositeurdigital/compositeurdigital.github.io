@@ -11,6 +11,7 @@ This page describes all the actions you can achieve using Compositeur Digital UX
   - [Images](#images)
   - [Panorama](#panorama)
   - [Quiz](#quiz)
+  - [Reports](#reports)
   - [Sequences](#sequences)
   - [Search Interface](#search-interface) 
   - [Slideshows](#slideshows)
@@ -81,6 +82,17 @@ Each item has different actions. This section summarizes all the actions you can
 | *Previous*              | Go to the previous page.                                                                             |
 | *Questions*             | Interact with the question. Depending on the question type, it can be boxes to check, sliders to move, form to fill... |
 
+### Reports
+
+| Action                  | Description                                                                                          |
+|:------------------------|:-----------------------------------------------------------------------------------------------------|
+| *Capture mode*          | Capture mode can be turned on when all the Slides of the report are displayed. In this mode, tapping on a slide will open a capture of the slide. |
+| *Hyperlinks*            | If your file includes hyperlink (to access another page of your file, or to launch external web sites, these hyperlinks will work |
+| *Launch item*           | If your report includes [Hot Spots](powerpoint.md#hot-spots), a tap on a hot spot launch an item. |  
+| *Next*                  | Go to the next page.                                                                                 |
+| *Previous*              | Go to the previous page.                                                                             |
+| *Slides mode*           | Display all the slides of the report, using the `Slides` action.                                  |
+
 ### Sequences
 
 | Action                  | Description                                                                                          |
@@ -134,6 +146,7 @@ The following table compares all the actions which can be triggered from the act
 | **Mortgage simulator** | &#x2716; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
 | **Panorama**           | &#x2716; | &#x2714; | &#x2714;  | &#x2716; | &#x2714;  | &#x2716;      |
 | **Quiz**               | &#x2716; | &#x2716; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
+| **Report**             | &#x2714; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
 | **Search Interface**   | &#x2716; | &#x2716; | &#x2716;  | &#x2716; | &#x2714;  | &#x2716;      |
 | **Sequence**           | &#x2716; | &#x2714; | &#x2714;  | &#x2716; | &#x2714;  | &#x2716;      |
 | **Slideshow**          | &#x2714; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |

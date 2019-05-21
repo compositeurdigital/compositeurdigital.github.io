@@ -1,10 +1,7 @@
 # Quiz
 
-This type of content allows you to display interactive Quiz, that will help you understanding your user needs.
-
-![Quiz displayed within Compositeur Digital UX](../../img/content_quizz.JPG)
-
 ## Summary 
+* [Description](#description)
 * [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
 * [Content extension](#content-extension)
 * [Questions : questions.xml](#questions--_questionsxml)
@@ -22,7 +19,12 @@ This type of content allows you to display interactive Quiz, that will help you 
       * [Order Page](#orderpage)
 * [Create a quiz](#create-a-quiz)
 * [Download a sample](#download-a-sample)
-   
+
+## Description
+
+This type of content allows you to display interactive Quiz, that will help you understanding your user needs.
+
+![Quiz displayed within Compositeur Digital UX](../../img/content_quizz.JPG)   
 
 ## Actions within Compositeur Digital UX
 
@@ -94,7 +96,7 @@ Here are the attributes for `questionPage`:
 | `id`            | The id of the question.                                                                            |
 | `label`         | Question text to display. Supersedes the `visual` attribute.    				       |
 | `sectionId`     | Defines the section id to which the question belongs.                                              |
-| `sideVisual`    | Allows you to display an image besides your questions. The image must exist in the `_meta` folder. |
+| `sideVisual`    | Displays an image besides your questions. The image must exist in the `_meta` folder.              |
 | `visual`        | Name of the question image file (without extension). The file must exist in the `_meta` folder.    |
 
 The content of the `questionPage` is the list of answers, which can be of various types:
@@ -273,10 +275,54 @@ Add a list of `answer` or `imageAnswer` for available choices. The two types can
 <orderPage sectionId="section 1" label="I would rather live in a" answerNumber="2">
     <visualAnswer visual="house" visualChecked="test1">House</visualAnswer>
     <visualAnswer visual="flat" visualChecked="test2">Flat</visualAnswer>
-  </orderPage>
+</orderPage>
 ```
 
 ![Order page sample](../../img/content_quizz_orderpage.JPG)
+
+
+##### `scoresResultPage`
+Displays a message based on the addition of answer's scores.
+A `scoreResultPage` contains a `scoreResult` element for each result to display.
+
+| Keys          | Description                                                                                        |
+|:--------------|:---------------------------------------------------------------------------------------------------|
+| `scoreMax`    | Maximum score that will show this `scoreResult`.            					     |
+| `title`       | Title of the message                                                                               |
+| `sideVisual`  | Displays an image besides your message. The image must exist in the `_meta` folder.                |  
+
+The message itself is content written between the opening and closing `scoreResult` tags.
+Note that the minimum score will be the highest lower `scoreMax` amongst the others `scoreResult`.
+
+```xml
+<questionPage label="Hello !">
+    <answer score="1" >answer A</answer>
+    <answer score="2" >answer B</answer>
+    <answer score="3" >answer C</answer>
+</questionPage>
+	
+<questionPage allowMultiple="true">
+    <answer score="-1" >answer A</answer>
+    <answer score="0" >answer B</answer>
+    <answer score="3" >answer C</answer>
+</questionPage>
+
+<scoresResultPage>
+    <scoreResult title="A profile" scoreMax="0">
+        You seems to have answered only A to all questions...
+    </scoreResult>
+    <scoreResult title="B  profile" scoreMax="2">
+        If you see this message, there is three possible scenarios :
+        - you have answered A then B
+        - you have answered B then A or B
+        - you have answered C then A
+    </scoreResult>
+    <scoreResult title="C profile" scoreMax="6">
+        Every other case should displays this message.
+    </scoreResult>
+</scoresResultPage>
+```
+
 
 ## Create a quiz
 

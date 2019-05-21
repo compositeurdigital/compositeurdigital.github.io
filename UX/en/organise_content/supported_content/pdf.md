@@ -1,5 +1,12 @@
 # Pdf
 
+## Summary
+* [Description](#description)
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
+* [Slideshow](#slideshow)
+
+## Description
+
 Pdf files are supported natively by Compositeur Digital UX.
 
 ![Pdf displayed within Compositeur Digital UX](../../img/content_pdf.JPG)

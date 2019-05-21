@@ -1,5 +1,12 @@
 # Release Notes
 
+### 4.1.0.34
+- .bat support
+- improved polygonal pois loading time in sequences
+- [FIX] pois on wrong page in PDF files
+- [FIX] cannot download Demo Content 
+
+
 ### 4.1.0.29
 
 - App uses the user default proxy when performing web tasks. 
