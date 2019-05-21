@@ -19,9 +19,9 @@ Slideshows support the following action. To have a complete overview of each act
 
 **Actions menu**
 
-| Annotate | Capture  | Duplicate | Save as  | Selection | Share    | Slides   |
-|:--------:|:--------:|:---------:|:--------:|:---------:|:--------:|:--------:|
-| &#x2714; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714; | &#x2714; | 
+| Annotate | Capture  | Duplicate | Open in native app | Save as  | Selection | Share    | Slides   |
+|:--------:|:--------:|:---------:|:------------------:|:--------:|:---------:|:--------:|:--------:|
+| &#x2714; | &#x2714; | &#x2714;  | &#x2714;           | &#x2714; | &#x2714;  | &#x2714; | &#x2714; | 
 
 **Interaction with the item**
 

@@ -1,43 +1,37 @@
-# Video
+# Audio
 
 ## Summary
 * [Description](#description)
 * [File extensions](#file-extensions)
 * [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
-* [A/V Codecs](#av-codecs)
 * [Metadata available](#metadata-available)
 
 ## Description
 
-Video are supported natively by Compositeur Digital UX.
+Audio files are supported natively by Compositeur Digital UX.
 
-![Video displayed within Compositeur Digital UX](../../img/content_video.JPG)
+![Audio file displayed within Compositeur Digital UX](../../img/content_audio.JPG)
 
 ## File extensions 
 
-Compositeur Digital UX supports `.avi`, `.flv`, `.m4v`, `.mov`, `.mp4`, `.mpeg`, `.mpg`, `.ts` and `.wmv` files.
+Compositeur Digital UX supports `.mp3` files.
 
 ## Actions within Compositeur Digital UX
 
-Videos support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
+Audio player support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
 
 **Actions menu**
 
-| Annotate | Capture  | Duplicate | Open in native app | Save as  | Selection | Share    | Loop     |
-|:--------:|:--------:|:---------:|:------------------:|:--------:|:---------:|:--------:|:--------:|
-| &#x2716; | &#x2714; | &#x2714;  | &#x2714;           | &#x2714; | &#x2714;  | &#x2714; | &#x2714; | 
+| Annotate | Capture  | Duplicate | Loop     |  Open in native app | Save as  | Selection | Share    | 
+|:--------:|:--------:|:---------:|:--------:|:-------------------:|:--------:|:---------:|:--------:|
+| &#x2716; | &#x2716; | &#x2714;  | &#x2714; | &#x2714;            | &#x2714; | &#x2714;  | &#x2714; | 
 
 **Interaction with the item**
 
-| Video Controls |
+| Audio Controls |
 |:--------------:|
 | &#x2714;       | 
 
-## A/V Codecs
-
-A video file format can embed different coding/decoding standards. Those standards called “codecs” should be installed on your computer. K-Lite Codec Pack includes a wide variety of codecs. Please note that some uncommon codecs may not be supported within Compositeur Digital UX.
-
-Our recommendation is to use WMV and MP4(H264) format for a safe use.
 
 ## Metadata available
 
@@ -52,6 +46,6 @@ Our recommendation is to use WMV and MP4(H264) format for a safe use.
 | `video.mute`                      | `boolean` | false   | force the video to be muted |
 | `video.controls.alwaysvisible`    | `boolean` | false   | force the display of the video playback controls |
 
-Next: [Audio (Compositeur Digital UX format)](audio.md)
+Next: [Guestbook (Compositeur Digital UX format)](guestbook.md)
 
 [Back to Supported Content](index.md)
