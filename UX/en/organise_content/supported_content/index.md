@@ -7,6 +7,7 @@ This section describes all the contents which can be used inside Compositeur Dig
 * [Pdf](pdf.md)
 * [Powerpoint](powerpoint.md)
 * [Video](video.md)
+* [Audio](audio.md)
 
 ## Compositeur Digital UX formats
 * [3D Objects](3dobj.md)
@@ -16,6 +17,7 @@ This section describes all the contents which can be used inside Compositeur Dig
 * [Search Interface](search.md)
 * [Sequences : Pre-rendered 360° view (orbital)](sequences.md)
 * [Mortgage Simulator](simulator.md)
+* [Savings Simulator](savings_simulator.md)
 * [Slideshows : images, pdf and powerpoint](slideshows.md)
 * [Web pages](web_page.md)
 * [Forms](form.md)
