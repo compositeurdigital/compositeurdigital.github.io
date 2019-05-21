@@ -17,7 +17,7 @@
       * [Image Slider Page](#imagesliderpage)
       * [Document Page](#documentpage)
       * [Order Page](#orderpage)
-      * [Scores result Page](#scoresresultspage)
+      * [Scores result Page](#scoresresultpage)
 * [Create a quiz](#create-a-quiz)
 * [Download a sample](#download-a-sample)
 
