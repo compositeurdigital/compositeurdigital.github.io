@@ -5,6 +5,7 @@
 * [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
 * [Content extension](#content-extension)
 * [Create a 3D object](#create-a-3d-object)
+* [Scene background](#scene-background)
 * [Metadata available](#metadata-available)
 * [Download a sample](#download-a-sample)
 
@@ -23,7 +24,7 @@ You can also press the `end manipulation` button (next to the action button) to 
 
 When your 3D objects in composed of various files, you can select which part of the object you want to display, or put the focus on a specific part.
 
-To hide/show a part, tap on the check box next to the name of the part you want to hide/show. 
+To hide/show a part, tap on the eye symbol next to the name of the part you want to hide/show. 
 
 ![3D Object hide part](../../img/content_3d-obj_hide_part.JPG)
 
@@ -56,8 +57,15 @@ Inside your 3d object folder, only use files that end with `.3ds`, `.bmp`, `.dds
 
 1. In your environment folder, create a folder named `<Name of your 3D model>.3ds` (e.g. `My loader.3ds`).
 1. Drag and drop all the files which are composing your 3d models in this folder.
-1. (Optional) Add skybox file named `_skybox.dds`.
 1. (Optional) Add an image (`.jpg` or `.png`) named `_preview` to change the preview.
+
+## Scene background
+
+You can customize the background of the scene. By default, if no skybox, background or color are defined, we use a default image background. You can define: 
+
+1. A skybox texture (`.dds` file) which will be mapped in the background of the scene. It has to be named `_skybox.dds`.
+1. A background file named `_background.(jpg, png, jpeg)`.
+1. A meta file with a line `obj3D.backgroundcolor = <color>` to set a background color.
 
 ## Metadata available
 
