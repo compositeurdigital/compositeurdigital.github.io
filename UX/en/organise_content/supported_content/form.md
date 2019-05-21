@@ -2,6 +2,7 @@
 
 ## Summary
 * [Description](#description)
+* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
 * [Content extension](#content-extension)
 * [Contents : `_questions.xml`](#contents)
 * [Organize elements](#organize-elements)
@@ -23,6 +24,23 @@
 This type of content allows you to display interactive Form that will help you collect informations.
 
 ![form](../../img/content_form.jpg)
+
+## Actions within Compositeur Digital UX
+
+Forms support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
+
+**Actions menu**
+
+| Annotate | Capture  | Duplicate | Open in native app | Save as  | Selection | Share    |
+|:--------:|:--------:|:---------:|:------------------:|:--------:|:---------:|:--------:|
+| &#x2716; | &#x2716; | &#x2714;  | &#x2716;           | &#x2716; | &#x2714;  | &#x2716; |
+
+**Interaction with the item**
+
+| Launch items | Questions |
+|:------------:|:---------:|
+| &#x2714;     | &#x2714;  |
+
 
 ## Content extension
 
