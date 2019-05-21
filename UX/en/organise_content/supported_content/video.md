@@ -52,6 +52,6 @@ Our recommendation is to use WMV and MP4(H264) format for a safe use.
 | `video.mute`                      | `boolean` | false   | force the video to be muted |
 | `video.controls.alwaysvisible`    | `boolean` | false   | force the display of the video playback controls |
 
-Next: [Guestbook (Compositeur Digital UX format)](guestbook.md)
+Next: [Audio (Compositeur Digital UX format)](audio.md)
 
 [Back to Supported Content](index.md)
