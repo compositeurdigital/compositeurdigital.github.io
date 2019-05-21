@@ -6,6 +6,7 @@
 * [Content extension](#content-extension)
 * [Create a report](#create-a-report)
 * [Special tags](#special-tags)
+* [Download a sample](#download-a-sample)
 
 ## Description
 
@@ -52,6 +53,10 @@ Finally, when the [forms](form.md) are edited through Compositeur Digital UX, th
 | Tag name | Description |
 |:--------:|:------------|
 | @@@creationdate | Filled automatically with the current date. |
+
+## Download a sample
+
+A Demo Universe which contains a report is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
 
 Next : [Creating templates](templates.md)
 
