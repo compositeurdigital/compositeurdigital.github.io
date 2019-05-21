@@ -7,9 +7,11 @@ This page describes all the actions you can achieve using Compositeur Digital UX
 - [Actions Menu](#actions-menu)
 - [Custom actions](#custom-actions)
   - [3D Objects](#3d-objects)
+  - [Audio](#audio)
   - [Guestbook](#guestbook) 
   - [Images](#images)
   - [Panorama](#panorama)
+  - [Product sheet](#product-sheet)
   - [Quiz](#quiz)
   - [Reports](#reports)
   - [Sequences](#sequences)
@@ -32,6 +34,7 @@ The actions triggered by a tap on these buttons are listed below.
 | *Annotate*              | Allows you to write on the item using a pencil. Change the ink color using the `Ink` action.         |
 | *Capture*               | Make a capture (i.e. create an image of the item) using the `Capture` action.                        |
 | *Duplicate*             | Make a copy of your item using the `Duplicate` action.                                               |
+| *Open in native app*    | Open the file inside the native application (e.g. media player, web browser...). 
 | *Save as*               | Save a local copy\* using the Save as action.                                                        |
 | *Selection*             | Add or remove the item from your selection, using the `Add to selection` or `Remove from selection` action.                       |
 | *Share*                 | Share the item\* using the `Share` action.                                                           |
@@ -50,6 +53,13 @@ Each item has different actions. This section summarizes all the actions you can
 | *Manipulation Off*      | Turn off manipulation mode.                                                                          |
 | *Focus Part*            | Put the focus on a subpart of the object                                                             |
 | *Show/Hide Part*        | Show/hide a subpart of the object                                                                    |
+
+### Audio
+
+| Action                  | Description                                                                                          |
+|:------------------------|:-----------------------------------------------------------------------------------------------------|
+| *Loop*                  | When turned on, loop the audio endlessly. Use the `Loop` action                                      |
+| *Player*                | Play / Pause, Mute, change the position of the audio file.                                                |
 
 ### Guestbook
 
@@ -72,6 +82,12 @@ Each item has different actions. This section summarizes all the actions you can
 | *Navigation On*         | Turn on navigation mode. In navigation mode, sliding your finger on the item will rotate the camera. |
 | *Navigation Off*        | Turn off navigation mode.                                                                            |
 | *Hot Spots*             | In `tour` mode, allows the user to navigate from one scene to another.                               |
+
+### Product sheet
+
+| Action                  | Description                                                                                          |
+|:------------------------|:-----------------------------------------------------------------------------------------------------|
+| *Launch items*          | Launch items directly from the documents part.                                                       |
 
 ### Quiz
 
@@ -125,6 +141,7 @@ Each item has different actions. This section summarizes all the actions you can
 |:------------------------|:-----------------------------------------------------------------------------------------------------|
 | *Loop*                  | When turned on, loop the video endlessly. Use the `Loop` action                                      |
 | *Player*                | Play / Pause, Mute, change the position of the video.                                                |
+| *360°*                  | If the video is inside a `panorama` folder, allows the user to manipulate the camera inside the video. | 
 
 ### Web pages
 
@@ -138,20 +155,23 @@ Each item has different actions. This section summarizes all the actions you can
 
 The following table compares all the actions which can be triggered from the action menu for all the items.
 
-| Item                   | Annotate | Capture  | Duplicate | Save as  | Selection | Share         |
-|:-----------------------|:--------:|:--------:|:---------:|:--------:|:---------:|:-------------:|
-| **3D Objects**         | &#x2716; | &#x2714; | &#x2714;  | &#x2716; | &#x2714;  | &#x2716;      |
-| **Guestbook**          | &#x2714; | &#x2716; | &#x2716;  | &#x2714; | &#x2714;  | &#x2714;      |
-| **Images**             | &#x2714; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
-| **Mortgage simulator** | &#x2716; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
-| **Panorama**           | &#x2716; | &#x2714; | &#x2714;  | &#x2716; | &#x2714;  | &#x2716;      |
-| **Quiz**               | &#x2716; | &#x2716; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
-| **Report**             | &#x2714; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
-| **Search Interface**   | &#x2716; | &#x2716; | &#x2716;  | &#x2716; | &#x2714;  | &#x2716;      |
-| **Sequence**           | &#x2716; | &#x2714; | &#x2714;  | &#x2716; | &#x2714;  | &#x2716;      |
-| **Slideshow**          | &#x2714; | &#x2714; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
-| **Video**              | &#x2716; | &#x2716; | &#x2714;  | &#x2714; | &#x2714;  | &#x2714;      |
-| **Web Pages**          | &#x2716; | &#x2716; | &#x2714;  | &#x2716; | &#x2714;  | &#x2716;      |
+| Item                   | Annotate | Capture  | Duplicate | Open in native app | Save as  | Selection | Share         |
+|:-----------------------|:--------:|:--------:|:---------:|:------------------:|:--------:|:---------:|:-------------:|
+| **3D Objects**         | &#x2716; | &#x2714; | &#x2714;  | &#x2716;           | &#x2716; | &#x2714;  | &#x2716;      |
+| **Audio**              | &#x2716; | &#x2716; | &#x2714;  | &#x2714;           | &#x2714; | &#x2714;  | &#x2714;      |
+| **Form**               | &#x2716; | &#x2716; | &#x2714;  | &#x2716;           | &#x2716; | &#x2714;  | &#x2716;      |
+| **Guestbook**          | &#x2714; | &#x2716; | &#x2716;  | &#x2716;           | &#x2714; | &#x2714;  | &#x2714;      |
+| **Images**             | &#x2714; | &#x2714; | &#x2714;  | &#x2714;           | &#x2714; | &#x2714;  | &#x2714;      |
+| **Mortgage simulator** | &#x2716; | &#x2714; | &#x2714;  | &#x2716;           | &#x2714; | &#x2714;  | &#x2714;      |
+| **Panorama**           | &#x2716; | &#x2714; | &#x2714;  | &#x2716;           | &#x2716; | &#x2714;  | &#x2716;      |
+| **Product Sheet**      | &#x2716; | &#x2716; | &#x2714;  | &#x2714;           | &#x2714; | &#x2714;  | &#x2714;      |
+| **Quiz**               | &#x2716; | &#x2716; | &#x2714;  | &#x2716;           | &#x2714; | &#x2714;  | &#x2714;      |
+| **Report**             | &#x2714; | &#x2714; | &#x2714;  | &#x2714;           | &#x2714; | &#x2714;  | &#x2714;      |
+| **Search Interface**   | &#x2716; | &#x2716; | &#x2716;  | &#x2716;           | &#x2716; | &#x2714;  | &#x2716;      |
+| **Sequence**           | &#x2716; | &#x2714; | &#x2714;  | &#x2716;           | &#x2716; | &#x2714;  | &#x2716;      |
+| **Slideshow**          | &#x2714; | &#x2714; | &#x2714;  | &#x2714;           | &#x2714; | &#x2714;  | &#x2714;      |
+| **Video**              | &#x2716; | &#x2716; | &#x2714;  | &#x2714;           | &#x2714; | &#x2714;  | &#x2714;      |
+| **Web Pages**          | &#x2716; | &#x2716; | &#x2714;  | &#x2716;           | &#x2716; | &#x2714;  | &#x2716;      |
 
 [Back to Supported Content](index.md)
 
