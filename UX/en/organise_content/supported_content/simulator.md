@@ -57,6 +57,6 @@ To use a mortgage simulator, add the extension `.simupret` at the end of the nam
 A Demo Universe which contains samples for a mortgage simulator is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
 
 
-Next : [Slideshows (Compositeur Digital UX format)](slideshows.md)
+Next : [Savings simulator](savings_simulator.md)
 
 [Back to Supported Content](index.md)
