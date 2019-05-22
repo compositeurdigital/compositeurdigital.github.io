@@ -5,6 +5,7 @@
 * [File extensions](#file-extensions)
 * [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
 * [A/V Codecs](#av-codecs)
+* [360° Videos](#360-videos)
 * [Metadata available](#metadata-available)
 
 ## Description
@@ -38,6 +39,10 @@ Videos support the following action. To have a complete overview of each action,
 A video file format can embed different coding/decoding standards. Those standards called “codecs” should be installed on your computer. K-Lite Codec Pack includes a wide variety of codecs. Please note that some uncommon codecs may not be supported within Compositeur Digital UX.
 
 Our recommendation is to use WMV and MP4(H264) format for a safe use.
+
+## 360° Videos
+
+360° videos can be viewed with a controller that allows user to change the camera position. See the [section Panorama](panorama.md).
 
 ## Metadata available
 
