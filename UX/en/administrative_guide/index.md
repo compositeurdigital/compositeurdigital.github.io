@@ -8,7 +8,12 @@ Follow this guide to learn how you can manage your Compositeur Digital UX admini
   * [Sign-in](#sign-in)
   * [Sign-out](#sign-out)
 * [Office365 account](#office365-account)
-* [Add existing Compositeur Digital folders](#add-existing-compositeur-digital-folders)
+  * [Sign-in](#office365-sign-in)
+  * [Sign-out](#office365-sign-out)
+  * [Microsoft Teams](#add-microsoft-teams)
+  * [SharePoint sites](#add-sharepoint-sites)
+* [Add local folders](#add-local-folders)
+* [USB Keys](#usb-keys)
 
 ## Compositeur Digital UX account
 
@@ -47,7 +52,7 @@ Compositeur Digital UX allows you to directly sign in to your Office365 tenant. 
 
 **Note** : This way of accessing your documents requires that you have an internet connection available each time you request your streamed universe.
 
-### Sign in
+### Office365 Sign in
 
 ![1. Sign in office365 part 1](../img/administrative_signin_o365.JPG)
 
@@ -55,14 +60,14 @@ Compositeur Digital UX allows you to directly sign in to your Office365 tenant. 
 1. Follow the Office365 sign in instructions.
 1. You're connected.
 
-### Sign out
+### Office365 Sign out
 
 ![1. Sign out office365](../img/administrative_signout_o365.JPG)
 
 1. On the app start page, click on your Office 365 account.
 1. Click on `Sign out`.
 
-### Microsoft Teams
+### Add Microsoft Teams channels
 
 Once your Office365 account has been added, you can access content from your Microsoft Teams channels. To do so, you have to create a `Compositeur Digital UX` folder inside your channel. 
 
@@ -89,7 +94,7 @@ From my Compositeur Digital UX app, I can stream this library.
 
 6. The source has been added to your sources list. 
 
-### SharePoint site
+### Add SharePoint sites
 
 Let's take another example. I have a SharePoint site called `My site`. Under this site, I have a `Documents` library. Inside this library, I have a folder called `Compositeur Digital UX`, which contains universes. 
 
@@ -107,9 +112,9 @@ Let's take another example. I have a SharePoint site called `My site`. Under thi
 ![SharePoint : site added](../img/administrative_add_sharepoint.jpg)
 
 
-## Add existing Compositeur Digital UX folders
+## Add local folders
 
-By default, your universes are all stored under a single folder of your personal computer. This folder is `Documents\Compositeur Digital UX`.
+By default, your universes are all stored under a single folder of your personal computer. This folder is `<HD>\<username>\Documents\Compositeur Digital UX`.
 
 Depending on your enterprise configuration, you could have an access to a shared storage system (e.g. Microsoft SharePoint, Google Drive, Dropbox, ect). You can add these folders as Compositeur Digital folders. It means that when you start Compositeur Digital UX, the system will check if there are universes in all the folders you have set.
 
@@ -117,11 +122,17 @@ Using a shared storage system is very convenient to share your universes with al
 
 To add existing Compositeur Digital folders:
 
-![Add existing Compositeur Digital folders](../img/administrative_add_cd_folders.JPG)
+![Add local folders](../img/administrative_add_cd_folders.JPG)
 
-1. In the Universe page open the "Settings" menu.
-1. Tap on `Add existing Compositeur Digital folders`
+1. On the app start page, click on `Add location...`
+1. Click on `Local folder`
 1. Pick your folder.
 1. That's all &#x1F604;
+
+## USB Keys
+
+When you connect a USB key to your device, Compositeur Digital UX wil automatically check if the USB Key contains a `Compositeur Digital UX` folder at its root. If there is such a folder, a source will automatically be added.
+
+![Usb sources](../img/administrative_usb_keys.JPG)
 
 [Back to Documentation](../index.md)
