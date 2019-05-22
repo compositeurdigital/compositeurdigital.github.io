@@ -15,6 +15,7 @@ This section describes all the contents which can be used inside Compositeur Dig
 * [Panorama : 360° view (first person)](panorama.md)
 * [Quiz](quiz.md)
 * [Search Interface](search.md)
+* [Product sheets](productsheet.md)
 * [Sequences : Pre-rendered 360° view (orbital)](sequences.md)
 * [Mortgage Simulator](simulator.md)
 * [Savings Simulator](savings_simulator.md)
