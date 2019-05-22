@@ -42,7 +42,7 @@ Our recommendation is to use WMV and MP4(H264) format for a safe use.
 
 ## 360° Videos
 
-360° videos can be viewed with a controller that allows user to change the camera position. See the [section Panorama](panorama.md).
+360° videos can be viewed with a controller that allows user to change the camera position. See the [section Panorama](panorama.md#video-projection).
 
 ## Metadata available
 
