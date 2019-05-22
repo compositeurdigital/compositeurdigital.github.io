@@ -130,6 +130,6 @@ Metadata will help you to customize the way your search interface behaves.
 A Demo Universe which contains samples for search interfaces is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
 
 
-Next : [Sequences : Pre-rendered 360° view (orbital, Compositeur Digital UX format)](sequences.md)
+Next : [Product sheet](productsheet.md)
 
 [Back to Supported Content](index.md)
