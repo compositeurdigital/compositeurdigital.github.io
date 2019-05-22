@@ -35,7 +35,9 @@ To use a product sheet, add the extension `.productsheet` at the end of name of 
 
 1. In your universe folder, create a folder named `<Name of your product sheet>.productsheet` (e.g. `304.productsheet`).
 1. Put all the documents you want to link to this product sheet inside your folder. 
-1. To add informations which will be displayed in the product sheet, create a file `_meta.txt`. Fill this file with two lines per information. It should be of `key.label = <The label to display>` and `key.value = <the value associated to this label>`
+1. To add informations which will be displayed in the product sheet, create a file `_meta.txt`. Fill this file with two lines per information. It should be:<br/>
+`key.label = <The label to display>` <br/>
+`key.value = <the value associated to this label>`
 
 ![Product sheet meta](../../img/content_product_sheet_meta.JPG)
 
@@ -43,6 +45,6 @@ To use a product sheet, add the extension `.productsheet` at the end of name of 
 
 A Demo Universe which contains various product sheets is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
 
-Next : [Panorama : 360° view (first person, Compositeur Digital UX format)](panorama.md)
+Next : [Sequences : Pre-rendered 360° view (orbital, Compositeur Digital UX format)](sequences.md)
 
 [Back to Supported Content](index.md)
