@@ -1,3 +1,0 @@
-# Documentation
-
-## Deploy & share universe

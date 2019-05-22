@@ -125,6 +125,14 @@ To customize the thumbnail image of a document, drag and drop an image file usin
 ![With document thumbnail](../img/universe_document_preview.JPG) 
 ![With document thumbnail doc](../img/universe_document_preview_dock.JPG)
 
+## Customize the workspace
+
+It is possible to change the menu icon. By default, we use a "hamburger" menu icon. You can provide your own icon. Simply add a `.png` file named `_sidemenuicon.png` at the root of your universe.
+
+You can also hide the three dots of the bottom bar when the bar is collapsed. Add a `_meta.txt` file with a line `hideBottomBarDots = true`.
+
+![Customized workspace](../img/universe_custom_ui.JPG)
+
 ## Demo Universe
 
 A Demo universe is available and can be [downloaded here](Demo-Universe.zip). Once downloaded, unzip the file and put the content inside your `Compositeur Digital UX` folder. This demo universe includes samples for each type of content you can create within Compositeur Digital UX.
