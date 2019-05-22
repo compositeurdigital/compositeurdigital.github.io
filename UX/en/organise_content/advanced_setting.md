@@ -20,9 +20,10 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 * [Value types](#value-types)
 * [Metadata supported](#metadata-supported)
 * [Content specific metadata](#content-specific-metadata)
-  * [Video](#video)
+  * [Video and audio](#video-and-audio)
   * [Web](#web)
   * [Mortgage simulator](#mortgage-simulator)
+  * [Savings simulator](#savings-simulator)
   * [3D objects](#3d-objects)
   * [Search interface](#search-interfaces)
 * [Shared values](#shared-values)
@@ -66,7 +67,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 
 ## Content specific metadata
 
-### Video
+### Video and audio
 
 | Metadata Key                      | Type      | Default | Description |
 |:--------------------------------- |:----------|:--------|:-|
@@ -104,6 +105,25 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `simulator.durationMaxValue`                 | `number` | 30                 | sets the longest duration of a loan |
 | `simulator.durationTickFrequency`            | `number` | 1                  | sets the interval between two values for a loan duration |
 | `simulator.durationDefaultValue`             | `number` | 20                 | sets the default duration of a loan |
+
+### Savings simulator
+
+| Metadata Key                                 | Type     | Default            | Description |
+|:-------------------------------------------- |:---------|:-------------------|:-|
+| `simulator.depositFrequencyDefault`          | `text`   | `Month`            | sets the default value of the deposit frequency. It could be `Month`, `Quarter` or `Year` |
+| `simulator.interestRateMinValue`             | `number` | 0                  | sets the min value for the interest rate |
+| `simulator.interestRateMaxValue`             | `number` | 10                 | sets the max value for the interest rate |
+| `simulator.interestRateDefaultValue`         | `number` | 2.75               | sets the default value for the interest rate |
+| `simulator.regularDepositMinValue`           | `number` | 10                 | sets the minimum deposit value |
+| `simulator.regularDepositMaxValue`           | `number` | 20000              | sets the maximum deposit value |
+| `simulator.regularDepositTickFrequency`      | `number` | 100                | sets the interval between two values for a deposit |
+| `simulator.savingsTermMinValue`              | `number` | 0                  | sets the shortest duration of a saving plan |
+| `simulator.savingsTermMaxValue`              | `number` | 30                 | sets the longest duration of a saving plan |
+| `simulator.savingsTermDefaultValue`          | `number` | 20                 | sets the default duration of a saving plan |
+| `simulator.savingsTermTickFrequency`         | `number` | 1                  | sets the interval between two values for a saving plan duration |
+| `simulator.startingDepositMinValue`          | `number` | 0                  | sets the min value for the starting deposit amount |
+| `simulator.startingDepositMaxValue`          | `number` | 800000             | sets the max value for the starting deposit amount |
+| `simulator.startingDepositTickFrequency`     | `number` | 5000               | sets the interval between two values for a starting deposit amount |
 
 ### 3D objects
 
