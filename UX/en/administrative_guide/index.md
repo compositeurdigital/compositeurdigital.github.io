@@ -7,7 +7,6 @@ Follow this guide to learn how you can manage your Compositeur Digital UX admini
 * [Compositeur Digital UX account](#compositeur-digital-ux-account)
   * [Sign-in method](#sign-in-method)
   * [Sign-out method](#sign-out-method)
-* [Purchase a Compositeur Digital UX license](#purchase-a-compositeur-digital-ux-license)
 * [Add existing Compositeur Digital folders](#add-existing-compositeur-digital-folders)
 
 ## Compositeur Digital UX account
@@ -23,17 +22,14 @@ Alternatively, you can create an account [here](http://www.compositeurdigital.co
 
 ![1. Sign in part 1](../img/administrative_signin1.JPG)
 
-1. On the app start page, click on the `...` at the bottom right corner of the page.
-2. Click on the `Settings` button.
+1. On the app start page, click on the `Settings` button.
 
 ![1. Sign in part 2](../img/administrative_signin2.JPG)
 
-3. On the settings page, click on `Add license`, under `Compositeur Digital license`.
-4. Enter your username and password.
-5. Click on `Sign in`.
-6. You're connected! Your name appears under `Compositeur Digital license`. 
+2. On the settings page, click on `Add license`, under `Compositeur Digital license`.
+1. Enter your username and password and click on `Sign in`.
+1. You're connected! Your name and license type appears under `Compositeur Digital license`. 
 
-Once you are back on the app start page, your license information appears at the bottom right corner. 
 
 **Note** : The device will store your credentials. The Compositeur Digital UX will use the last signed-in account anytime you start a new session. 
 
@@ -41,22 +37,10 @@ Once you are back on the app start page, your license information appears at the
 
 At any time, you can freely decide to sign out.
 
-1. On the app start page, click on the `...` at the bottom right corner of the page.
-1. Click on the `Settings` button.
+1. On the app start page, click on the `Settings` button.
 1. On the settings page, click on your name under `Compositeur Digital license`, then click on `Sign out`.
 
-## Purchase a Compositeur Digital UX license
-
-Compositeur Digital UX offers in-app purchase. If you decide to purchase the product, all the restrictions which come with the free version will be removed and you'll use an unlimited version of Compositeur Digital UX. 
-
-![1. Buy license](../img/administrative_buy.JPG)
-
-1. On the app start page, click the `...` button at the bottom right corner of the page.
-1. Click on the `Buy` button.
-1. Follow the buying instructions.
-1. Your purchase has been authorized, congratulations!
-
-## Add existing Compositeur Digital folders
+## Add existing Compositeur Digital UX folders
 
 By default, your universes are all stored under a single folder of your personal computer. This folder is `Documents\Compositeur Digital UX`.
 
