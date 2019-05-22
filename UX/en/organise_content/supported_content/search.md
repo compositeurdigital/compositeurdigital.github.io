@@ -19,6 +19,12 @@ This content type allows you to display a search interface for any item (e.g. ap
 
 ![Search interface : filters](../../img/content_filters.JPG)
 
+Search interfaces can also include textboxes which will allow user to find item based on their names or keywords.
+
+![Search interface : text (item name)](../../img/content_filters_text_items_name.JPG)
+
+![Search interface : text (keywords)](../../img/content_filters_text_keywords.JPG)
+
 ## Actions within Compositeur Digital UX
 
 Search interfaces support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
@@ -57,10 +63,12 @@ The first line of the spreadsheet represents the *type of criteria*. Select one 
 | `double`      | Criteria to display a decimal number.                                                                 |
 | `float`       | Criteria to display a decimal number                                                                  |
 | `int`         | Criteria to select an integer.                                                                        |
+| `itemName`    | Blank column. Creates a textbox where user can filter items based on their name.                       |
 | `multiple`    | Criteria for multiple selection.                                                                      |
 | `price`       | Represents a price. Do not specify unit.                                                              |
 | `single`      | Criteria for single choice.                                                                           |
 | `surface`     | Represents a surface. Type in "m²". Do not specify unit.                                              |
+| `text`        | Filled with keywords associated to each line. Creates a textbox where user can filter items based on the keywords which are associated to them. Keywords are separated by `\|` in the `.csv` file. |
 | `floor`       | Floor level (real estate use case).                                                                   |
 | `orientation` | Criteria to select an orientation (e.g. "North", "South"... real estate use case).                    |
 | `state`       | Criteria to select a state (real estate use case).                                                    |
