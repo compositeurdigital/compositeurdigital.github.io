@@ -21,7 +21,7 @@ Guestbook items support the following action. To have a complete overview of eac
 
 | Annotate | Capture  | Duplicate | Open in native app | Save as  | Selection | Share    |
 |:--------:|:--------:|:---------:|:------------------:|:--------:|:---------:|:--------:|
-| &#x2714; | &#x2716; | &#x2716;  | &#x2716;           | &#x2714; | &#x2714;  | &#x2714; |
+| &#x2714; | &#x2716; | &#x2716;  | &#x2714;           | &#x2714; | &#x2714;  | &#x2714; |
 
 **Interaction with the item**
 
