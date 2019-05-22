@@ -49,6 +49,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `desiredHeight`                   | `dimension`  | 400       | sets the default height of the document |
 | `desiredWidth`                    | `dimension`  | 400       | sets the default width of the document |
 | `isPaper`                         | `boolean`    | false     | removes the background of the document's buttons (action and close buttons)|
+| `hideBottomBarDots`               | `boolean`    | false     | hides the bottom bar button |
 | `maxHeight`                       | `dimension`  | -         | sets the maximum height |
 | `maxWidth`                        | `dimension`  | -         | sets the maximum width |
 | `minHeight`                       | `dimension`  | -         | sets the minimum height |
