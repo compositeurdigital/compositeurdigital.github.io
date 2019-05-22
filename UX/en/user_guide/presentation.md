@@ -28,6 +28,10 @@ Take your face-to-face presentations to the next level and unleash the power of 
 * **Universe** : a universe is a windows folder which contains a set of documents, images, video, 3D models which will be used during your working session. During your work through the workspace, changes to these files can be saved in different projects.
 * **Projects** : a project contains all the work you have achieved in a universe : annotations, documents opened and manipulated, ect. Each project is attached to a universe.
 * **Workspace** : the workspace allows you to open, visualize and manipulate various types of documents : images, pdf, powerpoints, video, ect... Using pencil, you can write annotations on your documents.
+* **Source** : a source contains a set of universes. Three types of source exist :
+ - A local source : it is a folder on your computer (e.g. the default source uses the path `<HD>\<user>\Documents\Compositeur Digital UX`. This folder contains universes which are saved on your computer.
+ - USB Key sources : it is a folder on a USB key (e.g. `<KEY>\Compositeur Digital UX`). When you use USB keys, you can start a project on a device, save your project on your key, and then continue to work on your project using another device.
+ - Cloud sources : it is Microsoft Teams channel or a SharePoint site of your organisation. You need an internet access and an Office365 tenant to use cloud sources.
 
 ## Overview
 
@@ -44,17 +48,18 @@ Industry, product review meeting.
 
 ### Universes
 
-The Compositeur Digital UX start page presents all the universes available. 
+The Compositeur Digital UX start page presents all the universes available in a given source. 
 
 ![Compositeur Digital UX start page - universes](../img/pres_universes.jpg)
 
-1. Depending on your device type, on the top left corner you can connect to your Compositeur Digital account ([see section Compositeur Digital UX account](../administrative_guide/account.md)).
-1. A tab displays all the universes available. 
-1. At the bottom of the page, a navigation bar offers you to access the settings of the application, and if you don't own a full version of Compositeur Digital UX, to buy one.
+1. The list of all the available sources. In this example, there is a local source (`Documents`), three cloud sources, and one usb source.
+1. The `New` tab displays all the universes available in the source. 
+1. The `Open` tab contains all the projects started on this source.
+1. A refresh button allows you to reload the source if you have created new universes, or if you have deleted some universes.
+1. The panel at the bottom allows you to quickly add new sources (local or cloud sources), to connect to your Office 365 tenant, and to access the settings of the app. From the settings you can add your Compositeur Digital license. 
 
-If you don't have any universes when starting Compositeur Digital UX, a pop up will ask you to install the Demo Content. 
 
-You can also start an empty workspace by clicking on:
+You can start an empty workspace by clicking on:
 ![Compositeur Digital UX empty workspace](../img/pres_icon_empty_universe.jpg)
 
 
@@ -64,8 +69,11 @@ Clicking on "Open" drives you to the projects you have been working on. All the 
 
 ![Compositeur Digital UX start page - projects](../img/pres_projects_sort_by.jpg)
 
-1. These projects can be sorted by creation date, last access date, name, or universes' names.
-2. Clicking on "New" drives you to your universes page.
+1. Clicking on a project thumbnail will open the project exactly how you left it.
+1. Clicking on the three dots will show a context menu which allows you to Share, Delete or display information about your project.
+1. You can sort your projects by their names, the date they have been accessed, or the universe they are linked to. 
+1. The refresh button will force the source to be refreshed. It will refresh both the universes and the projects.
+1. The `New` tab will show you the universes available in the current source.
 
 ### Workspace
 
