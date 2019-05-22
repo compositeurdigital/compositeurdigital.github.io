@@ -1,6 +1,6 @@
 # Administrative Guide
 
-Follow this guide to learn how you can manage your Compositeur Digital UX administrative data : account, licenses, Compositeur Digital folders...
+Follow this guide to learn how you can manage your Compositeur Digital UX administrative data : account, licenses, Office365 connection, Compositeur Digital folders...
 
 ## Summary
 
