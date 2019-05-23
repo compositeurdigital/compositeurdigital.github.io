@@ -28,7 +28,7 @@ The `path` should be [relative](https://docs.microsoft.com/en-US/dotnet/standard
 
 A Demo Universe which contains a sample for the guestbook is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
 
-Next : [Panorama : 360° view (first person, Compositeur Digital UX format)](panorama.md)
+Next : [Creating templates](templates.md)
 
 [Back to Supported Content](index.md)
 
