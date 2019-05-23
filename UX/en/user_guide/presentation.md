@@ -29,9 +29,9 @@ Take your face-to-face presentations to the next level and unleash the power of 
 * **Projects** : a project contains all the work you have achieved in a universe : annotations, documents opened and manipulated, ect. Each project is attached to a universe.
 * **Workspace** : the workspace allows you to open, visualize and manipulate various types of documents : images, pdf, powerpoints, video, ect... Using pencil, you can write annotations on your documents.
 * **Source** : a source contains a set of universes. Three types of source exist :
- - A local source : it is a folder on your computer (e.g. the default source uses the path `<HD>\<user>\Documents\Compositeur Digital UX`. This folder contains universes which are saved on your computer.
- - USB Key sources : it is a folder on a USB key (e.g. `<KEY>\Compositeur Digital UX`). When you use USB keys, you can start a project on a device, save your project on your key, and then continue to work on your project using another device.
- - Cloud sources : it is Microsoft Teams channel or a SharePoint site of your organisation. You need an internet access and an Office365 tenant to use cloud sources.
+   * *A local source* : it is a folder on your computer (e.g. the default source uses the path `<HD>\<user>\Documents\Compositeur Digital UX`. This folder contains universes which are saved on your computer.
+   * *USB Key sources* : it is a folder on a USB key (e.g. `<KEY>\Compositeur Digital UX`). When you use USB keys, you can start a project on a device, save your project on your key, and then continue to work on your project using another device.
+   * *Cloud sources* : it is Microsoft Teams channel or a SharePoint site of your organisation. You need an internet access and an Office365 tenant to use cloud sources.
 
 ## Overview
 
