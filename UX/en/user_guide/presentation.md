@@ -85,13 +85,14 @@ The workspace is divided into 3 areas:
 1. The workspace : a collaborative area, to display, manipulate and edit content.
 1. A dock to browse and access your content.
 1. The menu button, available on the right side and left side of the screen, useful to : 
-   a. Add notes, blanksheets or templates.
-   b. Change the ink color of your pen.
-   c. Access settings of your project.
-   d. Import / paste new documents
-   e. Share your work
-   f. Save your project
-   g. Visualize all your documents : favorites, imported documents, history, environment.
+   - a. Add notes, blanksheets, stickers or templates.
+   - b. Change the ink type and color of your pen, use your finger to draw on documents, ect.
+   - c. Access settings of your project : you can enable / disable options such as tape or rotation from this menu.
+   - d. Import documents : select a list of file, paste content from your clipboard, take a screenshot of another app.
+   - e. Share your work
+   - f. Save your project
+   - g. Visualize all your documents : selection, imported documents, recycle bin, universes.
+   - h. Browse all the templates available : stickers, diagrams, boards...
 
 #### Open a document
 
