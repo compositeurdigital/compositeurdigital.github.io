@@ -58,6 +58,6 @@ Finally, when the [forms](form.md) are edited through Compositeur Digital UX, th
 
 A Demo Universe which contains a report is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
 
-Next : [Creating templates](templates.md)
+Next : [Shortcuts & hyperlinks : cdurl](cdurl.md)
 
 [Back to Supported Content](index.md)
