@@ -2,9 +2,8 @@
 
 ## Summary
 * [Description](#description)
-* [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
 * [Content extension](#content-extension)
-* [Create a guestbook](#create-a-guestbook)
+* [Create a cdurl](#create-a-cdurl)
 * [Download a sample](#download-a-sample)
 
 ## Description
