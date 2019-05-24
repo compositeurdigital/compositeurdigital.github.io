@@ -4,9 +4,16 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 ### Démarrage du Compositeur Digital
 
-### Utilisation de la fonctionnalité Diaporama
+### Utilisation du mode Diaporama
 
 *Affichage de l'ensemble des slides composant une présentation, de l'ensemble des images d'un diaporama...*
 
 ![Fonctionnalité Diaporama](../img/diaporama1.png)
 
+### Utilisation de la fonctionnalité Rotation
+
+### Utilisation de la fonctionnalité Scotch
+
+### Annotation de documents
+
+### 
