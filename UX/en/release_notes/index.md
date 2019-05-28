@@ -1,5 +1,19 @@
 # Release notes
 
+
+### 2.0.35 - May 28, 2019
+ - Stickers UI and export improvement
+	- Customisable side menu icon
+	- Hideable bottom bar dots
+	- Investment simulator
+	- Integrated stickers and templates
+	- Share with SendGrid
+	- .cdurl: inline metadata and web pages displayed in a webview by default
+	- Demo banking : simuinvest
+	- [FIX] Catalog: formatting and slider steps for value ranges under 10
+	- [FIX] Dynamics crmsearch view not updating
+	- [FIX] Free license refresh button
+
 ### 2.0.30 - May 15, 2019
  - Faster project preparation from cloud
  - [FIX] Quiz multiple values answer not updating project data
