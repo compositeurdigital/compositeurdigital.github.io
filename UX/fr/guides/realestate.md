@@ -10,6 +10,9 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 ![Fonctionnalité Diaporama](../img/diaporama1.png)
 
+1. Ouverture du menu relatif au document
+2. Sélection du mode Diaporama
+
 ## Utilisation de la fonctionnalité Rotation
 
 ## Utilisation de la fonctionnalité Scotch
