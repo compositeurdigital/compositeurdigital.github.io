@@ -2,7 +2,7 @@
 
 ### 2.0.37 - June 6, 2019
 - App rating dialog can be definitively dismissed
-- 3D object rendering mode options: normal, transparent and wireframe, see [3D objects](../organize_content/supported_content/3dobj.html#metadata-available)
+- 3D object rendering mode options: normal, transparent and wireframe, see [3D objects](../organise_content/supported_content/3dobj.html#metadata-available)
 - [FIX] Error when initializing some quiz pages
 - [FIX] Cannot export documents with stickers
 - [FIX] Powerpoint rendering issues
