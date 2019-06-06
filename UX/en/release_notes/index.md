@@ -1,18 +1,25 @@
 # Release notes
 
+### 2.0.37 - June 6, 2019
+- App rating dialog can be definitively dismissed
+- 3D object rendering mode options: normal, transparent and wireframe, see [3D objects](../organize_content/supported_content/3dobj.html#metadata-available)
+- [FIX] Error when initializing some quiz pages
+- [FIX] Cannot export documents with stickers
+- [FIX] Powerpoint rendering issues
+- [FIX] Empty site/team list when adding a SharePoint or Teams location
 
 ### 2.0.35 - May 28, 2019
- - Stickers UI and export improvement
-	- Customisable side menu icon
-	- Hideable bottom bar dots
-	- Investment simulator
-	- Integrated stickers and templates
-	- Share with SendGrid
-	- .cdurl: inline metadata and web pages displayed in a webview by default
-	- Demo banking : simuinvest
-	- [FIX] Catalog: formatting and slider steps for value ranges under 10
-	- [FIX] Dynamics crmsearch view not updating
-	- [FIX] Free license refresh button
+- Stickers UI and export improvement
+- Customisable side menu icon
+- Hideable bottom bar dots
+- Investment simulator
+- Integrated stickers and templates
+- Share with SendGrid
+- .cdurl: inline metadata and web pages displayed in a webview by default
+- Demo banking : simuinvest
+- [FIX] Catalog: formatting and slider steps for value ranges under 10
+- [FIX] Dynamics crmsearch view not updating
+- [FIX] Free license refresh button
 
 ### 2.0.30 - May 15, 2019
  - Faster project preparation from cloud
