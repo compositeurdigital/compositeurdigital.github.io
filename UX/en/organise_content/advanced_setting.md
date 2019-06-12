@@ -133,6 +133,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `obj3D.backgroundcolor`           | `color`  | #dce1e1 | sets a solid background color |
 | `obj3D.camera.h`                  | `number` | 0       | sets the default azimuth (horizontal rotation) for the camera position |
 | `obj3D.camera.v`                  | `number` | 0       | sets the default pitch (vertical rotation) for the camera position |
+| `obj3D.renderingmode`             | `text`   | Normal  | sets the rendering mode of the object. Supported modes are `Normal` (default mode), `Transparent` and `Wireframe`. |
 
 ### Search interfaces
 

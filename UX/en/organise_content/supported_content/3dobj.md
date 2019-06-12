@@ -74,6 +74,9 @@ You can customize the background of the scene. By default, if no skybox, backgro
 | `obj3D.backgroundcolor`           | `color`  | #dce1e1 | sets a solid background color |
 | `obj3D.camera.h`                  | `number` | 0       | sets the default azimuth (horizontal rotation) for the camera position |
 | `obj3D.camera.v`                  | `number` | 0       | sets the default pitch (vertical rotation) for the camera position |
+| `obj3D.renderingmode`             | `text`   | Normal  | sets the rendering mode of the object. Supported modes are `Normal` (default mode, top left corner), `Transparent` (top right corner) and `Wireframe` (bottom left corner). |
+
+![Obj 3D rendering modes](../../img/content_3d-obj_rendering-modes.jpg)
 
 ## Download a sample
 
