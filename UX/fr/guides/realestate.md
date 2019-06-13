@@ -13,6 +13,15 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 1. Ouverture du menu relatif au document
 2. Sélection du mode Diaporama
 
+![Fonctionnalité Diaporama](../img/diaporama2.png)
+
+3. Sélection d’une page ou d’un slide à afficher
+
+![Fonctionnalité Diaporama](../img/diaporama3.png)
+
+4. Mode d'extraction des pages
+5. Choix des pages à extraire
+
 ## Utilisation de la fonctionnalité Rotation
 
 ## Utilisation de la fonctionnalité Scotch
