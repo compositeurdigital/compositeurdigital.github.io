@@ -74,31 +74,33 @@ If you have several `html` files inside this folder, by default, Compositeur Dig
 With html contents, you can have interaction between your webpage an Compositeur Digital UX using javascript.
 All actions are available through the object `CDUX`.
 
-**openItem**: open an item from your universe by giving its relative path from your webview
+**openItem**(string path)
+<br />open an item from your universe by giving its relative path from your webview
 <br />`<a href="javascript:CDUX.openItem('../image.jpg');">open image</a>`
 <br />`<a href="javascript:CDUX.openItem('2ndPage.html?name=test');">open new webview</a>`
 
-**SetJsonProjectData(string dataKey, string value)**
+**SetJsonProjectData**(string dataKey, string value)
 <br />store the value (primitive or complex object) in the project under the given key
 
-**GetJsonProjectData(string datakey)** 
+**GetJsonProjectData**(string datakey)
 <br />retrieve the value stored in the project under the given key
 
-**SetJsonInstanceData(string dataKey, string value)**
+**SetJsonInstanceData**(string dataKey, string value)
 <br />store the value (primitive or complex object) in the webview instance under the given key
 
-**GetJsonInstanceData(string dataKey)**: retrieve the value stored in the webview instance under the given key
+**GetJsonInstanceData**(string dataKey): retrieve the value stored in the webview instance under the given key
 
-**RegisterProjectDataChangedCallback(string dataKey, string callBackFunctionName, bool sendNewValueAsArgument)**
+**RegisterProjectDataChangedCallback**(string dataKey, string callBackFunctionName, bool sendNewValueAsArgument)
 <br />subscribe to project data changes at the given key. Each time the value is changed (or a subvalue of the given key) the function given in parameter is called, with or without sending the new value as parameter.
 
-**UnRegisterProjectDataChangedCallback(string dataKey)**
-<br />unsubscribe to the changes for this key
+**UnRegisterProjectDataChangedCallback**(string dataKey)
+<br />unsubscribe to the project changes for this key
 
-**RegisterInstanceDataChangedCallback(string dataKey, string callBackFunctionName, bool sendNewValueAsArgument)**
+**RegisterInstanceDataChangedCallback**(string dataKey, string callBackFunctionName, bool sendNewValueAsArgument)
 <br />subscribe to instance data changes at the given key. Each time the value is changed (or a subvalue of the given key) the function given in parameter is called, with or without sending the new value as parameter.
-**UnRegisterInstanceDataChangedCallback(string dataKey)**
-<br />unsubscribe to the changes for this key
+
+**UnRegisterInstanceDataChangedCallback**(string dataKey)
+<br />unsubscribe to the instance changes for this key
 
 **Project and Instance Data**
 <br />Project Data are shared with all other documents whereas Instance Data only concerns the current instance of your document (Note that InstanceData will be copied in case you duplicate the webview).
