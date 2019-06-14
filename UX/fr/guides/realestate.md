@@ -35,8 +35,8 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
   <li>Sélection du mode <code>Diaporama</code></li><br>
 
 <img src="../img/diaporama2.jpg"/>
-<br>
-  <li>Sélection d’une page ou d’un slide à afficher</li><br>
+
+  <br><li>Sélection d’une page ou d’un slide à afficher</li><br>
 
 <img src="../img/diaporama3.jpg"/>
 <br>
