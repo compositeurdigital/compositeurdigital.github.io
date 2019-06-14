@@ -134,7 +134,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 ![Fonctionnalité Partage](../img/partage4.jpg)
 
 7. Sélectionner l'icône `Courrier` 
-8. Envoyer votre mail
+8. Envoi du mail
 
 ![Fonctionnalité Partage](../img/partage5.jpg)
 
