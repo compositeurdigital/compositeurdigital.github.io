@@ -28,17 +28,17 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 *Affichage de l'ensemble des slides composant une présentation, de l'ensemble des images d'un diaporama...*
 
-![Fonctionnalité Diaporama](../img/diaporama1.jpg)
-
 <ol>
+<img src="../img/diaporama1.jpg"/><br>
+
   <li>Ouverture du menu relatif au document</li>
   <li>Sélection du mode <code>Diaporama</code></li></br>
 
-<img src="../img/diaporama2.jpg"/></br>
+<img src="../img/diaporama2.jpg"/><br>
 
   <li>Sélection d’une page ou d’un slide à afficher</li></br>
 
-<img src="../img/diaporama3.jpg"/></br>
+<img src="../img/diaporama3.jpg"/><br>
 
   <li>Mode d'extraction des pages</li>
   <li>Choix des pages à extraire</li>
