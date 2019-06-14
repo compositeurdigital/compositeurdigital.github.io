@@ -39,7 +39,8 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 ![Fonctionnalité Diaporama](../img/diaporama3.jpg)
 
-\4. Mode d'extraction des pages
+\4. Mode d'extraction des pages  
+
 \5. Choix des pages à extraire  
 
 
