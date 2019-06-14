@@ -40,7 +40,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 <img src="../img/diaporama3.jpg"/>
 
-  <br><li>Mode d'extraction des pages</li><br>
+  <br><li>Mode d'extraction des pages</li>
   <li>Choix des pages à extraire</li>
 </ol>  
 
