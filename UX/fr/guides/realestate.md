@@ -29,9 +29,9 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 *Affichage de l'ensemble des slides composant une présentation, de l'ensemble des images d'un diaporama...*
 
 <ol>
-<img src="../img/diaporama1.jpg"/><br>
+<img src="../img/diaporama1.jpg"/>
 
-  <li>Ouverture du menu relatif au document</li>
+  <br><li>Ouverture du menu relatif au document</li>
   <li>Sélection du mode <code>Diaporama</code></li><br>
 
 <img src="../img/diaporama2.jpg"/>
@@ -39,8 +39,8 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
   <br><li>Sélection d’une page ou d’un slide à afficher</li><br>
 
 <img src="../img/diaporama3.jpg"/>
-<br>
-  <li>Mode d'extraction des pages</li>
+
+  <br><li>Mode d'extraction des pages</li><br>
   <li>Choix des pages à extraire</li>
 </ol>  
 
@@ -49,26 +49,30 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 *Permet la manipulation et la rotation des contenus de manière totalement libre, idéal pour le face à face*
 
-![Fonctionnalité Rotation](../img/rotation1.jpg)
+<ol>
+<img src="../img/rotation1.jpg"/>
 
-1. Ouverture du menu latéral
-1. Accéder à l'onglet `Réglages`
-1. Activer `Rotation des documents`  
+  <br><li>Ouverture du menu latéral</li>
+  <li>Accéder à l'onglet <code>Réglages</code></li>
+  <li>Activer <code>Rotation des documents</code></li>
+</ol>  
 
 
 ## Utilisation de la fonctionnalité Scotch
 
 *Mettez en relation 2 documents en les assemblant en un seul*
 
-![Fonctionnalité Scotch](../img/scotch1.jpg)
+<ol>
+<img src="../img/scotch1.jpg"/>
 
-1. Ouverture du menu latéral
-1. Accéder à l'onglet `Réglages`
-1. Activer `Adhésif sur les documents`
+  <br><li>Ouverture du menu latéral</li>
+  <li>Accéder à l'onglet <code>Réglages</code></li>
+  <li>Activer <code>Adhésif sur les documents</code></li><br>
 
-![Fonctionnalité Scotch](../img/scotch2.jpg)
+<img src="../img/scotch2.jpg"/>
 
-1. Superposer deux documents et scotcher  
+  <br><li>Superposer deux documents et scotcher</li>
+</ol>  
 
 
 ## Annotation des documents
