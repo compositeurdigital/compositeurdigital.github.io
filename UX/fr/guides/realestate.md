@@ -47,7 +47,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 *Permet la manipulation et la rotation des contenus de manière totalement libre, idéal pour le face à face*
 
-![Fonctionnalité Rotation](../img/rotation1.png)
+![Fonctionnalité Rotation](../img/rotation1.jpg)
 
 1. Ouverture du menu latéral
 2. Accéder à l'onglet `Réglages`
