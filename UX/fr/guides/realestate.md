@@ -31,16 +31,16 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 ![Fonctionnalité Diaporama](../img/diaporama1.jpg)
 
 1. Ouverture du menu relatif au document
-2. Sélection du mode `Diaporama`
+1. Sélection du mode `Diaporama`
 
 ![Fonctionnalité Diaporama](../img/diaporama2.jpg)
 
-3. Sélection d’une page ou d’un slide à afficher
+1. Sélection d’une page ou d’un slide à afficher
 
 ![Fonctionnalité Diaporama](../img/diaporama3.jpg)
 
-4. Mode d'extraction des pages
-5. Choix des pages à extraire  
+1. Mode d'extraction des pages
+1. Choix des pages à extraire  
 
 
 ## Utilisation de la fonctionnalité Rotation
@@ -50,8 +50,8 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 ![Fonctionnalité Rotation](../img/rotation1.jpg)
 
 1. Ouverture du menu latéral
-2. Accéder à l'onglet `Réglages`
-3. Activer `Rotation des documents`  
+1. Accéder à l'onglet `Réglages`
+1. Activer `Rotation des documents`  
 
 
 ## Utilisation de la fonctionnalité Scotch
@@ -61,12 +61,12 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 ![Fonctionnalité Scotch](../img/scotch1.jpg)
 
 1. Ouverture du menu latéral
-2. Accéder à l'onglet `Réglages`
-3. Activer `Adhésif sur les documents`
+1. Accéder à l'onglet `Réglages`
+1. Activer `Adhésif sur les documents`
 
 ![Fonctionnalité Scotch](../img/scotch2.jpg)
 
-4. Superposer deux documents et scotcher  
+1. Superposer deux documents et scotcher  
 
 
 ## Annotation des documents
@@ -76,19 +76,19 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 ![Fonctionnalité Annotation](../img/annotation1.jpg)
 
 1. Ouverture du menu latéral
-2. Accéder à l'onglet `Palette`
-3. Changer de taille du stylet
-4. Passer au mode écriture au stylet
-5. Passer au mode écriteur au doigt
-6. Passer au mode gomme
+1. Accéder à l'onglet `Palette`
+1. Changer de taille du stylet
+1. Passer au mode écriture au stylet
+1. Passer au mode écriteur au doigt
+1. Passer au mode gomme
 
 ![Fonctionnalité Annotation](../img/annotation2.jpg)
 
-7. Accéder à l'onglet `Modèles`
-8. Choisir une couleur de note
-9. Ajouter rapidement une autre note
-10. Accéder aux options relatives à la note
-11. Supprimer la note  
+1. Accéder à l'onglet `Modèles`
+1. Choisir une couleur de note
+1. Ajouter rapidement une autre note
+1. Accéder aux options relatives à la note
+1. Supprimer la note  
 
 
 ## Enregistrement d'un projet
@@ -98,18 +98,18 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 ![Fonctionnalité Enregistrement](../img/enregistrement1.jpg)
 
 1. Ouverture du menu latéral
-2. Début de procédure d'enregistrement
+1. Début de procédure d'enregistrement
 
 ![Fonctionnalité Enregistrement](../img/enregistrement2.jpg)
 
-3. Choix d'enregistrement du projet
-4. Nommer le projet 
-5. Validation de l'enregistrement
+1. Choix d'enregistrement du projet
+1. Nommer le projet 
+1. Validation de l'enregistrement
 
 ![Fonctionnalité Enregistrement](../img/enregistrement3.jpg)
 
-6. Accéder à l'onglet "Ouvrir" 
-7. Ouverture de votre projet enregistré  
+1. Accéder à l'onglet "Ouvrir" 
+1. Ouverture de votre projet enregistré  
 
 
 ## Partage d'un projet
@@ -119,25 +119,25 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 ![Fonctionnalité Partage](../img/partage1.jpg)
 
 1. Ouverture du menu latéral
-2. Cliquer sur `Partager`
+1. Cliquer sur `Partager`
 
 ![Fonctionnalité Partage](../img/partage2.jpg)
 
-3. Différentes options de partage
+1. Différentes options de partage
 
 ![Fonctionnalité Partage](../img/partage3.jpg)
 
-4. Fusionner tous les documents en un seul fichier PDF
-5. Continuer vers la procédure de partage
-6. Enregistrer une version du projet en local
+1. Fusionner tous les documents en un seul fichier PDF
+1. Continuer vers la procédure de partage
+1. Enregistrer une version du projet en local
 
 ![Fonctionnalité Partage](../img/partage4.jpg)
 
-7. Sélectionner l'icône `Courrier` 
-8. Envoi du mail
+1. Sélectionner l'icône `Courrier` 
+1. Envoi du mail
 
 ![Fonctionnalité Partage](../img/partage5.jpg)
 
-9. Choix de l'emplacement de stockage (local ou clé USB)
-10. Choix du dossier de destination
-11. Valider l'enregistrement
+1. Choix de l'emplacement de stockage (local ou clé USB)
+1. Choix du dossier de destination
+1. Valider l'enregistrement
