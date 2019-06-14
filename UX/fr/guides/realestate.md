@@ -32,13 +32,13 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 <ol>
   <li>Ouverture du menu relatif au document</li>
-  <li>Sélection du mode `Diaporama`</li>
+  <li>Sélection du mode <code>Diaporama</code></li></br>
 
-<img src="../img/diaporama2.jpg"/>
+<img src="../img/diaporama2.jpg"/></br>
 
-  <li>Sélection d’une page ou d’un slide à afficher</li>
+  <li>Sélection d’une page ou d’un slide à afficher</li></br>
 
-<img src="../img/diaporama3.jpg"/>
+<img src="../img/diaporama3.jpg"/></br>
 
   <li>Mode d'extraction des pages</li>
   <li>Choix des pages à extraire</li>
