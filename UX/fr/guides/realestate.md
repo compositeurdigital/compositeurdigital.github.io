@@ -34,11 +34,11 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
   <li>Ouverture du menu relatif au document</li>
   <li>Sélection du mode `Diaporama`</li>
 
-<img source="../img/diaporama2.jpg"/>
+<img src="../img/diaporama2.jpg"/>
 
   <li>Sélection d’une page ou d’un slide à afficher</li>
 
-<img source="../img/diaporama3.jpg"/>
+<img src="../img/diaporama3.jpg"/>
 
   <li>Mode d'extraction des pages</li>
   <li>Choix des pages à extraire</li>
