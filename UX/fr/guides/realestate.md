@@ -30,17 +30,17 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 ![Fonctionnalité Diaporama](../img/diaporama1.jpg)
 
-1. Ouverture du menu relatif au document
-1. Sélection du mode `Diaporama`
+\1. Ouverture du menu relatif au document
+\2. Sélection du mode `Diaporama`
 
 ![Fonctionnalité Diaporama](../img/diaporama2.jpg)
 
-1. Sélection d’une page ou d’un slide à afficher
+\3. Sélection d’une page ou d’un slide à afficher
 
 ![Fonctionnalité Diaporama](../img/diaporama3.jpg)
 
-1. Mode d'extraction des pages
-1. Choix des pages à extraire  
+\4. Mode d'extraction des pages
+\5. Choix des pages à extraire  
 
 
 ## Utilisation de la fonctionnalité Rotation
