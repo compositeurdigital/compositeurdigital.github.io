@@ -31,16 +31,16 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 <ol>
 <img src="../img/diaporama1.jpg"/>
 
-  <br><li>Ouverture du menu relatif au document</li>
+  <li>Ouverture du menu relatif au document</li>
   <li>Sélection du mode <code>Diaporama</code></li><br>
 
 <img src="../img/diaporama2.jpg"/>
 
-  <br><li>Sélection d’une page ou d’un slide à afficher</li><br>
+  <li>Sélection d’une page ou d’un slide à afficher</li><br>
 
 <img src="../img/diaporama3.jpg"/>
 
-  <br><li>Mode d'extraction des pages</li>
+  <li>Mode d'extraction des pages</li>
   <li>Choix des pages à extraire</li>
 </ol>  
 
@@ -52,7 +52,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 <ol>
 <img src="../img/rotation1.jpg"/>
 
-  <br><li>Ouverture du menu latéral</li>
+  <li>Ouverture du menu latéral</li>
   <li>Accéder à l'onglet <code>Réglages</code></li>
   <li>Activer <code>Rotation des documents</code></li>
 </ol>  
@@ -65,13 +65,13 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 <ol>
 <img src="../img/scotch1.jpg"/>
 
-  <br><li>Ouverture du menu latéral</li>
+  <li>Ouverture du menu latéral</li>
   <li>Accéder à l'onglet <code>Réglages</code></li>
   <li>Activer <code>Adhésif sur les documents</code></li><br>
 
 <img src="../img/scotch2.jpg"/>
 
-  <br><li>Superposer deux documents et scotcher</li>
+  <li>Superposer deux documents et scotcher</li>
 </ol>  
 
 
@@ -82,7 +82,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 <ol>
 <img src="../img/annotation1.jpg"/>
 
-  <br><li>Ouverture du menu latéral</li>
+  <li>Ouverture du menu latéral</li>
   <li>Accéder à l'onglet <code>Palette</code></li>
   <li>Changer de taille du stylet</li>
   <li>Passer au mode écriture au stylet</li>
@@ -91,7 +91,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 <img src="../img/annotation2.jpg"/>
 
-  <br><li>Accéder à l'onglet <code>Modèles</code></li>
+  <li>Accéder à l'onglet <code>Modèles</code></li>
   <li>Choisir une couleur de note</li>
   <li>Ajouter rapidement une autre note</li>
   <li>Accéder aux options relatives à la note</li>
@@ -106,18 +106,18 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 <ol>
 <img src="../img/enregistrement1.jpg"/>
 
-  <br><li>Ouverture du menu latéral</li>
+  <li>Ouverture du menu latéral</li>
   <li>Cliquer sur <code>Enregistrer et quitter</code></li><br>
 
 <img src="../img/enregistrement2.jpg"/>
 
-  <br><li>Choix d'enregistrement du projet</li>
+  <li>Choix d'enregistrement du projet</li>
   <li>Nommer le projet</li>
   <li>Cliquer sur <code>Enregistrer</code></li><br>
 
 <img src="../img/enregistrement3.jpg"/>
 
-  <br><li>Accéder à l'onglet <code>Ouvrir</code></li>
+  <li>Accéder à l'onglet <code>Ouvrir</code></li>
   <li>Ouverture de votre projet enregistré</li>
 </ol>
   
@@ -129,27 +129,27 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 <ol>
 <img src="../img/partage1.jpg"/>
 
-  <br><li>Ouverture du menu latéral</li>
+  <li>Ouverture du menu latéral</li>
   <li>Cliquer sur <code>Partager</code></li><br>
 
 <img src="../img/partage2.jpg"/>
 
-  <br><li>Différentes options de partage</li><br>
+  <li>Différentes options de partage</li><br>
 
 <img src="../img/partage3.jpg"/>
 
-  <br><li>(optionnel) Fusionner tous les documents en un seul fichier PDF</li>
+  <li>(optionnel) Fusionner tous les documents en un seul fichier PDF</li>
   <li>Continuer vers la procédure de partage</li>
   <li>Enregistrer une version du projet en local</li><br>
   
 <img src="../img/partage4.jpg"/>
 
-  <br><li>Sélectionner l'icône <code>Courrier</code></li>
+  <li>Sélectionner l'icône <code>Courrier</code></li>
   <li>Cliquer sur <code>Envoyer</code></li><br>
 
 <img src="../img/partage5.jpg"/>
 
-  <br><li>Choix de l'emplacement de stockage (local ou clé USB)</li>
+  <li>Choix de l'emplacement de stockage (local ou clé USB)</li>
   <li>Choix du dossier de destination</li>
   <li>Cliquer sur <code>Enregistrer</code></li>
 </ol>
