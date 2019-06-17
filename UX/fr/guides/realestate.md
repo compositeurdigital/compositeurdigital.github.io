@@ -1,124 +1,174 @@
 # Aide-mémoire - usage immobilier
 
-Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentielles à l'usage du Compositeur Digital dans le secteur immobilier. 
+Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentielles à l'usage du Compositeur Digital dans le secteur immobilier.  
+
+## Sommaire
+
+* [Contenus supportés](#contenus-supportes)
+* [Démarrage du Compositeur Digital](#démarrage-du-compositeur-digital)
+* [Utilisation du Mode Diaporama](#utilisation-du-mode-diaporama)
+* [Utilisation de la fonctionnalité Rotation](#utilisation-de-la-fonctionnalité-rotation)
+* [Utilisation de la fonctionnalité Scotch](#utilisation-de-la-fonctionnalité-scotch)
+* [Annotation des documents](#annotation-des-documents)
+* [Utilisation de la fonctionnalité Rotation](#utilisation-de-la-fonctionnalité-rotation)
+* [Enregistrement d'un projet](#enregistrement-d'-un-projet)
+* [Partage d'un projet](#partage-d'-un-projet)  
+  
+
+## Contenus supportés
+
+Tous les contenus de base sont supportés nativement par le Compositeur Digital : 
+* pdf, image, powerpoint
+* vidéo,audio  
+
+Dans l'immobilier, des contenus spécifiques sont également intégrés et utilisables : 
+* [visite virtuelle](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/panorama.html)
+! [visite virtuelle](/UX/en/img/content_panorama_start.JPG)
+* [moteur de recherche](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/search.html)
+! [moteur de recherche](/UX/en/img/content_search.JPG)
+* [maquette orbitale 360°](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/sequences.html)
+! [maquette orbitale 360°](/UX/en/img/content_sequence_hotspots.JPG)
+* [fiche produit](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/productsheet.html)
+! [fiche produit](/UX/en/img/content_product_sheet.JPG)
+* [page web intégrée](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/web_page.html)
+! [page web intégrée](/UX/en/img/content_web_page_start.JPG)
+  
 
 ## Démarrage du Compositeur Digital
 
-*Commencez à utiliser le Compositeur Digital en suivant le tuoriel de première utilisation
+**Objectif : Commencer à utiliser le Compositeur Digital en suivant le tuoriel de première utilisation**
 
-![Démarrage Compositeur Digital](../img/tutoriel1.png)
+![Démarrage Compositeur Digital](../img/tutoriel1.jpg)
 
-![Démarrage Compositeur Digital](../img/tutoriel2.png)
+![Démarrage Compositeur Digital](../img/tutoriel2.jpg)  
+
 
 ## Utilisation du mode Diaporama
 
-*Affichage de l'ensemble des slides composant une présentation, de l'ensemble des images d'un diaporama...*
+**Objectif : Affichage de l'ensemble des slides composant une présentation, de l'ensemble des images d'un diaporama...**
 
-![Fonctionnalité Diaporama](../img/diaporama1.png)
+<ol>
+<img src="../img/diaporama1.jpg"/>
 
-1. Ouverture du menu relatif au document
-2. Sélection du mode Diaporama
+  <li>Ouverture du menu relatif au document</li>
+  <li>Sélection du mode <code>Diaporama</code></li><br>
 
-![Fonctionnalité Diaporama](../img/diaporama2.png)
+<img src="../img/diaporama2.jpg"/>
 
-3. Sélection d’une page ou d’un slide à afficher
+  <li>Sélection d’une page ou d’un slide à afficher</li><br>
 
-![Fonctionnalité Diaporama](../img/diaporama3.png)
+<img src="../img/diaporama3.jpg"/>
 
-4. Mode d'extraction des pages
-5. Choix des pages à extraire
+  <li>Mode d'extraction des pages</li>
+  <li>Choix des pages à extraire</li>
+</ol>  
+
 
 ## Utilisation de la fonctionnalité Rotation
 
-*Permet la manipulation et la rotation des contenus de manière totalement libre, idéal pour le face à face*
+**Objectif : Permet la manipulation et la rotation des contenus de manière totalement libre, idéal pour le face à face**
 
-![Fonctionnalité Rotation](../img/rotation1.png)
+<ol>
+<img src="../img/rotation1.jpg"/>
 
-1. Ouverture du menu latéral
-2. Accéder à l'onglet "Réglages"
-3. Activer "Rotation des documents"
+  <li>Ouverture du menu latéral</li>
+  <li>Accéder à l'onglet <code>Réglages</code></li>
+  <li>Activer <code>Rotation des documents</code></li>
+</ol>  
+
 
 ## Utilisation de la fonctionnalité Scotch
 
-*Mettez en relation 2 documents en les assemblant en un seul*
+**Objectif : Mettre en relation 2 documents en les assemblant en un seul**
 
-![Fonctionnalité Scotch](../img/scotch1.png)
+<ol>
+<img src="../img/scotch1.jpg"/>
 
-1. Ouverture du menu latéral
-2. Accéder à l'onglet "Réglages"
-3. Activer "Adhésif sur les documents"
+  <li>Ouverture du menu latéral</li>
+  <li>Accéder à l'onglet <code>Réglages</code></li>
+  <li>Activer <code>Adhésif sur les documents</code></li><br>
 
-![Fonctionnalité Scotch](../img/scotch2.png)
+<img src="../img/scotch2.jpg"/>
 
-4. Superposer deux documents et scotcher
+  <li>Superposer deux documents et scotcher</li>
+</ol>  
 
-## Annotation de documents
 
-*Annotez directement vos documents et utilisez des notes auto-collantes*
+## Annotation des documents
 
-![Fonctionnalité Annotation](../img/annotation1.png)
+**Objectif : Annoter directement des documents et utiliser des notes auto-collantes**
 
-1. Ouverture du menu latéral
-2. Accéder à l'onglet "Palette"
-3. Changer de taille du stylet
-4. Passer au mode écriture au stylet
-5. Passer au mode écriteur au doigt
-6. Passer au mode gomme
+<ol>
+<img src="../img/annotation1.jpg"/>
 
-![Fonctionnalité Annotation](../img/annotation2.png)
+  <li>Ouverture du menu latéral</li>
+  <li>Accéder à l'onglet <code>Palette</code></li>
+  <li>Changer de taille du stylet</li>
+  <li>Passer au mode écriture au stylet</li>
+  <li>Passer au mode écriture au doigt</li>
+  <li>Passer au mode gomme</li><br>
 
-7. Accéder à l'onglet "Modèles"
-8. Choisir une couleur de note
-9. Ajouter rapidement une autre note
-10. Accéder aux options relatives à la note
-11. Supprimer la note
+<img src="../img/annotation2.jpg"/>
 
+  <li>Accéder à l'onglet <code>Modèles</code></li>
+  <li>Choisir une couleur de note</li>
+  <li>Ajouter rapidement une autre note</li>
+  <li>Accéder aux options relatives à la note</li>
+  <li>Supprimer la note</li>
+</ol>
+  
+  
 ## Enregistrement d'un projet
 
-*Enregistrez votre projet afin de reprendre votre travail précisément là où vous l'avez arrêté*
+**Objectif : Enregistrer un projet afin de reprendre le travail précisément là où il a été arrêté**
 
-![Fonctionnalité Enregistrement](../img/enregistrement1.png)
+<ol>
+<img src="../img/enregistrement1.jpg"/>
 
-1. Ouverture du menu latéral
-2. Début de procédure d'enregistrement
+  <li>Ouverture du menu latéral</li>
+  <li>Cliquer sur <code>Enregistrer et quitter</code></li><br>
 
-![Fonctionnalité Enregistrement](../img/enregistrement2.png)
+<img src="../img/enregistrement2.jpg"/>
 
-3. Choix d'enregistrement du projet
-4. Nommer le projet 
-5. Validation de l'enregistrement
+  <li>Choix d'enregistrement du projet</li>
+  <li>Nommer le projet</li>
+  <li>Cliquer sur <code>Enregistrer</code></li><br>
 
-![Fonctionnalité Enregistrement](../img/enregistrement3.png)
+<img src="../img/enregistrement3.jpg"/>
 
-6. Accéder à l'onglet "Ouvrir" 
-7. Ouverture de votre projet enregistré
+  <li>Accéder à l'onglet <code>Ouvrir</code></li>
+  <li>Ouverture de votre projet enregistré</li>
+</ol>
+  
 
 ## Partage d'un projet
 
-*Partagez facilement un compte-rendu de votre travail ou de votre réunion
+**Objectif : Partager facilement un compte-rendu de la recontre ou de la réunion**
 
-![Fonctionnalité Partage](../img/partage1.png)
+<ol>
+<img src="../img/partage1.jpg"/>
 
-1. Ouverture du menu latéral
-2. Cliquer sur "Partager"
+  <li>Ouverture du menu latéral</li>
+  <li>Cliquer sur <code>Partager</code></li><br>
 
-![Fonctionnalité Partage](../img/partage2.png)
+<img src="../img/partage2.jpg"/>
 
-3. Différentes options de partage
+  <li>Différentes options de partage</li><br>
 
-![Fonctionnalité Partage](../img/partage3.png)
+<img src="../img/partage3.jpg"/>
 
-4. Fusionner tous les documents en un seul fichier PDF
-5. Continuer vers la procédure de partage
-6. Enregistrer une version du projet en local
+  <li>(optionnel) Fusionner tous les documents en un seul fichier PDF</li>
+  <li>Continuer vers la procédure de partage</li>
+  <li>Enregistrer une version du projet en local</li><br>
+  
+<img src="../img/partage4.jpg"/>
 
-![Fonctionnalité Partage](../img/partage4.png)
+  <li>Sélectionner l'icône <code>Courrier</code></li>
+  <li>Cliquer sur <code>Envoyer</code></li><br>
 
-7. Sélectionner l'icône "Courrier" 
-8. Envoyer votre mail
+<img src="../img/partage5.jpg"/>
 
-![Fonctionnalité Partage](../img/partage5.png)
-
-9. Choix de l'emplacement de stockage (local ou clé USB)
-10. Choix du dossier de destination
-11. Valider l'enregistrement
+  <li>Choix de l'emplacement de stockage (local ou clé USB)</li>
+  <li>Choix du dossier de destination</li>
+  <li>Cliquer sur <code>Enregistrer</code></li>
+</ol>
