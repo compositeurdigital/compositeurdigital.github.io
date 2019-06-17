@@ -29,9 +29,9 @@ Dans l'immobilier, des contenus spécifiques sont également intégrés et utili
 * [maquette orbitale 360°](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/sequences.html)
 ![maquette orbitale 360°](/UX/en/img/content_sequence_hotspots.JPG)
 * [fiche produit](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/productsheet.html)
-![fiche produit](../img/ficheproduit.JPG)
+![fiche produit](../img/ficheproduit.jpg)
 * [page web intégrée](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/web_page.html)
-![page web intégrée](../img/pageweb.JPG)
+![page web intégrée](../img/pageweb.jpg)
   
 
 ## Démarrage du Compositeur Digital
