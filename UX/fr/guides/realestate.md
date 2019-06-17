@@ -2,6 +2,15 @@
 
 Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentielles à l'usage du Compositeur Digital dans le secteur immobilier.  
 
+## Contenus supportés
+
+Tous les contenus de base sont supportés nativement par le Compositeur Digital (pdf, image, powerpoint, vidéo, audio).
+Dans l'immobilier, des contenus spécifiques sont également intégrés et utilisables : 
+* [visite virtuelle](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/panorama.html)
+* [moteur de recherche](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/search.html)
+* [maquette orbitale 360°](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/sequences.html)
+* [fiche produit](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/productsheet.html)
+* [page web intégrée (type carte interactive)](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/web_page.html)
 
 ## Sommaire
 
