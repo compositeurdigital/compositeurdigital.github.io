@@ -79,71 +79,77 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 *Annotez directement vos documents et utilisez des notes auto-collantes*
 
-![Fonctionnalité Annotation](../img/annotation1.jpg)
+<ol>
+<img src="../img/annotation1.jpg"/>
 
-1. Ouverture du menu latéral
-1. Accéder à l'onglet `Palette`
-1. Changer de taille du stylet
-1. Passer au mode écriture au stylet
-1. Passer au mode écriteur au doigt
-1. Passer au mode gomme
+  <br><li>Ouverture du menu latéral</li>
+  <li>Accéder à l'onglet <code>Palette</code></li>
+  <li>Changer de taille du stylet</li>
+  <li>Passer au mode écriture au stylet</li>
+  <li>Passer au mode écriture au doigt</li>
+  <li>Passer au mode gomme</li><br>
 
-![Fonctionnalité Annotation](../img/annotation2.jpg)
+<img src="../img/annotation2.jpg"/>
 
-1. Accéder à l'onglet `Modèles`
-1. Choisir une couleur de note
-1. Ajouter rapidement une autre note
-1. Accéder aux options relatives à la note
-1. Supprimer la note  
-
-
+  <br><li>Accéder à l'onglet <code>Modèles</code></li>
+  <li>Choisir une couleur de note</li>
+  <li>Ajouter rapidement une autre note</li>
+  <li>Accéder aux options relatives à la note</li>
+  <li>Supprimer la note</li>
+</ol>
+  
+  
 ## Enregistrement d'un projet
 
 *Enregistrez votre projet afin de reprendre votre travail précisément là où vous l'avez arrêté*
 
-![Fonctionnalité Enregistrement](../img/enregistrement1.jpg)
+<ol>
+<img src="../img/enregistrement1.jpg"/>
 
-1. Ouverture du menu latéral
-1. Début de procédure d'enregistrement
+  <br><li>Ouverture du menu latéral</li>
+  <li>Cliquer sur <code>Enregistrer</code>/li><br>
 
-![Fonctionnalité Enregistrement](../img/enregistrement2.jpg)
+<img src="../img/enregistrement2.jpg"/>
 
-1. Choix d'enregistrement du projet
-1. Nommer le projet 
-1. Validation de l'enregistrement
+  <br><li>Choix d'enregistrement du projet</li>
+  <li>Nommer le projet</li>
+  <li>Cliquer sur <code>Enregistrer</code></li><br>
 
-![Fonctionnalité Enregistrement](../img/enregistrement3.jpg)
+<img src="../img/enregistrement3.jpg"/>
 
-1. Accéder à l'onglet "Ouvrir" 
-1. Ouverture de votre projet enregistré  
-
+  <br><li>Accéder à l'onglet <code>Ouvrir</code></li>
+  <li>Ouverture de votre projet enregistré /li>
+</ol>
+  
 
 ## Partage d'un projet
 
 *Partagez facilement un compte-rendu de votre travail ou de votre réunion*
 
-![Fonctionnalité Partage](../img/partage1.jpg)
+<ol>
+<img src="../img/partage1.jpg"/>
 
-1. Ouverture du menu latéral
-1. Cliquer sur `Partager`
+  <br><li>Ouverture du menu latéral</li>
+  <li>Cliquer sur <code>Partager</code></li><br>
 
-![Fonctionnalité Partage](../img/partage2.jpg)
+<img src="../img/partage2.jpg"/>
 
-1. Différentes options de partage
+  <br><li>Différentes options de partage</li><br>
 
-![Fonctionnalité Partage](../img/partage3.jpg)
+<img src="../img/partage3.jpg"/>
 
-1. Fusionner tous les documents en un seul fichier PDF
-1. Continuer vers la procédure de partage
-1. Enregistrer une version du projet en local
+  <br><li>(optionnel) Fusionner tous les documents en un seul fichier PDF</li>
+  <li>Continuer vers la procédure de partage</li>
+  <li>Enregistrer une version du projet en local</li><br>
+  
+<img src="../img/partage4.jpg"/>
 
-![Fonctionnalité Partage](../img/partage4.jpg)
+  <br><li>Sélectionner l'icône <code>Courrier</code></li>
+  <li>Cliquer sur <code>Envoyer</code></li><br>
 
-1. Sélectionner l'icône `Courrier` 
-1. Envoi du mail
+<img src="../img/partage5.jpg"/>
 
-![Fonctionnalité Partage](../img/partage5.jpg)
-
-1. Choix de l'emplacement de stockage (local ou clé USB)
-1. Choix du dossier de destination
-1. Valider l'enregistrement
+  <br><li>Choix de l'emplacement de stockage (local ou clé USB)</li>
+  <li>Choix du dossier de destination</li>
+  <li>Cliquer sur <code>Enregistrer</code></li>
+</ol>
