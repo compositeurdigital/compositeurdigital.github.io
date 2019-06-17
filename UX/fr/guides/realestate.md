@@ -17,7 +17,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 ## Contenus supportés
 
-Tous les contenus de base sont supportés nativement par le Compositeur Digital (pdf, image, powerpoint, vidéo, audio).
+Tous les contenus de base sont supportés nativement par le Compositeur Digital (pdf, image, powerpoint, vidéo, audio).  
 Dans l'immobilier, des contenus spécifiques sont également intégrés et utilisables : 
 * [visite virtuelle](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/panorama.html)
 * [moteur de recherche](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/search.html)
