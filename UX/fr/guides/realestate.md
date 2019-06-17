@@ -17,7 +17,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 ## Démarrage du Compositeur Digital
 
-*Commencez à utiliser le Compositeur Digital en suivant le tuoriel de première utilisation*
+**Objectif : Commencer à utiliser le Compositeur Digital en suivant le tuoriel de première utilisation**
 
 ![Démarrage Compositeur Digital](../img/tutoriel1.jpg)
 
@@ -26,7 +26,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 ## Utilisation du mode Diaporama
 
-*Affichage de l'ensemble des slides composant une présentation, de l'ensemble des images d'un diaporama...*
+**Objectif : Affichage de l'ensemble des slides composant une présentation, de l'ensemble des images d'un diaporama...**
 
 <ol>
 <img src="../img/diaporama1.jpg"/>
@@ -47,7 +47,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 ## Utilisation de la fonctionnalité Rotation
 
-*Permet la manipulation et la rotation des contenus de manière totalement libre, idéal pour le face à face*
+**Objectif : Permet la manipulation et la rotation des contenus de manière totalement libre, idéal pour le face à face**
 
 <ol>
 <img src="../img/rotation1.jpg"/>
@@ -60,7 +60,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 ## Utilisation de la fonctionnalité Scotch
 
-*Mettez en relation 2 documents en les assemblant en un seul*
+**Objectif : Mettre en relation 2 documents en les assemblant en un seul**
 
 <ol>
 <img src="../img/scotch1.jpg"/>
@@ -77,7 +77,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 ## Annotation des documents
 
-*Annotez directement vos documents et utilisez des notes auto-collantes*
+**Objectif : Annoter directement des documents et utiliser des notes auto-collantes**
 
 <ol>
 <img src="../img/annotation1.jpg"/>
@@ -101,7 +101,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
   
 ## Enregistrement d'un projet
 
-*Enregistrez votre projet afin de reprendre votre travail précisément là où vous l'avez arrêté*
+**Objectif : Enregistrer un projet afin de reprendre le travail précisément là où il a été arrêté**
 
 <ol>
 <img src="../img/enregistrement1.jpg"/>
@@ -124,7 +124,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 
 ## Partage d'un projet
 
-*Partagez facilement un compte-rendu de votre travail ou de votre réunion*
+**Objectif : Partager facilement un compte-rendu de la recontre ou de la réunion**
 
 <ol>
 <img src="../img/partage1.jpg"/>
