@@ -18,20 +18,15 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 ## Contenus supportés
 
 Tous les contenus de base sont supportés nativement par le Compositeur Digital : 
-* pdf, image, powerpoint
-* vidéo,audio  
+* [pdf](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/pdf.html), [image](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/images.html), [powerpoint](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/powerpoint.html)
+* [vidéo](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/video.html), [audio](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/audio.html)  
 
 Dans l'immobilier, des contenus spécifiques sont également intégrés et utilisables : 
 * [visite virtuelle](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/panorama.html)
-![visite virtuelle](/UX/en/img/content_panorama_start.JPG)
 * [moteur de recherche](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/search.html)
-![moteur de recherche](/UX/en/img/content_search.JPG)
 * [maquette orbitale 360°](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/sequences.html)
-![maquette orbitale 360°](/UX/en/img/content_sequence_hotspots.JPG)
 * [fiche produit](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/productsheet.html)
-![fiche produit](../img/ficheproduit.jpg)
 * [page web intégrée](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/web_page.html)
-![page web intégrée](../img/pageweb.jpg)
   
 
 ## Démarrage du Compositeur Digital
