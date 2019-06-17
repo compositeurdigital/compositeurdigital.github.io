@@ -107,7 +107,7 @@ Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentiel
 <img src="../img/enregistrement1.jpg"/>
 
   <br><li>Ouverture du menu latéral</li>
-  <li>Cliquer sur <code>Enregistrer</code></li><br>
+  <li>Cliquer sur <code>Enregistrer et quitter</code></li><br>
 
 <img src="../img/enregistrement2.jpg"/>
 
