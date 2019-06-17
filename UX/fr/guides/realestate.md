@@ -23,15 +23,15 @@ Tous les contenus de base sont supportés nativement par le Compositeur Digital 
 
 Dans l'immobilier, des contenus spécifiques sont également intégrés et utilisables : 
 * [visite virtuelle](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/panorama.html)
-! [visite virtuelle](/UX/en/img/content_panorama_start.JPG)
+![visite virtuelle](/UX/en/img/content_panorama_start.JPG)
 * [moteur de recherche](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/search.html)
-! [moteur de recherche](/UX/en/img/content_search.JPG)
+![moteur de recherche](/UX/en/img/content_search.JPG)
 * [maquette orbitale 360°](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/sequences.html)
-! [maquette orbitale 360°](/UX/en/img/content_sequence_hotspots.JPG)
+![maquette orbitale 360°](/UX/en/img/content_sequence_hotspots.JPG)
 * [fiche produit](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/productsheet.html)
-! [fiche produit](/UX/en/img/content_product_sheet.JPG)
+![fiche produit](../img/ficheproduit.JPG)
 * [page web intégrée](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/web_page.html)
-! [page web intégrée](/UX/en/img/content_web_page_start.JPG)
+![page web intégrée](../img/pageweb.JPG)
   
 
 ## Démarrage du Compositeur Digital
