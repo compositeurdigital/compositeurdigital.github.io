@@ -2,6 +2,19 @@
 
 Dans cet aide-mémoire, retrouvez l'intégralité des fonctionnalités essentielles à l'usage du Compositeur Digital dans le secteur immobilier.  
 
+## Sommaire
+
+* [Contenus supportés](#contenus-supportes)
+* [Démarrage du Compositeur Digital](#démarrage-du-compositeur-digital)
+* [Utilisation du Mode Diaporama](#utilisation-du-mode-diaporama)
+* [Utilisation de la fonctionnalité Rotation](#utilisation-de-la-fonctionnalité-rotation)
+* [Utilisation de la fonctionnalité Scotch](#utilisation-de-la-fonctionnalité-scotch)
+* [Annotation des documents](#annotation-des-documents)
+* [Utilisation de la fonctionnalité Rotation](#utilisation-de-la-fonctionnalité-rotation)
+* [Enregistrement d'un projet](#enregistrement-d'-un-projet)
+* [Partage d'un projet](#partage-d'-un-projet)  
+  
+
 ## Contenus supportés
 
 Tous les contenus de base sont supportés nativement par le Compositeur Digital (pdf, image, powerpoint, vidéo, audio).
@@ -11,18 +24,7 @@ Dans l'immobilier, des contenus spécifiques sont également intégrés et utili
 * [maquette orbitale 360°](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/sequences.html)
 * [fiche produit](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/productsheet.html)
 * [page web intégrée (type carte interactive)](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/web_page.html)
-
-## Sommaire
-
-* [Démarrage du Compositeur Digital](#démarrage-du-compositeur-digital)
-* [Utilisation du Mode Diaporama](#utilisation-du-mode-diaporama)
-* [Utilisation de la fonctionnalité Rotation](#utilisation-de-la-fonctionnalité-rotation)
-* [Utilisation de la fonctionnalité Scotch](#utilisation-de-la-fonctionnalité-scotch)
-* [Annotation des documents](#annotation-des-documents)
-* [Utilisation de la fonctionnalité Rotation](#utilisation-de-la-fonctionnalité-rotation)
-* [Enregistrement d'un projet](#enregistrement-d'-un-projet)
-* [Partage d'un projet](#partage-d'-un-projet)  
-
+  
 
 ## Démarrage du Compositeur Digital
 
