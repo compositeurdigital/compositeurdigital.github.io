@@ -1,5 +1,11 @@
 # Release notes
 
+### 2.0.38 - June 14, 2019
+- Prevent accidental reveal of bottom bar
+- Sendgrid option to add a BCC to the sender
+- cdux:// activation with "Any" provider to find an universe regardless of its location
+- [FIX] Cannot export to a single pdf
+
 ### 2.0.37 - June 6, 2019
 - App rating dialog can be definitively dismissed
 - 3D object rendering mode options: normal, transparent and wireframe, see [3D objects](../organise_content/supported_content/3dobj.html#metadata-available)
