@@ -1,5 +1,9 @@
 # Release notes
 
+### 2.0.39 - June 19,2019
+- Microsoft Dynamics demo "One Insurance"
+- [FIX] Catalog search view initialization error
+
 ### 2.0.38 - June 14, 2019
 - Prevent accidental reveal of bottom bar
 - Sendgrid option to add a BCC to the sender
