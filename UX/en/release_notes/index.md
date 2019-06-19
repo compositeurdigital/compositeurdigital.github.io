@@ -1,6 +1,6 @@
 # Release notes
 
-### 2.0.39 - June 19,2019
+### 2.0.39 - June 19, 2019
 - Microsoft Dynamics demo "One Insurance"
 - [FIX] Catalog search view initialization error
 
