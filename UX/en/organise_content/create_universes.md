@@ -15,6 +15,7 @@ Compositeur Digital UX processes documents stored on a specific location in your
 * [Thumbnails](#thumbnails)
   * [Folder thumbnail](#folder-thumbnail)
   * [Document thumbnail](#document-thumbnail)
+* [Customize the workspace](#customize-the-workspace)
 * [Demo Universe](#demo-universe) 
 
 
