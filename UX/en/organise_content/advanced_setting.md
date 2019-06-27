@@ -81,6 +81,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `video.rewind`                    | `boolean` | false   | go back to the first frame when the video ends |
 | `video.loop`                      | `boolean` | false   | replay from start when the video ends |
 | `video.controls.alwaysvisible`    | `boolean` | false   | force the display of the video playback controls |
+| `video.controls.hide`             | `boolean` | false   | hides the video playback controls permanently |
 
 ### Web
 
