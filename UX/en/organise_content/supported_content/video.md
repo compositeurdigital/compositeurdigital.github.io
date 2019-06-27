@@ -48,14 +48,15 @@ Our recommendation is to use WMV and MP4(H264) format for a safe use.
 
 | Metadata Key                      | Type      | Default | Description |
 |:--------------------------------- |:----------|:--------|:-|
-| `video.autoplay`                  | `boolean` | true    | start playing video on display |
-| `video.autoplay.delay`            | `number ` | 0       | delay autoplay by the number of seconds specified |
-| `video.autoclose`                 | `boolean` | false   | close the video when playback reaches end |
-| `video.autoclose.delay`           | `number ` | 0       | delay autoclose by the number of seconds specified |
-| `video.rewind`                    | `boolean` | false   | go back to the first frame when the video ends |
-| `video.loop`                      | `boolean` | false   | replay from start when the video ends |
-| `video.mute`                      | `boolean` | false   | force the video to be muted |
-| `video.controls.alwaysvisible`    | `boolean` | false   | force the display of the video playback controls |
+| `video.autoplay`                  | `boolean` | true    | starts playing video on display |
+| `video.autoplay.delay`            | `number ` | 0       | delays autoplay by the number of seconds specified |
+| `video.autoclose`                 | `boolean` | false   | closes the video when playback reaches end |
+| `video.autoclose.delay`           | `number ` | 0       | delays autoclose by the number of seconds specified |
+| `video.rewind`                    | `boolean` | false   | goes back to the first frame when the video ends |
+| `video.loop`                      | `boolean` | false   | replays from start when the video ends |
+| `video.mute`                      | `boolean` | false   | forces the video to be muted |
+| `video.controls.alwaysvisible`    | `boolean` | false   | forces the display of the video playback controls permanently |
+| `video.controls.hide`             | `boolean` | false   | hides the video playback controls permanently |
 
 Next: [Audio (Compositeur Digital UX format)](audio.md)
 
