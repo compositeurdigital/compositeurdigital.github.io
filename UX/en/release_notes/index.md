@@ -1,5 +1,26 @@
 # Release notes
 
+### 2.0.43 - July 18, 2019
+- Navigation button in 360° videos
+- Stickers can be added to notes
+- SharePoint or Teams universe sources can be provisionned for all users in an organisation
+- Web: cursor position propagated to javascript touch events
+- Visual feedback when sharing documents on Surface Hub
+- Default preview for 3D objects
+- Faster opening of projects and universes from `cdux://` links
+- New `cdux://openoraddsource` action for integration with Microsoft Teams
+- [FIX] Error when changing color right after closing a document
+- [FIX] Documents may lose their state when re-opened right after they were closed
+- [FIX] Text files appear empty if their encoding is not UTF8
+- [FIX] Default save destination not displayed on some devices
+- [FIX] Crash when navigating templates in some universes
+- [FIX] Loan and investment simulators unresponsive if `noChrome` is set
+- [FIX] No investment simulator icon on Surface hub
+- [FIX] Inverted vertical axis when navigating 360° videos
+- [FIX] Cannot "throw" documents if they are already half outside the screen
+- [FIX] Broken "other" option in forms
+- [FIX] Error when closing some documents or notes
+
 ### 2.0.39 - June 19, 2019
 - Microsoft Dynamics demo "One Insurance"
 - [FIX] Catalog search view initialization error
@@ -7,7 +28,7 @@
 ### 2.0.38 - June 14, 2019
 - Prevent accidental reveal of bottom bar
 - Sendgrid option to add a BCC to the sender
-- cdux:// activation with "Any" provider to find an universe regardless of its location
+- `cdux://` activation with "Any" provider to find an universe regardless of its location
 - [FIX] Cannot export to a single pdf
 
 ### 2.0.37 - June 6, 2019
@@ -25,7 +46,7 @@
 - Investment simulator
 - Integrated stickers and templates
 - Share with SendGrid
-- .cdurl: inline metadata and web pages displayed in a webview by default
+- `.cdurl`: inline metadata and web pages displayed in a webview by default
 - Demo banking : simuinvest
 - [FIX] Catalog: formatting and slider steps for value ranges under 10
 - [FIX] Dynamics crmsearch view not updating
@@ -39,7 +60,7 @@
 
 ### 2.0.29 - April 23, 2019
 - Videos streamed from cloud on shared devices
-- [FIX] .cdurl folder link with trailing '/' not recognized in cloud universes
+- [FIX] `.cdurl` folder link with trailing '/' not recognized in cloud universes
 - [FIX] Lighting causing 3D objects to appear all white
 - [FIX] Empty notes appear in history
 - [FIX] Locations listed twice
@@ -53,7 +74,7 @@
 - [FIX] font alignment on some Powerpoint presentations
 - [FIX] real estate demo links
 - [FIX] cannot signout
-- [FIX] shared \_meta.txt file ignored for online sources	
+- [FIX] shared `_meta.txt` file ignored for online sources	
 - [FIX] crashes when loading 3ds model & panorama with no images
 - [FIX] crashes when launching a quizz document page with a broken item link
 - [FIX] cache cleared when removing a cloud source
