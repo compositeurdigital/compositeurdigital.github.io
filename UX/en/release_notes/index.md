@@ -1,5 +1,11 @@
 # Release notes
 
+### 2.0.44 - July 23, 2019
+- Ensure a "Compositeur Digital UX" folder exists when adding a cloud location
+- Kiosk mode in settings
+- [FIX] Errors and rendering issues on some Powerpoint documents
+- [FIX] Delay when opening documents on some devices
+
 ### 2.0.43 - July 18, 2019
 - Navigation button in 360° videos
 - Stickers can be added to notes
