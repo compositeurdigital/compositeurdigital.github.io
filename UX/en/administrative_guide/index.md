@@ -14,6 +14,7 @@ Follow this guide to learn how you can manage your Compositeur Digital UX admini
   * [SharePoint sites](#add-sharepoint-sites)
 * [Add local folders](#add-local-folders)
 * [USB Keys](#usb-keys)
+* [Kiosk mode](#kiosk-mode)
 
 ## Compositeur Digital UX account
 
@@ -134,5 +135,26 @@ To add existing Compositeur Digital folders:
 When you connect a USB key to your device, Compositeur Digital UX wil automatically check if the USB Key contains a `Compositeur Digital UX` folder at its root. If there is such a folder, a source will automatically be added.
 
 ![Usb sources](../img/administrative_usb_keys.JPG)
+
+## Kiosk Mode
+
+A kiosk mode is available in the app. This mode is adapted to device which are used as a public terminal. 
+
+When the kiosk mode is enabled, it reduces the actions which can be triggered in Compositeur Digital UX : the user can only open a universe and annotate documents. Saving is disabled, and sharing actions as well. It is not possible to import documents, or to create a selection. Blanksheets and notes are not available.  
+
+The kiosk mode can be enabled or disabled from the settings menu. On the start page, click on `Settings` or press `F5`.
+
+![Enable kiosk mode](../img/administrative_kiosk_activation.JPG)
+
+1. Enable or disable kiosk mode.
+2. When the kiosk mode is enabled, it is possible to define a reset timer. When the device is not used after the time defined, the app goes back to the start page.
+
+![Kiosk mode start](../img/administrative_kiosk_start.JPG)
+
+The start page presents a reduce set of actions. Only one source is visible, and the projects view is not available. 
+
+![Kiosk mode workspace](../img/administrative_kiosk_workspace.JPG)
+
+The workspace has a limited set of functions available. The side menu allows you to change the ink or the quit the workspace. Selection is not available, and import functions are disabled too. 
 
 [Back to Documentation](../index.md)
