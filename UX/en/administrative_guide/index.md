@@ -1,10 +1,10 @@
 # Administrative Guide
 
-Follow this guide to learn how you can manage your Compositeur Digital UX administrative data : account, licenses, Office365 connection, Compositeur Digital folders...
+Follow this guide to learn how you can manage your Compositeur Digital UX administrative data : license, Office365 connection, Compositeur Digital folders...
 
 ## Summary
 
-* [Compositeur Digital UX account](#compositeur-digital-ux-account)
+* [Compositeur Digital UX license](#compositeur-digital-ux-license)
   * [Sign-in](#sign-in)
   * [Sign-out](#sign-out)
 * [Office365 account](#office365-account)
@@ -16,11 +16,11 @@ Follow this guide to learn how you can manage your Compositeur Digital UX admini
 * [USB Keys](#usb-keys)
 * [Kiosk mode](#kiosk-mode)
 
-## Compositeur Digital UX account
+## Compositeur Digital UX license
 
-The Compositeur Digital UX offers a preview mode a with a limited set of features without account creation. 
+The Compositeur Digital UX offers a preview mode with a limited set of features without account creation. 
 
-If you have an existing Compositeur Digital account please follow the description below to sign in from the application. 
+If you have an existing Compositeur Digital license please follow the description below to sign in from the application. 
 
 Alternatively, you can create an account [here](http://www.compositeurdigital.com/Account/Register) and [contact us](mailto:contact@excense.fr) or purchase a license.
 
