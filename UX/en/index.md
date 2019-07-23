@@ -16,7 +16,7 @@ Learn how to build your own universe and what type of content you can use.
 Manage your *Compositeur Digital UX*
 
 * [**License**](administrative_guide/index.md#compositeur-digital-ux-license) : activate your Compositeur Digital UX license.
-* [**Office 365 account**](administrative_guide/index.md#office365-account) : connect Compositeur Digital UX to your Office365 tenant.
+* [**Office365 **](administrative_guide/index.md#office365-account) : connect Compositeur Digital UX to your Office365 tenant.
 * [**Kiosk mode**](administrative_guide/index.md#kiosk-mode) : configure your app to be used in kiosk configuration.
 
 ### [FAQ](FAQ/index.md)
