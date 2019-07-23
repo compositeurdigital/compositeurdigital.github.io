@@ -13,7 +13,11 @@ Learn how to build your own universe and what type of content you can use.
 * [**Advanced settings**](organise_content/advanced_setting.md) : learn how to take advantage of *meta data*.
 
 ### [Administrative guide](administrative_guide/index.md)
-Manage your *Compositeur Digital UX* version.
+Manage your *Compositeur Digital UX*
+
+* [**Compositeur Digital UX account**](administrative_guide/index.md#compositeur-digital-ux-account) : activate your Compositeur Digital UX license.
+* [**Office 365 account**](administrative_guide/index.md#office365-account) : connect Compositeur Digital UX to your Microsoft Teams or SharePoint documents.
+* [**Kiosk mode**](administrative_guide/index.md#kiosk-mode) : configure your app to be used in kiosk configuration.
 
 ### [FAQ](FAQ/index.md)
 Contains frequently asked questions about installing and using *Compositeur Digital UX* and provides solutions to common problems.
