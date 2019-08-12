@@ -1,5 +1,9 @@
 # Release notes
 
+### 2.0.45 - August 1, 2019
+- Support for more presentation remotes
+- [FIX] Writing on taped documents also moves them on Samsung Flip
+
 ### 2.0.44 - July 23, 2019
 - Ensure a "Compositeur Digital UX" folder exists when adding a cloud location
 - Kiosk mode in settings
