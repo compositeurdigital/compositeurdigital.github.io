@@ -1,5 +1,18 @@
 # Release notes
 
+### 2.0.47 - August 29, 2019
+- [FIX] Interactive backgrounds not displayed
+
+### 2.0.46 - August 27, 2019
+- Integrated calculator
+-	Consolidated and clearer activation experience in tutorial and settings
+-	Pin and tape UI adjustements
+-	Kiosk mode: standby videos per source or universe
+-	Kiosk mode: universe opens automatically in single-universe scenarios
+-	Kiosk mode: side menu button leaves the project
+-	[FIX] Powerpoint file links always open in browser for Sharepoint configurations
+-	[FIX] Provisionned SharePoint/Teams locations cannot be set as default
+
 ### 2.0.45 - August 1, 2019
 - Support for more presentation remotes
 - [FIX] Writing on taped documents also moves them on Samsung Flip
