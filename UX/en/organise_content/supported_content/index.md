@@ -23,6 +23,7 @@ This section describes all the contents which can be used inside Compositeur Dig
 * [Web pages](web_page.md)
 * [Forms](form.md)
 * [Report](report.md)
+* [Calculator](calculator.md)
 * [Shortcuts, hyperlinks : cdurl](cdurl.md)
 * [Creating Templates](templates.md)
 
