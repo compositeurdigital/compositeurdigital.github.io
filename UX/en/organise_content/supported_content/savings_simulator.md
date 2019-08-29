@@ -59,6 +59,6 @@ To use a savings simulator, add the extension `.simuinvest` at the end of the na
 A Demo Universe which contains samples for a savings simulator is available, [give it a try!](../Demo-Universe.zip) &#x1f604;
 
 
-Next : [Slideshows (Compositeur Digital UX format)](slideshows.md)
+Next : [Calculator](calculator.md)
 
 [Back to Supported Content](index.md)
