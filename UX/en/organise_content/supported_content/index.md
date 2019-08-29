@@ -19,11 +19,11 @@ This section describes all the contents which can be used inside Compositeur Dig
 * [Sequences : Pre-rendered 360° view (orbital)](sequences.md)
 * [Mortgage Simulator](simulator.md)
 * [Savings Simulator](savings_simulator.md)
+* [Calculator](calculator.md)
 * [Slideshows : images, pdf and powerpoint](slideshows.md)
 * [Web pages](web_page.md)
 * [Forms](form.md)
 * [Report](report.md)
-* [Calculator](calculator.md)
 * [Shortcuts, hyperlinks : cdurl](cdurl.md)
 * [Creating Templates](templates.md)
 
