@@ -142,12 +142,14 @@ A kiosk mode is available in the app. This mode is adapted to device which are u
 
 When the kiosk mode is enabled, it reduces the actions which can be triggered in Compositeur Digital UX : the user can only open a universe and annotate documents. Saving is disabled, and sharing actions as well. It is not possible to import documents, or to create a selection. Blanksheets and notes are not available.  
 
+### Setting up kiosk mode
+
 The kiosk mode can be enabled or disabled from the settings menu. On the start page, click on `Settings` or press `F5`.
 
 ![Enable kiosk mode](../img/administrative_kiosk_activation.JPG)
 
 1. Enable or disable kiosk mode.
-2. When the kiosk mode is enabled, it is possible to define a reset timer. When the device is not used after the time defined, the app goes back to the start page.
+2. After the specified period of inactivity, the application will reset and come back to the start page. See below to set up a [standby video](#standby).
 
 ![Kiosk mode start](../img/administrative_kiosk_start.JPG)
 
@@ -156,5 +158,20 @@ The start page presents a reduce set of actions. Only one source is visible, and
 ![Kiosk mode workspace](../img/administrative_kiosk_workspace.JPG)
 
 The workspace has a limited set of functions available. The side menu allows you to change the ink or the quit the workspace. Selection is not available, and import functions are disabled too. 
+
+### Standby
+
+After the period of inactivity specified the application can play a fullscreen video before resetting to the start page.
+The video will play in a loop until the users interact with the application.
+
+Set up a single video by naming the file `_standby` (eg: `_standby.mp4`) or a sequence of multiple videos by creating a folder named `_standby` containing video files. 
+
+-  When resetting from the start page, the video(s) found in the current location will be used.
+
+    ![Standby video in source](../img/administrative_standby_source.jpg)
+-  When resetting from the workspace, the video(s) in the current universe will be used if they exist, otherwise the video(s) from the universe's location will be used.
+
+    ![Standby video in universe](../img/administrative_standby_universe.jpg)
+
 
 [Back to Documentation](../index.md)
