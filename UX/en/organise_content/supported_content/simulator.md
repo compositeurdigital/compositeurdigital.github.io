@@ -51,6 +51,8 @@ To use a mortgage simulator, add the extension `.simupret` at the end of the nam
 | `simulator.durationMaxValue`                 | `number` | 30                 | sets the longest duration of a loan |
 | `simulator.durationTickFrequency`            | `number` | 1                  | sets the interval between two values for a loan duration |
 | `simulator.durationDefaultValue`             | `number` | 20                 | sets the default duration of a loan |
+| `simulator.hideInfine`                       | `number` | false              | hide the "in Fine" option |
+| `simulator.infineDefaultValue`               | `number` | false              | sets the default value of a In Fine option |
 
 ## Download a sample
 
