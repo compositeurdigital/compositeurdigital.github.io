@@ -2,52 +2,52 @@
 
 ### 2.1.12 - November 4, 2019
 - Improved Sharepoint / Teams synchronization for faster loading of universes
--	Customizable start page bacgkround
--	Prompt for the recipient when sending a mail with SMTP or SendGrid
--	Share the selection from the bottom bar
--	Import from camera
--	Timer with stopwach and countdown. See [Timer](../organise_content/supported_content/timers.html)
--	Pinnable side menus
+- Customizable start page bacgkround
+- Prompt for the recipient when sending a mail with SMTP or SendGrid
+- Share the selection from the bottom bar
+- Import from camera
+- Timer with stopwach and countdown
+- Pinnable side menus
 - Share source from the start page list
--	No slides overview for single-slide presentations
--	Default previews for web and calculator
+- No slides overview for single-slide presentations
+- Default previews for web and calculator
 - New `Tools` templates category with timers and calculator
--	Loan simulator with "in fine" loan
+- Loan simulator with "in fine" loan
 - Prevent closing of documents with the `table.noclose` metadata
--	Define settings for a location with a `_settings.json` file
--	Display the selection action as a shortcut with `actions.selection.location=shorcut` in a document's metadata
+- Define settings for a location with a `_settings.json` file
+- Display the selection action as a shortcut with `actions.selection.location=shorcut` in a document's metadata
 - Fulscreen button in title bar
 - Check for license update when approaching expiration
--	Support for trial codes
+- Support for trial codes
 - Webview: meaningful icons for toggling touch interaction
--	Webview: option to ignore ssl errors
+- Webview: option to ignore ssl errors
 - Catalog: allow the definition of filters on inexistant data
 - Kiosk: start page UI improvements
--	Removed Boogie Board support
+- Removed Boogie Board support
 - [FIX] Powerpoint rendering errors
--	[FIX] Animation delay when swiching sources
--	[FIX] Save dialog not updating correctly when pluging back an USB drive
--	[FIX] Error when saving from a demo universe on Surface Hub
--	[FIX] No name dispayed when using a custom universe source on an USB drive
--	[FIX] 3D models in error when refreshing an universe
--	[FIX] Empty pdf generated when sharing videos as single pdf
--	[FIX] Incomplete account details for registered users without a license
+- [FIX] Animation delay when swiching sources
+- [FIX] Save dialog not updating correctly when pluging back an USB drive
+- [FIX] Error when saving from a demo universe on Surface Hub
+- [FIX] No name dispayed when using a custom universe source on an USB drive
+- [FIX] 3D models in error when refreshing an universe
+- [FIX] Empty pdf generated when sharing videos as single pdf
+- [FIX] Incomplete account details for registered users without a license
 - [FIX] Setting a source as default not does not apply immediately in some cases
--	[FIX] Crash when leaving a project with a background video
--	[FIX] Stickers displayed with wrong aspect ratio
+- [FIX] Crash when leaving a project with a background video
+- [FIX] Stickers displayed with wrong aspect ratio
 
 ### 2.0.47 - August 29, 2019
 - [FIX] Interactive backgrounds not displayed
 
 ### 2.0.46 - August 27, 2019
 - Integrated calculator
--	Consolidated and clearer activation experience in tutorial and settings
--	Pin and tape UI adjustements
--	Kiosk mode: standby videos per source or universe
--	Kiosk mode: universe opens automatically in single-universe scenarios
--	Kiosk mode: side menu button leaves the project
--	[FIX] Powerpoint file links always open in browser for Sharepoint configurations
--	[FIX] Provisionned SharePoint/Teams locations cannot be set as default
+- Consolidated and clearer activation experience in tutorial and settings
+- Pin and tape UI adjustements
+- Kiosk mode: standby videos per source or universe
+- Kiosk mode: universe opens automatically in single-universe scenarios
+- Kiosk mode: side menu button leaves the project
+- [FIX] Powerpoint file links always open in browser for Sharepoint configurations
+- [FIX] Provisionned SharePoint/Teams locations cannot be set as default
 
 ### 2.0.45 - August 1, 2019
 - Support for more presentation remotes
