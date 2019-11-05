@@ -22,7 +22,7 @@
 - Webview: meaningful icons for toggling touch interaction
 - Webview: option to ignore ssl errors
 - Catalog: allow the definition of filters on inexistant data
-- Kiosk: start page UI improvements
+- Kiosk mode: start page UI improvements
 - Removed Boogie Board support
 - [FIX] Powerpoint rendering errors
 - [FIX] Animation delay when swiching sources
