@@ -1,8 +1,8 @@
 # Release notes
 
 ### 2.1.12 - November 4, 2019
-- Improved Sharepoint / Teams synchronization for faster loading of universes
-- Customizable start page bacgkround
+- Improved Sharepoint and Teams synchronization for faster loading of universes
+- Customizable start page background
 - Prompt for the recipient when sending a mail with SMTP or SendGrid
 - Share the selection from the bottom bar
 - Import from camera
