@@ -9,7 +9,6 @@
 -	Timer with stopwach and countdown. See [Timer](../organise_content/supported_content/timers.html)
 -	Pinnable side menus
 - Share source from the start page list
-
 -	No slides overview for single-slide presentations
 -	Default previews for web and calculator
 - New `Tools` templates category with timers and calculator
