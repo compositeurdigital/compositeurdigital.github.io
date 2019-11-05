@@ -15,7 +15,7 @@
 - Loan simulator with "in fine" loan
 - Prevent closing of documents with the `table.noclose` metadata
 - Define settings for a location with a `_settings.json` file
-- Display the selection action as a shortcut with `actions.selection.location=shorcut` in a document's metadata
+- Display the selection action as a shortcut with `actions.selection.location` metadata
 - Fulscreen button in title bar
 - Check for license update when approaching expiration
 - Support for trial codes
