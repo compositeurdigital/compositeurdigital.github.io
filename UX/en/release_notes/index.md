@@ -1,6 +1,7 @@
 # Release notes
 
 ### 2.1.12 - November 4, 2019
+#### New features
 - Improved Sharepoint and Teams synchronization for faster loading of universes
 - Customizable start page background
 - Prompt for the recipient when sending a mail with SMTP or SendGrid
@@ -9,6 +10,8 @@
 - Timer with stopwach and countdown
 - Pinnable side menus
 - Share source from the start page list
+
+#### General improvements and fixes
 - No slides overview for single-slide presentations
 - Default previews for web and calculator
 - New `Tools` templates category with timers and calculator
