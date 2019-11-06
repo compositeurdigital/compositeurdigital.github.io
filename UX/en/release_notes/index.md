@@ -35,7 +35,6 @@
 - [FIX] Setting a source as default not does not apply immediately in some cases
 - [FIX] Crash when leaving a project with a background video
 - [FIX] Stickers displayed with wrong aspect ratio
-- [FIX] Activation code
 
 ### 2.0.47 - August 29, 2019
 - [FIX] Interactive backgrounds not displayed
