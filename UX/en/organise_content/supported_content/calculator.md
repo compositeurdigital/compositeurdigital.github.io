@@ -22,6 +22,6 @@ To use a calculator, add the extension `.calculator` at the end of the name of y
 
 ![Calculator preview](../../img/content_calculator_preview.jpg)
 
-Next : [Slideshows (Compositeur Digital UX format)](slideshows.md)
+Next : [Timers (Compositeur Digital UX format)](timers.md)
 
 [Back to Supported Content](index.md)
