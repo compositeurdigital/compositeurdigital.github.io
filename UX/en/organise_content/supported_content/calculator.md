@@ -3,7 +3,7 @@
 ## Summary
 * [Description](#description)
 * [Content extension](#content-extension)
-* [Create a mortgage simulator](#create-a-calculator)
+* [Create a calculator](#create-a-calculator)
 
 ## Description
 
