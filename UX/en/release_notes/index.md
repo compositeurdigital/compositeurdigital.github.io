@@ -10,18 +10,18 @@
 - Timer with stopwach and countdown
 - Pinnable side menus
 - Share source from the start page list
+- Loan simulator with "in fine" loan
+- Support for trial codes
 
 #### General improvements and fixes
 - No slides overview for single-slide presentations
 - Default previews for web and calculator
 - New `Tools` templates category with timers and calculator
-- Loan simulator with "in fine" loan
 - Prevent closing of documents with the `table.noclose` metadata
 - Define settings for a location with a `_settings.json` file
 - Display the selection action as a shortcut with `actions.selection.location` metadata
 - Fulscreen button in title bar
 - Check for license update when approaching expiration
-- Support for trial codes
 - Webview: meaningful icons for toggling touch interaction
 - Webview: option to ignore ssl errors
 - Catalog: allow the definition of filters on inexistant data
