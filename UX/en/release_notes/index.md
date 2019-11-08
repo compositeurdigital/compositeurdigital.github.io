@@ -1,5 +1,8 @@
 # Release notes
 
+### 2.1.13 - November 8, 2019
+- [FIX] Unable to save projects on Teams or Sharepoint libraries in some conditions
+
 ### 2.1.12 - November 4, 2019
 #### New features
 - Improved Sharepoint and Teams synchronization for faster loading of universes
