@@ -154,6 +154,7 @@ Metadata will help you to customize the way your web viewer behaves.
 | `web.showChrome`                  | True of False       | If true, a navigation bar at the top of the view will be shown. Else, no navigation bar will be displayed. |
 | `web.viewport.width`              | 1000 (number)       | Sets the default width of the view.                                       |
 | `web.viewport.height`             | 800 (number)        | Sets the default height of the view.                                      |
+| `web.nossl`                       | True or False       | Disables SSL checks and allows a web view to navigate to pages that have untrusted certificates. |  
 
 By default , `cdurl` link have the metadata `web.manipulationMode` set to 1 and the metadata `web.showChrome` set to True.
 
