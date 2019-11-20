@@ -1,5 +1,11 @@
 # Release notes
 
+### 2.1.15 - November 20, 2019
+- [FIX] Incomplete universes when installing sample content
+
+### 2.1.14 - November 18, 2019
+- [FIX] Catalog: region filter always disabled
+
 ### 2.1.13 - November 8, 2019
 - [FIX] Unable to save projects on Teams or Sharepoint libraries in some conditions
 
