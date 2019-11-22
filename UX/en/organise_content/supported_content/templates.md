@@ -30,7 +30,7 @@ Depending on the type of file (i.e. slideshows or images...) check the correspon
 
 All the templates are located at the root of your universe folder, in a folder called `_toolbox`.
 
-Inside this folder, you can create as many folders as you want, and place any type of documents (`.jpg`, `.png`, `.pdf`, `ppt`...).
+Inside this folder, you can create as many folders as you want, and place images or presentation documents (`.jpg`, `.png`, `.pdf`, `pptx`).
 
 [See how to use template inside Compositeur Digital UX](../../user_guide/workflow.md#use-templates)
 
