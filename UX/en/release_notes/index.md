@@ -1,5 +1,12 @@
 # Release notes
 
+### 2.1.16 - December 2, 2019
+- Improved file operations
+- Disabled the 'Refresh universe' action on empty universes
+- [FIX] Application theme does not always follow the current background
+- [FIX] PowerBI and Dynamics CRM authentication failure
+- [FIX] Wrong indication when adding a Sharepoint library
+
 ### 2.1.15 - November 20, 2019
 - [FIX] Incomplete universes when installing sample content
 
