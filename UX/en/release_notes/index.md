@@ -1,6 +1,6 @@
 # Release notes
 
-### 2.1.18 - December 3, 2019
+### 2.1.18 - December 5, 2019
 - [FIX] Delay when entering an universe on Sharepoint/Teams
 - [FIX] Office 365 account still displayed after signing out
 
