@@ -55,6 +55,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `minHeight`                       | `dimension`  | -         | sets the minimum height |
 | `minWidth`                        | `dimension`  | -         | sets the minimum width |
 | `name`                            | `text`       | file name | change the displayed name of the document to "A name" (example) |
+| `noChrome`                        | `boolean`    | false     | hides all the chrome buttons (close, menu), and the shadow under the document.|
 | `orientation`                     | `number`     | 0         | rotates the document: `-90` to turn left, `90` to turn right or `180` to flip the document |
 | `table.hideCommands`              | `boolean`    | false     | hides the control buttons of a document (previous/next page, video playback controls…) |
 | `table.noRotate`                  | `boolean`    | false     | inhibits rotation for the document |
@@ -62,10 +63,6 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `themeColor`                      | `color`      | -         | forces a theme color for the universe/element and its contents | 
 | `table.showOnStart`               | `boolean`    | false     | open the document automatically when the universe is launched | 
 | `hideLinkLabel`                   | `boolean`    | false     | hide the document name in the universe bottom bar |
-
-
-<!--| `table.noScale` | " | inhibits resizing for the document |-->
-<!--| `table.noMove` | " | inhibits moving the document | -->
 
 ## Content specific metadata
 
