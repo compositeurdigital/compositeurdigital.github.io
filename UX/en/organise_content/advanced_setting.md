@@ -43,6 +43,15 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 
 | Metadata Key                      | Type         | Default   | Description |
 |:--------------------------------- |:-------------|:----------|:-|
+| `actions.disabled`                | `boolean`    | false     | hides the menu button on a document. |
+| `actions.capture.disabled`        | `boolean`    | false     | hides the capture action. |
+| `actions.duplicate.disabled`      | `boolean`    | false     | hides the duplicate action. |
+| `actions.ink.disabled`            | `boolean`    | false     | hides the ink action. |
+| `actions.open.disabled`           | `boolean`    | false     | hides the open action. |
+| `actions.saveas.disabled`         | `boolean`    | false     | hides the save as action. |
+| `actions.selection.disabled`      | `boolean`    | false     | hides the selection action. |
+| `actions.selection.location`      | `text`       | Menu      | defines if the selection action should be inside the item menu or be available as a shortcut. |
+| `actions.share.disabled`          | `boolean`    | false     | hides the share action. |
 | `culture`                         | `text`       | unset     | indicates the language used in the universe. Supported values are `fr` or `en` |
 | `canStick`                        | `boolean`    |false      | indicates that the object can be sticked like a note |
 | `canWrite`                        | `boolean`    |false      | indicates that text can be typed on this object |
@@ -152,6 +161,7 @@ Some values can be shared between different items, e.g. informations about a con
 | `phoneNumber`                    | `text`    | defines the phone number of the current contact |
 | `organization`                   | `text`    | defines the organization of the current contact |
 | `finance.budget`                 | `number`  | defines the amount of the mortgage loan of the current contact |
+
 
 
 [Back to Organise Content](index.md)
