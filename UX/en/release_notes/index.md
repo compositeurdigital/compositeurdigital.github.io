@@ -1,5 +1,11 @@
 # Release notes
 
+### 2.1.20 - January 3, 2020
+- Panorama: hotspots with icon and description or item link
+- Common metadata to disable individual menu actions or all at once, see [Advanced settings](../organise_content/advanced_setting.html#metadata-supported)
+- [FIX] PowerPoint rendering errors
+- [FIX] Catalog: text filters cannot be applied to 1st level items
+
 ### 2.1.18 - December 5, 2019
 - [FIX] Delay when entering an universe on Sharepoint/Teams
 - [FIX] Office 365 account still displayed after signing out
