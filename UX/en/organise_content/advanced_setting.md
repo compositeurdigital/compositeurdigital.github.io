@@ -66,6 +66,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `name`                            | `text`       | file name | change the displayed name of the document to "A name" (example) |
 | `noChrome`                        | `boolean`    | false     | hides all the chrome buttons (close, menu), and the shadow under the document.|
 | `orientation`                     | `number`     | 0         | rotates the document: `-90` to turn left, `90` to turn right or `180` to flip the document |
+| `table.noClose`                   | `boolean`    | false     | prevents closing the document (close button disabled and throwing out of screen does not close) |
 | `table.hideCommands`              | `boolean`    | false     | hides the control buttons of a document (previous/next page, video playback controls…) |
 | `table.noRotate`                  | `boolean`    | false     | inhibits rotation for the document |
 | `table.viewer`                    | `cdux` or `extern` | unset   | Using `cdux` it makes sure the `cdurl` link will be displayed inside Compositeur Digital UX. With `extern`, the document is opened using the native viewer. |
