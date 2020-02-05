@@ -165,6 +165,18 @@ You can also specify all possible answers of the slider with `choice` tags :
 </input>
 ```
 
+### Number
+For typing in a precise number.
+
+![number](../../img/content_form_numeric.jpg)
+
+```xml
+<input type="number" text="Income" format="# ##0 €" minvalue="0" maxvalue="10000" />
+```
+* `minvalue` and `maxvalue` are non mandatory attributes, the entered value will.
+* For possible `format` values see [standard format](https://docs.microsoft.com/en-gb/dotnet/standard/base-types/standard-numeric-format-strings) and [custom format](https://docs.microsoft.com/en-gb/dotnet/standard/base-types/custom-numeric-format-strings)
+* By default the input will prevent typeing non-numeric charcater. Add `allowText="true"` to allow typing non-numeric characters if you prefer. 
+
 ### Combobox
 To list a big quantity of answers in a reduced space, its recommanded to use a `combobox` instead of a `singlechoice`
 
