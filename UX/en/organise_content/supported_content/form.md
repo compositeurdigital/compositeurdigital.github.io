@@ -12,6 +12,7 @@
    * [Single line text](#single-line-text)
    * [Multiple line text](#multiple-line-text)
    * [Slider](#slider)
+   * [Number](#number)
    * [Combobox](#combobox)
 * [Presenter types](#presenter-types)
    * [Documents](#documents)
