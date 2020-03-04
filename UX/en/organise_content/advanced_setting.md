@@ -73,6 +73,8 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `themeColor`                      | `color`      | -         | forces a theme color for the universe/element and its contents | 
 | `table.showOnStart`               | `boolean`    | false     | open the document automatically when the universe is launched | 
 | `hideLinkLabel`                   | `boolean`    | false     | hide the document name in the universe bottom bar |
+| `table.alwaysBehind`              | `boolean`    | false     | force the document to stay under the others |
+| `table.alwaysOnTop`               | `boolean`    | false     | force the document to stay on top of the others |
 
 ## Content specific metadata
 
