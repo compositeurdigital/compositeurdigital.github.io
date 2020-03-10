@@ -1,5 +1,27 @@
 # Release notes
 
+### 2.1.25 - March 6, 2020
+- Support for ARM devices
+- `table.alwayBehind`/`table.alwaysOnTop` metas to force documents to stay behind/over all other opened documents
+- Search and filter projects, with new author info
+- Annotation on web views
+- Annotation on videos (when paused)
+- Sidebar automatically pinned when in touch drawing mode
+- Timer brought to the front when its alarm goes off
+- Support for Samsung Flip 2 pen interaction
+- Source-defined background applied in universes and during workspace loading
+- Start page performance improvements
+- Sidebar and main menu UI tweaks
+- [FIX] Webview action buttons may be invisible on white pages
+- [FIX] Forms with dynamic content may crash on some devices
+- [FIX] CRM search : entity data not imported
+- [FIX] Performance issue when displaying many notes
+- [FIX] Template elements misalignment on some devices
+- [FIX] Importing documents in a SharePoint/Teams project fail in some cases
+- [FIX] Standby video cannot be stopped in some cases 
+- [FIX] Error when cancelling Office 365
+- [FIX] Error when using SharePoint/Teams sources with the cache on USB
+
 ### 2.1.20 - January 3, 2020
 - Panorama: hotspots with icon and description or item link
 - Common metadata to disable individual menu actions or all at once, see [Advanced settings](../organise_content/advanced_setting.html#metadata-supported)
