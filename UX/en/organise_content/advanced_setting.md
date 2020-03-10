@@ -43,15 +43,6 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 
 | Metadata Key                      | Type         | Default   | Description |
 |:--------------------------------- |:-------------|:----------|:-|
-| `actions.disabled`                | `boolean`    | false     | hides the menu button on a document. |
-| `actions.capture.disabled`        | `boolean`    | false     | hides the capture action. |
-| `actions.duplicate.disabled`      | `boolean`    | false     | hides the duplicate action. |
-| `actions.ink.disabled`            | `boolean`    | false     | hides the ink action. |
-| `actions.open.disabled`           | `boolean`    | false     | hides the open action. |
-| `actions.saveas.disabled`         | `boolean`    | false     | hides the save as action. |
-| `actions.selection.disabled`      | `boolean`    | false     | hides the selection action. |
-| `actions.selection.location`      | `text`       | Menu      | defines if the selection action should be inside the item menu or be available as a shortcut. |
-| `actions.share.disabled`          | `boolean`    | false     | hides the share action. |
 | `culture`                         | `text`       | unset     | indicates the language used in the universe. Supported values are `fr` or `en` |
 | `canStick`                        | `boolean`    |false      | indicates that the object can be sticked like a note |
 | `canWrite`                        | `boolean`    |false      | indicates that text can be typed on this object |
@@ -75,6 +66,34 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `hideLinkLabel`                   | `boolean`    | false     | hide the document name in the universe bottom bar |
 | `table.alwaysBehind`              | `boolean`    | false     | force the document to stay under the others |
 | `table.alwaysOnTop`               | `boolean`    | false     | force the document to stay on top of the others |
+
+#### Menu actions
+
+The default actions available in the document menu can be individually configured. Set the following parameters by replacing `<key>` with the action keys listed below. 
+> Example: 
+>
+>`actions.`**`saveas`**`.disabled = true`  to hide the "Save as" action
+>
+>`actions.`**`selection`**`.location = shortcut` to give quick access to the selection action
+
+
+| Metadata Key                      | Type         | Default   | Description |
+|:--------------------------------- |:-------------|:----------|:-|
+| `actions.disabled`                | `boolean`    | false     | hides the menu button entirely on a document. |
+| `actions.<key>.disabled`   | `boolean`    | false     | hides the `<key>` action. |
+| `actions.<key>.location`   | `menu` or `shortcut`       | menu      | defines if the `<key>` action should be available in the menu or as a shortcut. |
+
+Configurable actions:
+
+| Action key    | Description |
+|:--------------|-------------|
+|`capture`      | Create an image capture of the document | 
+|`selection`    | Add or remove a document to/from the selection | 
+|`duplicate`    | Duplicate the document | 
+|`share`        | Share the document |
+|`saveas`       | Save the document on the computer or on a removable device |
+|`open`         | Open the document externally |
+
 
 ## Content specific metadata
 
