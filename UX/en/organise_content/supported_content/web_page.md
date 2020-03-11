@@ -23,6 +23,9 @@ In navigation mode, you can interact with the content displayed in webview in th
 
 ![Web page navigation mode disabled](../../img/content_web_page_end.JPG)
 
+To navigate back in history, press the arrow in the top left corner. 
+To directly go to the home page, press the `Home` button in the webview's menu.
+
 ## Actions within Compositeur Digital UX
 
 Web page items support the following action. To have a complete overview of each action, [see the section Actions](actions.md)
