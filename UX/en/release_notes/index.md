@@ -2,7 +2,7 @@
 
 ### 2.1.26 - March 11, 2020
 - Webview 'Home' action allows to navigate back for pages without internal navigation
-- Default menu actions can be displayed as shortcuts for one-click capture, selection,share, etc… See [Advanced settings](../organise_content/advanced_setting.html#menu-actions)
+- Default menu actions can be displayed as shortcuts for one-click capture, selection, share, etc… See [Advanced settings](../organise_content/advanced_setting.html#menu-actions)
 - [FIX] Crash when resuming video playback right after drawing annotations
 - [FIX] Possible errors when first entering some very large Teams/Sharepoint universes
 
