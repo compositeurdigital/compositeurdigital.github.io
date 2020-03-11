@@ -72,9 +72,9 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 The default actions available in the document menu can be individually configured. Set the following parameters by replacing `<key>` with the action keys listed below. 
 > Example: 
 >
->`actions.`**`saveas`**`.disabled = true`  to hide the "Save as" action
+>`actions.saveas.disabled = true`  to hide the "Save as" action
 >
->`actions.`**`selection`**`.location = shortcut` to give quick access to the selection action
+>`actions.selection.location = shortcut` to give quick access to the selection action
 
 
 | Metadata Key                      | Type         | Default   | Description |
