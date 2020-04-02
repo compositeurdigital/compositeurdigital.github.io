@@ -10,4 +10,4 @@ To create this presentation universe you will simply need to use your File Explo
 ## Prepare your environment
 
 Go to your Compositeur Digital UX application and switch to your application to Windowed mode. To do that simply drag your mouse to the top left corner and click on the square button as shown below
-![windowed](https://github.com/compositeurdigital/compositeurdigital.github.io/tree/master/UX/fr/tutorials/createuniverse/img/windowed.jpg)
+![windowed](img/windowed.jpg)
