@@ -16,4 +16,13 @@ To create this presentation universe you will simply need to use your File Explo
 * Your environment should now look like this:
 ![windowed2](img/windowed2.jpg)
 
-* Open the file location for your presentation universe : `Documents>Compositeur Digital UX>My Universe` 
+* Open the file location for your presentation universe : `Documents>Compositeur Digital UX>My Universe`
+![filelocation1](img/filelocation1.jpg)
+
+## Step 1 – Add file
+
+In this step, you will be guided to drag and drop a sample document in your universe. 
+
+**Description** 
+1.	Download this sample document : Sample Document 
+2.	Using your file explorer, place it here : Documents >Compositeur Digital UX > MyUniverse 
