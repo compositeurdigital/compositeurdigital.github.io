@@ -31,4 +31,7 @@ In this step, you will be guided to drag and drop a sample document in your univ
 
 **Description** 
 1.	Download this [Sample Document](samples/DocumentPDF.pdf) 
-2.	Using your file explorer, place it here : Documents >Compositeur Digital UX > MyUniverse 
+2.	Using your file explorer, place it here : Documents >Compositeur Digital UX > MyUniverse
+3.  Go to your Compositeur Digital app and refresh your universe by pressing these keys : CTRL + R + R 
+
+**Comments** : You can use your own documents in this step. See the list of supported documents [here](http://doc.compositeurdigital.com/UX/en/organise_content/supported_content/) 
