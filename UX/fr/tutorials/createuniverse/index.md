@@ -13,7 +13,7 @@ To create this presentation universe you will simply need to use your File Explo
 ![windowed](img/windowed.jpg)
 
 
-Your environment should now look like this:
+* Your environment should now look like this:
 ![windowed2](img/windowed2.jpg)
 
-Open the file location for your presentation universe : Documents>Compositeur Digital UX>My Universe 
+* Open the file location for your presentation universe : `Documents>Compositeur Digital UX>My Universe` 
