@@ -14,9 +14,11 @@ Go to your Compositeur Digital UX application and switch to your application to 
 ![windowed](img/windowed.jpg)
 
 
+
 Your environment should now look like this:
 
 ![windowed2](img/windowed2.jpg)
+
 
 Open the file location for your presentation universe : `Documents>Compositeur Digital UX>My Universe`
 
@@ -28,5 +30,5 @@ Open the file location for your presentation universe : `Documents>Compositeur D
 In this step, you will be guided to drag and drop a sample document in your universe. 
 
 **Description** 
-1.	Download this [Sample Document !](../Demo-Universe.zip) 
+1.	Download this [Sample Document](samples/DocumentPDF.pdf) 
 2.	Using your file explorer, place it here : Documents >Compositeur Digital UX > MyUniverse 
