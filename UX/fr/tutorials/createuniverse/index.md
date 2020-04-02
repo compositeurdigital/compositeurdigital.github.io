@@ -58,12 +58,32 @@ In this step, you will be guided to customize the background and the document pr
 ![customize](img/customize.jpg)
 
 
-**Description** 
+**Description for backgrounds** 
 
 1.	Download this [background sample image] (samples/\_background.png)
-2.	Using your file explorer, paste it here : Documents >Compositeur Digital UX > MyUniverse
+2.	Using your file explorer, paste it here `Documents >Compositeur Digital UX > MyUniverse`
 3.	Go to your Compositeur Digital application and refresh your universe by pressing these keys : CTRL + R + R 
 
+**Comments:**  The Compositeur Digital will use any image named “_background” placed in this location as a background for your universe. See the complete documentation for backgrounds [here](http://doc.compositeurdigital.com/UX/en/organise_content/create_universes.html#background)
 
+
+**Description for previews** 
+
+To quickly customize your documents previews:
+
+1.	Download this [preview sample image] (samples/\_preview.jpg)
+2.	Using your file explorer, paste it here : `Documents>Compositeur Digital UX > MyUniverse > Myfolder`
+3.	Go to your Compositeur Digital application and refresh your universe by pressing these keys : CTRL + R + R 
+
+**Comments:** The Compositeur Digital will use any image named “_preview” placed in this location as a preview for this folder. See the complete documentation for previews [here](http://doc.compositeurdigital.com/UX/en/organise_content/create_universes.html#thumbnails)
+
+
+
+
+## You can do a lot more ! ## 
+
+You have now successfully completed the fundamental steps to create a presentation universe. You can visit our complete documentation here(http://doc.compositeurdigital.com/UX/en/organise_content/create_universes.html)
+
+Send us an email at <mailto:> To learn more on uses cases for corporate presentations, collaboration and training.
 
 
