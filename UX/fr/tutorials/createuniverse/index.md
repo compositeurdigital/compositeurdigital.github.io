@@ -60,7 +60,7 @@ In this step, you will be guided to customize the background and the document pr
 
 **Description** 
 
-1.	Download this [background sample image] ``(samples/_background.png)``
+1.	Download this [background sample image] (samples/\_background.png)
 2.	Using your file explorer, paste it here : Documents >Compositeur Digital UX > MyUniverse
 3.	Go to your Compositeur Digital application and refresh your universe by pressing these keys : CTRL + R + R 
 
