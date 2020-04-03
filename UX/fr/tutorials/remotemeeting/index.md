@@ -22,7 +22,8 @@ Activez le retour tactile visuel sur votre PC pour permettre à vos interlocuteu
 
 Lorsque ce paramètre de Windows est activé, vos interlocuteurs pourront voir une pastille grise à l'écran correspondant aux points de contact sur votre écran. Cela améliore grandement la lisibilité. 
 
-Pour cela, tapez sur la Touche Windows de votre clavier ![windows](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/touchewindowsV2.jpg) et taper le mot " retour ". Cliquez ensuite sur le premier résultat « *Afficher le retour tactile visuel quand vous touchez l’écran* » :
+Pour cela, tapez sur la Touche Windows de votre clavier ![windows](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/touchewindowsV2.jpg) et tapez le mot "retour". 
+Cliquez ensuite sur le premier résultat « *Afficher le retour tactile visuel quand vous touchez l’écran* » :
 
 ![retour_tactile](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/retour_tactile.jpg)
 
