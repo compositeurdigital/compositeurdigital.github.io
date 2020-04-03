@@ -4,4 +4,7 @@
 
 1. Depuis l’application Teams, ouvrez la vue calendrier, saisissez les informations du rendez-vous et diffusez l’invitation. 
 
-![Universe 1](../img/pres-universe1.JPG)
+![calendrier](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/calendrier.jpg)
+
+**De son côté, le client recevra un lien lui permettant d'accéder à la réunion, même s'il ne dispose pas de l'application Teams, qu'il soit sur PC ou mac**
+
