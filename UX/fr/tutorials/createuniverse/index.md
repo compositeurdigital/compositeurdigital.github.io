@@ -57,10 +57,9 @@ In this step, you will be guided to customize the background and the document pr
 
 ![customize](img/customize.jpg)
 
-
 **Description for backgrounds** 
 
-1.	Download this [background sample image] (samples/%5Fbackground.png)
+1.	Download this [background sample image](./samples/_background.png)
 2.	Using your file explorer, paste it here `Documents >Compositeur Digital UX > MyUniverse`
 3.	Go to your Compositeur Digital application and refresh your universe by pressing these keys : CTRL + R + R 
 
@@ -71,7 +70,7 @@ In this step, you will be guided to customize the background and the document pr
 
 To quickly customize your documents previews:
 
-1.	Download this [preview sample image] (samples/\_preview.jpg)
+1.	Download this [preview sample image] (./samples/_preview.jpg)
 2.	Using your file explorer, paste it here : `Documents>Compositeur Digital UX > MyUniverse > Myfolder`
 3.	Go to your Compositeur Digital application and refresh your universe by pressing these keys : CTRL + R + R 
 
