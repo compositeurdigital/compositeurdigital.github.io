@@ -20,4 +20,4 @@ Nous recommandons de réaliser ces étapes avant le démarrage de la réunion.
 
 Activez le retour tactile visuel sur votre PC pour permettre à vos interlocuteurs de voir ce que vous manipuler. Lorsque ce paramètre de Windows est activé, vos interlocuteurs pourront voir une pastille grise à l'écran correspondant aux points de contact sur votre écran. Cela améliore grandement la lisibilité. 
 
-Pour cela, tapez sur la Touche Windows de votre clavier ![touche_windows](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/touche_windows.jpg) et taper le mot "retour". Cliquez ensuite sur le premier résultat « *Afficher le retour tactile visuel quand vous touchez l’écran* »
+Pour cela, tapez sur la Touche Windows de votre clavier et taper le mot "retour". Cliquez ensuite sur le premier résultat « *Afficher le retour tactile visuel quand vous touchez l’écran* » 
