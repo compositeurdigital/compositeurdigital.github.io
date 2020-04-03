@@ -85,5 +85,3 @@ To quickly customize your documents previews:
 You have now successfully completed the fundamental steps to create a presentation universe. You can visit our complete documentation [here] (http://doc.compositeurdigital.com/UX/en/organise_content/create_universes.html)
 
 Send us an email at <mailto:> To learn more on uses cases for corporate presentations, collaboration and training.
-
-
