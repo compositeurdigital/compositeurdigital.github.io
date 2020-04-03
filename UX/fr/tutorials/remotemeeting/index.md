@@ -100,6 +100,20 @@ Pensez à positionner la fenêtre vidéo de votre client en haut à droite pour 
 
 **4.4. Utilisez les fonctions Compositeur Digital pour conserver l’efficacité de votre réunion :**
 
-* Il vous manque un document ? -> Utilisez la fonction « import » 
+* Il vous manque un document ? -> Utilisez la fonction « import » :
 
+![import](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/import1.jpg)
 
+* Vous devez naviguer dans un document de plusieurs pages -> Utilisez le mode diapo :
+
+![diapo](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/diapo.jpg)
+
+**4.5. A la fin de la réunion**
+
+* Ajoutez les documents que vous souhaitez partager à la sélection :
+
+![selection](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/selection.jpg)
+
+* Partagez un compte rendu visuel :
+
+![compterendu](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/compterendu.jpg)
