@@ -1,8 +1,13 @@
-# 1. Invitation des participants via Teams
+## Guide Compositeur Digital pour les Rendez-vous à distance
+
+---- message d'intro----
+
+
+## 1. Invitation des participants via Teams
 
 **Utiliser Teams pour initier un rendez-vous** 
 
-**1.1. Depuis l’application Teams, ouvrez la vue calendrier, saisissez les informations du rendez-vous et diffusez l’invitation.** 
+1.1. Depuis l’application Teams, ouvrez la vue calendrier, saisissez les informations du rendez-vous et diffusez l’invitation.
 
 ![calendrier](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/calendrier.jpg)
 
@@ -12,7 +17,7 @@ Si vos correspondants ne disposent pas de l'application Teams, indiquez leur bie
 
 ![rejoindre_dans_edge](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/rejoindre_dans_edge.jpg)
 
-# 2. Préparer son environnement pour la réunion
+## 2. Préparer son environnement pour la réunion
 
 Nous recommandons de réaliser ces étapes avant le démarrage de la réunion. 
 
