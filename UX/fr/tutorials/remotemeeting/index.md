@@ -1,6 +1,6 @@
 ## Guide Compositeur Digital pour les Rendez-vous à distance
 
----- message d'intro----
+Ce guide fournit les informations pour l'organisation et la conduite d'un rendez-vous à distance ainsi qu'une liste de bonnes pratiques pour l'interaction via votre solution de viso. 
 
 
 ## 1. Invitation des participants via Teams
@@ -46,7 +46,7 @@ Lancez le Compositeur et réalisez les opérations suivantes :
 
 Vous pouvez toujours la réactiver en cours de présentation. 
 
-# 3. Démarrer la réunion
+## 3. Démarrer la réunion
 
 **3.1. Pour rappel**
 
@@ -88,7 +88,7 @@ Pour activer le mode plein écran, le client devra cliquer sur les " ... " puis 
 
 Pensez à positionner la fenêtre vidéo de votre client en haut à droite pour une bonne expérience.
 
-# 4. Comment animer sa réunion
+## 4. Comment animer sa réunion
 
 **4.1. Gardez à l’esprit que vous ne maitrisez pas la qualité de la connexion, en conséquence :**
 
