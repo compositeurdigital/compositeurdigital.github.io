@@ -2,6 +2,7 @@
 
 Ce guide fournit les informations pour l'organisation et la conduite d'un rendez-vous à distance ainsi qu'une liste de bonnes pratiques pour l'interaction via votre solution de viso. 
 
+Vous pouvez utiliser n'importe quelle solution de visio conférence permettant le partage d'écran. La description ci-dessous illustre la procédure avec Microsoft Teams à titre d'exemple. 
 
 ## 1. Invitation des participants via Teams
 
