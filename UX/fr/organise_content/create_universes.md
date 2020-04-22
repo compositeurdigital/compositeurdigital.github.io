@@ -12,9 +12,9 @@ Le Compositeur Digital UX traite les documents stockés dans un endroit spécifi
   * [Fonctionnalité des dossiers cachés](#fonctionnalité-des-dossiers-cachés)
 * [Documents](#documents)
 * [Ordre de visualisation du contenu](#ordre-de-visualisation-du-contenu)
-* [Miniatures](#miniatures)
-  * [Miniature dossier ](#miniature-dossier)
-  * [Miniature document](#miniature-document)
+* [Vignettes](#vignettes)
+  * [Vignette de dossier ](#vignette-de-dossier)
+  * [Vignette de document](#vignette-de-document)
 * [Personnaliser l'espace de travail](#personnaliser-lespace-de-travail)
 * [Univers de démonstration](#univers-de-démonstration) 
 
@@ -105,26 +105,26 @@ Consultez le Contenu pris en charge pour obtenir une liste exhaustive des types 
 Le Compositeur Digital UX affichera les dossiers et les documents par ordre alphabétique. Vous pouvez toutefois forcer une séquence d'affichage spécifique pour les documents et les dossiers en préfixant le nom du fichier ou du dossier par un numéro. Compositeur Digital UX n'affichera pas les numéros mais organisera les éléments en conséquence.
 
 
-## Miniatures 
+## Vignettes 
 
-Le compositeur numérique crée automatiquement des miniatures pour tous les documents. Vous pouvez personnaliser la miniature de chaque document ou dossier de votre univers.
+Le Compositeur Digital UX crée automatiquement des vignettes pour tous les documents. Vous pouvez personnaliser la vignette de chaque document ou dossier de votre univers.
 
-### Miniature de dossier 
+### Vignette de dossier 
 
-Si une image miniature n'a pas été définie pour un dossier, le Compositeur Digital créera automatiquement une image miniature basée sur le premier document du dossier.
+Si une vignette n'a pas été définie pour un dossier, le Compositeur Digital UX créera automatiquement une vignette basée sur le premier document du dossier.
 
 ![Pas de miniature](../../en/img/universe_no_preview.JPG) 
 ![Pas de doc miniature](../../en/img/universe_no_preview_dock.JPG)
 
-Pour créer une miniature pour un dossier, il suffit de faire glisser et de déposer un fichier image nommé `_preview` (`.png` ou `.jpg`) directement dans le dossier :
+Pour créer une vignette pour un dossier, il suffit de faire glisser et de déposer un fichier image nommé `_preview` (`.png` ou `.jpg`) directement dans le dossier :
 
 
 ![Avec miniature](../../en/img/universe_preview.JPG) 
 ![Avec doc miniature](../../en/img/universe_preview_dock.JPG)
 
-### Miniature de document
+### Vignette de document
 
-Pour personnaliser l'image miniature d'un document, faites glisser et déposez un fichier image portant le même nom mais avec le suffixe '_preview' dans le même dossier.
+Pour personnaliser la vignette d'un document, faites glisser et déposez un fichier image portant le même nom mais avec le suffixe `_preview` dans le même dossier.
 
 ![Avec miniature de document](../../en/img/universe_document_preview.JPG) 
 ![Avec miniature de document doc](../../en/img/universe_document_preview_dock.JPG)
