@@ -14,7 +14,7 @@
 
 ## Télécharger le Compositeur Digital UX
 
-1. [Ouvrir la page windows store du Digital UX de Compositeur](https://www.microsoft.com/fr-fr/store/p/compositeur-digital-ux/9p201mgz4jb5?rtc=1)
+1. [Ouvrir la page windows store du Compositeur Digital UX](https://www.microsoft.com/fr-fr/store/p/compositeur-digital-ux/9p201mgz4jb5?rtc=1)
 1. Cliquez sur 'Obtenir l'application'.
 1. (Facultatif) En fonction de votre navigateur web, il vous sera demandé de lancer le Microsoft Store. Cliquez sur 'Ouvrir le Microsoft Store' ou 'Autoriser'.
 1. Sur la page du store, cliquez sur 'Installer'.
