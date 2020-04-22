@@ -1,4 +1,4 @@
-# Organiser le contenu
+# Organiser vos contenus
 
 ## [Créer vos univers](create_universes.md)
 Apprenez à créer de beaux univers.
