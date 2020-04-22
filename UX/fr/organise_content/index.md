@@ -3,7 +3,7 @@
 ## [Créer vos univers](create_universes.md)
 Apprenez à créer de beaux univers.
 
-## [Contenu pris en charge](supported_content/index.md)
+## [Contenus](supported_content/index.md)
 Consultez la liste des types de contenus pris en charge et des actions connexes.
 
 ## [Modèles](supported_content/templates.md)
