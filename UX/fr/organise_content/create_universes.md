@@ -31,13 +31,13 @@ Vous devez être à l'aise avec :
 
 ## Extensions de fichiers
 
-Compositeur Digital UX utilise l'extension de fichier pour configurer les différents éléments d'un univers.  L'"extension de fichier" indiquant le type de document est généralement un ensemble de 3 à 4 caractères suivant le point dans le nom du fichier :
+Compositeur Digital UX utilise l'extension de fichier pour configurer les différents éléments d'un univers.  L'extension de fichier indiquant le type de document est généralement un ensemble de 3 à 4 caractères suivant le point dans le nom du fichier :
 
 - Images : par exemple `photo1.jpg`, `photo2.png`.
 - Présentation : par exemple `pres1.pptx`, `pres2.pdf`.
 - Fichier texte : par exemple `tableau de contenu.txt`.
 
-Par défaut, l'application Windows File explorer cache les extensions de fichiers. Nous vous recommandons vivement de modifier ce paramètre.
+Par défaut, l'explorateur Windows cache les extensions de fichiers. Nous vous recommandons vivement de modifier ce paramètre.
 
 
 ![Activer les extensions de fichiers](../../en/img/enable_file_extensions.JPG)
@@ -140,7 +140,7 @@ Vous pouvez également cacher les trois points de la barre du bas lorsque la bar
 
 ## Univers de démonstration
 
-Un univers de démonstration est disponible et peut être [téléchargé ici](../../en/organise_content/Demo-Universe.zip). Une fois téléchargé, dézippez le fichier et placez le contenu dans votre dossier "Compositeur Digital UX". Cet univers de démonstration comprend des exemples pour chaque type de contenu que vous pouvez créer dans le Compositeur Digital UX.
+Un univers de démonstration est disponible et peut être [téléchargé ici](../../en/organise_content/Demo-Universe.zip). Une fois téléchargé, dézippez le fichier et placez le contenu dans votre dossier `Compositeur Digital UX`. Cet univers de démonstration comprend des exemples pour chaque type de contenu que vous pouvez créer dans le Compositeur Digital UX.
 
 Suivant : [Contenu pris en charge](supported_content/index.md)
 
