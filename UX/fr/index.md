@@ -1,6 +1,6 @@
 # Documentation du Compositeur Digital UX
 
-### [Démarrage](gettingstarted/index.md)
+### [Pour commencer](gettingstarted/index.md)
 Installer et lancer *Compositeur Digital UX*.
 
 ### [Guide de l'utilisateur](user_guide/index.md)
