@@ -5,19 +5,19 @@ Cette section met en évidence les actions que vous pouvez réaliser en situatio
 ## Résumé
 * [Début de votre réunion](#début-de-votre-réunion)
 * [Pendant votre réunion](#pendant-votre-réunion)
-  * [Ouvrir votre document] (#ouvrir-votre-document)
+  * [Ouvrir votre document](#ouvrir-votre-document)
   * [Annoter votre document](#annotez-votre-document)
   * [Utiliser des feuilles blanches et des notes](#utiliser-des-feuilles-blanches-et-des-notes)
-  * [Utiliser des modèles] (#utilisez-des-modèles)
+  * [Utiliser des modèles](#utilisez-des-modèles)
   * [Structurer votre espace de travail avec un tableau en liège](#structurez-votre-espace-de-travail-avec-un-tableau-en-liège)
-  * [Créer une copie de votre document] (#créer-une-copie-de-votre-document)
+  * [Créer une copie de votre document](#créer-une-copie-de-votre-document)
   * [Importer un document](#importer-un-document)
-    * [Depuis votre disque dur](#depuis-votre-disque dur)
+    * [Depuis votre PC](#depuis-votre-pc)
     * [Coller une image](#coller-une-image)
   * [Faire votre sélection](#faites-votre-sélection)
     * [Ajouter un document](#ajouter-un-document)
     * [Vérifier votre sélection actuelle](#vérifier-votre-sélection-actuelle)
-    * [Supprimer les documents] (#supprimer-les-documents)
+    * [Supprimer les documents](#supprimer-les-documents)
   * [Vérifier votre historique pour récupérer des documents](#vérifier-votre-historique-pour-récupérer-des-documents)
 * [Fin de votre réunion](#fin-de-votre-réunion)
   * [Partager votre travail](#partagez-votre-travail)
@@ -25,7 +25,7 @@ Cette section met en évidence les actions que vous pouvez réaliser en situatio
 
 ## Début de votre réunion
 
-Votre compositeur Digital UX est lancé, en attendant l'ouverture d'un [univers] (presentation.md#universes). 
+Votre compositeur Digital UX est lancé, en attendant l'ouverture d'un [univers](presentation.md#universes). 
 Trois situations sont disponibles ici : 
 1. Soit vous avez déjà créé un univers qui contient tous vos documents importants qui vous seront utiles lors de votre réunion et vous n'avez jamais travaillé sur cet univers ;
 1. Vous avez un univers, et vous avez déjà sauvegardé des [projets](presentation.md#projects) ;
@@ -41,7 +41,7 @@ Au cours de votre présentation, vous serez confronté à certaines situations o
 
 ### Ouvrir votre document
 
-Au cours de votre présentation, vous devrez probablement travailler sur des documents. Si votre univers comprend des documents, vous pouvez [ouvrir un document] (presentation.md#ouvrir-un-document) en utilisant la zone de dock :
+Au cours de votre présentation, vous devrez probablement travailler sur des documents. Si votre univers comprend des documents, vous pouvez [ouvrir un document](presentation.md#ouvrir-un-document) en utilisant la zone de dock :
 
 1. Si le dock n'est pas visible, appuyez sur la barre de navigation en bas de l'écran. 
 1. Si votre document est déjà à l'écran, il arrivera sous votre doigt.
@@ -58,7 +58,9 @@ Si votre dock est vide, assurez-vous que le dock affiche vos documents de l'univ
 
 L'espace de travail vous permet d'annoter un document, il nécessite d'avoir un crayon reconnu par votre appareil. Il suffit d'utiliser le crayon de votre document. Vous pouvez changer la couleur de l'encre, ainsi que le type d'encre.
 
-![Flux de travail annotater](../../en/img/workflow_annotate1.JPG) Flux de travail annotater](../../en/img/workflow_annotate2.JPG)
+![Annotations](../../en/img/workflow_annotate1.JPG) 
+
+![Annotations](../../en/img/workflow_annotate2.JPG)
 
 1. Appuyez sur le bouton d'action de votre document.
 1. Appuyez sur 'Encre'.
@@ -73,7 +75,7 @@ Avez-vous besoin de papiers vides pour concevoir ? Pas de problème, nous avons 
 Le Compositeur Digital UX vous permet de travailler avec des documents vierges et des notes pour stimuler votre processus de création d'idées.
 Pour ajouter l'un de ces documents à votre projet :
 
-![Flux de travail ajouter des feuilles vierges et des notes](../../en/img/workflow_add_blanksheets_notes.jpg)
+![Ajouter des feuilles vierges et des notes](../../en/img/workflow_add_blanksheets_notes.jpg)
 
 1. Appuyez sur le bouton de menu principal.
 1. Parcourez la zone des documents pour sélectionner le type de document que vous souhaitez ajouter.
@@ -85,11 +87,11 @@ Les feuilles blanches peuvent également être collées sur les documents, à l'
 
 ### Utiliser des modèles 
 
-Les modèles peuvent être très utiles, en fonction du type de réunion (liste de choses à faire, modèles, etc.). Le Compositeur Digital UX prend en charge [édition et création de modèles](../organise_content/supported_content/templates.md)
+Les modèles peuvent être très utiles, en fonction du type de réunion (liste de choses à faire, modèles, etc.). Le Compositeur Digital UX prend en charge [l'édition et la création de modèles](../organise_content/supported_content/templates.md)
 
 Pour ajouter un modèle à votre espace de travail :
 
-![Flux de travail ajouter des feuilles vierges et des notes](../../en/img/workflow_add_blanksheets_notes.jpg)
+![Ajouter des feuilles vierges et des notes](../../en/img/workflow_add_blanksheets_notes.jpg)
 
 1. Appuyez sur le menu du bouton principal.
 1. Parcourez la zone des documents pour sélectionner le modèle que vous souhaitez ajouter.
@@ -112,7 +114,7 @@ Pour ajouter un tableau en liège à votre espace de travail :
 ### Créer une copie de votre document
 
 À un moment donné, vous aurez peut-être besoin de comparer plusieurs versions du même fichier. Pour ce faire, il vous suffit de faire une copie de votre document en utilisant l'action 'Dupliquer'.
-En utilisant votre crayon, vous pouvez [annoter votre document] (#annoter-votre-document) et écrire le numéro de version (par exemple "V1", "V2", etc...).
+En utilisant votre crayon, vous pouvez [annoter votre document](#annoter-votre-document) et écrire le numéro de version (par exemple "V1", "V2", etc...).
 
 > Note : Lorsque votre document est dupliqué, toutes les annotations et les documents qui y sont collés sont également dupliqués.
 
@@ -125,9 +127,9 @@ Utilisez le menu d'action de votre élément, et appuyez sur 'Capture'.
 
 Au cours de votre réunion, vous devrez peut-être ajouter des documents qui ne font pas partie de vos univers. Pour ce faire, vous disposez de deux moyens différents :
 
-#### À partir de votre disque dur
+#### Depuis votre PC
 
-![Flux de travail importer des fichiers](../../en/img/workflow_import.JPG)
+![Importer des fichiers](../../en/img/workflow_import.JPG)
 
 1. Appuyez sur le bouton du menu principal.
 1. Appuyez sur 'Ajouter un document'.
@@ -140,7 +142,7 @@ Au cours de votre réunion, vous devrez peut-être ajouter des documents qui ne 
 
 Vous pouvez importer des images provenant de l'extérieur du Compositeur Digital UX. Il suffit de copier une image dans votre presse-papiers (clic droit, copier).
 
-![Flux de travail coller des images](../../en/img/workflow_paste.jpg)
+![Coller des images](../../en/img/workflow_paste.jpg)
 
 1. Copiez une image dans votre presse-papiers. 
 1. Appuyez sur le bouton du menu principal.
@@ -155,7 +157,7 @@ Lorsque vous avez appliqué des modifications importantes à un document spécif
 
 #### Ajouter un document
 
-![Flux de travail ajouter une sélection](../../en/img/workflow_add_selection.jpg)
+![Ajouter une sélection](../../en/img/workflow_add_selection.jpg)
 
 Pour ajouter un élément à votre sélection :
 1. Appuyez sur le bouton d'action de l'élément (l'élément doit se trouver dans l'espace de travail).
@@ -165,7 +167,7 @@ Pour ajouter un élément à votre sélection :
 
 Tous les objets appartenant à votre sélection peuvent être récupérés dans la zone de dock.
 
-[Flux de travail sélection](../../en/img/workflow_selection.jpg)
+[Sélection](../../en/img/workflow_selection.jpg)
 
 1. Appuyez sur le menu du bouton principal.
 1. Appuyez sur "Sélection" en bas du menu.
@@ -186,7 +188,7 @@ Flux de travail supprimer l'élément de la sélection](../../en/img/workflow_de
 
 ##### Utilisation des gestes de balayage (swipe)
 
-![Flux de travail supprimer le dock de sélection](../../en/img/workflow_delete_selection_dock.jpg)
+![Supprimer le dock de sélection](../../en/img/workflow_delete_selection_dock.jpg)
 
 1. Effectuez un balayage sur l'élément, de haut en bas. L'élément sera retiré.
 
@@ -194,7 +196,7 @@ Flux de travail supprimer l'élément de la sélection](../../en/img/workflow_de
 
 Si vous avez retiré un document de l'espace de travail, gardez à l'esprit que ce document n'est pas perdu ! Il peut être récupéré dans votre historique.
 
-[Flux de travail historique](../../en/img/workflow_history.jpg)
+![Historique](../../en/img/workflow_history.jpg)
 
 1. Appuyez sur le bouton du menu principal.
 1. Appuyez sur 'Historique' en bas du menu.
@@ -202,7 +204,7 @@ Si vous avez retiré un document de l'espace de travail, gardez à l'esprit que 
 
 > Note : vous pouvez supprimer définitivement un document de l'historique. Pour ce faire :
 > 
-> [Flux de travail effacer l'historique](../../en/img/workflow_delete_history.jpg)
+> ![Effacer l'historique](../../en/img/workflow_delete_history.jpg)
 >
 > 1. Effectuez un balayage sur l'élément, de haut en bas. L'élément sera retiré.
 
@@ -222,7 +224,7 @@ Vous devez partager le projet en cours avec vos collègues, ou avec votre client
 
 Vous pouvez envoyer les documents par e-mail, ou enregistrer une copie locale du document sur votre disque dur ou clé usb.
 
-[Flux de travail Partager](../../en/img/workflow_share.jpg)
+![Partager](../../en/img/workflow_share.jpg)
 
 1. Appuyez sur le bouton du menu principal.
 1. Appuyez sur 'Partager'.
