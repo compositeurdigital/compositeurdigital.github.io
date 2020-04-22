@@ -8,19 +8,21 @@ Cette section met en évidence les actions que vous pouvez réaliser en situatio
   * [Ouvrir votre document](#ouvrir-votre-document)
   * [Annoter votre document](#annoter-votre-document)
   * [Utiliser des feuilles blanches et des notes](#utiliser-des-feuilles-blanches-et-des-notes)
-  * [Utiliser des modèles](#utilisez-des-modèles)
-  * [Structurer votre espace de travail avec un tableau en liège](#structurez-votre-espace-de-travail-avec-un-tableau-en-liège)
+  * [Utiliser des modèles](#utiliser-des-modèles)
+  * [Structurer votre espace de travail avec un tableau en liège](#structurer-votre-espace-de-travail-avec-un-tableau-en-liège)
   * [Créer une copie de votre document](#créer-une-copie-de-votre-document)
   * [Importer un document](#importer-un-document)
     * [Depuis votre PC](#depuis-votre-pc)
     * [Coller une image](#coller-une-image)
-  * [Faire votre sélection](#faites-votre-sélection)
+  * [Faire votre sélection](#faire-votre-sélection)
     * [Ajouter un document](#ajouter-un-document)
     * [Vérifier votre sélection actuelle](#vérifier-votre-sélection-actuelle)
-    * [Supprimer les documents](#supprimer-les-documents)
+  * [Supprimer des documents](#supprimer-les-documents)
+    * [Utilisation du menu d'action de l'élément](#utilisation-du-menu-daction-de-lélément)
+    * [Utilisation des gestes de balayage (swipe)](#utilisation-des-gestes-de-balayage-swipe)
   * [Vérifier votre historique pour récupérer des documents](#vérifier-votre-historique-pour-récupérer-des-documents)
 * [Fin de votre réunion](#fin-de-votre-réunion)
-  * [Partager votre travail](#partagez-votre-travail)
+  * [Partager votre travail](#partager-votre-travail)
   * [Fermer le projet](#fermer-le-projet)
 
 ## Début de votre réunion
@@ -243,14 +245,3 @@ Pour quitter un projet :
 [Suivant : Cas d'utilisation : Recommandations](use_cases.md)
 
 [Retour au Guide de l'utilisateur](index.md)
-
-
-
-
-
-
-
-
-
-
-
