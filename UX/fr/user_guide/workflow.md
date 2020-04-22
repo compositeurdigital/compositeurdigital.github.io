@@ -215,7 +215,7 @@ Si vous avez retiré un document de l'espace de travail, gardez à l'esprit que 
 
 Maintenant, votre réunion est terminée, et vous voulez que les personnes avec lesquelles vous avez travaillé partent avec les documents importants que vous avez manipulés ensemble.
 
-### Partager votre travail.
+### Partager votre travail
 
 Vous devez partager le projet en cours avec vos collègues, ou avec votre client, différentes options vous sont proposées : 
 * Vous pouvez partager un seul document.
