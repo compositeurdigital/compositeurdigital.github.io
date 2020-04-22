@@ -142,6 +142,6 @@ Vous pouvez également cacher les trois points de la barre du bas lorsque la bar
 
 Un univers de démonstration est disponible et peut être [téléchargé ici](../../en/organise_content/Demo-Universe.zip). Une fois téléchargé, dézippez le fichier et placez le contenu dans votre dossier `Compositeur Digital UX`. Cet univers de démonstration comprend des exemples pour chaque type de contenu que vous pouvez créer dans le Compositeur Digital UX.
 
-Suivant : [Contenu pris en charge](supported_content/index.md)
+Suivant : [Contenus](supported_content/index.md)
 
 [Retour à Organiser le contenu](index.md)
