@@ -14,8 +14,8 @@ Passez à la vitesse supérieure avec vos présentations en face à face et lib�
 
 ## Résumé
 * [Vocabulaire](#vocabulaire)
-* [Aperçu](#aperçu)
-  * [Exemple](#exemple)
+* [Vue d'ensemble](#vu-d-ensemble)
+  * [Exemples](#exemples)
   * [Univers](#univers)
   * [Projets](#projets)
   * [Espace de travail](#espace-de-travail)
