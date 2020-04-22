@@ -144,4 +144,4 @@ Un univers de démonstration est disponible et peut être [téléchargé ici](..
 
 Suivant : [Contenus](supported_content/index.md)
 
-[Retour à Organiser le contenu](index.md)
+[Retour à Organiser vos contenus](index.md)
