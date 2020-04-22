@@ -169,7 +169,7 @@ Pour ajouter un élément à votre sélection :
 
 Tous les objets appartenant à votre sélection peuvent être récupérés dans la zone de dock.
 
-[Sélection](../../en/img/workflow_selection.jpg)
+![Sélection](../../en/img/workflow_selection.jpg)
 
 1. Appuyez sur le menu du bouton principal.
 1. Appuyez sur "Sélection" en bas du menu.
