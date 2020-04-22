@@ -14,7 +14,7 @@ Passez à la vitesse supérieure avec vos présentations en face à face et lib�
 
 ## Résumé
 * [Vocabulaire](#vocabulaire)
-* [Vue d'ensemble](#vu-d-ensemble)
+* [Vue d'ensemble](#vue-densemble)
   * [Exemples](#exemples)
   * [Univers](#univers)
   * [Projets](#projets)
@@ -38,19 +38,19 @@ Passez à la vitesse supérieure avec vos présentations en face à face et lib�
 ### Exemples
 
 Un univers avec un arrière-plan interactif, parfait pour les appareils en libre-service !
-[Univers 1](../../en/img/pres-univers1.JPG)
+![Univers 1](../../en/img/pres-universe1.JPG)
 
 Contexte bancaire, réunion en face à face.
-[Univers 2](../../en/img/pres-univers2.JPG)
+![Univers 2](../../en/img/pres-universe2.JPG)
 
 Industrie, réunion d'examen des produits.
-[Univers 3](../../en/img/pres-univers3.JPG)
+![Univers 3](../../en/img/pres-universe3.JPG)
 
 ### Univers
 
 La page d'accueil du Compositeur Digital UX présente tous les univers disponibles dans une source donnée. 
 
-Page de démarrage du Compositeur Digital UX - univers](../../en/img/pres_universes.jpg)
+![Page de démarrage du Compositeur Digital UX - univers](../../en/img/pres_universes.jpg)
 
 1. La liste de toutes les sources disponibles. Dans cet exemple, il y a une source locale (`Documents`), trois sources en du cloud, et une source usb.
 1. L'onglet 'Nouveau' affiche tous les univers disponibles dans la source. 
@@ -60,14 +60,14 @@ Page de démarrage du Compositeur Digital UX - univers](../../en/img/pres_univer
 
 
 Vous pouvez démarrer un espace de travail vide en cliquant sur :
-! [Espace de travail vide du Compositeur Digital UX](../../en/img/pres_icon_empty_universe.jpg)
+![Espace de travail vide du Compositeur Digital UX](../../en/img/pres_icon_empty_universe.jpg)
 
 
 ### Projets
 
 En cliquant sur "Ouvrir", vous accédez aux projets sur lesquels vous avez travaillé. Tous les projets que vous avez enregistrés apparaissent ici.
 
-[Page de démarrage du Compositeur Digital UX - projets](../../en/img/pres_projects_sort_by.jpg)
+![Page de démarrage du Compositeur Digital UX - projets](../../en/img/pres_projects_sort_by.jpg)
 
 1. En cliquant sur une vignette de projet, vous ouvrirez le projet exactement comme vous l'avez laissé.
 1. En cliquant sur les trois points, vous verrez apparaître un menu contextuel qui vous permettra de partager, de supprimer ou d'afficher des informations sur votre projet.
@@ -80,7 +80,7 @@ En cliquant sur "Ouvrir", vous accédez aux projets sur lesquels vous avez trava
 Une fois que vous avez décidé sur quel projet ou univers vous voulez travailler, appuyez sur l'icône du projet/univers pour lancer l'espace de travail.
 L'espace de travail est divisé en 3 zones :
 
-! [Page de travail du Compositeur Digital UX](../../en/img/pres_workspace.jpg)
+![Page de travail du Compositeur Digital UX](../../en/img/pres_workspace.jpg)
 
 1. L'espace de travail : un espace collaboratif, pour afficher, manipuler et éditer le contenu.
 1. Un dock pour naviguer et accéder à votre contenu.
@@ -100,7 +100,7 @@ L'espace de travail est divisé en 3 zones :
 1. Dans la vue du dossier, appuyez sur n'importe quel document pour l'afficher.
 1. Votre élément est maintenant affiché dans l'espace de travail.
 
-! [Ouvrir un document](../../en/img/pres_open_document.jpg)
+![Ouvrir un document](../../en/img/pres_open_document.jpg)
 
 #### Manipuler un document
 
@@ -114,7 +114,7 @@ Les gestes suivants sont pris en charge :
 
 Un document peut être fermé en appuyant sur la croix située dans le coin supérieur droit.
 
-[Fermer le document](../../en/img/pres_workspace_close_doc.jpg)
+![Fermer le document](../../en/img/pres_workspace_close_doc.jpg)
 
 Vous pouvez également fermer un document en le déposant sur les bords de votre écran. Si vous appliquez une force suffisante, le document sera retiré de l'espace de travail. 
 
