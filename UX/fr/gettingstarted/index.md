@@ -2,7 +2,7 @@
 
 ## Conditions préalables
 
-1. PC compatible avec le multitouch.
+1. PC compatible avec un écran multitouch. Nous recommendons d'avoir un stylet actif pour un confort d'utilisation optimal.
 1. Windows 10 Creators Update (10.0, Build 15063) ou version ultérieure.
 
 > Comment puis-je savoir quelle version de Windows 10 j'utilise ?
