@@ -6,7 +6,7 @@ Cette section met en évidence les actions que vous pouvez réaliser en situatio
 * [Début de votre réunion](#début-de-votre-réunion)
 * [Pendant votre réunion](#pendant-votre-réunion)
   * [Ouvrir votre document](#ouvrir-votre-document)
-  * [Annoter votre document](#annotez-votre-document)
+  * [Annoter votre document](#annoter-votre-document)
   * [Utiliser des feuilles blanches et des notes](#utiliser-des-feuilles-blanches-et-des-notes)
   * [Utiliser des modèles](#utilisez-des-modèles)
   * [Structurer votre espace de travail avec un tableau en liège](#structurez-votre-espace-de-travail-avec-un-tableau-en-liège)
