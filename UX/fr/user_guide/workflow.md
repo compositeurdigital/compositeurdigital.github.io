@@ -182,7 +182,7 @@ Pour retirer un document de la sélection, vous avez deux possibilités.
 
 ##### Utilisation du menu d'action de l'élément
 
-Flux de travail supprimer l'élément de la sélection](../../en/img/workflow_delete_selection_item.jpg)
+![Supprimer l'élément de la sélection](../../en/img/workflow_delete_selection_item.jpg)
 
 1. (Facultatif si l'élément se trouve déjà dans l'espace de travail) Appuyez sur l'élément dans la sélection pour l'ouvrir. 
 1. 1. Appuyez sur le bouton d'action de l'élément (en bas à droite).
@@ -235,13 +235,13 @@ Vous pouvez envoyer les documents par e-mail, ou enregistrer une copie locale du
 
 ### Fermer le projet
 
-Vos documents ont été partagés, vous pouvez quitter l'espace de travail. Si vous travaillez sur un univers pour la toute première fois, un message vous demandera si vous voulez sauvegarder votre travail. Ensuite, vous retournerez à la page [Univers] (presentation.md#universes)
+Vos documents ont été partagés, vous pouvez quitter l'espace de travail. Si vous travaillez sur un univers pour la toute première fois, un message vous demandera si vous voulez sauvegarder votre travail. Ensuite, vous retournerez à la page [Univers](presentation.md#univers)
 
 Pour quitter un projet :
 1. Appuyez sur le bouton du menu principal.
 1. Appuyez sur 'Enregistrer et quitter'.
 1. (Facultatif) Si vous travaillez sur un projet pour la toute première fois, une invite vous demandera si vous souhaitez enregistrer votre travail. Si ce n'est pas le cas, le projet sera enregistré automatiquement.
 
-[Suivant : Cas d'utilisation : Recommandations](use_cases.md)
+[Suivant : Cas d'utilisation, recommandations](use_cases.md)
 
 [Retour au Guide de l'utilisateur](index.md)
