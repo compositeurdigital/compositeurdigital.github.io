@@ -1,16 +1,16 @@
 # Documentation du Compositeur Digital UX
 
-### [Démarrage](démarrer/index.md)
+### [Démarrage](gettingstarted/index.md)
 Installer et lancer *Compositeur Digital UX*.
 
 ### [Guide de l'utilisateur](user_guide/index.md)
 Découvrez comment interagir avec le *Compositeur Digital UX*.  
 
-### [Organiser le contenu](organise_contenu/index.md)
+### [Organiser le contenu](organise_content/index.md)
 Apprenez comment construire votre propre univers et quel type de contenu vous pouvez utiliser.
 
-* [**Contenu pris en charge**](organise_contenu/supporté_contenu/index.md) : vérifiez tous les contenus disponibles.
-* [**Paramètres avancés**](organis_content/advanced_setting.md) : apprenez à tirer parti des *métadonnées*.
+* [**Contenu pris en charge**](organise_content/supported_content/index.md) : vérifiez tous les contenus disponibles.
+* [**Paramètres avancés**](organise_content/advanced_setting.md) : apprenez à tirer parti des *métadonnées*.
 
 ### [Guide administratif](administrative_guide/index.md)
 Gérez votre *Compositeur Digital UX*
