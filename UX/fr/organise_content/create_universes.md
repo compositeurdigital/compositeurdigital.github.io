@@ -4,7 +4,7 @@ Le Compositeur Digital UX traite les documents stockés dans un endroit spécifi
 
 ## Résumé
 * [Compétences et ressources requises](#Compétences-et-ressources-requises)
-* [Extensions de fichier](#extensions-de-fichiers)
+* [Extensions de fichiers](#extensions-de-fichiers)
 * [Univers](#univers)
 * [Fond](#fond)
 * [Fond interactif](#fond-interactif)
@@ -13,9 +13,9 @@ Le Compositeur Digital UX traite les documents stockés dans un endroit spécifi
 * [Documents](#documents)
 * [Ordre de visualisation du contenu](#ordre-de-visualisation-du-contenu)
 * [Miniatures](#miniatures)
-  *[Miniature dossier ](#miniature-dossier)
+  * [Miniature dossier ](#miniature-dossier)
   * [Miniature document](#miniature-document)
-* [Personnaliser l'espace de travail](#personnaliser l'espace de travail)
+* [Personnaliser l'espace de travail](#personnaliser-lespace-de-travail)
 * [Univers de démonstration](#univers-de-démonstration) 
 
 
@@ -54,7 +54,9 @@ Pour créer votre propre univers, vous pouvez dupliquer un univers existant dans
 
 Vous pouvez personnaliser votre univers en changeant l'image de fond. Pour ce faire, il suffit d'ajouter un fichier image (`.png` ou `.jpg`) nommé `_background` dans le dossier de l'univers.
 
-![Dossier fond de l'univers](../../en/img/universe_background.JPG) ![Universe background Compositeur Digital UX](../../en/img/universe_background_cdux.JPG)
+![Dossier fond de l'univers](../../en/img/universe_background.JPG) 
+
+![Universe background Compositeur Digital UX](../../en/img/universe_background_cdux.JPG)
 
 ### Ratio de manipulation de votre écran
 
@@ -62,7 +64,7 @@ Différents arrière-plans peuvent être définis, adaptés à différents forma
 
 Voici une liste de tous les formats d'écran pris en charge.
 
-| Format| Nom du fond        |
+| Format| Nom du fichier     |
 |:-----:|:------------------:|
 | 3:2   | `_background3_2`   |
 | 4:3   | `_background4_3`   |
@@ -138,7 +140,7 @@ Vous pouvez également cacher les trois points de la barre du bas lorsque la bar
 
 ## Univers de démonstration
 
-Un univers de démonstration est disponible et peut être [téléchargé ici] (Demo-Universe.zip). Une fois téléchargé, dézippez le fichier et placez le contenu dans votre dossier "Compositeur Digital UX". Cet univers de démonstration comprend des exemples pour chaque type de contenu que vous pouvez créer dans le Compositeur Digital UX.
+Un univers de démonstration est disponible et peut être [téléchargé ici](../../en/organise_content/Demo-Universe.zip). Une fois téléchargé, dézippez le fichier et placez le contenu dans votre dossier "Compositeur Digital UX". Cet univers de démonstration comprend des exemples pour chaque type de contenu que vous pouvez créer dans le Compositeur Digital UX.
 
 Suivant : [Contenu pris en charge](supported_content/index.md)
 
