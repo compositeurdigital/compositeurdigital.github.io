@@ -27,10 +27,10 @@ Cette section met en évidence les actions que vous pouvez réaliser en situatio
 
 ## Début de votre réunion
 
-Votre compositeur Digital UX est lancé, en attendant l'ouverture d'un [univers](presentation.md#universes). 
+Votre compositeur Digital UX est lancé, en attendant l'ouverture d'un [univers](presentation.md#univers). 
 Trois situations sont disponibles ici : 
 1. Soit vous avez déjà créé un univers qui contient tous vos documents importants qui vous seront utiles lors de votre réunion et vous n'avez jamais travaillé sur cet univers ;
-1. Vous avez un univers, et vous avez déjà sauvegardé des [projets](presentation.md#projects) ;
+1. Vous avez un univers, et vous avez déjà sauvegardé des [projets](presentation.md#projets) ;
 1. Ou vous avez simplement besoin d'un espace vide pour commencer à parler de vos objectifs de réunion.
 
 En fonction de votre situation, ouvrez votre univers, votre projet ou commencez un espace de travail vide.
