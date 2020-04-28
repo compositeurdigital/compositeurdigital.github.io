@@ -41,9 +41,7 @@ You can create a "hot spot" on a document to open another document when touched.
 
 1. Create a transparent shape on top of the selected hot spot area. The shape should cover entire hot spot area.
 
-**Warning 1 : If the area is the text box. Select the text BOX. Do not not select the TEXT**
-
-**Warning 2 : The color of the shape must be TRANSPARENT. If you are creating a shape that is not filled by any color, the link will not work.** 
+**Warning : If the area is the text box. Select the text BOX. Do not not select the TEXT**
 
 2. Select the shape, and go to INSERT 
 3. Go to HyperLink and define the location of the target document.
