@@ -4,6 +4,12 @@ Ce guide fournit les informations pour l'organisation et la conduite d'un rendez
 
 Vous pouvez utiliser n'importe quelle solution de visio conférence permettant le partage d'écran. La description ci-dessous illustre la procédure avec Microsoft Teams à titre d'exemple. 
 
+
+## Sommaire
+* [Invitation des participants via Teams](#invitation-des-participants-via-teams)
+
+
+
 ## 1. Invitation des participants via Teams
 
 **Utiliser Teams pour initier un rendez-vous** 
