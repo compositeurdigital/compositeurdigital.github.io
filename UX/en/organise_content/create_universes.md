@@ -73,7 +73,7 @@ Using different background files, adapted to different screen ratio allows you t
 
 ## Interactive Background
 
-If you want to have an interactive background, which contains hyperlinks to display your content, it is also possible. Prepare a powerpoint file, with one slide containing your background image. In this slide, do not forget to create [Hot Spots](../supported_content/powerpoint.md#hot-spots) to display your menus, or files. The name of the file should be `_background.pptx`. 
+If you want to have an interactive background, which contains hyperlinks to display your content, it is also possible. Prepare a powerpoint file, with one slide containing your background image. In this slide, do not forget to create [Hot Spots](supported_content/powerpoint.md#hot-spots) to display your menus, or files. The name of the file should be `_background.pptx`. 
 
 ![Interactive background folder](../img/interactive_background.JPG)
 
