@@ -6,10 +6,10 @@ Vous pouvez utiliser n'importe quelle solution de visio conférence permettant l
 
 
 ## Sommaire
-* [Invitation des participants via Teams](#invitation-des-participants-via-teams)
-* [Préparer son environnement pour la réunion](#préparer-son-environnement-pour-la-réunion)
-* [Démarrer la réunion](#démarrer-la-réunion)
-* [Comment animer sa réunion](#comment-animer-sa-réunion)
+* [1.Invitation des participants via Teams](#1.-invitation-des-participants-via-teams)
+* [2.Préparer son environnement pour la réunion](#2.-préparer-son-environnement-pour-la-réunion)
+* [3.Démarrer la réunion](#3.-démarrer-la-réunion)
+* [4.Comment animer sa réunion](#4.-comment-animer-sa-réunion)
 
 
 
