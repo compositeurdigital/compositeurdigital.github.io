@@ -7,6 +7,9 @@ Vous pouvez utiliser n'importe quelle solution de visio conférence permettant l
 
 ## Sommaire
 * [Invitation des participants via Teams](#invitation-des-participants-via-teams)
+* [Préparer son environnement pour la réunion](#préparer-son-environnement-pour-la-réunion)
+* [Démarrer la réunion](#démarrer-la-réunion)
+* [Comment animer sa réunion](#comment-animer-sa-réunion)
 
 
 
