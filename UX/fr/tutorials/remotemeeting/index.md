@@ -103,8 +103,10 @@ Pensez à positionner la fenêtre vidéo de votre client en haut à droite pour 
 **4.1. Gardez à l’esprit que vous ne maitrisez pas la qualité de la connexion, en conséquence :**
 
 * Il faut réaliser des mouvements lents pour tenir compte de l’éventuel décalage sur l’écran de votre client. 
-* Séquencez votre présentation en petits morceaux et confirmez auprès de votre interlocuteur qu’il vous a bien compris.  
-* Touchez avec le doigt sur les zones des documents que vous présentez pour faciliter la compréhension de votre interlocuteur et maintenir son niveau d’attention. Utilisez également le stylet. N’oubliez pas de toucher ou annoter la zone avant de parler pour une meilleure expérience pour votre client. 
+* Séquencez votre présentation en petits morceaux et confirmez régulièrement auprès de votre interlocuteur qu’il vous a bien compris.  
+* Touchez et maintenez au moins 2s avec le doigt sur les zones des documents que vous présentez pour faciliter la compréhension de votre interlocuteur et maintenir son niveau d’attention
+* Utilisez également le stylet. 
+* N’oubliez pas de toucher ou annoter la zone avant de parler pour une meilleure expérience pour votre client. (gestion du décalage et focus client) 
 
 **4.2. Vous ne connaissez pas la configuration matérielle du client, en conséquence :**
 
