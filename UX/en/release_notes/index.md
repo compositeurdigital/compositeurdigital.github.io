@@ -1,6 +1,6 @@
 # Release notes
 
-### 2.1.29 - April 30, 2020
+### 2.1.29 - May 4, 2020
 - French translation for "Install demo contents" on shared  device.
 - Maximise folder
 - Catalog loading speed improved
