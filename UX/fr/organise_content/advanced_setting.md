@@ -30,12 +30,12 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 
 ## Types de valeurs
 
-|Type         | Description                 | Exemples|
-|:------------|:----------------------------|:--------|
-| `texte`     | une chaîne de caractères    | `du texte`, `Mon document` |
-| `nombre`    | un nombre entier ou décimal | `123`, `123.45` |
-| `dimension` | une taille en pixels ou un pourcentage de la visualisation du contenu | `400`, `75%` |
-| `booléen`   | vrai ou faux                | `vrai`/`faux`, `1`/`0` |
+|Type         | Description                          | Exemples|
+|:------------|:-------------------------------------|:--------|
+| `texte`     | une chaîne de caractères             | `du texte`, `Mon document` |
+| `nombre`    | un nombre entier ou décimal          | `123`, `123.45` |
+| `dimension` | taille, en pixels ou un pourcentage, de la visualisation du contenu | `400`, `75%` |
+| `booléen`   | vrai ou faux / actif ou inactif      | `true`/`false`, `1`/`0` |
 | `couleur`   | code couleur hexadécimal ou code rgb | `#AAAAAA`, `#f03b5e`, `112, 12, 67` |
 
 
@@ -52,9 +52,9 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 | `actions.selection.disabled`      | `booléen`    | faux         | cache l'action de sélection. |
 | `actions.selection.location`      | `texte`      | Menu         | définit si l'action de sélection doit se trouver dans le menu de l'élément ou être disponible comme raccourci. |
 | `actions.share.disabled`          | `booléen`    | faux         |  cache l'action partager. |
-| `culture`                         | `texte`      | non définit  | indique la langue utilisée dans l'univers. Les valeurs prises en charge sont "fr" ou "en" |
-| `canStick`                        | `booléen`    |faux          | que l'objet peut être collé comme une note |
-| `canWrite`                        | `booléen`    |faux          | indique que du texte peut être tapé sur cet objet |
+| `culture`                         | `texte`      | non défini   | indique la langue utilisée dans l'univers. Les valeurs prises en charge sont "fr" ou "en" |
+| `canStick`                        | `booléen`    | faux         | que l'objet peut être collé comme une note |
+| `canWrite`                        | `booléen`    | faux         | indique que du texte peut être tapé sur cet objet |
 | `desiredHeight`                   | `dimension`  | 400          | définit la hauteur par défaut du document |
 | `desiredWidth`                    | `dimension`  | 400          | définit la largeur par défaut du document |
 | `isPaper`                         | `booléen`    | faux         | supprime le fond des boutons du document (boutons d'action et de fermeture)|
@@ -64,6 +64,7 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 | `minHeight`                       | `dimension`  | -            | définit la hauteur mimimale |
 | `minWidth`                        | `dimension`  | -            | définit la largeur minimale |
 | `name`                            | `texte`      | nom du fichier | change le nom affiché du document en "nom A" (exemple) |
+| `hidden`                          | `booléen`    | faux         | change le nom affiché du document en "nom A" (exemple) |
 | `noChrome`                        | `booléen`    | faux         |  cache tous les boutons chromés (fermer, menu), et l'ombre sous le document.|
 | `orientation`                     | `nombre`     | 0            | fait pivoter le document : `-90` pour tourner à gauche, `90` pour tourner à droite ou `180` pour retourner le document |
 | `table.noClose`                   | `booléen`    | faux         | empêche la fermeture du document (le bouton de fermeture est désactivé et la projection hors de l'écran ne se ferme pas) |

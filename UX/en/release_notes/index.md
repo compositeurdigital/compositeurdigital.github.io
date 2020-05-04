@@ -1,5 +1,15 @@
 # Release notes
 
+### 2.1.29 - May 4, 2020
+- French translation for "Install demo contents" on shared  device.
+- Maximise folder
+- Catalog loading speed improved
+- Project info in sidebar
+- [FIX] AccessDenied Exception when importing files using OneDrive app on Surface Hub
+- [FIX] Review prompt may cause errors
+- [FIX] Store purchases not recognized
+- [FIX] Error when entering partially-cached universe after updates were made on SharePoint/Teams
+
 ### 2.1.26 - March 11, 2020
 - Webview 'Home' action allows to navigate back for pages without internal navigation
 - Default menu actions can be displayed as shortcuts for one-click capture, selection, share, etc… See [Advanced settings](../organise_content/advanced_setting.html#menu-actions)
