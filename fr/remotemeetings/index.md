@@ -10,7 +10,7 @@ Vous pouvez utiliser n'importe quelle solution de visio conférence permettant l
 
 
 ## Sommaire
-* [1. Invitation des participants à une réunion en ligne Microsoft Teams](#1-Invitation des participants à une réunion en ligne Microsoft Teams)
+* [1. Invitation des participants à une réunion en ligne Microsoft Teams](#1-invitation-des-participants-à-une-réunion-en-ligne-microsoft-teams)
 * [2. Préparer son environnement pour la réunion](#2-préparer-son-environnement-pour-la-réunion)
 * [3. Démarrer la réunion](#3-démarrer-la-réunion)
 * [4. Comment animer sa réunion](#4-comment-animer-sa-réunion)
@@ -22,7 +22,7 @@ Vous pouvez utiliser n'importe quelle solution de visio conférence permettant l
 Plusieurs solutions sont possibles pour inviter votre client à participer à votre réunion en ligne. Vous pouvez utiliser indifféremment l'une des méthodes décrites ci-dessous.
 
 
-**Envoyer une invitation via l'application Outlook **
+**Envoyer une invitation via l'application Outlook**
 
 Créez une invitation depuis votre Calendier à l'horaire souhaité, complétez l'objet, l'adresse mail de votre destinaire et cliquez enfin sur le bouton *Réunion Teams* dans le bandeau supérieur de votre invitation. Cette commande génère le lien vers la réunion en ligne dans le corps de votre invitation. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
 
@@ -36,7 +36,7 @@ Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitati
 
 
 
-** Utiliser Teams pour initier un rendez-vous** 
+**Utiliser Teams pour initier un rendez-vous** 
 
 
 
