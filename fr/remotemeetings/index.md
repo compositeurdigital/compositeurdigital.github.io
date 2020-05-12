@@ -1,19 +1,45 @@
-## Guide Compositeur Digital pour les Rendez-vous à distance
+## Guide Compositeur Digital pour les rendez-vous à distance
 
-Ce guide fournit les informations pour l'organisation et la conduite d'un rendez-vous à distance ainsi qu'une liste de bonnes pratiques pour l'interaction via votre solution de viso. 
+Ce guide fournit les informations pour la préparartion et la conduite d'un rendez-vous à distance efficace avec l'application Compositeur Digital.
+
+## Rappels
+
+Vous clients n'ont pas besoin de disposer de l'application Compositeur Digital et peuvent participer à votre rendez-vous à distance depuis leur navigateur Internet sans application à installer. 
 
 Vous pouvez utiliser n'importe quelle solution de visio conférence permettant le partage d'écran. La description ci-dessous illustre la procédure avec Microsoft Teams à titre d'exemple. 
 
 
 ## Sommaire
-* [1. Invitation des participants via Teams](#1-invitation-des-participants-via-teams)
+* [1. Invitation des participants à une réunion en ligne Microsoft Teams](#1-Invitation des participants à une réunion en ligne Microsoft Teams)
 * [2. Préparer son environnement pour la réunion](#2-préparer-son-environnement-pour-la-réunion)
 * [3. Démarrer la réunion](#3-démarrer-la-réunion)
 * [4. Comment animer sa réunion](#4-comment-animer-sa-réunion)
 
 
 
-## 1. Invitation des participants via Teams
+## 1. Invitation des participants à une réunion en ligne Microsoft Teams
+
+Plusieurs solutions sont possibles pour inviter votre client à participer à votre réunion en ligne. Vous pouvez utiliser indifféremment l'une des méthodes décrites ci-dessous.
+
+
+**Envoyer une invitation via l'application Outlook **
+
+Créez une invitation depuis votre Calendier à l'horaire souhaité, complétez l'objet, l'adresse mail de votre destinaire et cliquez enfin sur le bouton *Réunion Teams* dans le bandeau supérieur de votre invitation. Cette commande génère le lien vers la réunion en ligne dans le corps de votre invitation. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
+
+Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion  
+
+Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour plus de clarété de vos clients : 
+
+*"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. lorsque que votre navigateur s'ouvre choissez l'option "Rejoindre avec mon navigateur"*   
+
+
+
+
+
+** Utiliser Teams pour initier un rendez-vous** 
+
+
+
 
 **Utiliser Teams pour initier un rendez-vous** 
 
