@@ -78,9 +78,10 @@ Pour améliorer la lecture des documents, nous vous conseillons fortement de dé
 
 Lancez le Compositeur et réalisez les opérations suivantes :
 
-![univers_cdux](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/univers_cdux.jpg)
+![home page Compositeur Digital](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/home.JPG)
 
-Vous pouvez toujours la réactiver en cours de présentation. 
+![paramètres Compositeur Digital](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/settings.JPG)
+
 
 ## 3. Démarrer la réunion
 
@@ -92,9 +93,9 @@ Si vos correspondants ne disposent pas de l'application Teams, indiquez leur bie
 
 **3.2. Partagez le Compositeur Digital avec les participants**
 
-Tout d'abord, passez le Compositeur Digital en mode fenêtré. Cliquez sur l'icône ci-dessous en approchant votre souris sur le coin en haut à droite :
+Tout d'abord, passez le Compositeur Digital en mode fenêtré. Appuyez sur la touche F11, puis cliquez sur l'icône ci-dessous en approchant votre souris sur le coin en haut à droite :
 
-![mode_fenetre](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/mode_fenetre.jpg)
+![mode_fenetre](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/mode_fenetre.JPG)
 
 **3.3. Partagez la fenêtre du Compositeur Digital via Teams**
 
@@ -144,20 +145,18 @@ Pensez à positionner la fenêtre vidéo de votre client en haut à droite pour 
 
 **4.4. Utilisez les fonctions Compositeur Digital pour conserver l’efficacité de votre réunion :**
 
-* Il vous manque un document ? -> Utilisez la fonction « import » :
-
-![import](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/import1.jpg)
-
 * Vous devez naviguer dans un document de plusieurs pages -> Utilisez le mode diapo :
 
-![diapo](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/diapo.jpg)
+![diapo](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/diapo.JPG)
 
 **4.5. A la fin de la réunion**
 
 * Ajoutez les documents que vous souhaitez partager à la sélection :
 
-![selection](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/selection.jpg)
+![selection](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/selection.JPG)
 
 * Partagez un compte rendu visuel :
 
-![compterendu](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/compterendu.jpg)
+![compterendu](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/share1.JPG)
+
+![compterendu2](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/share2.JPG)
