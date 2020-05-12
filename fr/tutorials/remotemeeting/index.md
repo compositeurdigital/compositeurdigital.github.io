@@ -75,19 +75,21 @@ Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitati
 
 Nous vous recommandons de réaliser ces étapes avant le démarrage de la réunion. 
 
-**2.1. Activer le retour tactile visuel**
+**2.1. Activer le retour tactile visuel sur votre ordinateur**
 
-Le retour t'Activez le retour tactile visuel sur votre PC pour permettre à vos interlocuteurs de voir ce que vous manipuler. 
+Lorsqu'un document est affiché à l'écran, il est possible d'afficher une petite pastille grise pour matérialiser la zone sur laquelle votre client doit se concenter. Cette méthode améliore grandement la lisibilité pour vos clients. Lorsque ce paramètre est activé, cette pastille s'affiche à chaque contact de votre doigt sur l'écran. 
 
 <<< VISUEL>>> 
-Lorsque ce paramètre de Windows est activé, vos interlocuteurs pourront voir une pastille grise à l'écran correspondant aux points de contact de votre doigt sur votre écran. Cela améliore grandement la lisibilité pour vos clients. 
 
-Pour cela, tapez sur la Touche Windows de votre clavier ![windows](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/touchewindowsV2.jpg) et tapez le mot "retour". 
+
+Pour activer ce paramètre , cliquer sur le Menu Windows et tapez le mot "retour" sur votre clavier 
+<<< VISUEL 1-2>>> 
+
 Cliquez ensuite sur le premier résultat « *Afficher le retour tactile visuel quand vous touchez l’écran* » :
 
 ![retour_tactile](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/retour_tactile.jpg)
 
-Activez les 2 paramètres tels que décrits ci-dessous :
+Activez les 2 paramètres tels que décrits ci-dessous et fermez cette fenêtre. 
 
 ![parametres](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/parametres.jpg)
 
@@ -95,38 +97,50 @@ NOTE : Cette opération est faite une fois pour toute. Nous vous conseillons de 
 
 **2.2. Désactiver la rotation des documents dans le Compositeur Digital**
 
-Pour améliorer la lecture des documents, nous vous conseillons fortement de désactiver la rotation des documents. 
+Pour une meilleure expérience client, nous vous conseillons fortement de désactiver la rotation des documents. Vos documents restont ainsi l'horizontal. 
 
-Lancez le Compositeur et réalisez les opérations suivantes :
+Pour cela, lancez le Compositeur Digial et réalisez les opérations suivantes :
 
-![home page Compositeur Digital](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/home.JPG)
+<<< VISUEL 1-2>>> 
 
-![paramètres Compositeur Digital](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/settings.JPG)
-
+NOTE: Vous pouvez à tout moment, réactiver la rotation des documents en cours de présentation en répetant cette opération. 
 
 ## 3. Démarrer la réunion
 
-**3.1. Pour rappel**
+**3.1. Rappel  **
 
-Si vos correspondants ne disposent pas de l'application Teams, indiquez leur bien d'utiliser la fonction " *Rejoindre dans Edge* " lorsqu’ils cliqueront sur le lien. 
+Si vos correspondants ne disposent pas de l'application Microsoft Teams, ils pourront toutefois participer à la réunion en ligne en cliquant sur " *Rejoindre avec mon navigateur* " après avoir cliqué sur le lien présenta dans l'invitation. 
 
 ![rejoindre_dans_edge](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/rejoindre_dans_edge.jpg)
 
-**3.2. Partagez le Compositeur Digital avec les participants**
+**3.1 Rejoindre la réunion** 
 
-Tout d'abord, passez le Compositeur Digital en mode fenêtré. Appuyez sur la touche F11, puis cliquez sur l'icône ci-dessous en approchant votre souris sur le coin en haut à droite :
+Ouvrez votre calendier Outlook et cliquez sur le lien de la réunion. Ce lien déclenche automatiquement l'application Teams. 
 
-![mode_fenetre](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/mode_fenetre.JPG)
+**3.2. Lancez le Compositeur Digital **
 
-**3.3. Partagez la fenêtre du Compositeur Digital via Teams**
+Lancez le Compositeur Digital et passez en mode fenêtré en cliquant sur les touche Fn+F11 sur votre clavier. Cliquez ensuite sur l'icone suivant : 
+<<< VISUEL>>> 
 
-Cliquez sur le bouton « Partager votre écran » dans la barre centrale de Teams :
+**3.3. Partagez votre écran via Teams**
+
+Revenez dans l'application Teams, et cliquez sur le bouton « Partager votre écran » dans la barre centrale de Teams :
 
 ![touchepartage](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/touchepartage.jpg)
 
-Puis sélectionnez la fenêtre Compositeur Digital :
+Attention, n'oubliez pas de sélectionner l'icône *Ecran no 1*  tout à gauche  :
 
-![fenetre_cdux](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/fenetre_cdux.jpg)
+<<< VISUEL>>> 
+
+**3.4. Repositionnez la fenêtre vidéo de votre client**
+
+Revenz dans l'application Teams, et cliquez sur le bouton « Partager votre écran » dans la barre centrale de Teams :
+
+![touchepartage](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/touchepartage.jpg)
+
+Attention, n'oubliez pas de sélectionner l'icône *Ecran no 1*  tout à gauche  :
+
+<<< VISUEL>>> 
 
 **3.4. Proposez à votre client de passer sa fenêtre en mode plein écran pour que rien ne vienne masquer la fenêtre du Compositeur Digital**
 
@@ -166,18 +180,20 @@ Pensez à positionner la fenêtre vidéo de votre client en haut à droite pour 
 
 **4.4. Utilisez les fonctions Compositeur Digital pour conserver l’efficacité de votre réunion :**
 
+* Il vous manque un document ? -> Utilisez la fonction « import » :
+
+![import](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/import1.jpg)
+
 * Vous devez naviguer dans un document de plusieurs pages -> Utilisez le mode diapo :
 
-![diapo](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/diapos.JPG)
+![diapo](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/diapos.jpg)
 
 **4.5. A la fin de la réunion**
 
 * Ajoutez les documents que vous souhaitez partager à la sélection :
 
-![selection](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/selection.JPG)
+![selection](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/selection.jpg)
 
 * Partagez un compte rendu visuel :
 
-![compterendu](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/share1.JPG)
-
-![compterendu2](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/share2.JPG)
+![compterendu](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/compterendu.jpg)
