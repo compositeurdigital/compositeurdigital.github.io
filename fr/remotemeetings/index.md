@@ -8,6 +8,8 @@ Vous clients n'ont pas besoin de disposer de l'application Compositeur Digital e
 
 Vous pouvez utiliser n'importe quelle solution de visio conférence permettant le partage d'écran. La description ci-dessous illustre la procédure avec Microsoft Teams à titre d'exemple. 
 
+**De son côté, le client recevra un lien lui permettant d'accéder à la réunion, même s'il ne dispose pas de l'application Microsoft Teams, qu'il soit sur PC ou sur Mac.**
+
 
 ## Sommaire
 * [1. Invitation des participants à une réunion en ligne Microsoft Teams](#1-invitation-des-participants-à-une-réunion-en-ligne-microsoft-teams)
@@ -24,44 +26,61 @@ Plusieurs solutions sont possibles pour inviter votre client à participer à vo
 
 **Envoyer une invitation via l'application Outlook**
 
-Créez une invitation depuis votre Calendier à l'horaire souhaité, complétez l'objet, l'adresse mail de votre destinaire et cliquez enfin sur le bouton *Réunion Teams* dans le bandeau supérieur de votre invitation. Cette commande génère le lien vers la réunion en ligne dans le corps de votre invitation. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
+Créez une invitation depuis votre Calendier à l'horaire souhaité, complétez l'objet, l'adresse mail de votre destinaire et cliquez enfin sur le bouton *Réunion Teams* dans le bandeau supérieur de votre invitation. Cette commande créé le lien de la réunion en ligne dans le corps de votre invitation. Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
 
-Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion  
+Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour guider vos clients vers un accès simplifié à la réunion: 
+<<<<<<<<<<VISUEL>>>>>>>>
+  
+*"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. lorsque que votre navigateur s'ouvre choissez l'option "Rejoindre avec mon navigateur"*
 
-Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour plus de clarété de vos clients : 
+*N'hésitez pas vous connecter 5 minutes avant le début de l'heure indiquée*
 
-*"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. lorsque que votre navigateur s'ouvre choissez l'option "Rejoindre avec mon navigateur"*   
+*Pour réaliser cette présentation dans les meilleures conditions, nous vous recommandons de vous connecter depuis votre ordinateur" 
+
+**Envoyer une invitation via Outlook depuis votre navigateur**
+
+Connectez vous à votre messagerie Outlook en ligne. Créez une invitation depuis votre Calendier à l'horaire souhaité, complétez l'objet, l'adresse mail de votre destinaire et cliquez enfin sur le bouton *Réunion Teams* de votre invitation. Cette commande créé le lien de la réunion en ligne dans le corps de votre invitation. Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
+
+Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour guider vos clients vers un accès simplifié à la réunion: 
+<<<<<<<<<<VISUEL>>>>>>>>
+  
+*"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. lorsque que votre navigateur s'ouvre choissez l'option "Rejoindre avec mon navigateur"*
+
+*N'hésitez pas vous connecter 5 minutes avant le début de l'heure indiquée*
+
+*Pour réaliser cette présentation dans les meilleures conditions, nous vous recommandons de vous connecter depuis votre ordinateur" 
 
 
+**Envoyer une invitation via l'application Microsoft Teams ** 
 
+Depuis l’application Teams, ouvrez la vue calendrier, saisissez les informations du rendez-vous et diffusez l’invitation. Le lien d'acccès à la réunion en ligne est automatiquement généré lors de l'envoi. 
 
+Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
 
-**Utiliser Teams pour initier un rendez-vous** 
-
-
-
-
-**Utiliser Teams pour initier un rendez-vous** 
-
-1.1. Depuis l’application Teams, ouvrez la vue calendrier, saisissez les informations du rendez-vous et diffusez l’invitation.
 
 ![calendrier](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/calendrier.jpg)
 
-**De son côté, le client recevra un lien lui permettant d'accéder à la réunion, même s'il ne dispose pas de l'application Teams, qu'il soit sur PC ou mac.**
+Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour guider vos clients vers un accès simplifié à la réunion: 
+<<<<<<<<<<VISUEL>>>>>>>>
+  
+*"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. lorsque que votre navigateur s'ouvre choissez l'option "Rejoindre avec mon navigateur"*
 
-Si vos correspondants ne disposent pas de l'application Teams, indiquez leur bien d'utiliser la fonction " *Rejoindre dans Edge* " lorsqu’ils cliqueront sur le lien.
+*N'hésitez pas vous connecter 5 minutes avant le début de l'heure indiquée*
+
+*Pour réaliser cette présentation dans les meilleures conditions, nous vous recommandons de vous connecter depuis votre ordinateur" 
 
 ![rejoindre_dans_edge](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/rejoindre_dans_edge.jpg)
 
 ## 2. Préparer son environnement pour la réunion
 
-Nous recommandons de réaliser ces étapes avant le démarrage de la réunion. 
+Nous vous recommandons de réaliser ces étapes avant le démarrage de la réunion. 
 
-**2.1. Retour tactile visuel**
+**2.1. Activer le retour tactile visuel**
 
-Activez le retour tactile visuel sur votre PC pour permettre à vos interlocuteurs de voir ce que vous manipuler. 
+Le retour t'Activez le retour tactile visuel sur votre PC pour permettre à vos interlocuteurs de voir ce que vous manipuler. 
 
-Lorsque ce paramètre de Windows est activé, vos interlocuteurs pourront voir une pastille grise à l'écran correspondant aux points de contact sur votre écran. Cela améliore grandement la lisibilité. 
+<<< VISUEL>>> 
+Lorsque ce paramètre de Windows est activé, vos interlocuteurs pourront voir une pastille grise à l'écran correspondant aux points de contact de votre doigt sur votre écran. Cela améliore grandement la lisibilité pour vos clients. 
 
 Pour cela, tapez sur la Touche Windows de votre clavier ![windows](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/touchewindowsV2.jpg) et tapez le mot "retour". 
 Cliquez ensuite sur le premier résultat « *Afficher le retour tactile visuel quand vous touchez l’écran* » :
@@ -71,6 +90,8 @@ Cliquez ensuite sur le premier résultat « *Afficher le retour tactile visuel q
 Activez les 2 paramètres tels que décrits ci-dessous :
 
 ![parametres](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/parametres.jpg)
+
+NOTE : Cette opération est faite une fois pour toute. Nous vous conseillons de laisser ces paramètres activés. 
 
 **2.2. Désactiver la rotation des documents dans le Compositeur Digital**
 
