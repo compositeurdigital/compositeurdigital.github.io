@@ -168,7 +168,7 @@ Pensez à positionner la fenêtre vidéo de votre client en haut à droite pour 
 
 * Vous devez naviguer dans un document de plusieurs pages -> Utilisez le mode diapo :
 
-![diapo](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/diapo.JPG)
+![diapo](http://compositeurdigital.github.io/fr/tutorials/remotemeeting/img/diapos.JPG)
 
 **4.5. A la fin de la réunion**
 
