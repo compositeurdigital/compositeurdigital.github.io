@@ -1,6 +1,6 @@
 ## Guide Compositeur Digital pour les rendez-vous à distance
 
-Ce guide fournit les informations pour la préparartion et la conduite d'un rendez-vous à distance efficace avec l'application Compositeur Digital.
+Ce guide fournit les informations pour la préparation et la conduite d'un rendez-vous à distance efficace avec l'application Compositeur Digital.
 
 ## Rappels
 
@@ -26,12 +26,12 @@ Plusieurs solutions sont possibles pour inviter votre client à participer à vo
 
 **Envoyer une invitation via l'application Outlook**
 
-Créez une invitation depuis votre Calendier à l'horaire souhaité, complétez l'objet, l'adresse mail de votre destinaire et cliquez enfin sur le bouton *Réunion Teams* dans le bandeau supérieur de votre invitation. Cette commande créé le lien de la réunion en ligne dans le corps de votre invitation. Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
+Créez une invitation depuis votre Calendrier à l'horaire souhaité, complétez l'objet, l'adresse mail de votre destinataire et cliquez enfin sur le bouton *Réunion Teams* dans le bandeau supérieur de votre invitation. Cette commande créé le lien de la réunion en ligne dans le corps de votre invitation. Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
 
 Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour guider vos clients vers un accès simplifié à la réunion: 
 <<<<<<<<<<VISUEL>>>>>>>>
   
-*"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. lorsque que votre navigateur s'ouvre choissez l'option "Rejoindre avec mon navigateur"*
+*"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. lorsque que votre navigateur s'ouvre choisissez l'option "Rejoindre avec mon navigateur"*
 
 *N'hésitez pas vous connecter 5 minutes avant le début de l'heure indiquée*
 
@@ -39,12 +39,12 @@ Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitati
 
 **Envoyer une invitation via Outlook depuis votre navigateur**
 
-Connectez vous à votre messagerie Outlook en ligne. Créez une invitation depuis votre Calendier à l'horaire souhaité, complétez l'objet, l'adresse mail de votre destinaire et cliquez enfin sur le bouton *Réunion Teams* de votre invitation. Cette commande créé le lien de la réunion en ligne dans le corps de votre invitation. Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
+Connectez-vous à votre messagerie Outlook en ligne. Créez une invitation depuis votre Calendrier à l'horaire souhaité, complétez l'objet, l'adresse mail de votre destinataire et cliquez enfin sur le bouton *Réunion Teams* de votre invitation. Cette commande créé le lien de la réunion en ligne dans le corps de votre invitation. Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
 
 Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour guider vos clients vers un accès simplifié à la réunion: 
 <<<<<<<<<<VISUEL>>>>>>>>
   
-*"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. lorsque que votre navigateur s'ouvre choissez l'option "Rejoindre avec mon navigateur"*
+*"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. lorsque que votre navigateur s'ouvre choisissez l'option "Rejoindre avec mon navigateur"*
 
 *N'hésitez pas vous connecter 5 minutes avant le début de l'heure indiquée*
 
@@ -53,7 +53,7 @@ Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitati
 
 **Envoyer une invitation via l'application Microsoft Teams ** 
 
-Depuis l’application Teams, ouvrez la vue calendrier, saisissez les informations du rendez-vous et diffusez l’invitation. Le lien d'acccès à la réunion en ligne est automatiquement généré lors de l'envoi. 
+Depuis l’application Teams, ouvrez la vue calendrier, saisissez les informations du rendez-vous et diffusez l’invitation. Le lien d'accès à la réunion en ligne est automatiquement généré lors de l'envoi. 
 
 Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
 
@@ -63,7 +63,7 @@ Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la ré
 Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour guider vos clients vers un accès simplifié à la réunion: 
 <<<<<<<<<<VISUEL>>>>>>>>
   
-*"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. lorsque que votre navigateur s'ouvre choissez l'option "Rejoindre avec mon navigateur"*
+*"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. Lorsque que votre navigateur s'ouvre choissez l'option "Rejoindre avec mon navigateur"*
 
 *N'hésitez pas vous connecter 5 minutes avant le début de l'heure indiquée*
 
@@ -77,7 +77,7 @@ Nous vous recommandons de réaliser ces étapes avant le démarrage de la réuni
 
 **2.1. Activer le retour tactile visuel sur votre ordinateur**
 
-Lorsqu'un document est affiché à l'écran, il est possible d'afficher une petite pastille grise pour matérialiser la zone sur laquelle votre client doit se concenter. Cette méthode améliore grandement la lisibilité pour vos clients. Lorsque ce paramètre est activé, cette pastille s'affiche à chaque contact de votre doigt sur l'écran. 
+Lorsqu'un document est affiché à l'écran, il est possible d'afficher une petite pastille grise pour matérialiser la zone sur laquelle votre client doit se concentrer. Cette méthode améliore grandement la lisibilité pour vos clients. Lorsque ce paramètre est activé, cette pastille s'affiche à chaque contact de votre doigt sur l'écran. 
 
 <<< VISUEL>>> 
 
@@ -97,13 +97,13 @@ NOTE : Cette opération est faite une fois pour toute. Nous vous conseillons de 
 
 **2.2. Désactiver la rotation des documents dans le Compositeur Digital**
 
-Pour une meilleure expérience client, nous vous conseillons fortement de désactiver la rotation des documents. Vos documents restont ainsi l'horizontal. 
+Pour une meilleure expérience client, nous vous conseillons fortement de désactiver la rotation des documents. Vos documents resteront ainsi l'horizontal. 
 
-Pour cela, lancez le Compositeur Digial et réalisez les opérations suivantes :
+Pour cela, lancez le Compositeur Digital et réalisez les opérations suivantes :
 
 <<< VISUEL 1-2>>> 
 
-NOTE: Vous pouvez à tout moment, réactiver la rotation des documents en cours de présentation en répetant cette opération. 
+NOTE: Vous pouvez à tout moment, réactiver la rotation des documents en cours de présentation en répétant cette opération. 
 
 ## 3. Démarrer la réunion
 
@@ -115,12 +115,13 @@ Si vos correspondants ne disposent pas de l'application Microsoft Teams, ils pou
 
 **3.1 Rejoindre la réunion** 
 
-Ouvrez votre calendier Outlook et cliquez sur le lien de la réunion. Ce lien déclenche automatiquement l'application Teams. 
+Ouvrez votre calendrier Outlook et cliquez sur le lien de la réunion. Ce lien déclenche automatiquement l'application Teams. 
 
 **3.2. Lancez le Compositeur Digital **
 
-Lancez le Compositeur Digital et passez en mode fenêtré en cliquant sur les touche Fn+F11 sur votre clavier. Cliquez ensuite sur l'icone suivant en haut à droite de la fenêtre
+Lancez le Compositeur Digital et passez en mode fenêtré en cliquant sur les touches Fn+F11 sur votre clavier. Cliquez ensuite sur l'icône suivant en haut à droite de la fenêtre
 <<< VISUEL>>> 
+
 
 **3.3. Partagez votre écran via Teams**
 
@@ -134,32 +135,33 @@ Attention, n'oubliez pas de sélectionner l'icône *Ecran no 1*  tout à gauche 
 
 **3.4. Repositionnez la fenêtre vidéo de votre client**
 
-Pour un meilleur confort de présentation, positionnez la vidéo de votre client en haut à droite en saissant la fenêtre vidéo Teams par la barre de titre en la glissant dans la position souhaitée. 
+Pour un meilleur confort de présentation, positionnez la vidéo de votre client en haut à droite en saisissant la fenêtre vidéo Teams par la barre de titre en la glissant dans la position souhaitée. 
 
 <<< VISUEL>>> 
 
 
 ## 4. Comment animer efficacement sa réunion
 
-Dans un rendez-vous client à distance, vous ne maitrisez par la qualité de la connexion en conséquence il est possible qu'un décalage apparaisse entre le moment ou vous parlez ou manipuler un document et ce que le client perçoit effectivement. Vous trouverez ci-dessous les bonnes pratiques vous permettant de palier à ces phénomènes pour des rendez-vous parfatiement efficaces. 
+Dans un rendez-vous client à distance, vous ne maitrisez par la qualité de la connexion en conséquence il est possible qu'un décalage apparaisse entre le moment ou vous parlez ou manipuler un document et ce que le client perçoit effectivement. Vous trouverez ci-dessous les bonnes pratiques vous permettant de palier à ces phénomènes pour des rendez-vous parfaitement efficaces. 
 
 **4.1 Animation**
 
-* A chaque fois que vous affichez un document à l'écran, demandez à votre interlocuteur, si l'affichage est comfortable pour lui. N'oubliez pas de d'aggrandir vos document un peu plus que pour un rendez-vous en face à face pour palier à perte de qualité due à la visio. 
+* A chaque fois que vous affichez un document à l'écran, demandez à votre interlocuteur, si l'affichage est confortable pour lui. N'oubliez pas de d'agrandir vos documents un peu plus que lors d'un rendez-vous en face à face pour palier à perte de qualité due à la visio. 
 
 **4.2 Présentation **
 
-* Réalisez des mouvements lents et parlez lentement pour tenir compte de l’éventuel décalage sur l’écran de votre client. Ne faites pas de monologue. Préférez des courtes séquences suivi d'une confirmation de reception de votre client. 
+* Réalisez des mouvements lents et parlez lentement pour tenir compte de l’éventuel décalage sur l’écran de votre client. Ne faites pas de monologue. Préférez de courtes séquences suivies d'une confirmation de réception de votre client. 
 * Lorsque vous présenter une carte, un plan, il faut IMPERATIEMENT toucher et maintenir au moins 2s avec le doigt sur les zones des documents que vous présentez pour faciliter la compréhension de votre interlocuteur et maintenir son niveau d’attention. Touchez l'écran avant de parler. 
-* Utilisez également le stylet pour entourer du texte (superficie) ou dessiner un parcours. Pour rappel, votre stylet est immédiatement opérationnel. Il n'est pas nécessaire de passer un menu. Ecrivez directement sur vos document et retournez votre stylet pour gommer. 
+* Utilisez également le stylet pour entourer du texte (superficie) ou dessiner un parcours. Pour rappel, votre stylet est immédiatement opérationnel. Il n'est pas nécessaire de passer un menu. Écrivez directement sur vos documents et retournez votre stylet pour gommer. 
 * Organisez votre espace de présentation avec 2 documents max à l’écran car vous ne connaissez par la taille de l’écran de votre interlocuteur
 
-**4.3. Gestion du temps:**
+**4.3. Gestion du temps**
 
-Le temps efficace de réunion est beaucoup moins important que dans une réunion en physique. La mise en place technique, les eventuelles pertes de connexion, l'adaption au rythme de présentation diminuent la durée des réelle des échanges 
+Le temps efficace de réunion est beaucoup moins important que dans une réunion en physique. La mise en place technique, les éventuelles pertes de connexion, l'adaptation au rythme de présentation diminuent la durée des réelle des échanges 
 
 * Dites-vous qu'il faut compter 45 min effectifs pour un rendez-vous d'une heure 
-* Pensez à avoir un ordre du jour priorisé et à maîtriser le temps sur chaque partie (découverte, présentation, questions..) 
+* Pensez à avoir un ordre du jour priorisé et à maîtriser le temps sur chaque partie (découverte, présentation, questions...) 
+
 
 **4.5. A la fin de la réunion**
 
