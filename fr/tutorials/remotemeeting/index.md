@@ -4,11 +4,9 @@ Ce guide fournit les informations pour la préparation et la conduite d'un rende
 
 ## Rappels
 
-Vous clients n'ont pas besoin de disposer de l'application Compositeur Digital et peuvent participer à votre rendez-vous à distance depuis leur navigateur Internet sans application à installer. 
+**Il n'est pas nécessaire que vos clients disposent de l'application Compositeur Digital ni de l'application Microsoft Teams. Ils peuvent participer à votre rendez-vous à distance depuis leur navigateur Internet sans application à installer, qu'il soit sur PC ou sur Mac.**
 
-Vous pouvez utiliser n'importe quelle solution de visio conférence permettant le partage d'écran. La description ci-dessous illustre la procédure avec Microsoft Teams à titre d'exemple. 
-
-**De son côté, le client recevra un lien lui permettant d'accéder à la réunion, même s'il ne dispose pas de l'application Microsoft Teams, qu'il soit sur PC ou sur Mac.**
+Vous pouvez utiliser n'importe quelle solution de visioconférence permettant le partage d'écran. La description ci-dessous illustre la procédure avec Microsoft Teams à titre d'exemple. 
 
 
 ## Sommaire
