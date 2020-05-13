@@ -119,7 +119,7 @@ Ouvrez votre calendier Outlook et cliquez sur le lien de la réunion. Ce lien d�
 
 **3.2. Lancez le Compositeur Digital **
 
-Lancez le Compositeur Digital et passez en mode fenêtré en cliquant sur les touche Fn+F11 sur votre clavier. Cliquez ensuite sur l'icone suivant : 
+Lancez le Compositeur Digital et passez en mode fenêtré en cliquant sur les touche Fn+F11 sur votre clavier. Cliquez ensuite sur l'icone suivant en haut à droite de la fenêtre
 <<< VISUEL>>> 
 
 **3.3. Partagez votre écran via Teams**
@@ -134,66 +134,39 @@ Attention, n'oubliez pas de sélectionner l'icône *Ecran no 1*  tout à gauche 
 
 **3.4. Repositionnez la fenêtre vidéo de votre client**
 
-Revenz dans l'application Teams, et cliquez sur le bouton « Partager votre écran » dans la barre centrale de Teams :
-
-![touchepartage](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/touchepartage.jpg)
-
-Attention, n'oubliez pas de sélectionner l'icône *Ecran no 1*  tout à gauche  :
+Pour un meilleur confort de présentation, positionnez la vidéo de votre client en haut à droite en saissant la fenêtre vidéo Teams par la barre de titre en la glissant dans la position souhaitée. 
 
 <<< VISUEL>>> 
 
-**3.4. Proposez à votre client de passer sa fenêtre en mode plein écran pour que rien ne vienne masquer la fenêtre du Compositeur Digital**
 
-Voici ce que voit votre client avec Teams Desktop ou Web :
+## 4. Comment animer efficacement sa réunion
 
-* En mode fenêtré :
+Dans un rendez-vous client à distance, vous ne maitrisez par la qualité de la connexion en conséquence il est possible qu'un décalage apparaisse entre le moment ou vous parlez ou manipuler un document et ce que le client perçoit effectivement. Vous trouverez ci-dessous les bonnes pratiques vous permettant de palier à ces phénomènes pour des rendez-vous parfatiement efficaces. 
 
-![mode_fenetre_client](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/mode_fenetre_client.jpg)
+**4.1 Animation**
 
-* En mode plein écran :
+* A chaque fois que vous affichez un document à l'écran, demandez à votre interlocuteur, si l'affichage est comfortable pour lui. N'oubliez pas de d'aggrandir vos document un peu plus que pour un rendez-vous en face à face pour palier à perte de qualité due à la visio. 
 
-![mode_pleinecran_client](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/mode_pleinecran_client.jpg)
+**4.2 Présentation **
 
-Pour activer le mode plein écran, le client devra cliquer sur les " ... " puis " Passer en mode plein écran ".
+* Réalisez des mouvements lents et parlez lentement pour tenir compte de l’éventuel décalage sur l’écran de votre client. Ne faites pas de monologue. Préférez des courtes séquences suivi d'une confirmation de reception de votre client. 
+* Lorsque vous présenter une carte, un plan, il faut IMPERATIEMENT toucher et maintenir au moins 2s avec le doigt sur les zones des documents que vous présentez pour faciliter la compréhension de votre interlocuteur et maintenir son niveau d’attention. Touchez l'écran avant de parler. 
+* Utilisez également le stylet pour entourer du texte (superficie) ou dessiner un parcours. Pour rappel, votre stylet est immédiatement opérationnel. Il n'est pas nécessaire de passer un menu. Ecrivez directement sur vos document et retournez votre stylet pour gommer. 
+* Organisez votre espace de présentation avec 2 documents max à l’écran car vous ne connaissez par la taille de l’écran de votre interlocuteur
 
-![passer_pleinecran](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/passer_pleinecran.jpg)
+**4.3. Gestion du temps:**
 
-Pensez à positionner la fenêtre vidéo de votre client en haut à droite pour une bonne expérience.
+Le temps efficace de réunion est beaucoup moins important que dans une réunion en physique. La mise en place technique, les eventuelles pertes de connexion, l'adaption au rythme de présentation diminuent la durée des réelle des échanges 
 
-## 4. Comment animer sa réunion
-
-**4.1. Gardez à l’esprit que vous ne maitrisez pas la qualité de la connexion, en conséquence :**
-
-* Il faut réaliser des mouvements lents pour tenir compte de l’éventuel décalage sur l’écran de votre client. 
-* Séquencez votre présentation en petits morceaux et confirmez régulièrement auprès de votre interlocuteur qu’il vous a bien compris.  
-* Touchez et maintenez au moins 2s avec le doigt sur les zones des documents que vous présentez pour faciliter la compréhension de votre interlocuteur et maintenir son niveau d’attention
-* Utilisez également le stylet. 
-* N’oubliez pas de toucher ou annoter la zone avant de parler pour une meilleure expérience pour votre client. (gestion du décalage et focus client) 
-
-**4.2. Vous ne connaissez pas la configuration matérielle du client, en conséquence :**
-
-* Organisez votre espace de présentation avec 3 documents max à l’écran (vous ne connaissez par la taille de l’écran de votre interlocuteur)
-
-**4.3. Gérez votre temps :**
-
-* Le temps efficace de réunion est moins important que dans une réunion en physique (mise en place technique, perte de connexion...). Pensez à avoir un ordre du jour priorisé et à maîtriser le temps sur chaque partie. 
-
-**4.4. Utilisez les fonctions Compositeur Digital pour conserver l’efficacité de votre réunion :**
-
-* Il vous manque un document ? -> Utilisez la fonction « import » :
-
-![import](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/import1.jpg)
-
-* Vous devez naviguer dans un document de plusieurs pages -> Utilisez le mode diapo :
-
-![diapo](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/diapos.jpg)
+* Dites-vous qu'il faut compter 45 min effectifs pour un rendez-vous d'une heure 
+* Pensez à avoir un ordre du jour priorisé et à maîtriser le temps sur chaque partie (découverte, présentation, questions..) 
 
 **4.5. A la fin de la réunion**
 
-* Ajoutez les documents que vous souhaitez partager à la sélection :
+* Ajoutez les documents que vous souhaitez partager au panier
 
-![selection](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/selection.jpg)
-
+<<visuel>>
+  
 * Partagez un compte rendu visuel :
 
-![compterendu](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/compterendu.jpg)
+<<visuel>>
