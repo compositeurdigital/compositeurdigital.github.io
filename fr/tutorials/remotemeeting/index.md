@@ -25,12 +25,12 @@ Plusieurs solutions sont possibles pour inviter votre client à participer à vo
 **Envoyer une invitation via l'application Outlook**
 
 Créez une invitation depuis votre Calendrier à l'horaire souhaité, complétez l'objet, et saissez l'adresse mail de votre destinataire et cliquez enfin sur le bouton *Réunion Teams* dans le bandeau supérieur de votre invitation. Cette commande créé le lien de la réunion en ligne dans le corps de votre invitation. Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
-<<<<<<<<<<VISUEL>>>>>>>>
+
+<<<<<<<<<< 1 >>>>>>>>
 
 
 Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour guider vos clients vers un accès simplifié à la réunion: 
 
-  
 *"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. lorsque que votre navigateur s'ouvre choisissez l'option "Rejoindre avec mon navigateur"*
 
 *N'hésitez pas vous connecter 5 minutes avant le début de l'heure indiquée*
@@ -41,8 +41,10 @@ Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitati
 
 Connectez-vous à votre messagerie Outlook en ligne. Créez une invitation depuis votre Calendrier à l'horaire souhaité, complétez l'objet, l'adresse mail de votre destinataire et cliquez enfin sur le bouton *Réunion Teams* de votre invitation. Cette commande créé le lien de la réunion en ligne dans le corps de votre invitation. Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
 
+<<<<<<<<<< 2 >>>>>>>>
+
 Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour guider vos clients vers un accès simplifié à la réunion: 
-<<<<<<<<<<VISUEL>>>>>>>>
+
   
 *"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. lorsque que votre navigateur s'ouvre choisissez l'option "Rejoindre avec mon navigateur"*
 
@@ -61,15 +63,15 @@ Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la ré
 ![calendrier](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/calendrier.jpg)
 
 Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour guider vos clients vers un accès simplifié à la réunion: 
-<<<<<<<<<<VISUEL>>>>>>>>
-  
+
 *"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. Lorsque que votre navigateur s'ouvre choissez l'option "Rejoindre avec mon navigateur"*
 
 *N'hésitez pas vous connecter 5 minutes avant le début de l'heure indiquée*
 
 *Pour réaliser cette présentation dans les meilleures conditions, nous vous recommandons de vous connecter depuis votre ordinateur" 
 
-![rejoindre_dans_edge](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/rejoindre_dans_edge.jpg)
+
+
 
 ## 2. Préparer son environnement pour la réunion
 
@@ -79,11 +81,11 @@ Nous vous recommandons de réaliser ces étapes avant le démarrage de la réuni
 
 Lorsqu'un document est affiché à l'écran, il est possible d'afficher une petite pastille grise pour matérialiser la zone sur laquelle votre client doit se concentrer. Cette méthode améliore grandement la lisibilité pour vos clients. Lorsque ce paramètre est activé, cette pastille s'affiche à chaque contact de votre doigt sur l'écran. 
 
-<<< VISUEL>>> 
+<<<<<<<<<< 4 >>>>>>>>
 
 
 Pour activer ce paramètre , cliquer sur le Menu Windows et tapez le mot "retour" sur votre clavier 
-<<< VISUEL 1-2>>> 
+<<< 5 >>> 
 
 Cliquez ensuite sur le premier résultat « *Afficher le retour tactile visuel quand vous touchez l’écran* » :
 
@@ -101,7 +103,7 @@ Pour une meilleure expérience client, nous vous conseillons fortement de désac
 
 Pour cela, lancez le Compositeur Digital et réalisez les opérations suivantes :
 
-<<< VISUEL 1-2>>> 
+<<< 6 >> 
 
 NOTE: Vous pouvez à tout moment, réactiver la rotation des documents en cours de présentation en répétant cette opération. 
 
@@ -111,7 +113,7 @@ NOTE: Vous pouvez à tout moment, réactiver la rotation des documents en cours 
 
 Si vos correspondants ne disposent pas de l'application Microsoft Teams, ils pourront toutefois participer à la réunion en ligne en cliquant sur " *Rejoindre avec mon navigateur* " après avoir cliqué sur le lien présenta dans l'invitation. 
 
-![rejoindre_dans_edge](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/rejoindre_dans_edge.jpg)
+<<<<<<<<<< 3 >>>>>>>>
 
 **3.1 Rejoindre la réunion** 
 
@@ -120,24 +122,24 @@ Ouvrez votre calendrier Outlook et cliquez sur le lien de la réunion. Ce lien d
 **3.2. Lancez le Compositeur Digital **
 
 Lancez le Compositeur Digital et passez en mode fenêtré en cliquant sur les touches Fn+F11 sur votre clavier. Cliquez ensuite sur l'icône suivant en haut à droite de la fenêtre
-<<< VISUEL>>> 
 
+<<<<<<<<<< 7 >>>>>>>>
 
 **3.3. Partagez votre écran via Teams**
 
-Revenez dans l'application Teams, et cliquez sur le bouton « Partager votre écran » dans la barre centrale de Teams :
+Revenez dans l'application Teams, et cliquez sur le bouton « Partager votre écran » dans la barre centrale de Teams. 
 
 ![touchepartage](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/touchepartage.jpg)
 
-Attention, n'oubliez pas de sélectionner l'icône *Ecran no 1*  tout à gauche  :
+**Attention, n'oubliez pas de sélectionner l'icône *Ecran no 1*  tout à gauche**
 
-<<< VISUEL>>> 
+<<<<<<<<<< 8 >>>>>>>>
 
 **3.4. Repositionnez la fenêtre vidéo de votre client**
 
 Pour un meilleur confort de présentation, positionnez la vidéo de votre client en haut à droite en saisissant la fenêtre vidéo Teams par la barre de titre en la glissant dans la position souhaitée. 
 
-<<< VISUEL>>> 
+<<< 9 >>> 
 
 
 ## 4. Comment animer efficacement sa réunion
@@ -167,8 +169,8 @@ Le temps efficace de réunion est beaucoup moins important que dans une réunion
 
 * Ajoutez les documents que vous souhaitez partager au panier
 
-<<visuel>>
+<<<<<<<<<<<  10 >>>>>>>>>>>>
   
 * Partagez un compte rendu visuel :
 
-<<visuel>>
+<<<<<<<<<<<  11 >>>>>>>>>>>>
