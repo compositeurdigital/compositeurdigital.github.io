@@ -150,7 +150,7 @@ Dans un rendez-vous client à distance, vous ne maitrisez par la qualité de la 
 
 * A chaque fois que vous affichez un document à l'écran, demandez à votre interlocuteur, si l'affichage est confortable pour lui. N'oubliez pas de d'agrandir vos documents un peu plus que lors d'un rendez-vous en face à face pour palier à perte de qualité due à la visio. 
 
-**4.2 Présentation **
+**4.2 Présentation**
 
 * Réalisez des mouvements lents et parlez lentement pour tenir compte de l’éventuel décalage sur l’écran de votre client. Ne faites pas de monologue. Préférez de courtes séquences suivies d'une confirmation de réception de votre client. 
 * Lorsque vous présenter une carte, un plan, il faut IMPERATIEMENT toucher et maintenir au moins 2s avec le doigt sur les zones des documents que vous présentez pour faciliter la compréhension de votre interlocuteur et maintenir son niveau d’attention. Touchez l'écran avant de parler. 
