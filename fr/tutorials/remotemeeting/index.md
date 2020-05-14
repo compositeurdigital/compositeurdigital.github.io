@@ -4,7 +4,7 @@ Ce guide fournit les informations pour la préparation et la conduite d'un rende
 
 ## Rappels
 
-**Il n'est pas nécessaire que vos clients disposent de l'application Compositeur Digital ni de l'application Microsoft Teams. Ils peuvent participer à votre rendez-vous à distance depuis leur navigateur Internet sans application à installer, qu'il soit sur PC ou sur Mac.**
+**Il n'est pas nécessaire que vos clients disposent de l'application Compositeur Digital ni de l'application Microsoft Teams. Ils peuvent participer à votre rendez-vous à distance depuis leur navigateur Internet sans application à installer, qu'ils soient sur PC ou sur Mac.**
 
 Vous pouvez utiliser n'importe quelle solution de visioconférence permettant le partage d'écran. La description ci-dessous illustre la procédure avec Microsoft Teams à titre d'exemple. 
 
@@ -13,7 +13,7 @@ Vous pouvez utiliser n'importe quelle solution de visioconférence permettant le
 * [1. Invitation des participants à une réunion en ligne Microsoft Teams](#1-invitation-des-participants-à-une-réunion-en-ligne-microsoft-teams)
 * [2. Préparer son environnement pour la réunion](#2-préparer-son-environnement-pour-la-réunion)
 * [3. Démarrer la réunion](#3-démarrer-la-réunion)
-* [4. Comment animer sa réunion](#4-comment-animer-sa-réunion)
+* [4. Comment animer efficacement sa réunion](#4-comment-animer-efficacement-sa-réunion)
 
 
 
