@@ -109,23 +109,23 @@ NOTE: Vous pouvez à tout moment, réactiver la rotation des documents en cours 
 
 ## 3. Démarrer la réunion
 
-**3.1. Rappel  **
+**3.1. Rappel**
 
 Si vos correspondants ne disposent pas de l'application Microsoft Teams, ils pourront toutefois participer à la réunion en ligne en cliquant sur " *Rejoindre avec mon navigateur* " après avoir cliqué sur le lien présenta dans l'invitation. 
 
 <<<<<<<<<< 3 >>>>>>>>
 
-**3.1 Rejoindre la réunion** 
+**3.2 Rejoindre la réunion** 
 
 Ouvrez votre calendrier Outlook et cliquez sur le lien de la réunion. Ce lien déclenche automatiquement l'application Teams. 
 
-**3.2. Lancez le Compositeur Digital **
+**3.3. Lancez le Compositeur Digital**
 
 Lancez le Compositeur Digital et passez en mode fenêtré en cliquant sur les touches Fn+F11 sur votre clavier. Cliquez ensuite sur l'icône suivant en haut à droite de la fenêtre
 
 <<<<<<<<<< 7 >>>>>>>>
 
-**3.3. Partagez votre écran via Teams**
+**3.4. Partagez votre écran via Teams**
 
 Revenez dans l'application Teams, et cliquez sur le bouton « Partager votre écran » dans la barre centrale de Teams. 
 
