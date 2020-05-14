@@ -24,16 +24,18 @@ Plusieurs solutions sont possibles pour inviter votre client à participer à vo
 
 **Envoyer une invitation via l'application Outlook**
 
-Créez une invitation depuis votre Calendrier à l'horaire souhaité, complétez l'objet, l'adresse mail de votre destinataire et cliquez enfin sur le bouton *Réunion Teams* dans le bandeau supérieur de votre invitation. Cette commande créé le lien de la réunion en ligne dans le corps de votre invitation. Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
+Créez une invitation depuis votre Calendrier à l'horaire souhaité, complétez l'objet, et saissez l'adresse mail de votre destinataire et cliquez enfin sur le bouton *Réunion Teams* dans le bandeau supérieur de votre invitation. Cette commande créé le lien de la réunion en ligne dans le corps de votre invitation. Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
+<<<<<<<<<<VISUEL>>>>>>>>
+
 
 Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour guider vos clients vers un accès simplifié à la réunion: 
-<<<<<<<<<<VISUEL>>>>>>>>
+
   
 *"Pour vous connecter à la réunion en ligne, cliquez sur le lien ci-dessous. lorsque que votre navigateur s'ouvre choisissez l'option "Rejoindre avec mon navigateur"*
 
 *N'hésitez pas vous connecter 5 minutes avant le début de l'heure indiquée*
 
-*Pour réaliser cette présentation dans les meilleures conditions, nous vous recommandons de vous connecter depuis votre ordinateur" 
+*Pour réaliser cette présentation dans les meilleures conditions, nous vous recommandons de vous connecter depuis votre ordinateur"*
 
 **Envoyer une invitation via Outlook depuis votre navigateur**
 
