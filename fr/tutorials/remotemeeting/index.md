@@ -50,10 +50,10 @@ Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitati
 
 *N'hésitez pas vous connecter 5 minutes avant le début de l'heure indiquée*
 
-*Pour réaliser cette présentation dans les meilleures conditions, nous vous recommandons de vous connecter depuis votre ordinateur" 
+*Pour réaliser cette présentation dans les meilleures conditions, nous vous recommandons de vous connecter depuis votre ordinateur"* 
 
 
-**Envoyer une invitation via l'application Microsoft Teams ** 
+**Envoyer une invitation via l'application Microsoft Teams** 
 
 Depuis l’application Teams, ouvrez la vue calendrier, saisissez les informations du rendez-vous et diffusez l’invitation. Le lien d'accès à la réunion en ligne est automatiquement généré lors de l'envoi. 
 
@@ -68,7 +68,7 @@ Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitati
 
 *N'hésitez pas vous connecter 5 minutes avant le début de l'heure indiquée*
 
-*Pour réaliser cette présentation dans les meilleures conditions, nous vous recommandons de vous connecter depuis votre ordinateur" 
+*Pour réaliser cette présentation dans les meilleures conditions, nous vous recommandons de vous connecter depuis votre ordinateur"* 
 
 
 
