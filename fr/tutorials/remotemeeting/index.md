@@ -60,7 +60,7 @@ Depuis l’application Teams, ouvrez la vue calendrier, saisissez les informatio
 Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
 
 
-![calendrier](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/calendrier.jpg)
+![calendrier](./img/calendrier.jpg)
 
 Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour guider vos clients vers un accès simplifié à la réunion: 
 
