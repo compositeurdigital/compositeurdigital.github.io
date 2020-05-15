@@ -89,11 +89,11 @@ Pour activer ce paramètre , cliquer sur le Menu Windows et tapez le mot "retour
 
 Cliquez ensuite sur le premier résultat « *Afficher le retour tactile visuel quand vous touchez l’écran* » :
 
-![retour_tactile](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/retour_tactile.jpg)
+![retour_tactile](./img/retour_tactile.jpg)
 
 Activez les 2 paramètres tels que décrits ci-dessous et fermez cette fenêtre. 
 
-![parametres](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/parametres.jpg)
+![parametres](./img/parametres.jpg)
 
 NOTE : Cette opération est faite une fois pour toute. Nous vous conseillons de laisser ces paramètres activés. 
 
@@ -129,7 +129,7 @@ Lancez le Compositeur Digital et passez en mode fenêtré en cliquant sur les to
 
 Revenez dans l'application Teams, et cliquez sur le bouton « Partager votre écran » dans la barre centrale de Teams. 
 
-![touchepartage](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/touchepartage.jpg)
+![touchepartage](./img/touchepartage.jpg)
 
 **Attention, n'oubliez pas de sélectionner l'icône *Ecran no 1*  tout à gauche**
 
