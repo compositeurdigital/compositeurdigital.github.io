@@ -26,7 +26,7 @@ Plusieurs solutions sont possibles pour inviter votre client à participer à vo
 
 Créez une invitation depuis votre Calendrier à l'horaire souhaité, complétez l'objet, et saissez l'adresse mail de votre destinataire et cliquez enfin sur le bouton *Réunion Teams* dans le bandeau supérieur de votre invitation. Cette commande créé le lien de la réunion en ligne dans le corps de votre invitation. Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
 
-<<<<<<<<<< 1 >>>>>>>>
+![Application_Outlook](img/1.jpg)
 
 
 Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour guider vos clients vers un accès simplifié à la réunion: 
@@ -41,7 +41,7 @@ Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitati
 
 Connectez-vous à votre messagerie Outlook en ligne. Créez une invitation depuis votre Calendrier à l'horaire souhaité, complétez l'objet, l'adresse mail de votre destinataire et cliquez enfin sur le bouton *Réunion Teams* de votre invitation. Cette commande créé le lien de la réunion en ligne dans le corps de votre invitation. Pour vos clients, il suffira de cliquer sur de ce lien pour participer à la réunion. Ce lien reste valable même si vous déplacez l'horaire de votre réunion.
 
-<<<<<<<<<< 2 >>>>>>>>
+![Navigateur_Outlook](img/2.jpg)
 
 Nous vous conseillons d'inclure le texte suivant dans le corps de votre invitation pour guider vos clients vers un accès simplifié à la réunion: 
 
@@ -81,11 +81,12 @@ Nous vous recommandons de réaliser ces étapes avant le démarrage de la réuni
 
 Lorsqu'un document est affiché à l'écran, il est possible d'afficher une petite pastille grise pour matérialiser la zone sur laquelle votre client doit se concentrer. Cette méthode améliore grandement la lisibilité pour vos clients. Lorsque ce paramètre est activé, cette pastille s'affiche à chaque contact de votre doigt sur l'écran. 
 
-<<<<<<<<<< 4 >>>>>>>>
+![Retour_Tactile_Visuel](img/4.jpg)
 
 
-Pour activer ce paramètre , cliquer sur le Menu Windows et tapez le mot "retour" sur votre clavier 
-<<< 5 >>> 
+Pour activer ce paramètre , cliquer sur le Menu Windows et tapez le mot "retour" sur votre clavier :
+
+![Retour](img/5.jpg)
 
 Cliquez ensuite sur le premier résultat « *Afficher le retour tactile visuel quand vous touchez l’écran* » :
 
@@ -103,7 +104,7 @@ Pour une meilleure expérience client, nous vous conseillons fortement de désac
 
 Pour cela, lancez le Compositeur Digital et réalisez les opérations suivantes :
 
-<<< 6 >> 
+![Grand_Ecran](img/6.jpg)
 
 NOTE: Vous pouvez à tout moment, réactiver la rotation des documents en cours de présentation en répétant cette opération. 
 
@@ -113,7 +114,7 @@ NOTE: Vous pouvez à tout moment, réactiver la rotation des documents en cours 
 
 Si vos correspondants ne disposent pas de l'application Microsoft Teams, ils pourront toutefois participer à la réunion en ligne en cliquant sur " *Rejoindre avec mon navigateur* " après avoir cliqué sur le lien présenta dans l'invitation. 
 
-<<<<<<<<<< 3 >>>>>>>>
+![Rejoindre](img/3.jpg)
 
 **3.2 Rejoindre la réunion** 
 
@@ -123,7 +124,7 @@ Ouvrez votre calendrier Outlook et cliquez sur le lien de la réunion. Ce lien d
 
 Lancez le Compositeur Digital et passez en mode fenêtré en cliquant sur les touches Fn+F11 sur votre clavier. Cliquez ensuite sur l'icône suivant en haut à droite de la fenêtre
 
-<<<<<<<<<< 7 >>>>>>>>
+![Agrandir](img/7.jpg)
 
 **3.4. Partagez votre écran via Teams**
 
@@ -133,13 +134,13 @@ Revenez dans l'application Teams, et cliquez sur le bouton « Partager votre éc
 
 **Attention, n'oubliez pas de sélectionner l'icône *Ecran no 1*  tout à gauche**
 
-<<<<<<<<<< 8 >>>>>>>>
+![Ecran1](img/8.jpg)
 
 **3.4. Repositionnez la fenêtre vidéo de votre client**
 
 Pour un meilleur confort de présentation, positionnez la vidéo de votre client en haut à droite en saisissant la fenêtre vidéo Teams par la barre de titre en la glissant dans la position souhaitée. 
 
-<<< 9 >>> 
+![FenetreTeams](img/9.jpg)
 
 
 ## 4. Comment animer efficacement sa réunion
@@ -169,8 +170,8 @@ Le temps efficace de réunion est beaucoup moins important que dans une réunion
 
 * Ajoutez les documents que vous souhaitez partager au panier
 
-<<<<<<<<<<<  10 >>>>>>>>>>>>
+![panier](img/10.jpg)
   
 * Partagez un compte rendu visuel :
 
-<<<<<<<<<<<  11 >>>>>>>>>>>>
+![CompteRendu](img/11.jpg)
