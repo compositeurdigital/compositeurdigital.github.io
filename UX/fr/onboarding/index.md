@@ -151,4 +151,18 @@ Dans l’application Compositeur Digital UX, depuis la page d’accueil, cliquez
 
 
 
+## Découvrez toutes les fonctionnalités du Compositeur Digital
 
+La liste complète des fonctionnalités de l’application et de leur usage se trouve [ici](http://doc.compositeurdigital.com/UX/fr/user_guide/workflow.html)
+
+
+
+## Accédez à la documentation complète
+
+Elle se trouve [ici](http://doc.compositeurdigital.com/UX/fr/index.html)
+
+
+
+## Comment solliciter le support ?
+
+Besoin d’un support ? Une recommandation ? Vous pouvez nous écrire à l’adresse suivante <mailto:support@compositeurdigital.com>
