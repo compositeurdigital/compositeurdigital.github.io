@@ -3,7 +3,9 @@
 
 @import "{{ site.theme }}";
 
-html { font-size:80% }
+html { font-size:80%
+    font-family:''Nunito Sans',Helvetica,Arial,Lucida,sans-serif';
+}
 
 .page-header { background-image:url(../img/background-geo-rose.jpg); padding:5rem; }
 
