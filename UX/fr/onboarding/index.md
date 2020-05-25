@@ -34,8 +34,8 @@ Oui !  Le Compositeur Digital est une véritable alternative à PowerPoint et il
 
 **Confidentialité** 
 
-Le Compositeur Digital n’est pas une plateforme mais une application est installée sur votre PC. Elle n’a accès qu’aux répertoires qui vous lui indiquerez. Aucun de vos contenus n’est envoyé vers nos serveurs.
-Nous recevons les données d’utilisation de l’application à des fins de […]. Vous pouvez […]
+Le Compositeur Digital n’est pas une plateforme mais une application est installée sur votre PC. Elle n’a accès qu’aux répertoires qui vous lui indiquerez. 
+
 
 
 **Les participants doivent-ils disposer de l’application ?**
