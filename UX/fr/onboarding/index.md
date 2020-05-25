@@ -82,4 +82,3 @@ Un environnement de présentation est appelé « univers », il comporte :
 3.	Des images de votre choix positionnées dans vos dossiers qui seront utilisées comme vignettes. (Optionnel) 
 
 ![structureuniversnote](http://compositeurdigital.github.io/UX/fr/onboarding/img/structureuniversnote.png)
-
