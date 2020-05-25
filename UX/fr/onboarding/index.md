@@ -165,4 +165,4 @@ Elle se trouve [ici](http://doc.compositeurdigital.com/UX/fr/index.html)
 
 ## Comment solliciter le support ?
 
-Besoin d’un support ? Une recommandation ? Vous pouvez nous écrire à l’adresse suivante <mailto:support@compositeurdigital.com>
+Besoin d’un support ? Une recommandation ? Vous pouvez nous écrire à l’adresse suivante [support@compositeurdigital.com](mailto:support@compositeurdigital.com)
