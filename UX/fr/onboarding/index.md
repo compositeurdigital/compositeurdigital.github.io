@@ -139,4 +139,16 @@ Toute la documentation sur les vignettes est disponible [ici](http://doc.composi
 
 
 
+**7. Créez son dossier univers à un autre emplacement (optionnel)**
+
+Créez un dossier `Compositeur Digital UX` à l’emplacement de votre choix puis créez votre dossier univers à l’intérieur de celui-ci. 
+Dans l’application Compositeur Digital UX, depuis la page d’accueil, cliquez sur `ajouter un emplacement` puis `dossier local`, sélectionnez enfin le répertoire Compositeur Digital UX créé précédemment. 
+**Attention : C’est le dossier Compositeur Digital UX que vous devez sélectionner et non le dossier de votre univers** 
+
+![addsource](http://compositeurdigital.github.io/UX/fr/onboarding/img/addcontent.png)
+
+![addsource2](http://compositeurdigital.github.io/UX/fr/onboarding/img/addcontent2.png)
+
+
+
 
