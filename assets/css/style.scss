@@ -3,8 +3,9 @@
 
 @import "{{ site.theme }}";
 
-html { font-size:80%
-    font-family:''Nunito Sans',Helvetica,Arial,Lucida,sans-serif';
+html {
+    font-size:80%;
+    font-family:'Nunito Sans',Helvetica,Arial,Lucida,sans-serif;
 }
 
 .page-header { background-image:url(../img/background-geo-rose.jpg); padding:5rem; }
@@ -33,6 +34,11 @@ p .resizeAndCenter {
 .right { float:right; }
 
 footer{
+    padding:50px;
     color:#FFFFFF;
     background-color:#f03b5e!important;
+}
+
+footer.a{
+     color:#FFFFFF;
 }
