@@ -5,10 +5,10 @@
 
 html { font-size:80% }
 
-.page-header { background-color:#f3385b; background-image:'url(../img/background-geo-rose.jpg)'; padding:5rem; }
+.page-header { background-image:'url(../img/background-geo-rose.jpg)'; padding:5rem; }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    color: #d14;
+    
 }
 
 a {
@@ -31,5 +31,6 @@ p .resizeAndCenter {
 .right { float:right; }
 
 footer{
+    color:#FFFFFF;
     background-color:#f03b5e!important;
 }
