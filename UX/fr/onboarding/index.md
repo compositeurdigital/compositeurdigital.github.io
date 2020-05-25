@@ -113,7 +113,7 @@ Glissez-y vos propres documents. Voici pour rappel la liste des formats support�
 
 Lancer l’application Compositeur Digital UX. Sur la page d’accueil, sélectionnez votre univers `My universe`
 
-**La liste complète des fonctionnalités de l’application et de leur usage se trouve [ici] (http://doc.compositeurdigital.com/UX/fr/user_guide/)**
+**La liste complète des fonctionnalités de l’application et de leur usage se trouve [ici] (http://doc.compositeurdigital.com/UX/fr/user_guide/workflow.html)**
 
 
   
