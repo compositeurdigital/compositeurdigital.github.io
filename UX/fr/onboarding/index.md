@@ -107,6 +107,14 @@ Par exemple `Presentation`, `Production`, `Marketing`
 
 Glissez-y vos propres documents. Voici pour rappel la liste des formats supportés : Présentations PowerPoint, Documents PDF, des images, des vidéos et contenus 3D. Vous trouvez un descriptif détaillé des formats [ici] (http://doc.compositeurdigital.com/UX/fr/organise_content/supported_content/index.html)
 
+![addcontent](http://compositeurdigital.github.io/UX/fr/onboarding/img/addcontent.png)
+
+**3.Visualiser le résultat**
+
+Lancer l’application Compositeur Digital UX. Sur la page d’accueil, sélectionnez votre univers `My universe`
+
+**La liste des fonctionnalités de l’application se trouve [ici] (http://doc.compositeurdigital.com/UX/fr/use.hmtl)
+
 
   
 
