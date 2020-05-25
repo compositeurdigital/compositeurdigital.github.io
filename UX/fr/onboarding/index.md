@@ -109,7 +109,7 @@ Glissez-y vos propres documents. Voici pour rappel la liste des formats support�
 
 ![addcontent](http://compositeurdigital.github.io/UX/fr/onboarding/img/addcontent.png)
 
-**3.Visualiser le résultat**
+**3. Visualiser le résultat**
 
 Lancer l’application Compositeur Digital UX. Sur la page d’accueil, sélectionnez votre univers `My universe`
 
@@ -117,4 +117,16 @@ Lancer l’application Compositeur Digital UX. Sur la page d’accueil, sélecti
 
 
   
+**4. Complétez votre univers**
+
+Il n’est pas nécessaire de quitter le Compositeur Digital pour compléter votre univers.Retournez simplement dans votre explorateur de fichier et complétez-le avec vos contenus. Revenez ensuite dans votre l’application et rafraichissez-le avec la combinaison de touches suivantes sur votre : `CTRL+R+R`
+
+
+
+**5. Personnalisez le fond d’écran (optionnel)**
+
+Vous pouvez ajouter un fond écran à votre univers avec l’image de votre choix. Vous devez positionner cette image à la racine du dossier de votre univers. Elle doit être nommée `_background` 
+
+Toute la documentation sur les fonds d’écran est disponible ici <lien>
+
 
