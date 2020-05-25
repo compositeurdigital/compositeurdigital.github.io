@@ -81,4 +81,15 @@ Un environnement de présentation est appelé « univers », il comporte :
 2.	Une image de votre choix qui sera utilisée comme fond d’écran. (Optionnel)
 3.	Des images de votre choix positionnées dans vos dossiers qui seront utilisées comme vignettes. (Optionnel) 
 
+Votre dossier univers doit être positionné dans un répertoire appelé Compositeur Digital UX. 
+
 ![structureuniversnote](http://compositeurdigital.github.io/UX/fr/onboarding/img/structureuniversnote.png)
+
+
+
+## Créez votre premier univers
+**1.	Créez votre dossier univers à l’emplacement par défaut**
+Rendez-vous dans votre emplacement par défaut `Documents>Compositeur Digital UX` et créez votre dossier univers exemple « My Universe »
+2.	Créez vos répertoires et ajoutez vos contenus
+Par exemple 
+
