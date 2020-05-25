@@ -51,7 +51,7 @@ Vous pouvez utiliser l’application sur PC Windows 10 tactile ou non
 ## Découvrez les 5 fonctionnalités clés pour la présentation
 
 **Facilitez vos explications, améliorez la compréhension**: Multi-vues, multi-contenus
-![calendrier](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/calendrier.jpg)
+![multivues](http://compositeurdigital.github.io/UX/fr/onboarding/img/multivues.png)
 **Personnalisez votre présentation à votre auditoire avec le bon contenu au bon moment** Non linéaire + mode diapositive : 
 *Visuel*
 **Ayez plus d’impact, augmentez l’attention de vos participants**: Pointez, Zoomez, Annotez, Post-it 
