@@ -55,7 +55,7 @@ Vous pouvez utiliser l’application sur PC Windows 10 tactile ou non
 ![multivues](http://compositeurdigital.github.io/UX/fr/onboarding/img/multivues.png)
 
 
-**Personnalisez votre présentation à votre auditoire avec le bon contenu au bon moment** : non linéaire + mode diapositive : 
+**Personnalisez votre présentation à votre auditoire avec le bon contenu au bon moment** : non linéaire + mode diapositive
 
 ![diapo](http://compositeurdigital.github.io/UX/fr/onboarding/img/diapo.png)
 
@@ -74,5 +74,12 @@ Vous pouvez utiliser l’application sur PC Windows 10 tactile ou non
 
 ![partage](http://compositeurdigital.github.io/UX/fr/onboarding/img/partage.png)
 
+## Principe de construction d’une présentation
 
+Un environnement de présentation est appelé « univers », il comporte : 
+1.	Des dossiers et sous-dossiers qui contiendront vos contenus selon l’organisation souhaitée
+2.	Une image de votre choix qui sera utilisée comme fond d’écran. (Optionnel)
+3.	Des images de votre choix positionnées dans vos dossiers qui seront utilisées comme vignettes. (Optionnel) 
+
+![structureuniversnote](http://compositeurdigital.github.io/UX/fr/onboarding/img/structureuniversnote.png)
 
