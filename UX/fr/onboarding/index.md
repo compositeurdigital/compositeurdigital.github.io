@@ -83,13 +83,25 @@ Un environnement de présentation est appelé « univers », il comporte :
 
 Votre dossier univers doit être positionné dans un répertoire appelé Compositeur Digital UX. 
 
+
 ![structureuniversnote](http://compositeurdigital.github.io/UX/fr/onboarding/img/structureuniversnote.png)
 
 
 
 ## Créez votre premier univers
-**1.	Créez votre dossier univers à l’emplacement par défaut**
-Rendez-vous dans votre emplacement par défaut `Documents>Compositeur Digital UX` et créez votre dossier univers exemple « My Universe »
-2.	Créez vos répertoires et ajoutez vos contenus
-Par exemple 
 
+**1.	Créez votre dossier univers à l’emplacement par défaut**
+
+Rendez-vous dans votre emplacement par défaut `Documents>Compositeur Digital UX` et créez votre dossier univers exemple « My Universe »
+
+![addmyuniverse](http://compositeurdigital.github.io/UX/fr/onboarding/img/addmyuniverse.png)
+
+
+
+**2.	Créez vos répertoires et ajoutez vos contenus** 
+
+Par exemple `Presentation`, `Production`, `Marketing`
+
+Glissez-y vos propres documents. Voici pour rappel la liste des formats supportés : Présentations PowerPoint, Documents PDF, des images, des vidéos et contenus 3D. Vous trouvez un descriptif détaillé des formats ici https://github.com/compositeurdigital/compositeurdigital.github.io/blob/master/UX/fr/organise_content/supported_content/index.md
+  
+![addfolders](http://compositeurdigital.github.io/UX/fr/onboarding/img/addfolders.png)
