@@ -105,7 +105,7 @@ Par exemple `Presentation`, `Production`, `Marketing`
 ![addfolders](http://compositeurdigital.github.io/UX/fr/onboarding/img/addfolders.png)
 
 
-Glissez-y vos propres documents. Voici pour rappel la liste des formats supportés : Présentations PowerPoint, Documents PDF, des images, des vidéos et contenus 3D. Vous trouvez un descriptif détaillé des formats [ici] (http://doc.compositeurdigital.com/UX/fr/organise_content/supported_content/index.html)
+Glissez-y vos propres documents. Voici pour rappel la liste des formats supportés : Présentations PowerPoint, Documents PDF, des images, des vidéos et contenus 3D. Vous trouvez un descriptif détaillé des formats [ici](http://doc.compositeurdigital.com/UX/fr/organise_content/supported_content/index.html)
 
 ![addcontent](http://compositeurdigital.github.io/UX/fr/onboarding/img/addcontent.png)
 
@@ -113,7 +113,7 @@ Glissez-y vos propres documents. Voici pour rappel la liste des formats support�
 
 Lancer l’application Compositeur Digital UX. Sur la page d’accueil, sélectionnez votre univers `My universe`
 
-**La liste complète des fonctionnalités de l’application et de leur usage se trouve [ici] (http://doc.compositeurdigital.com/UX/fr/user_guide/workflow.html)**
+**La liste complète des fonctionnalités de l’application et de leur usage se trouve [ici](http://doc.compositeurdigital.com/UX/fr/user_guide/workflow.html)**
 
 
   
@@ -127,6 +127,16 @@ Il n’est pas nécessaire de quitter le Compositeur Digital pour compléter vot
 
 Vous pouvez ajouter un fond écran à votre univers avec l’image de votre choix. Vous devez positionner cette image à la racine du dossier de votre univers. Elle doit être nommée `_background` 
 
-Toute la documentation sur les fonds d’écran est disponible ici <lien>
+Toute la documentation sur les fonds d’écran est disponible [ici](http://doc.compositeurdigital.com/UX/fr/organise_content/create_universes.html#fond)
+
+
+
+**6.Personnalisez les vignettes d’affichage de vos dossiers (optionnel)**
+
+Vous pouvez personnaliser les vignettes d’affichage de vos dossiers et sous dossiers avec l’image de votre choix. Vous devez positionner cette image dans le dossier souhaité. Elle doit être nommée `_preview`. L’application adaptera au mieux l’affichage au format 3/2 des vignettes de dossier. 
+
+Toute la documentation sur les vignettes est disponible [ici](http://doc.compositeurdigital.com/UX/fr/organise_content/create_universes.html#vignettes)
+
+
 
 
