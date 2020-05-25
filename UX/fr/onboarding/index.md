@@ -102,7 +102,11 @@ Rendez-vous dans votre emplacement par défaut `Documents>Compositeur Digital UX
 
 Par exemple `Presentation`, `Production`, `Marketing`
 
-Glissez-y vos propres documents. Voici pour rappel la liste des formats supportés : Présentations PowerPoint, Documents PDF, des images, des vidéos et contenus 3D. Vous trouvez un descriptif détaillé des formats [ici] (https://github.com/compositeurdigital/compositeurdigital.github.io/blob/master/UX/fr/organise_content/supported_content/index.html)
+![addfolders](http://compositeurdigital.github.io/UX/fr/onboarding/img/addfolders.png)
+
+
+Glissez-y vos propres documents. Voici pour rappel la liste des formats supportés : Présentations PowerPoint, Documents PDF, des images, des vidéos et contenus 3D. Vous trouvez un descriptif détaillé des formats [ici] (http://doc.compositeurdigital.com/UX/fr/organise_content/supported_content/index.html)
+
 
   
-![addfolders](http://compositeurdigital.github.io/UX/fr/onboarding/img/addfolders.png)
+
