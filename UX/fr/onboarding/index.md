@@ -9,6 +9,7 @@ Cette application est destinée à tous les professionnels qui recherchent à r�
 Le Compositeur Digital réutilise vos documents et contenus existants et vous permet de les afficher, de les manipuler et de les annoter sur votre espace de présentation. 
 Ces documents et contenus peuvent être des Présentation PowerPoint, Documents PDF, des images, des vidéos et mêmes des contenus 3D. 
 
+
 **Quels sont les gains ?**
 
 Votre présentation est riche et non linéaire. Vous adaptez le contenu de votre présentation à votre auditoire 
