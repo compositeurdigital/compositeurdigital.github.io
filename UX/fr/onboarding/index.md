@@ -1,7 +1,7 @@
 ## Qu’est-ce que le Compositeur Digital UX ? 
 **A qui s’adresse-t-il ?**
 
-Cette application est destinée à tous les professionnels qui recherchent à réaliser des présentations plus claire et vivante à distance ou en face à face
+Cette application est destinée à tous les professionnels qui recherchent à réaliser des présentations plus claires et vivantes à distance ou en face à face
 
 
 
@@ -46,6 +46,20 @@ Non. Seul vous, présentateur, devez disposer de l’application. En fin de pré
 **Sur quel type de PC utiliser l’application ?** 
 
 Vous pouvez utiliser l’application sur PC Windows 10 tactile ou non
+
+
+## Découvrez les 5 fonctionnalités clés pour la présentation
+
+**Facilitez vos explications, améliorez la compréhension**: Multi-vues, multi-contenus
+*Visuel*
+**Personnalisez votre présentation à votre auditoire avec le bon contenu au bon moment** Non linéaire + mode diapositive : 
+*Visuel*
+**Ayez plus d’impact, augmentez l’attention de vos participants**: Pointez, Zoomez, Annotez, Post-it 
+<Visuel>
+**Etablissez une synthèse visuelle pendant la réunion** :  Templates, Scotch
+<Visuel>
+Partagez : Diffusez instantanément un compte rendu visuel
+<Visuel>
 
 
 
