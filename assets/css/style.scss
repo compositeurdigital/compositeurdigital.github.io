@@ -15,6 +15,10 @@ html, body {
     padding-bottom: 150px;
 }
 
+.main-content img{
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     color:#646f93;
     margin-bottom:0.5rem;
