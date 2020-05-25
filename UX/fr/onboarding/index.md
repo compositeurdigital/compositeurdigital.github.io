@@ -145,9 +145,9 @@ Créez un dossier `Compositeur Digital UX` à l’emplacement de votre choix pui
 Dans l’application Compositeur Digital UX, depuis la page d’accueil, cliquez sur `ajouter un emplacement` puis `dossier local`, sélectionnez enfin le répertoire Compositeur Digital UX créé précédemment. 
 **Attention : C’est le dossier Compositeur Digital UX que vous devez sélectionner et non le dossier de votre univers** 
 
-![addsource](http://compositeurdigital.github.io/UX/fr/onboarding/img/addcontent.png)
+![addsource](http://compositeurdigital.github.io/UX/fr/onboarding/img/addsource.png)
 
-![addsource2](http://compositeurdigital.github.io/UX/fr/onboarding/img/addcontent2.png)
+![addsource2](http://compositeurdigital.github.io/UX/fr/onboarding/img/addsource2.png)
 
 
 
