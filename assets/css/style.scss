@@ -11,7 +11,7 @@ html, body {
 .page-header { background-image:url(../img/background-geo-rose.jpg); padding:5rem; }
 
 .main-content{
-
+    font-size:90%;
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
@@ -44,6 +44,6 @@ footer{
     background-image:linear-gradient(243deg,#f03b5e 0%,#ef6480 100%)!important;
 }
 
-footer.a{
+footer a{
      color:#FFFFFF;
 }
