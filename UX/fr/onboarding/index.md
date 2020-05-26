@@ -1,7 +1,7 @@
 ## Qu’est-ce que le Compositeur Digital UX ? 
 **A qui s’adresse-t-il ?**
 
-Cette application est destinée à tous les professionnels qui recherchent à réaliser des présentations plus claires et vivantes à distance ou en face à face
+Cette application est destinée à tous les professionnels qui recherchent à réaliser des présentations plus claires et vivantes à distance ou en face à face.
 
 
 
@@ -22,7 +22,7 @@ Votre présentation met en valeur votre expertise et votre auditoire vous compre
 **Est-ce compliqué ?**
 
 La création de vos présentations est simple, il vous suffit de savoir glisser vos contenus dans des répertoires ! Vous pouvez également habiller graphiquement votre environnement présentation. 
-Le prise en main est intuitive, la manipulation des contenus est fluide
+Le prise en main est intuitive, la manipulation des contenus est fluide.
 
 
 
@@ -34,7 +34,7 @@ Oui !  Le Compositeur Digital est une véritable alternative à PowerPoint et il
 
 **Confidentialité** 
 
-Le Compositeur Digital n’est pas une plateforme mais une application est installée sur votre PC. Elle n’a accès qu’aux répertoires qui vous lui indiquerez. 
+Le Compositeur Digital n’est pas une plateforme mais une application qui est installée sur votre PC. Elle n’a accès qu’aux répertoires qui vous lui indiquerez. 
 
 
 
@@ -45,32 +45,32 @@ Non. Seul vous, présentateur, devez disposer de l’application. En fin de pré
 
 **Sur quel type de PC utiliser l’application ?** 
 
-Vous pouvez utiliser l’application sur PC Windows 10 tactile ou non
+Vous pouvez utiliser l’application sur PC Windows 10 tactile ou non.
 
 
 ## Découvrez les 5 fonctionnalités clés pour la présentation
 
-**Facilitez vos explications, améliorez la compréhension** : Multi-vues, multi-contenus
+**Facilitez vos explications, améliorez la compréhension** : Multi-vues, multi-contenus.
 
 ![multivues](http://compositeurdigital.github.io/UX/fr/onboarding/img/multivues.png)
 
 
-**Personnalisez votre présentation à votre auditoire avec le bon contenu au bon moment** : non linéaire + mode diapositive
+**Personnalisez votre présentation à votre auditoire avec le bon contenu au bon moment** : non linéaire + mode diapositive.
 
 ![diapo](http://compositeurdigital.github.io/UX/fr/onboarding/img/diapo.png)
 
 
-**Ayez plus d’impact, augmentez l’attention de vos participants**: Pointez, Zoomez, Annotez, Post-it 
+**Ayez plus d’impact, augmentez l’attention de vos participants**: Pointez, Zoomez, Annotez, Post-it.
 
 ![annotations](http://compositeurdigital.github.io/UX/fr/onboarding/img/annotations.png)
 
 
-**Etablissez une synthèse visuelle pendant la réunion** :  Templates, Scotch
+**Etablissez une synthèse visuelle pendant la réunion** :  Templates, Scotch.
 
 ![templates](http://compositeurdigital.github.io/UX/fr/onboarding/img/templates.png)
 
 
-**Partagez** : Diffusez instantanément un compte rendu visuel
+**Partagez** : Diffusez instantanément un compte rendu visuel.
 
 ![partage](http://compositeurdigital.github.io/UX/fr/onboarding/img/partage.png)
 
