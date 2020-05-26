@@ -43,7 +43,7 @@ Le Compositeur Digital n’est pas une plateforme mais une application qui est i
 Non. Seul vous, présentateur, devez disposer de l’application. En fin de présentation les contenus présentés peuvent être partagés au format PDF aux participants. 
 
 
-### Sur quel type de PC utiliser l’application ?** 
+### Sur quel type de PC utiliser l’application ?
 
 Vous pouvez utiliser l’application sur PC Windows 10 tactile ou non.
 
