@@ -50,27 +50,27 @@ Vous pouvez utiliser l’application sur PC Windows 10 tactile ou non.
 
 ## Découvrez les 5 fonctionnalités clés pour la présentation
 
-**Facilitez vos explications, améliorez la compréhension** : Multi-vues, multi-contenus.
+### **Facilitez vos explications, améliorez la compréhension:** Multi-vues, multi-contenus.
 
 ![multivues](http://compositeurdigital.github.io/UX/fr/onboarding/img/multivues.png)
 
 
-**Personnalisez votre présentation à votre auditoire avec le bon contenu au bon moment** : non linéaire + mode diapositive.
+### **Personnalisez votre présentation à votre auditoire avec le bon contenu au bon moment:** non linéaire + mode diapositive.
 
 ![diapo](http://compositeurdigital.github.io/UX/fr/onboarding/img/diapo.png)
 
 
-**Ayez plus d’impact, augmentez l’attention de vos participants**: Pointez, Zoomez, Annotez, Post-it.
+### **Ayez plus d’impact, augmentez l’attention de vos participants:** Pointez, Zoomez, Annotez, Post-it.
 
 ![annotations](http://compositeurdigital.github.io/UX/fr/onboarding/img/annotations.png)
 
 
-**Etablissez une synthèse visuelle pendant la réunion** :  Templates, Scotch.
+### **Etablissez une synthèse visuelle pendant la réunion:**  Templates, Scotch.
 
 ![templates](http://compositeurdigital.github.io/UX/fr/onboarding/img/templates.png)
 
 
-**Partagez** : Diffusez instantanément un compte rendu visuel.
+### **Partagez** : Diffusez instantanément un compte rendu visuel.
 
 ![partage](http://compositeurdigital.github.io/UX/fr/onboarding/img/partage.png)
 
@@ -90,7 +90,7 @@ Votre dossier univers doit être positionné dans un répertoire appelé Composi
 
 ## Créez votre premier univers
 
-**1.	Créez votre dossier univers à l’emplacement par défaut**
+### 1.	Créez votre dossier univers à l’emplacement par défaut
 
 Rendez-vous dans votre emplacement par défaut `Documents>Compositeur Digital UX` et créez votre dossier univers exemple « My Universe »
 
@@ -98,7 +98,7 @@ Rendez-vous dans votre emplacement par défaut `Documents>Compositeur Digital UX
 
 
 
-**2.	Créez vos répertoires et ajoutez vos contenus** 
+### 2.	Créez vos répertoires et ajoutez vos contenus
 
 Par exemple `Presentation`, `Production`, `Marketing`
 
@@ -109,7 +109,7 @@ Glissez-y vos propres documents. Voici pour rappel la liste des formats support�
 
 ![addcontent](http://compositeurdigital.github.io/UX/fr/onboarding/img/addcontent.png)
 
-**3. Visualiser le résultat**
+### 3. Visualiser le résultat
 
 Lancer l’application Compositeur Digital UX. Sur la page d’accueil, sélectionnez votre univers `My universe`
 
@@ -117,13 +117,13 @@ Lancer l’application Compositeur Digital UX. Sur la page d’accueil, sélecti
 
 
   
-**4. Complétez votre univers**
+### 4. Complétez votre univers
 
 Il n’est pas nécessaire de quitter le Compositeur Digital pour compléter votre univers.Retournez simplement dans votre explorateur de fichier et complétez-le avec vos contenus. Revenez ensuite dans votre l’application et rafraichissez-le avec la combinaison de touches suivantes sur votre : `CTRL+R+R`
 
 
 
-**5. Personnalisez le fond d’écran (optionnel)**
+### 5. Personnalisez le fond d’écran (optionnel)
 
 Vous pouvez ajouter un fond écran à votre univers avec l’image de votre choix. Vous devez positionner cette image à la racine du dossier de votre univers. Elle doit être nommée `_background` 
 
@@ -131,7 +131,7 @@ Toute la documentation sur les fonds d’écran est disponible [ici](http://doc.
 
 
 
-**6.Personnalisez les vignettes d’affichage de vos dossiers (optionnel)**
+### 6.Personnalisez les vignettes d’affichage de vos dossiers (optionnel)
 
 Vous pouvez personnaliser les vignettes d’affichage de vos dossiers et sous dossiers avec l’image de votre choix. Vous devez positionner cette image dans le dossier souhaité. Elle doit être nommée `_preview`. L’application adaptera au mieux l’affichage au format 3/2 des vignettes de dossier. 
 
@@ -139,7 +139,7 @@ Toute la documentation sur les vignettes est disponible [ici](http://doc.composi
 
 
 
-**7. Créez son dossier univers à un autre emplacement (optionnel)**
+### 7. Créez son dossier univers à un autre emplacement (optionnel)
 
 Créez un dossier `Compositeur Digital UX` à l’emplacement de votre choix puis créez votre dossier univers à l’intérieur de celui-ci. 
 Dans l’application Compositeur Digital UX, depuis la page d’accueil, cliquez sur `ajouter un emplacement` puis `dossier local`, sélectionnez enfin le répertoire Compositeur Digital UX créé précédemment. 
