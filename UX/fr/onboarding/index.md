@@ -50,27 +50,27 @@ Vous pouvez utiliser l’application sur PC Windows 10 tactile ou non.
 
 ## Découvrez les 5 fonctionnalités clés pour la présentation
 
-### **Facilitez vos explications, améliorez la compréhension:** Multi-vues, multi-contenus.
+### Facilitez vos explications, améliorez la compréhension à grâce à un espace de présentation multi-contenus.
 
 ![multivues](http://compositeurdigital.github.io/UX/fr/onboarding/img/multivues.png)
 
 
-### **Personnalisez votre présentation à votre auditoire avec le bon contenu au bon moment:** non linéaire + mode diapositive.
+### Personnalisez votre présentation à votre auditoire avec le bon contenu au bon moment grâce à déroulé non linéaire et à la fonction diapositive pour vos documents  
 
 ![diapo](http://compositeurdigital.github.io/UX/fr/onboarding/img/diapo.png)
 
 
-### **Ayez plus d’impact, augmentez l’attention de vos participants:** Pointez, Zoomez, Annotez, Post-it.
+### Ayez plus d’impact, augmentez l’attention de vos participants, vous pouvez Pointez, Zoomez, Annotez, Post-it sur vos contenus 
 
 ![annotations](http://compositeurdigital.github.io/UX/fr/onboarding/img/annotations.png)
 
 
-### **Etablissez une synthèse visuelle pendant la réunion:**  Templates, Scotch.
+### Etablissez une synthèse visuelle pendant la réunion grâce aux tableaux et à la fonction scotch.
 
 ![templates](http://compositeurdigital.github.io/UX/fr/onboarding/img/templates.png)
 
 
-### **Partagez** : Diffusez instantanément un compte rendu visuel.
+### Partagez votre présentation annotée en diffusant instantanément un compte rendu visuel au format PDF 
 
 ![partage](http://compositeurdigital.github.io/UX/fr/onboarding/img/partage.png)
 
