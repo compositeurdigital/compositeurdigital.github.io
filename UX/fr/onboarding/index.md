@@ -1,5 +1,5 @@
-## Qu’est-ce que le Compositeur Digital UX ? 
-### A qui s’adresse-t-il ?
+# Qu’est-ce que le Compositeur Digital UX ? 
+## A qui s’adresse-t-il ?
 
 Cette application est destinée à tous les professionnels qui recherchent à réaliser des présentations plus claires et vivantes à distance ou en face à face.
 
