@@ -14,14 +14,14 @@ Ces documents et contenus peuvent être des Présentation PowerPoint, Documents 
 
 ### Quels sont les gains ?
 
-Votre présentation est riche et non linéaire. Vous adaptez le contenu de votre présentation à votre auditoire 
+Votre présentation est riche et non linéaire. Vous adaptez le contenu de votre présentation à votre auditoire.
 Votre présentation met en valeur votre expertise et votre auditoire vous comprend. 
 
 
 
-### Est-ce compliqué ?
+### Est-ce simple ?
 
-La création de vos présentations est simple, il vous suffit de savoir glisser vos contenus dans des répertoires ! Vous pouvez également habiller graphiquement votre environnement présentation. 
+Oui ! La création de vos présentations est très simple, il vous suffit de savoir glisser vos documents dans des répertoires ! Vous pouvez également habiller graphiquement votre environnement présentation. 
 Le prise en main est intuitive, la manipulation des contenus est fluide.
 
 
@@ -55,7 +55,7 @@ Vous pouvez utiliser l’application sur PC Windows 10 tactile ou non.
 ![multivues](http://compositeurdigital.github.io/UX/fr/onboarding/img/multivues.png)
 
 
-### Personnalisez votre présentation à votre auditoire avec le bon contenu au bon moment grâce à déroulé non linéaire et à la fonction diapositive pour vos documents  
+### Personnalisez votre présentation à votre auditoire avec le bon contenu au bon moment grâce à un déroulé non linéaire et à la fonction diapositive pour vos documents  
 
 ![diapo](http://compositeurdigital.github.io/UX/fr/onboarding/img/diapo.png)
 
