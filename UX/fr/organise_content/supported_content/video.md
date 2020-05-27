@@ -4,7 +4,7 @@
 * [Description](#description)
 * [Extensions de fichiers](#extensions-de-fichiers)
 * [Actions dans Compositeur Digital UX](#actions-dans-compositeur-digital-ux)
-* [Codecs A/V](#codes-av)
+* [Codecs A/V](#codecs-av)
 * [Vidéos 360°](#vidéos-360)
 * [Métadonnées disponibles](#métadonnées-disponibles)
 
