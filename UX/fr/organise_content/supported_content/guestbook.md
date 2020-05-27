@@ -46,7 +46,7 @@ Pour utiliser un livre d'or, ajoutez l'extension `.guestbook` à la fin du nom d
 
 ## Télécharger un exemple
 
-Un univers de démonstration qui contient un exemple de livre d'or est disponible, [essayez-le!](../Demo-Universe.zip) &#x1f604;
+Un univers de démonstration qui contient un exemple de livre d'or est disponible, [essayez-le!](../../../en/organise_content/Demo-Universe.zip) &#x1f604;
 
 Suivant : [Panorama : vue à 360° (format Compositeur Digital UX)](panorama.md)
 
