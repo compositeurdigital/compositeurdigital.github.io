@@ -73,12 +73,12 @@ La conception d'un élément de résultat correspond à une vignette de l'élém
 
 L'extension `.apartments` utilise la même interface que l'extension `.search`. La seule différence est l'apparence du résultat.
 
-![résultats min .appartements](../../../en/img/content_appartments.JPG)
+![résultats min .appartements](../../../en/img/content_apartments.JPG)
 
 La conception d'un élément de résultat indique diverses informations sur l'élément : surface, orientation, type, sol, etc...
 
-![min élément . appartements](../../../en/img/content_appartments_item_min.JPG) 
-![plein élément .appartements](../../../en/img/content_appartments_item_full.JPG)
+![min élément . appartements](../../../en/img/content_apartments_item_min.JPG) 
+![plein élément .appartements](../../../en/img/content_apartments_item_full.JPG)
 
 ## Tableur : \_list.csv ou \_catalog.csv
 
