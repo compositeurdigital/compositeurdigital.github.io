@@ -109,7 +109,7 @@ Prenons un autre exemple. J'ai un site SharePoint appelé 'Mon site'. Sous ce si
 1. Cliquez sur 'Ajouter'.
 1. La source a été ajoutée à votre liste de sources. 
 
-![SharePoint : site ajouté](../../en/img/add_administrative_sharepoint.jpg)
+![SharePoint : site ajouté](../../en/img/administrative_add_sharepoint.jpg)
 
 
 ## Ajouter des dossiers locaux
