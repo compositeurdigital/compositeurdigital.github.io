@@ -2,7 +2,7 @@
 
 ## Résumé
 * [Description](#description)
-* [Actions dans Compositeur Digital UX] (#actions-dans-compositeur-digital-ux)
+* [Actions dans Compositeur Digital UX](#actions-dans-compositeur-digital-ux)
 * [Extension de dosier](#extension-de-dossier)
 * [Créer une séquence](#créer-une-séquence)
 * [Layers](#layers)
