@@ -85,12 +85,12 @@ Placez 6 images, correspondant aux six faces de votre cube, dans le dossier. Gar
 > Note : L'aperçu par défaut affiché, si un fichier `_preview` n'est pas placé dans le dossier, sera la face avant du cube.
 
 **Nom** : vos fichiers doivent respecter les conventions suivantes :
-   * *face du haut* :nommé "u" ou correspond à "\_u\_", "\_u", "u\_", "up" (ex. `u.jpg`, `pano_u.jpg`, `up.jpg`)
-   * *face du bas* : nommé "d" ou correspond à "\_d\_", "\_d", "d\_", "down" (ex. `d.jpg`, `pano_d.jpg`, `down.jpg`)
-   * *face avant* : nommé "f" ou correspond à "\_f\_", "\_f", "f\_", "front" (ex. `f.jpg`, `pano_f.jpg`, `front.jpg`)
-   * *face arrière* : nommé "b" ou correspond à "\_b\_", "\_b", "b\_", "back" (ex. `b.jpg`, `pano_b.jpg`, `back.jpg`)
-   * *face gauche* : nommé "l" ou correspond à "\_l\_", "\_l", "l\_", "left" (ex. `l.jpg`, `pano_left.jpg`, `left.jpg`)
-   * *face droite* : nommé "r" ou correspond à "\_r\_", "\_r", "r\_", "right" (ex. `r.jpg`, `pano_r.jpg`, `right.jpg`)
+   * *face du haut*: nommée "u" ou correspond à "\_u\_", "\_u", "u\_", "up" (ex. `u.jpg`, `pano_u.jpg`, `up.jpg`)
+   * *face du bas*: nommée "d" ou correspond à "\_d\_", "\_d", "d\_", "down" (ex. `d.jpg`, `pano_d.jpg`, `down.jpg`)
+   * *face avant*: nommée "f" ou correspond à "\_f\_", "\_f", "f\_", "front" (ex. `f.jpg`, `pano_f.jpg`, `front.jpg`)
+   * *face arrière*: nommée "b" ou correspond à "\_b\_", "\_b", "b\_", "back" (ex. `b.jpg`, `pano_b.jpg`, `back.jpg`)
+   * *face gauche*: nommée "l" ou correspond à "\_l\_", "\_l", "l\_", "left" (ex. `l.jpg`, `pano_left.jpg`, `left.jpg`)
+   * *face droite*: nommée "r" ou correspond à "\_r\_", "\_r", "r\_", "right" (ex. `r.jpg`, `pano_r.jpg`, `right.jpg`)
 
 ![Panorama dossier cubes](../../../en/img/content_panorama_cubes_folder.JPG)
 
