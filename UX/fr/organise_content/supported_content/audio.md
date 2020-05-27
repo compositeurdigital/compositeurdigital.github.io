@@ -37,14 +37,13 @@ Le lecteur audio prend en charge les actions suivantes. Pour avoir un aperçu co
 
 | Clé de métadonnées                | Type      | Par défaut | Description                                                      |
 |:--------------------------------- |:----------|:-----------|:-----------------------------------------------------------------|
-| `video.autoplay`                  | `booléen` | vrai       | lancer la lecture de la vidéo à l'écran                          |
+| `video.autoplay`                  | `booléen` | vrai       | lire automatiquement le fichier audio à l'ouverture du contenu   |
 | `video.autoplay.delay`            | `nombre ` | 0          | retarder la lecture automatique du nombre de secondes spécifié   |
-| `video.autoclose`                 | `booléen` | faux       | fermer la vidéo lorsque la lecture est terminée                  |
+| `video.autoclose`                 | `booléen` | faux       | fermer le player audio lorsque la lecture est terminée           |
 | `video.autoclose.delay`           | `nombre ` | 0          | retarder la fermeture automatique du nombre de secondes spécifié |
-| `video.rewind`                    | `booléen` | faux       | revenir à la première image lorsque la vidéo se termine          |
-| `video.loop`                      | `booléen` | faux       | reprise au début à la fin de la vidéo                            |
-| `video.mute`                      | `booléen` | faux       | forcer la vidéo à être muette                                    |
-| `video.controls.alwaysvisible`    | `booléen` | faux       | forcer l'affichage des commandes de lecture vidéo                |
+| `video.rewind`                    | `booléen` | faux       | rembobiner lorsque la lecture du fichier audio est terminée      |
+| `video.loop`                      | `booléen` | faux       | lire le fichier audio en boucle                                  |
+| `video.controls.alwaysvisible`    | `booléen` | faux       | forcer l'affichage des commandes du player audio                 |
 
 Suivant: [Livre d'or (format Compositeur Digital UX)](guestbook.md)
 
