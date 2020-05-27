@@ -30,7 +30,7 @@ Le simulateur de prêt permet les actions suivante. Pour avoir un aperçu comple
 |:--------------:|:-----------------------------:|:------------:|:--------------:|:--------------------------------:|:--------:|
 | &#x2714;       | &#x2714;                      | &#x2714;     | &#x2714;       | &#x2714;                         | &#x2714; |
 
-## Extension du contenu
+## Extension de dossier
 
 Pour utiliser un simulateur de prêt, ajoutez l'extension `.simupret` à la fin du nom de votre dossier.
 
