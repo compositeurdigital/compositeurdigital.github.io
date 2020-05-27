@@ -52,6 +52,6 @@ N'utilisez que les fichiers qui se terminent par `.jpg`, `.jpeg`, `.pdf`, `.png`
 Un univers de démonstration qui contient un exemple de diaporama est disponible, [essayez-le!](../../../en/organise_content/Demo-Universe.zip) &#x1f604;
 
 
-Suivant : [Pages web](page_web.md)
+Suivant : [Pages web](web_page.md)
 
 [Retour aux Contenus pris en charge](index.md)
