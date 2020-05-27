@@ -26,7 +26,7 @@ Ce type de contenu vous permet d'afficher un formulaire interactif qui vous aide
 
 ![formulaire](../../../en/img/content_form.jpg)
 
-## Actions au sein du Compositeur Digital UX
+## Actions dans Compositeur Digital UX
 
 Les formulaires prennent en charge les actions suivantes. Pour avoir un aperçu complet de chaque action, [voir la section Actions](actions.md)
 
