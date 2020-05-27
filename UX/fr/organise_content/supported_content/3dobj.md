@@ -2,12 +2,12 @@
 
 ## Résumé
 * [Description](#description)
-* [Actions au sein du Compositeur Digital UX](#actions-au-sein-du-Compositeur-Digital-UX)
-* [Extension de contenu](#extension-de-contenu)
+* [Actions dans Compositeur Digital UX](#actions-dans-Compositeur-Digital-UX)
+* [Extension de dossier](#extension-de-dossier)
 * [Créer un objet 3D](#créer-un-objet-3d)
 * [Fond de scène](#fond-de-scène)
 * [Métadonnées disponibles](#métadonnées-disponibles)
-* [Télécharger un échantillon](#télécharger-un-échantillon)
+* [Télécharger un exemple](#télécharger-un-exemple)
 
 ## Description 
 
@@ -38,30 +38,30 @@ Les objets 3D prennent en charge l'action suivante. Pour avoir un aperçu comple
 
 **Menu des actions**
 
-| Annoter  | Capturer | Dupliquer | Ouvrir dans l'app native | Enregistrer sous | Sélection | Partager | 
-|:--------:|:--------:|:---------:|:------------------------:|:----------------:|:---------:|:--------:|
-| &#x2716; | &#x2714; | &#x2714;  |        &#x2716;          |   &#x2716;       | &#x2714;  | &#x2716; |
+| Capturer | Dupliquer | Ouvrir dans l'app native | Enregistrer sous | Sélection | Partager | 
+|:--------:|:---------:|:------------------------:|:----------------:|:---------:|:--------:|
+| &#x2714; | &#x2714;  |        &#x2716;          |   &#x2716;       | &#x2714;  | &#x2716; |
 
-**Interaction avec l'objet**
+**Interaction avec le contenu**
 
-| Mode manipulation | Focus sur Partie|  Afficher/Masquer la partie|
-|:-----------------:|:----------------|:---------------------------|
-| &#x2714;          |      &#x2714;   |             &#x2714;       |
+| Mode manipulation | Focus sur une partie |  Afficher/Masquer la partie |
+|:-----------------:|:---------------------|:----------------------------|
+| &#x2714;          | &#x2714;             | &#x2714;                    |
 
-## Extension de contenu
+## Extension de dossier
 
-Pour utiliser un objet 3d, mettez les modèles et tous les fichiers joints (material lib, textures, bitmaps) dans un dossier, et ajoutez l'extension '.3ds' ou '.obj' à la fin du nom de votre dossier.
-A l'intérieur de votre dossier d'objets 3d, n'utilisez que les fichiers qui se terminent par '.3ds', '.bmp', '.dds', '.jpeg', '.jpg', '.mtl', '.obj' ou '.png'.
+Pour utiliser un objet 3d, mettez les modèles et tous les fichiers joints (material lib, textures, bitmaps) dans un dossier, et ajoutez l'extension `.3ds` ou `.obj` à la fin du nom de votre dossier.
+A l'intérieur de votre dossier d'objets 3d, n'utilisez que les fichiers qui se terminent par `.3ds`, `.bmp`, `.dds`, `.jpeg`, `.jpg`, `.mtl`, `.obj` ou `.png`.
 
 ## Créer un objet 3D
 
 1. Dans votre dossier environnement, créez un dossier nommé `<Nom de votre modèle 3D>.3ds` (par exemple `My loader.3ds`).
 1. Glissez et déposez dans ce dossier tous les fichiers qui composent vos modèles 3d.
-1. (Optionnel) Ajoutez une image (`.jpg` ou `.png`) nommée `_preview` pour changer l'aperçu.
+1. (Optionnel) Ajoutez une image (`.jpg` ou `.png`) nommée `_preview` pour changer la vignette.
 
-## Fond de la scène
+## Arrière-plan
 
-Vous pouvez personnaliser l'arrière-plan de la scène. Par défaut, si aucune skybox, aucun fond ou aucune couleur n'est défini, nous utilisons un fond d'image par défaut. Vous pouvez définir : 
+Vous pouvez personnaliser l'arrière-plan de la scène. Par défaut, si aucune `skybox`, aucun fond ou aucune couleur n'est défini, nous utilisons un fond d'image par défaut. Vous pouvez définir : 
 
 1. Une texture de skybox (fichier `.dds`) qui sera mappée dans le fond de la scène. Elle doit être nommée `_skybox.dds`.
 1. Un fichier d'arrière-plan nommé `_background.(jpg, png, jpeg)`.
@@ -78,10 +78,10 @@ Vous pouvez personnaliser l'arrière-plan de la scène. Par défaut, si aucune s
 
 ![Modes de rendu des obj 3D](../../../en/img/content_3d-obj_rendering-modes.jpg)
 
-## Téléchager un échantillon
+## Téléchager un exemple
 
-Un univers de démonstration qui contient des exemples de contenus de panoramas est disponible, [essayez-le](../Demo-Universe.zip) &#x1f604 ;
+Un univers de démonstration qui contient des exemples de contenus 3D est disponible, [essayez-le!](../../../en/organise_content/Demo-Universe.zip) &#x1f604;
 
 Suivant : [Livre d'or (format Compositeur Digital UX)](guestbook.md)
 
-[Retour au contenu pris en charge](index.md)
+[Retour aux Contenu pris en charge](index.md)
