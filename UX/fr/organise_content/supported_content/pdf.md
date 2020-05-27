@@ -17,15 +17,15 @@ Les fichiers Pdf permettent de réaliser les actions suivantes. Pour avoir un ap
 
 **Menu des actions**
 
-| Annoter   | Capturer  | Dupliquer | Ouvrir dans l'app native | Enregistrer sous | Sélection | Partager | Diapositives |
-|:---------:|:---------:|:---------:|:------------------------:|:----------------:|:---------:|:--------:|:------------:|
-| &#x2714;  | &#x2714;  | &#x2714;  | &#x2714;                 | &#x2714;         | &#x2714;  | &#x2714; | &#x2714;     | 
+| Capturer  | Dupliquer | Ouvrir dans l'app native | Enregistrer sous | Sélection | Partager | Diapositives |
+|:---------:|:---------:|:------------------------:|:----------------:|:---------:|:--------:|:------------:|
+| &#x2714;  | &#x2714;  | &#x2714;                 | &#x2714;         | &#x2714;  | &#x2714; | &#x2714;     | 
 
 **Interaction avec le contenu**
 
-| Mode d'extraction d'image | Hyperlien | Suivant | Précédent | 
-|:-------------------------:|:---------:|:--------:|:--------:|
-| &#x2714;                  | &#x2714;  | &#x2714; | &#x2714; |
+| Annoter   | Mode d'extraction d'image | Hyperlien | Suivant | Précédent | 
+|:---------:|:-------------------------:|:---------:|:--------:|:--------:|
+| &#x2714;  | &#x2714;                  | &#x2714;  | &#x2714; | &#x2714; |
 
 ## Diaporama
 
