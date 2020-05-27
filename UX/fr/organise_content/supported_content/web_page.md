@@ -6,7 +6,7 @@
 * [Extensions de dossier et fichiers](#extensions-de-dossiers-et-fichiers)
   * [Je veux afficher un site web dans Compositeur Digital UX](#je-veux-afficher-un-site-web-dans-compositeur-digital-ux)
   * [Je veux afficher une page Html locale](#je-veux-afficher-une-page-html-locale)
-  * [Je veux afficher un lien vers un site web qui sera ouvert dans un navigateur web](#je-veux-afficher-un-lien-de-site-web-qui-s'ouvrira-dans-un-navigateur-web)
+  * [Je veux afficher un lien vers un site web qui sera ouvert dans un navigateur web](#je-veux-afficher-un-lien-vers-un-site-web-qui-sera-ouvert-dans-un-navigateur-web)
 * [Interactions avec Compositeur Digital UX](#interactions-avec-compositeur-digital-ux)
 * [Métadonnées disponibles](#métadonnées-disponibles)
 * [Téléchargez un exemple](#télécharger-un-exemple)
