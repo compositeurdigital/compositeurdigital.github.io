@@ -25,4 +25,4 @@ Contient des questions fréquemment posées sur l'installation et l'utilisation 
 ### [Notes de version](../en/release_notes/index.md)
 Description des nouvelles fonctionnalités et des corrections de bogues dans les versions du *Compositeur Digital UX*.  
 
-[Retour au Choix de documentation](../../index.md)
+[Retour au Choix de documentation](../../selector/index.md)
