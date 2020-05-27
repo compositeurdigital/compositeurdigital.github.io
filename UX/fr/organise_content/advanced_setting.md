@@ -18,13 +18,13 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 
 ## Résumé 
 * [Types de valeurs](#types-de-valeurs)
-* [Métadonnées prises en charge] (#métadonnées-prises-en-charge)
+* [Métadonnées prises en charge](#métadonnées-prises-en-charge)
 * [Métadonnées spécifiques au contenu](#métadonnées-spécifiques-au-contenu)
   * [Vidéo et audio](#vidéo-et-audio)
   * [Web](#web)
-  * [simulateur de prêt] (#simulateur-d'hypothèque)
-  * [Simulateur d'épargne] (#simulateur-d'épargne)
-  * [objets 3D] (#objets-3d)
+  * [simulateur de prêt](#simulateur-de-prêt)
+  * [Simulateur d'épargne](#simulateur-d'épargne)
+  * [objets 3D](#objets-3d)
   * [Interface de recherche](#interfaces-de-recherche)
 * [Valeurs partagées](#valeurs-partagées)
 
@@ -100,7 +100,7 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 | `web.viewport.width`              | `nombre`  | 1000       | Définit la largeur par défaut de la vue de la page |
 | `web.viewport.height`             | `nombre`  | 800        | Définit la hauteur par défaut de la vue de la page |
 
-### Simutateur d'hypothèque
+### Simutateur de prêt
 
 | Clé de métadonnées                           | Type     | Par défaut         | Description |
 |:-------------------------------------------- |:---------|:-------------------|:------------|
@@ -164,6 +164,4 @@ Certaines valeurs peuvent être partagées entre différents éléments, par exe
 | `organization`                   | `texte`   | définit l'organisation du contact actuel |
 | `finance.budget`                 | `nombre`  | définit le montant du prête hypothécaire du contact actuel |
 
-
-
-[Back to Organise Content](index.md)
+[Retour à Organiser vos contenus](index.md)
