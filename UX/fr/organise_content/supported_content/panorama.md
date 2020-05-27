@@ -106,7 +106,7 @@ Dans le lecteur vidéo, pour déplacer la caméra, appuyez sur le bouton '360°'
 
 Pour arrêter la navigation, cliquez à nouveau sur le bouton '360°'.
 
-![Panorama vidéo 360 désactivé](../../../en/img/contenu_panorama_video360_disable.JPG)
+![Panorama vidéo 360 désactivé](../../../en/img/content_panorama_video360_disable.JPG)
 
 
 ## Télécharger un exemple
