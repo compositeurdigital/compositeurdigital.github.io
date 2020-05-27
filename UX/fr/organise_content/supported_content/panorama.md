@@ -111,7 +111,7 @@ Pour arrêter la navigation, cliquez à nouveau sur le bouton '360°'.
 
 ## Télécharger un exemple
 
-Un univers de démonstration qui contient des exemples de panoramas est disponible, [essayez-le](../Demo-Universe.zip) &#x1f604;
+Un univers de démonstration qui contient des exemples de panoramas est disponible, [essayez-le](../../../en/organise_content/Demo-Universe.zip) &#x1f604;
 
 Suivant : [Quizz (format Compositeur Digital UX)](quiz.md)
 
