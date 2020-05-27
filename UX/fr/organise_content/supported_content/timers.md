@@ -2,7 +2,7 @@
 
 ## Résumé
 * [Description](#description)
-* [Extension de contenu](#extension-de-contenu)
+* [Extension de dossier](#extension-de-dossier)
 * [Créer un chronomètre](#créer-un-chronomètre)
 * [Créer un compte à rebours](#créer-un-compte-à-rebours)
 * [Créer un minuteur](#créer-un-minuteur)
@@ -28,7 +28,7 @@ Une fois que le minuteur expire, il clignote :
 
 ![Le compte à rebours clignote](../../../en/img/content_timer_ticked.jpg)
 
-## Extension du contenu
+## Extension de dossier
 
 Pour utiliser un chronomètre, ajoutez l'extension `.stopwatch` ou `.chrono` à la fin du nom de votre dossier.
 Pour utiliser un compte à rebours, ajoutez l'extension `.countdown` ou `.minuteur` à la fin du nom de votre dossier.
