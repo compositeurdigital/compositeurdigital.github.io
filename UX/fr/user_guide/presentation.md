@@ -52,7 +52,7 @@ La page d'accueil du Compositeur Digital UX présente tous les univers disponibl
 
 ![Page de démarrage du Compositeur Digital UX - univers](../../en/img/pres_universes.jpg)
 
-1. La liste de toutes les sources disponibles. Dans cet exemple, il y a une source locale (`Documents`), trois sources en du cloud, et une source usb.
+1. La liste de toutes les sources disponibles. Dans cet exemple, il y a une source locale (`Documents`), trois sources du cloud, et une source usb.
 1. L'onglet 'Nouveau' affiche tous les univers disponibles dans la source. 
 1. L'onglet "Ouvrir" contient tous les projets lancés sur cette source.
 1. Un bouton de rafraîchissement vous permet de recharger la source si vous avez créé de nouveaux univers, ou si vous avez supprimé certains univers.
