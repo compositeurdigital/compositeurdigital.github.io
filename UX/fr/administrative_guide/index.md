@@ -7,11 +7,11 @@ Suivez ce guide pour savoir comment gérer les données administratives de votre
 * [Licence Compositeur Digital UX](#licence-compositeur-digital-ux)
   * [Identification](#identification)
   * [Déconnexion](#déconnexion)
-* [compte Office365](#compte-Office365)
-  * [identification Office365](#identification-office365)
-  * [déconnexion Office365](#déconnexion-office365)
-  * [Microsoft Teams](#ajouter-microsoft-teams)
-  * [Sites SharePoint](#ajouter-sites-sharepoint)
+* [Compte Office365](#compte-Office365)
+  * [Se connecter à Office365](#se-connecter-à-office365)
+  * [Se déconnecter d'Office365](#se-déconnecter-doffice365)
+  * [Microsoft Teams](#microsoft-teams)
+  * [Sites SharePoint](#sites-sharepoint)
 * [Ajouter des dossiers locaux](#ajouter-dossiers-locaux)
 * [clés USB](#clés-usb)
 * [Mode kiosque](#mode-kiosque)
@@ -52,7 +52,7 @@ Le Compositeur Digital UX vous permet de vous connecter directement à votre ten
 
 > **Note** : Cette façon d'accéder à vos documents nécessite que vous ayez une connexion internet disponible à chaque fois que vous demandez votre univers en streaming.
 
-### Connexion Office365
+### Se connecter à Office365
 
 ![1. identification dans le office365 partie 1](../../en/img/administrative_signin_o365.JPG)
 
@@ -67,7 +67,7 @@ Le Compositeur Digital UX vous permet de vous connecter directement à votre ten
 1. Sur la page de démarrage de l'application, cliquez sur votre compte Office 365.
 1. Cliquez sur 'Se déconnecter'.
 
-### Ajouter des Channels Microsoft Teams
+### Microsoft Teams
 
 Une fois que votre compte Office365 a été ajouté, vous pouvez accéder au contenu de vos Channels Microsoft Teams. Pour ce faire, vous devez créer un dossier 'Compositeur Digital UX' à l'intérieur de votre Channel. 
 
@@ -94,7 +94,7 @@ Depuis mon Compositeur Digital UX, je peux diffuser cette bibliothèque en strea
 
 6. La source a été ajoutée à votre liste de sources. 
 
-### Ajouter des sites SharePoint
+### Sites SharePoint
 
 Prenons un autre exemple. J'ai un site SharePoint appelé 'Mon site'. Sous ce site, j'ai une bibliothèque de 'Documents'. Dans cette bibliothèque, j'ai un dossier appelé 'Compositeur Digital UX', qui contient des univers. 
 
