@@ -79,9 +79,10 @@ Toutes les actions sont disponibles via l'objet `CDUX`.
 
 **openItem**(chemin de la chaîne de caractères)
 <br />ouvrez un élément de votre univers en donnant son chemin relatif depuis votre webview
-<br />`<a href="javascript:CDUX.openItem('../image.jpg') ;">image ouverte</a>`
-<br />`<a href="javascript:CDUX.openItem('2ndPage.html?name=test') ;">ouvrir un nouveau site web</a>`
-
+```HTML
+<a href="javascript:CDUX.openItem('../image.jpg');">image ouverte</a>
+<a href="javascript:CDUX.openItem('2ndPage.html?name=test');">ouvrir un nouveau site web</a>
+```
 **SetJsonProjectData**(dataKey de la chaîne, valeur de la chaîne)
 <br />stocker la valeur (objet primitif ou complexe) dans le projet sous la clé donnée
 
@@ -131,14 +132,21 @@ Avec ProjectData, vous pouvez interagir avec les valeurs d'un autre aperçu sur 
 
 **Déclassé** * : les méthodes ci-dessous ne sont conservées que pour des raisons de légalité.
 <br />getProjectData : récupérer une valeur stockée sur le projet en cours en donnant sa clé
-<br />`var budget = CDUX.getProjectData("firstName");`
+```javascript
+`var budget = CDUX.getProjectData("firstName");
+```
 <br />setProjectData : définit une valeur sur le projet en cours pour une clé donnée
-<br />`CDUX.setProjectData("finance.budget", 600000);`
+```javascript
+CDUX.setProjectData("finance.budget", 600000);
+```
 <br />getInstanceData : récupère une valeur stockée sur l'instance de la page courante en donnant sa clé
-<br />`var value = CDUX.getInstanceData("questionnay.thirdAnswer");`
+```javascript
+var value = CDUX.getInstanceData("questionnay.thirdAnswer");
+```
 <br />setInstanceData : définit une valeur sur la page en cours pour une clé donnée
-<br />`CDUX.setInstanceData("questionnay.thirdAnswer", "Yes");`*
-
+```javascript
+CDUX.setInstanceData("questionnay.thirdAnswer", "Yes");
+```
 
 ### Résumé
 
