@@ -120,6 +120,6 @@ Vous pouvez également fermer un document en le déposant sur les bords de votre
 
 **Important** : un document que vous avez fermé n'est jamais perdu. Vous pouvez le récupérer dans "Historique".
 
-Suivant : [Flux de travail](workflow.md)
+Suivant : [Workflow](workflow.md)
 
 [Retour au guide de l'utilisateur](index.md)
