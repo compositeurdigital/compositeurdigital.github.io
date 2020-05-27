@@ -43,7 +43,8 @@ Le lecteur audio prend en charge les actions suivantes. Pour avoir un aperçu co
 | `video.autoclose.delay`           | `nombre ` | 0          | retarder la fermeture automatique du nombre de secondes spécifié |
 | `video.rewind`                    | `booléen` | faux       | rembobiner lorsque la lecture du fichier audio est terminée      |
 | `video.loop`                      | `booléen` | faux       | lire le fichier audio en boucle                                  |
-| `video.controls.alwaysvisible`    | `booléen` | faux       | forcer l'affichage des commandes du player audio                 |
+| `video.controls.alwaysvisible`    | `booléen` | faux       | force l'affichage permanent des commandes du player audio        |
+| `video.controls.hide`             | `booléen` | faux       | cache les commandes du player audio de façon permanente          |
 
 Suivant: [Livre d'or (format Compositeur Digital UX)](guestbook.md)
 
