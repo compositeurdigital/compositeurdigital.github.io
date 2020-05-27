@@ -21,12 +21,12 @@ Le Compositeur Digital UX traite les documents stockés dans un endroit spécifi
 
 ## Compétences et ressources requises
 
-La préparation d'un univers se fait à l'aide de l'application intégrée d'exploration de fichiers de Microsoft Windows
+La préparation d'un univers se fait à l'aide de l'explorateur de fichiers de Microsoft Windows
 
 Vous devez être à l'aise avec : 
 
-- Organisation des dossiers 
-- Renommer les fichiers et le dossier
+- La création et l'organisation de dossiers 
+- Le renommage des fichiers et des dossiers
 - C'est tout &#x1F601;
 
 ## Extensions de fichiers
@@ -37,7 +37,7 @@ Compositeur Digital UX utilise l'extension de fichier pour configurer les diffé
 - Présentation : par exemple `pres1.pptx`, `pres2.pdf`.
 - Fichier texte : par exemple `tableau de contenu.txt`.
 
-Par défaut, l'explorateur Windows cache les extensions de fichiers. Nous vous recommandons vivement de modifier ce paramètre.
+Par défaut, l'explorateur de fichiers de Microsoft Windows cache les extensions de fichiers. Nous vous recommandons vivement de modifier ce paramètre.
 
 
 ![Activer les extensions de fichiers](../../en/img/enable_file_extensions.JPG)
@@ -72,7 +72,7 @@ Voici une liste de tous les formats d'écran pris en charge.
 | 16:9  | `_background16_9`  |
 | 16:10 | `_background16_10` |
 
-L'utilisation de différents fichiers de fond, adaptés à différents formats d'écran, vous permet de vous assurer que vous pouvez visualiser votre univers sur n'importe quel écran.
+L'utilisation de différents fichiers de fond, adaptés à différents formats d'écran, vous permet de vous assurer que vous pouvez visualiser votre univers sur n'importe quel format d'écran.
 
 ## Fond interactif
 
@@ -91,14 +91,14 @@ Le premier niveau de dossiers est affiché dans le Compositeur Digital UX dans l
 
 >### Fonctionnalité des dossiers cachés
 >
->Les dossiers dont le nom contient le mot ".content" ne seront pas affichés dans le Compositeur Digital UX.
+>Les dossiers dont le nom se termine par `.content` ou `.hidden` ne seront pas affichés dans le Compositeur Digital UX.
 >Voir [Powerpoints Hot Spots](supported_content/powerpoint.md#hot-spots) pour voir l'utilisation courante de cette fonctionnalité.
 
 ## Documents
 
-Il suffit de glisser et de déposer vos documents dans les dossiers et sous-dossiers pour peupler votre univers.
+Il suffit de glisser et de déposer vos documents dans les dossiers et sous-dossiers pour remplir votre univers.
 
-Consultez le Contenu pris en charge pour obtenir une liste exhaustive des types de fichiers pris en charge.
+Consultez les [contenus pris en charge](supported_content/index.md) pour obtenir une liste exhaustive des types de fichiers pris en charge.
 
 ## Ordre de visualisation du contenu
 
@@ -116,7 +116,7 @@ Si une vignette n'a pas été définie pour un dossier, le Compositeur Digital U
 ![Pas de miniature](../../en/img/universe_no_preview.JPG) 
 ![Pas de doc miniature](../../en/img/universe_no_preview_dock.JPG)
 
-Pour créer une vignette pour un dossier, il suffit de faire glisser et de déposer un fichier image nommé `_preview` (`.png` ou `.jpg`) directement dans le dossier :
+Pour créer une vignette pour un dossier, il suffit de déposer un fichier image nommé `_preview` (`.png` ou `.jpg`) directement dans le dossier :
 
 
 ![Avec miniature](../../en/img/universe_preview.JPG) 
@@ -124,7 +124,7 @@ Pour créer une vignette pour un dossier, il suffit de faire glisser et de dépo
 
 ### Vignette de document
 
-Pour personnaliser la vignette d'un document, faites glisser et déposez un fichier image portant le même nom mais avec le suffixe `_preview` dans le même dossier.
+Pour personnaliser la vignette d'un document, déposez un fichier image portant le même nom mais avec le suffixe `_preview` dans le même dossier.
 
 ![Avec miniature de document](../../en/img/universe_document_preview.JPG) 
 ![Avec miniature de document doc](../../en/img/universe_document_preview_dock.JPG)
