@@ -4,8 +4,8 @@
 * [Description](#description)
 * [Extensions de fichiers](#extensions-de-fichiers)
 * [Actions dans Compositeur Digital UX](#actions-dans-compositeur-digital-ux)
-   * [Faire un diaporama](#faire-un-diaporama)
-   * [Ajouter des Hot Spots](#ajouter-des-hot-spots)
+* [Construire un diaporama](#constuire-un-diaporama)
+* [Ajouter des Hot Spots](#ajouter-des-hot-spots)
 
 ## Description
 
@@ -23,25 +23,24 @@ Les images prennent en charge l'action suivante. Pour avoir un aperçu complet d
 
 **Menu des actions**
 
-| Annoter  | Dupliquer | Ouvrir dans l'app native | Enregistrer sous | Sélection | Partager |
-|:--------:|:---------:|:------------------------:|:----------------:|:---------:|:--------:|
-| &#x2714; | &#x2714;  | &#x2714;                 | &#x2714;         | &#x2714;  | &#x2714; |
+| Dupliquer | Ouvrir dans l'app native | Enregistrer sous | Sélection | Partager |
+|:---------:|:------------------------:|:----------------:|:---------:|:--------:|
+| &#x2714;  | &#x2714;                 | &#x2714;         | &#x2714;  | &#x2714; |
 
-**Interaction avec l'élément**
+**Interaction avec le contenu**
 
-| Coller |
-|:--------:|
-| &#x2714; |
+| Annoter  | Coller   |
+|:--------:|:--------:|
+| &#x2714; | &#x2714; |
 
-### Faire un diaporama
+### Constuire un diaporama
 
-Si vous avez plusieurs images, vous pouvez les transformer en [Diaporamas.](slideshows.md)
+Si vous avez plusieurs images, vous pouvez les transformer en [diaporamas.](slideshows.md)
 
 ### Ajouter des Hot spots
 
 Si vous souhaitez ajouter des "Hot Spots" à votre image, c'est-à-dire ajouter la possibilité d'ouvrir un document lorsque votre utilisateur interagit avec une zone spécifique de votre image, vous pouvez transformer votre image en une présentation Microsoft Powerpoint, puis [voir la section Hot Spots](powerpoint.md#hot-spots)
 
 Suivant : [Fichiers Pdf](pdf.md)
-
 
 [Retour aux Contenus pris en charge](index.md)
