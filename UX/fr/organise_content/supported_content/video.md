@@ -56,9 +56,9 @@ Les vidéos 360° peuvent être visionnées avec un player qui permet à l'utili
 | `video.autoclose`              | `booléen` | faux       | ferme la vidéo lorsque la lecture arrive à son terme            |
 | `video.autoclose.delay`        | `nombre ` | 0          | retarde la fermeture automatique du nombre de secondes spécifié |
 | `video.rewind`                 | `booléen` | faux       | revient à la première image lorsque la vidéo se termine         |
-| `video.loop`                   | `booléen` | faux       | reprend depuis le début quand la vidéo se termine               |
+| `video.loop`                   | `booléen` | faux       | force la lecture en boucle de la vidéo                          |
 | `video.mute`                   | `booléen` | faux       | force la vidéo à être muette                                    |
-| `video.controls.alwaysvisible` | `booléen` | faux       | force l'affichage des commandes de lecture vidéo en permanence  |
+| `video.controls.alwaysvisible` | `booléen` | faux       | force l'affichage permanent des commandes du player vidéo       |
 | `video.controls.hide`          | `booléen` | faux       | cache les contrôles de lecture vidéo en permanence              |
 
 Suivant : [Fichiers audio](audio.md)
