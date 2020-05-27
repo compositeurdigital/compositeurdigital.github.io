@@ -23,9 +23,9 @@ Les images prennent en charge l'action suivante. Pour avoir un aperçu complet d
 
 **Menu des actions**
 
-| Dupliquer | Ouvrir dans l'app native | Enregistrer sous | Sélection | Partager |
-|:---------:|:------------------------:|:----------------:|:---------:|:--------:|
-| &#x2714;  | &#x2714;                 | &#x2714;         | &#x2714;  | &#x2714; |
+| Capturer | Dupliquer | Ouvrir dans l'app native | Enregistrer sous | Sélection | Partager |
+|:--------:|:---------:|:------------------------:|:----------------:|:---------:|:--------:|
+| &#x2716; | &#x2714;  | &#x2714;                 | &#x2714;         | &#x2714;  | &#x2714; |
 
 **Interaction avec le contenu**
 
