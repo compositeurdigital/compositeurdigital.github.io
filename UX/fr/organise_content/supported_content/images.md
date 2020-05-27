@@ -2,8 +2,8 @@
 
 ## Résumé
 * [Description](#description)
-* [extension de fichier](#extensions-de-fichier)
-* [Actions au sein du Compositeur Digital UX](#actions-au-sein-du-compositeur-digital-ux)
+* [Extensions de fichiers](#extensions-de-fichiers)
+* [Actions dans Compositeur Digital UX](#actions-dans-compositeur-digital-ux)
    * [Faire un diaporama](#faire-un-diaporama)
    * [Ajouter des Hot Spots](#ajouter-des-hot-spots)
 
