@@ -15,14 +15,14 @@ Apprenez comment construire votre propre univers et quel type de contenu vous po
 ### [Guide administratif](administrative_guide/index.md)
 Gérez votre *Compositeur Digital UX*
 
-* [**License**](administrative_guide/index.md#compositeur-digital-ux-license) : activez votre licence Compositeur Digital UX.
-* [**Office365**](administrative_guide/index.md#office365-account) : connectez le Compositeur Digital UX à votre tenant Office365.
-* [**Mode kiosque**](administrative_guide/index.md#kiosk-mode) : configurez votre application pour qu'elle soit utilisée dans la configuration du kiosque.
+* [**License**](administrative_guide/index.md#license-compositeur-digital-ux) : activez votre licence Compositeur Digital UX.
+* [**Office365**](administrative_guide/index.md#compte-office365) : connectez le Compositeur Digital UX à votre tenant Office365.
+* [**Mode kiosque**](administrative_guide/index.md#mode-kiosque) : configurez votre application pour qu'elle soit utilisée dans la configuration du kiosque.
 
 ### [FAQ](FAQ/index.md)
 Contient des questions fréquemment posées sur l'installation et l'utilisation du *Compositeur Digital UX* et fournit des solutions aux problèmes courants.
 
-### [Notes de version](release_notes/index.md)
+### [Notes de version](../en/release_notes/index.md)
 Description des nouvelles fonctionnalités et des corrections de bogues dans les versions du *Compositeur Digital UX*.  
 
 [Retour au Choix de documentation](../../index.md)
