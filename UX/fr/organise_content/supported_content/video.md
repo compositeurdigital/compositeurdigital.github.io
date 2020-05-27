@@ -34,6 +34,9 @@ Les vidéos prennent en charge les actions suivantes. Pour avoir un aperçu comp
 |:--------:|:---------------:|
 |&#x2714;  | &#x2714;        | 
 
+> Note : Une vidéo peut être annotée lorsqu'elle est en pause. L'annotation disparaît quand la vidéo est en lecture. 
+> Si vous voulez garder vos annotations, pensez à faire une Capture de votre vidéo annotée.
+
 ## Codecs A/V
 
 Un format de fichier vidéo peut intégrer différentes normes de codage/décodage. Ces normes appelées "codecs" doivent être installées sur votre ordinateur. Le [K-Lite Codec Pack](https://codecguide.com/download_k-lite_codec_pack_standard.htm) comprend une grande variété de codecs. Veuillez noter que certains codecs peu courants peuvent ne pas être pris en charge par Compositeur Digital UX.
