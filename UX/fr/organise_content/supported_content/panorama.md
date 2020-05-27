@@ -58,7 +58,7 @@ Pour utiliser un panorama, placez les images à rendre dans un dossier, et ajout
 1. Glissez et déposez dans ce dossier tous les fichiers qui composent votre panorama.
 1. (Facultatif) Ajoutez une image (`.jpg` ou `.png`) nommée `_preview` pour changer la vignette.
 
-## Créer un panorama
+## Créer une visite virtuelle
 
 1. Dans votre univers, créez un dossier nommé `<Nom de votre visite>.panorama` (par exemple `Ma visite.panorama`).
 1. Glissez et déposez dans ce dossier tous les fichiers et sous-dossiers qui composent votre visite. Ces fichiers doivent inclure un fichier nommé `_tour.xml`. Ce fichier contient toutes les descriptions des différentes scènes et zones actives qui composent votre visite. 
