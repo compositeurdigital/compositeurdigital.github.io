@@ -2,48 +2,46 @@
 
 ## Résumé
 * [Description](#description)
-* [Extensions de fichiers](#extensions-de-fichier)
-* [Actions au sein du Compositeur Digital UX] (#actions-au-sein-du-compositeur-digital-ux)
-* [Zones actives](#zones*actives)
+* [Extensions de fichiers](#extensions-de-fichiers)
+* [Actions dans Compositeur Digital UX](#actions-dans-compositeur-digital-ux)
+* [Hot Spots](#hot-spots)
 * [Diaporama](#diaporama)
 
 ## Description
 
-Les Powerpoints sont pris en charge en natif par le Compositeur Digital UX.
+Les Powerpoints sont pris en charge nativement par Compositeur Digital UX.
 
-[Powerpoints affichés dans le Compositeur Digital UX](../../../en/img/content_powerpoint.JPG)
+![Powerpoints affichés dans le Compositeur Digital UX](../../../en/img/content_powerpoint.JPG)
 
-## Extensions de fichier
+## Extensions de fichiers
 
-Les formats pris en charge sont '.ppt ' et '.pptx'.
+Les formats pris en charge sont `.pptx` et `.ppsx`.
 
-## Actions au sein du Compositeur Digital UX
+## Actions dans Compositeur Digital UX
 
-Les Powerpoints prennent en charge l'action suivante. Pour avoir un aperçu complet de chaque action, [voir la section Actions](actions.md)
+Les Powerpoints prennent en charge les actions suivantes. Pour avoir un aperçu complet de chaque action, [voir la section Actions](actions.md).
 
 **Menu des actions**
 
-| Annoter   | Capturer  | Dupliquer | Ouvrir dans l'app native | Enregistrer sous | Sélection | Partager | Diapositives |
+| Annoter  | Capturer | Dupliquer | Ouvrir dans l'app native | Enregistrer sous | Sélection | Partager | Diapositives |
+|:--------:|:--------:|:---------:|:------------------------:|:----------------:|:---------:|:--------:|:------------:|
+| &#x2714; | &#x2714; | &#x2714;  | &#x2714;                 | &#x2714;         | &#x2714;  | &#x2714; | &#x2714;     | 
 
-| &#x2714 ; | &#x2714 ; | &#x2714 ; | &#x2714 ;                | &#x2714 ;        | &#x2714 ; | &#x2714 ;| &#x2714 ; | 
+**Interaction avec le contenu**
 
-**Interaction avec l'article**
+| Mode extraction d'image | Hyperliens | Hot spots | Suivant  | Précédent | 
+|:-----------------------:|:----------:|:---------:|:--------:|:---------:|
+| &#x2714;                | &#x2714;   | &#x2714;  | &#x2714; | &#x2714;  |
 
-| Mode capture | Hyperliens | Zones actives | Suivant | Précédent | 
+## Hot spots
 
-| &#x2714 ;    | &#x2714 ;  | &#x2714 ;     | &#x2714 ; | &#x2714 ; |
+Vous pouvez créer un Hot spot sur un document pour ouvrir un autre document lorsqu'on vient toucher le Hot spot. Cette interaction est créée à l'aide de l'éditeur Powerpoint de Microsoft.
 
-## Zones actives
-
-Vous pouvez créer une "zone active" sur un document pour ouvrir un autre document lorsqu'on le touche. Cette interaction est créée à l'aide de l'éditeur Powerpoint de Microsoft.
-
-[Zones actives](../../../en/img/content_powerpoint_hot_spots.JPG)
+![Hot spots](../../../en/img/content_powerpoint_hot_spots.JPG)
 
 1. Créez une forme transparente au-dessus de la zone active sélectionnée. La forme doit couvrir toute la zone active.
 
-**Avertissement 1 : Si la zone est la zone de texte. Sélectionnez la zone de texte. Ne pas sélectionner le TEXTE**
-
-**Avertissement 2 : La couleur de la forme doit être TRANSPARENTE. Si vous créez une forme qui n'est remplie par aucune couleur, le lien ne fonctionnera pas.** 
+**Avertissement : Si la zone est une zone de texte, sélectionnez la zone de texte. Ne pas sélectionner le TEXTE**
 
 2. Sélectionnez la forme, et allez dans INSÉRER 
 3. Allez sur HyperLink et définissez l'emplacement du document cible.
@@ -56,8 +54,8 @@ Vous pouvez créer une "zone active" sur un document pour ouvrir un autre docume
 
 ## Diaporama
 
-Par défaut, les fichiers powerpoint sont gérés par le Compositeur Digital UX comme l'extension '.diaporama'. [Voir la section Diaporama](slideshows.md).
+Par défaut, les fichiers Powerpoint sont gérés par Compositeur Digital UX comme l'extension `.slideshow` ([voir la section Diaporama](slideshows.md)).
 
-Suivant [Fichiers vidéo](video.md)
+Suivant : [Fichiers vidéo](video.md)
 
-[Retour au contenu pris en charge](index.md)
+[Retour aux Contenus pris en charge](index.md)
