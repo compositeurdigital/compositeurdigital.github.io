@@ -23,15 +23,15 @@ Les Powerpoints prennent en charge les actions suivantes. Pour avoir un aperçu 
 
 **Menu des actions**
 
-| Annoter  | Capturer | Dupliquer | Ouvrir dans l'app native | Enregistrer sous | Sélection | Partager | Diapositives |
-|:--------:|:--------:|:---------:|:------------------------:|:----------------:|:---------:|:--------:|:------------:|
-| &#x2714; | &#x2714; | &#x2714;  | &#x2714;                 | &#x2714;         | &#x2714;  | &#x2714; | &#x2714;     | 
+| Capturer | Dupliquer | Ouvrir dans l'app native | Enregistrer sous | Sélection | Partager | Diapositives |
+|:--------:|:---------:|:------------------------:|:----------------:|:---------:|:--------:|:------------:|
+| &#x2714; | &#x2714;  | &#x2714;                 | &#x2714;         | &#x2714;  | &#x2714; | &#x2714;     | 
 
 **Interaction avec le contenu**
 
-| Mode extraction d'image | Hyperliens | Hot spots | Suivant  | Précédent | 
-|:-----------------------:|:----------:|:---------:|:--------:|:---------:|
-| &#x2714;                | &#x2714;   | &#x2714;  | &#x2714; | &#x2714;  |
+| Annoter  | Mode extraction d'image | Hyperliens | Hot spots | Suivant  | Précédent | 
+|:--------:|:-----------------------:|:----------:|:---------:|:--------:|:---------:|
+| &#x2714; | &#x2714;                | &#x2714;   | &#x2714;  | &#x2714; | &#x2714;  |
 
 ## Hot spots
 
