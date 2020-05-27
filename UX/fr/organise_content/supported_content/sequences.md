@@ -66,9 +66,9 @@ Les couches seront classées par leur nom, de bas en haut, c'est-à-dire :
 * Étage 1
 * Rez-de-chaussée
 
-![Explorateur de séquences](../../../en/img/dossier_séquence_contenu.JPG) 
+![Explorateur de séquences](../../../en/img/content_sequence_folder.JPG) 
 
-![Couches de séquences](../../../en/img/couches_séquence_contenu.JPG)
+![Couches de séquences](../../../en/img/content_sequence_layers.JPG)
 
 ## Hot spots
 
