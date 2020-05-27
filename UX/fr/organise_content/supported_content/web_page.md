@@ -72,7 +72,7 @@ Avec cette ligne, la page web sera ouverte dans votre navigateur par défaut.
 
 ![Compositeur Digital UX Web viewer](../../../en/img/content_web_page_cdux_folder.JPG)
 
-### Interactions avec le Compositeur Digital UX
+### Interactions avec Compositeur Digital UX
 
 Avec le contenu html, vous pouvez avoir une interaction entre votre page web et Compositeur Digital UX en utilisant Javascript.
 Toutes les actions sont disponibles via l'objet `CDUX`.
