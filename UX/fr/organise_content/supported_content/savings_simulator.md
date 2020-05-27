@@ -33,8 +33,8 @@ Pour utiliser un simulateur d'épargne, ajoutez l'extension `.simuinvest` à la 
 1. Dans votre dossier environnement, créez un dossier nommé `<Nom de votre simulateur d'épargne>.simuinvest` (par exemple `Mon simulateur.simuinvest`).
 1. (Facultatif) Vous pouvez modifier la vignette du simulateur d'épargne. Dans votre dossier `.simuinvest`, mettez une image (`.jpg` ou `.png`) nommée `_preview`. Si vous ne fournissez pas de `_preview`, l'élément aura une vignette par défaut (voir ci-dessous).
 
-![Dossier du simulateur d'économies](../../../en/img/contenu_économies_simulateur_dossier.JPG) 
-![Aperçu du simulateur d'épargne](../../../en/img/contenu_économies_simulateur_preview.JPG)
+![Dossier du simulateur d'économies](../../../en/img/content_savings_simulator_folder.JPG) 
+![Aperçu du simulateur d'épargne](../../../en/img/content_savings_simulator_preview.JPG)
 
 ## Métadonnées disponibles
 
