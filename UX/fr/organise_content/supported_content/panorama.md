@@ -5,7 +5,7 @@
 * [Actions dans Compositeur Digital UX](#actions-dans-compositeur-digital-ux)
 * [Extension de dossier](#extension-de-dossier)
 * [Créer un panorama](#créer-un-panorama)
-* [Créer une visite virtuelle] (#créer-une-visite-virtuelle)
+* [Créer une visite virtuelle](#créer-une-visite-virtuelle)
 * [Types de projection](#types-de-projection)
    * [Projection sphérique](#projection-sphérique)
    * [Projection en cube](#projection-en-cube)
