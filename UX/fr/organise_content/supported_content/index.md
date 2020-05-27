@@ -17,7 +17,7 @@ Cette section décrit tous les contenus qui peuvent être utilisés dans le Comp
 * [Interface de recherche](search.md)
 * [Fiches produits](productsheet.md)
 * [Séquences : Vue 360° pré-rendue (orbitale)](sequences.md)
-* [Simulateur de prêt] (simulateur.md)
+* [Simulateur de prêt](simulateur.md)
 * [Simulateur d'épargne](savings_simulator.md)
 * [Calculatrice](calculateur.md)
 * [Minuteurs](timers.md)
