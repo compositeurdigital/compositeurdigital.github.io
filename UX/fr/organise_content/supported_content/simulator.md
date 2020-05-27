@@ -4,7 +4,7 @@
 * [Description](#description)
 * [Actions dans Compositeur Digital UX](#actions-dans-compositeur-digital-ux)
 * [Extension de dossier](#extension-de-contenu)
-* [Créer un simulateur de prêt] (#créer-un-simulateur-de-prêt)
+* [Créer un simulateur de prêt](#créer-un-simulateur-de-prêt)
 * [Métadonnées disponibles](#métadonnées-disponibles)
 * [Téléchargez un exemple](#télécharger-un-exemple)
 
