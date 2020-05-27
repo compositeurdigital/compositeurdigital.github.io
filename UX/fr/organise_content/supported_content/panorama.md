@@ -98,7 +98,7 @@ Placez 6 images, correspondant aux six faces de votre cube, dans le dossier. Gar
 
 ### Projection vidéo
 
-Il est possible de naviguer dans une vidéo s'il s'agit d'une vidéo à 360°. Placez votre fichier vidéo 360° dans votre dossier `panorama`. Le nom du fichier n'est pas important tant que le fichier a un [format vidéo pris en charge par Compositeur Digital UX](../video.md).
+Il est possible de naviguer dans une vidéo s'il s'agit d'une vidéo à 360°. Placez votre fichier vidéo 360° dans votre dossier `panorama`. Le nom du fichier n'est pas important tant que le fichier a un [format vidéo pris en charge par Compositeur Digital UX](video.md).
 
 Dans le lecteur vidéo, pour déplacer la caméra, appuyez sur le bouton '360°' de la barre de contrôle du média. 
 
@@ -106,7 +106,7 @@ Dans le lecteur vidéo, pour déplacer la caméra, appuyez sur le bouton '360°'
 
 Pour arrêter la navigation, cliquez à nouveau sur le bouton '360°'.
 
-![Panorama vidéo 360 désactivé](../../../en/img/contenu_panorama_vidéo360_disable.JPG)
+![Panorama vidéo 360 désactivé](../../../en/img/contenu_panorama_video360_disable.JPG)
 
 
 ## Télécharger un exemple
