@@ -4,7 +4,7 @@
 * [Description](#description)
 * [Actions dans Compositeur Digital UX](#actions-dans-compositeur-digital-ux)
 * [Extension de dossier](#extension-de-dossier)
-* [Questions : questions.xml](#questions--questionsxml)
+* [Questions : questions.xml](#questions--_questionsxml)
    * [Sections](#sections)
    * [Pages](#pages)
    * [Ordre des pages](#ordre-des-pages)
