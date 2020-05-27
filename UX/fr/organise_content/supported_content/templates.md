@@ -3,7 +3,7 @@
 ## Résumé
 * [Description](#description)
 * [Actions dans Compositeur Digital UX](#actions-dans-compositeur-digital-ux)
-* [Extension de dossier](#extension-de-contenu)
+* [Extension de dossier](#extension-de-dossier)
    * [Modèles de notes](#modèles-de-notes)
    * [Modèles de feuille blanche](#modèles-de-feuille-blanche)
    * [Modèles avec saisie de texte](#modèles-avec-saisie-de-texte)
