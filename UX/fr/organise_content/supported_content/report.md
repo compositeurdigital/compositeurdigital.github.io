@@ -60,4 +60,4 @@ Un univers de démonstration contenant un rapport est disponible, [essayez-le!](
 
 Suivant : [Raccourcis & hyperliens : cdurl](cdurl.md)
 
-[Retour au contenu pris en charge](index.md)
+[Retour aux Contenu pris en charge](index.md)
