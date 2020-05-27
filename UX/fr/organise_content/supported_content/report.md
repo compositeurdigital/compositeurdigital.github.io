@@ -30,7 +30,7 @@ Les rapports prennent en charge les actions suivantes. Pour avoir un aperçu com
 |:----------:|:------------:|:----------:|:-------------:|:---------:|:---------:|
 | &#x2714;   | &#x2714;     | &#x2714;   | &#x2714;      | &#x2714;  | &#x2714;  |
 
-## Extension du contenu
+## Extension de dossier
 
 Un rapport est placé dans un dossier appelé `<nom de votre rapport>.report`. Dans ce dossier, il y a un fichier nommé `Template.pptx`. Ce fichier contient le modèle de votre rapport.
 
