@@ -59,6 +59,6 @@ Pour utiliser un simulateur d'épargne, ajoutez l'extension `.simuinvest` à la 
 
 Un univers de démonstration contenant des exemples de simulateur d'épargne est disponible, [essayez-le !](../../../en/organise_content/Demo-Universe.zip) &#x1f604;
 
-Suivant : [Calculatrice](calculateur.md)
+Suivant : [Calculatrice (format Compositeur Digital UX)](calculator.md)
 
 [Retour au contenu pris en charge](index.md)
