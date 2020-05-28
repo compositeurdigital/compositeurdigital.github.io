@@ -32,25 +32,25 @@ Vous pouvez également créer un compte [ici](http://www.compositeurdigital.com/
 
 ![1. Identification dans la partie 2](../../en/img/administrative_signin2.JPG)
 
-2. Sur la page des paramètres, cliquez sur "Ajouter une licence", sous "Compositeur Digital license".
+2. Sur la page des paramètres, cliquez sur "Ajouter une licence", sous "Compositeur Digital licence".
 1. Entrez votre nom d'utilisateur et votre mot de passe et cliquez sur "Connexion".
-1. Vous êtes connecté ! Votre nom et votre type de licence apparaissent sous "Compositeur Digital license". 
+1. Vous êtes connecté ! Votre nom et votre type de licence apparaissent sous "Compositeur Digital licence". 
 
 
-> **Note** : L'appareil enregistrera vos identifiants. Le Compositeur Digital UX utilisera le dernier compte connecté chaque fois que vous démarrerez une nouvelle session. Si vous avez installé Compositeur Digital UX sur un appareil partagé, comme un Microsoft Surface Hub, une fois que vous avez associé une licence de Compositeur Digital à l'appareil, vous ne pourrez pas retirer la licence à moins de [contacter notre équipe d'assistance](mailto:support@excense.fr)
+> **Note** : L'appareil enregistrera vos identifiants. Compositeur Digital UX utilisera le dernier compte connecté chaque fois que vous démarrerez une nouvelle session. Si vous avez installé Compositeur Digital UX sur un appareil partagé, comme un Microsoft Surface Hub, une fois que vous avez associé une licence Compositeur Digital à l'appareil, vous ne pourrez pas retirer la licence à moins de [contacter notre équipe d'assistance](mailto:support@excense.fr)
 
 ### Déconnexion
 
 À tout moment, vous pouvez décider librement de vous déconnecter.
 
 1. Sur la page de démarrage de l'application, cliquez sur le bouton 'Paramètres'.
-1. Sur la page des paramètres, cliquez sur votre nom sous 'Compositeur Digital license', puis cliquez sur ' Se déconnecter '.
+1. Sur la page des paramètres, cliquez sur votre nom sous 'Compositeur Digital licence', puis cliquez sur 'Se déconnecter'.
 
 ## Compte Office365
 
-Le Compositeur Digital UX vous permet de vous connecter directement à votre tenant Office365. Ainsi, vous pouvez diffuser en continu du contenu de vos bibliothèques SharePoint ou des canaux Microsoft Teams et travailler sur un appareil où vos documents ne sont pas téléchargés.
+Compositeur Digital UX vous permet de vous connecter directement à votre compte Office365. Ainsi, vous pouvez vous connecter à vos bibliothèques SharePoint ou vos Channels Microsoft Teams et travailler sur un appareil où vos documents ne sont pas téléchargés.
 
-> **Note** : Cette façon d'accéder à vos documents nécessite que vous ayez une connexion internet disponible à chaque fois que vous demandez votre univers en streaming.
+> **Note** : Cette façon d'accéder à vos documents nécessite que vous ayez une connexion internet disponible à chaque fois que vous demandez votre univers.
 
 ### Se connecter à Office365
 
@@ -69,13 +69,13 @@ Le Compositeur Digital UX vous permet de vous connecter directement à votre ten
 
 ### Microsoft Teams
 
-Une fois que votre compte Office365 a été ajouté, vous pouvez accéder au contenu de vos Channels Microsoft Teams. Pour ce faire, vous devez créer un dossier 'Compositeur Digital UX' à l'intérieur de votre Channel. 
+Une fois que votre compte Office365 a été ajouté, vous pouvez accéder au contenu de vos Channels Microsoft Teams. Pour cela, vous devez créer un dossier 'Compositeur Digital UX' à l'intérieur de votre Channel. 
 
 ![Microsoft Teams](../../en/img/administrative_teams.jpg)
 
 Dans la capture d'écran ci-dessus, j'ai une équipe appelée 'Mon canal teams', avec un Channel appelé 'Général'. Dans les fichiers du Channel 'Général', j'ai créé un dossier 'Compositeur Digital UX'. Ce dossier contient des univers. 
 
-Depuis mon Compositeur Digital UX, je peux diffuser cette bibliothèque en streaming.
+Depuis mon Compositeur Digital UX, je peux accèder à cette bibliothèque.
 
 > **Note** : Votre Channel doit contenir un dossier `Compositeur Digital UX` à la racine.
 
@@ -87,7 +87,7 @@ Depuis mon Compositeur Digital UX, je peux diffuser cette bibliothèque en strea
 ![Microsoft Teams : sélectionner le canal](../../en/img/administrative_add_teams_site2.jpg)
 
 3. Entrez le nom de vos équipes.
-1. Choisissez le canal Teams parmi les choix proposés
+1. Choisissez le Channel Teams parmi les choix proposés
 1. Cliquez sur 'Ajouter'.
 
 ![Microsoft Teams : canal ajouté](../../en/img/administrative_add_teams_site3.jpg)
