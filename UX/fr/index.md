@@ -1,10 +1,10 @@
-# Documentation du Compositeur Digital UX
+# Compositeur Digital UX
 
 ### [Pour commencer](gettingstarted/index.md)
 Installer et lancer *Compositeur Digital UX*.
 
 ### [Guide de l'utilisateur](user_guide/index.md)
-Découvrez comment interagir avec le *Compositeur Digital UX*.  
+Découvrez comment interagir avec *Compositeur Digital UX*.  
 
 ### [Organiser le contenu](organise_content/index.md)
 Apprenez comment construire votre propre univers et quel type de contenu vous pouvez utiliser.
@@ -20,9 +20,9 @@ Gérez votre *Compositeur Digital UX*
 * [**Mode kiosque**](administrative_guide/index.md#mode-kiosque) : configurez votre application pour qu'elle soit utilisée dans la configuration du kiosque.
 
 ### [FAQ](FAQ/index.md)
-Contient des questions fréquemment posées sur l'installation et l'utilisation du *Compositeur Digital UX* et fournit des solutions aux problèmes courants.
+Contient des questions fréquemment posées sur l'installation et l'utilisation de *Compositeur Digital UX* et fournit des solutions aux problèmes courants.
 
 ### [Notes de version](../en/release_notes/index.md)
-Description des nouvelles fonctionnalités et des corrections de bogues dans les versions du *Compositeur Digital UX*.  
+Description des nouvelles fonctionnalités et des corrections de bogues dans les versions de *Compositeur Digital UX*.  
 
 [Retour au Choix de documentation](../../selector/index.md)
