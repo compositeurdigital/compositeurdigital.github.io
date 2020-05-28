@@ -16,7 +16,7 @@ Apprenez comment construire votre propre univers et quel type de contenu vous po
 Gérez votre *Compositeur Digital UX*
 
 * [**License**](administrative_guide/index.md#license-compositeur-digital-ux) : activez votre licence Compositeur Digital UX.
-* [**Office365**](administrative_guide/index.md#compte-office365) : connectez le Compositeur Digital UX à votre tenant Office365.
+* [**Office365**](administrative_guide/index.md#compte-office365) : connectez Compositeur Digital UX à votre compte Office365.
 * [**Mode kiosque**](administrative_guide/index.md#mode-kiosque) : configurez votre application pour qu'elle soit utilisée dans la configuration du kiosque.
 
 ### [FAQ](FAQ/index.md)
