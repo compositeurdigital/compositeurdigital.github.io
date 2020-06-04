@@ -1,11 +1,11 @@
 ## Sommaire
 * [1. Qu’est-ce que le Compositeur Digital UX ? ](#1-quest-ce-que-le-compositeur-digital-ux-)
-* [2. Découvrez les 5 fonctionnalités clés pour la présentation](#2.-Découvrez-les-5-fonctionnalités-clés-pour-la-présentation)
-* [3. Principe de construction d’une présentation](#3.-Principe-de-construction-d`’-une-présentation)
-* [4. Créez votre premier univers](#4.-Créez-votre-premier-univers)
+* [2. Découvrez les 5 fonctionnalités clés pour la présentation](#2-découvrez-les-5-fonctionnalités-clés-pour-la-présentation)
+* [3. Principe de construction d’une présentation](#3-Principe-de-construction-dune-présentation)
+* [4. Créez votre premier univers](#4-Créez-votre-premier-univers)
 * [5. Découvrez l’intégralité des fonctionnalités du Compositeur Digital](#5-découvrez-lintégralité-des-fonctionnalités-du-compositeur-digital)
-* [6. Accédez à la documentation complète](#6.-Accédez-à-la-documentation-complète)
-* [7. Comment solliciter le support ?](#7.-Comment-solliciter-le-support-?)
+* [6. Accédez à la documentation complète](#6-Accédez-à-la-documentation-complète)
+* [7. Comment solliciter le support ?](#7-Comment-solliciter-le-support-)
 
 
 
