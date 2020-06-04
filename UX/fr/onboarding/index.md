@@ -1,6 +1,11 @@
 ## Sommaire
 * [1. Qu’est-ce que le Compositeur Digital UX ? ](#1.-Qu`’-est-ce-que-le-Compositeur-Digital-UX-?)
 * [2. Découvrez les 5 fonctionnalités clés pour la présentation](#2.-Découvrez-les-5-fonctionnalités-clés-pour-la-présentation)
+* [3. Principe de construction d’une présentation](#3.-Principe-de-construction-d`’-une-présentation)
+* [4. Créez votre premier univers](#4.-Créez-votre-premier-univers)
+* [5. Découvrez l'intégralité des fonctionnalités du Compositeur Digital](#5.-Découvrez-l`'-intégralité-des fonctionnalités-du-Compositeur Digital)
+* [6. Accédez à la documentation complète](#6.-Accédez-à-la-documentation-complète)
+* [7. Comment solliciter le support ?](#7.-Comment-solliciter-le-support-?)
 
 
 
@@ -80,7 +85,7 @@ Vous pouvez utiliser l’application sur PC Windows 10 tactile ou non.
 
 ![partage](http://compositeurdigital.github.io/UX/fr/onboarding/img/partage.png)
 
-## Principe de construction d’une présentation
+## 3. Principe de construction d’une présentation
 
 Un environnement de présentation est appelé « univers », il comporte : 
 1.	Des dossiers et sous-dossiers qui contiendront vos contenus selon l’organisation souhaitée
@@ -94,9 +99,9 @@ Votre dossier univers doit être positionné dans un répertoire appelé Composi
 
 
 
-## Créez votre premier univers
+## 4. Créez votre premier univers
 
-### 1.	Créez votre dossier univers à l’emplacement par défaut
+### 4.1.	Créez votre dossier univers à l’emplacement par défaut
 
 Rendez-vous dans votre emplacement par défaut `Documents>Compositeur Digital UX` et créez votre dossier univers exemple « My Universe »
 
@@ -104,7 +109,7 @@ Rendez-vous dans votre emplacement par défaut `Documents>Compositeur Digital UX
 
 
 
-### 2.	Créez vos répertoires et ajoutez vos contenus
+### 4.2.	Créez vos répertoires et ajoutez vos contenus
 
 Par exemple `Presentation`, `Production`, `Marketing`
 
@@ -115,7 +120,7 @@ Glissez-y vos propres documents. Voici pour rappel la liste des formats support�
 
 ![addcontent](http://compositeurdigital.github.io/UX/fr/onboarding/img/addcontent.png)
 
-### 3. Visualiser le résultat
+### 4.3. Visualiser le résultat
 
 Lancer l’application Compositeur Digital UX. Sur la page d’accueil, sélectionnez votre univers `My universe`
 
@@ -123,13 +128,13 @@ Lancer l’application Compositeur Digital UX. Sur la page d’accueil, sélecti
 
 
   
-### 4. Complétez votre univers
+### 4.4. Complétez votre univers
 
 Il n’est pas nécessaire de quitter le Compositeur Digital pour compléter votre univers.Retournez simplement dans votre explorateur de fichier et complétez-le avec vos contenus. Revenez ensuite dans votre l’application et rafraichissez-le avec la combinaison de touches suivantes sur votre : `CTRL+R+R`
 
 
 
-### 5. Personnalisez le fond d’écran (optionnel)
+### 4.5. Personnalisez le fond d’écran (optionnel)
 
 Vous pouvez ajouter un fond écran à votre univers avec l’image de votre choix. Vous devez positionner cette image à la racine du dossier de votre univers. Elle doit être nommée `_background` 
 
@@ -137,7 +142,7 @@ Toute la documentation sur les fonds d’écran est disponible [ici](http://doc.
 
 
 
-### 6.Personnalisez les vignettes d’affichage de vos dossiers (optionnel)
+### 4.6.Personnalisez les vignettes d’affichage de vos dossiers (optionnel)
 
 Vous pouvez personnaliser les vignettes d’affichage de vos dossiers et sous dossiers avec l’image de votre choix. Vous devez positionner cette image dans le dossier souhaité. Elle doit être nommée `_preview`. L’application adaptera au mieux l’affichage au format 3/2 des vignettes de dossier. 
 
@@ -145,7 +150,7 @@ Toute la documentation sur les vignettes est disponible [ici](http://doc.composi
 
 
 
-### 7. Créez son dossier univers à un autre emplacement (optionnel)
+### 4.7. Créez son dossier univers à un autre emplacement (optionnel)
 
 Créez un dossier `Compositeur Digital UX` à l’emplacement de votre choix puis créez votre dossier univers à l’intérieur de celui-ci. 
 Dans l’application Compositeur Digital UX, depuis la page d’accueil, cliquez sur `ajouter un emplacement` puis `dossier local`, sélectionnez enfin le répertoire Compositeur Digital UX créé précédemment. 
@@ -157,18 +162,18 @@ Dans l’application Compositeur Digital UX, depuis la page d’accueil, cliquez
 
 
 
-## Découvrez toutes les fonctionnalités du Compositeur Digital
+## 5. Découvrez l'intégralité des fonctionnalités du Compositeur Digital
 
 La liste complète des fonctionnalités de l’application et de leur usage se trouve [ici](http://doc.compositeurdigital.com/UX/fr/user_guide/workflow.html)
 
 
 
-## Accédez à la documentation complète
+## 6. Accédez à la documentation complète
 
 Elle se trouve [ici](http://doc.compositeurdigital.com/UX/fr/index.html)
 
 
 
-## Comment solliciter le support ?
+## 7. Comment solliciter le support ?
 
 Besoin d’un support ? Une recommandation ? Vous pouvez nous écrire [ici](https://www.compositeurdigital.com/wp/fr/contact)
