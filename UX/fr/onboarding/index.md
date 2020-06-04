@@ -1,5 +1,8 @@
 ## Sommaire
 * [1. Qu’est-ce que le Compositeur Digital UX ? ](#1.-Qu`’-est-ce-que-le-Compositeur-Digital-UX-?)
+* [2. Découvrez les 5 fonctionnalités clés pour la présentation](#2.-Découvrez-les-5-fonctionnalités-clés-pour-la-présentation)
+
+
 
 ## 1. Qu’est-ce que le Compositeur Digital UX ? 
 ### A qui s’adresse-t-il ?
@@ -51,7 +54,7 @@ Non. Seul vous, présentateur, devez disposer de l’application. En fin de pré
 Vous pouvez utiliser l’application sur PC Windows 10 tactile ou non.
 
 
-## Découvrez les 5 fonctionnalités clés pour la présentation
+## 2. Découvrez les 5 fonctionnalités clés pour la présentation
 
 ### Facilitez vos explications, améliorez la compréhension à grâce à un espace de présentation multi-contenus.
 
