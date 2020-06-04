@@ -3,7 +3,7 @@
 * [2. Découvrez les 5 fonctionnalités clés pour la présentation](#2.-Découvrez-les-5-fonctionnalités-clés-pour-la-présentation)
 * [3. Principe de construction d’une présentation](#3.-Principe-de-construction-d`’-une-présentation)
 * [4. Créez votre premier univers](#4.-Créez-votre-premier-univers)
-* [5. Découvrez l’intégralité des fonctionnalités du Compositeur Digital](#5.-Découvrez-l`’-intégralité-des-fonctionnalités-du-Compositeur Digital)
+* [5. Découvrez l’intégralité des fonctionnalités du Compositeur Digital](#5.-Découvrez-lintégralité-des-fonctionnalités-du-Compositeur Digital)
 * [6. Accédez à la documentation complète](#6.-Accédez-à-la-documentation-complète)
 * [7. Comment solliciter le support ?](#7.-Comment-solliciter-le-support-?)
 
