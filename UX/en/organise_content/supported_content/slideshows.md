@@ -32,12 +32,12 @@ Slideshows support the following action. To have a complete overview of each act
 ## Content extension 
 
 To use a slideshow, put all the files you want in a folder, and add the extension `.slideshow` at the end of the name of your folder.
-Only use files that ends with `.jpg`, `.jpeg`, `.pdf`, `.png`, `.ppt` or `.pptx`.
+Only use images, PowerPoint presentations and PDF documents, or `.pptx`, or another `.slideshow` folder.
 
 ## Create a slideshow
 
 1. In your environment folder, create a folder named `<Name of your slideshow>.slideshow` (e.g. `My slideshow.slideshow`).
-2. Drag and drop all the pdfs, powerpoints and images you need.
+2. Drag and drop all the PDF documents,  PowerPoint presentations and images you need.
 
 ![Slideshow folder](../../img/content_slideshow_folder.JPG)
 
