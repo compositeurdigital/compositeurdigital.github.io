@@ -52,7 +52,7 @@ La page d'accueil du Compositeur Digital UX présente tous les univers disponibl
 
 ![Page de démarrage du Compositeur Digital UX - univers](../../en/img/pres_universes.jpg)
 
-1. La liste de toutes les sources disponibles. Dans cet exemple, il y a une source locale (`Documents`), trois sources en du cloud, et une source usb.
+1. La liste de toutes les sources disponibles. Dans cet exemple, il y a une source locale (`Documents`), trois sources du cloud, et une source usb.
 1. L'onglet 'Nouveau' affiche tous les univers disponibles dans la source. 
 1. L'onglet "Ouvrir" contient tous les projets lancés sur cette source.
 1. Un bouton de rafraîchissement vous permet de recharger la source si vous avez créé de nouveaux univers, ou si vous avez supprimé certains univers.
@@ -120,6 +120,6 @@ Vous pouvez également fermer un document en le déposant sur les bords de votre
 
 **Important** : un document que vous avez fermé n'est jamais perdu. Vous pouvez le récupérer dans "Historique".
 
-Suivant : [Flux de travail](workflow.md)
+Suivant : [Workflow](workflow.md)
 
 [Retour au guide de l'utilisateur](index.md)

@@ -2,35 +2,35 @@
 
 ## Résumé
 * [Description](#description)
-* [Actions au sein du Compositeur Digital UX] (#actions-au-sein-du-compositeur-digital-ux)
+* [Actions dans Compositeur Digital UX](#actions-dans-compositeur-digital-ux)
 * [Diaporama](#diaporama)
 
 ## Description
 
-Les fichiers Pdf sont pris en charge en natif par le Compositeur Digital UX.
+Les fichiers Pdf sont pris en charge nativement par Compositeur Digital UX.
 
-[Pdf affiché dans le Compositeur Digital UX](../../../en/img/content_pdf.JPG)
+![Pdf affiché dans Compositeur Digital UX](../../../en/img/content_pdf.JPG)
 
-## Actions au sein deu Compositeur Digital UX
+## Actions dans Compositeur Digital UX
 
 Les fichiers Pdf permettent de réaliser les actions suivantes. Pour avoir un aperçu complet de chaque action, [voir la section Actions](actions.md)
 
 **Menu des actions**
 
-| Annoter   | Capturer  | Dupliquer | Ouvrir dans l'app native | Enregistrer sous | Sélection | Partager | Diapositives |
+| Capturer  | Dupliquer | Ouvrir dans l'app native | Enregistrer sous | Sélection | Partager | Diapositives |
+|:---------:|:---------:|:------------------------:|:----------------:|:---------:|:--------:|:------------:|
+| &#x2714;  | &#x2714;  | &#x2714;                 | &#x2714;         | &#x2714;  | &#x2714; | &#x2714;     | 
 
-| &#x2714 ; | &#x2714 ; | &#x2714 ; | &#x2714 ;                | &#x2714 ;        | &#x2714 ; | &#x2714 ; | &#x2714 ; | 
+**Interaction avec le contenu**
 
-**Interaction avec l'article**
-
-| Mode de capture | Hyperlien | Suivant | Précédent | 
-|:---------------:|:---------:|:--------:|:--------:|
-| &#x2714 ;       | &#x2714 ; | &#x2714 ;| &#x2714 ;|
+| Annoter   | Mode d'extraction d'image | Hyperlien | Suivant | Précédent | 
+|:---------:|:-------------------------:|:---------:|:--------:|:--------:|
+| &#x2714;  | &#x2714;                  | &#x2714;  | &#x2714; | &#x2714; |
 
 ## Diaporama
 
-Par défaut, les '.pdf' sont gérés par le Compositeur Digital UX comme une extension '.diaporrama'. [Voir la section Diaporama](slideshows.md)
+Par défaut, les `.pdf` sont gérés par Compositeur Digital UX comme une extension `.slideshow` ([voir la section Diaporama](slideshows.md))
 
-suivant : [Fichiers Powerpoint](powerpoint.md)
+Suivant : [Fichiers Powerpoint](powerpoint.md)
 
-[Retour au menu Contenu pris en charge](index.md)
+[Retour aux Contenus pris en charge](index.md)

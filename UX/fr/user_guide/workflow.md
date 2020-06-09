@@ -1,4 +1,4 @@
-# Flux de travail
+# Workflow
 
 Cette section met en évidence les actions que vous pouvez réaliser en situation de réunion en utilisant le Compositeur Digital UX.
 

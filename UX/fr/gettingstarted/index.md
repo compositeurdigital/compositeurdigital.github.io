@@ -6,11 +6,11 @@
 1. Windows 10 Creators Update (10.0, Build 15063) ou version ultérieure.
 
 > Comment puis-je savoir quelle version de Windows 10 j'utilise ?
-
-> Cliquez sur le champs "Taper ici pour rechercher" dans la barre des tâches Windows.
-> 1. tapez 'winver'.
-> 1. cliquez sur le premier élément, intitulé "Exécuter la commande".
-> 1. votre version de Windows apparaît.
+>
+> 1. Cliquer sur le champs "Taper ici pour rechercher" dans la barre des tâches Windows.
+> 1. Taper 'winver'.
+> 1. Cliquer sur le premier élément, intitulé "Exécuter la commande".
+> 1. Votre version de Windows apparaît.
 
 ## Télécharger le Compositeur Digital UX
 

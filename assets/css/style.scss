@@ -3,13 +3,29 @@
 
 @import "{{ site.theme }}";
 
-html { font-size:80% }
+html, body {
+    font-family:'Nunito Sans',Helvetica,Arial,Lucida,sans-serif;
+    color:#646f93;
+}
 
-.page-header { background-color:#f3385b; background-image:none; padding:1rem; }
+.page-header { background-image:url(../img/background-geo-rose.jpg); padding:3rem; }
+
+.main-content{
+    font-size:90%;
+    padding-bottom: 250px;
+}
+
+.main-content img{
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    color: #d14;
+    color:#646f93;
+    margin-bottom:0.5rem;
+    font-weight:700;
 }
+
+
 
 a {
     color: #990000;
@@ -24,8 +40,20 @@ p .resizeAndCenter {
 
 /*@media screen and (min-width:64em)*/
 .project-name {
-    font-size: 2.25rem;
+    font-size: 1.75rem;
     font-weight: normal;
 }
 
 .right { float:right; }
+
+.site-footer{
+    padding:50px;
+    color:#FFFFFF;
+    background-color:#f03b5e!important;
+    background-image:linear-gradient(243deg,#f03b5e 0%,#ef6480 100%)!important;
+    margin-top: -150px;
+}
+
+footer a{
+     color:#FFFFFF;
+}
