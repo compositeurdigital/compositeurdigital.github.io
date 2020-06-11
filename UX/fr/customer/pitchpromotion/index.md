@@ -14,6 +14,6 @@ Le stylet qui vous a été fourni est immédiatement reconnu par l’application
 
 ## Accès aux programmes immobiliers dans le Compositeur Digital ##
 
-**Accueil de l’application
+**Accueil de l’application **
 
-
+![accueil](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/138.png)
