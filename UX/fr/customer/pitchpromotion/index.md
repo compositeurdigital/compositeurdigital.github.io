@@ -33,3 +33,95 @@ Accédez à la région souhaitée puis sélectionnez le programme.
 --> Certains programmes sont affichés avec l’étiquette « *Avant-première* ». Cela signifie que l’intégralité des contenus n’est pas encore disponible pour la commercialisation. 
 
 ![139](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/139.png)
+
+## Présentation générale de l’environnement Compositeur Digital ##
+
+L’interface du Compositeur Digital est organisée de la façon suivante :
+
+![142](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/142.png)
+
+## Connaître les gestes et fonctions de base ##
+
+**Afficher un contenu :** Pour afficher un contenu cliquer une fois au doigt sur celui-ci
+
+**Zoomer :** Utiliser deux doigts pour agrandir ou rétrécir. Nous vous conseillons de vous entrainer quelques secondes pour maitriser le geste en rendez-vous
+
+![zoom2](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/zoom2.jpg)
+
+**Fermer un document :** Pour fermer un document, vous pouvez le « jeter », sur n’importe quel bord de l’écran. Vous pouvez également cliquer sur la croix en haut à droite de celui-ci. Pour rappel, un contenu fermé reste toujours accessible depuis son emplacement d’origine.
+
+![fermer](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/capture_fermer.jpg)
+
+**Pour écrire et gommer :** Le stylet qui vous a été fourni est immédiatement reconnu par l’application. Vous pouvez écrire directement sur vos contenus sans passer par un menu. Pour gommer, retournez le stylet est gommez. 
+
+**Actions sur un document :** Voici les actions qui vous seront utiles :
+* Dans le menu du document, accessible par les trois petits points en bas à droite, le mode diapositive vous permet de naviguer rapidement dans un contenu multi-pages
+
+![diapo](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/diapo1.jpg)
+
+* Le bouton « Sélection » , matérialisé par une étoile en bas à droite d’un document vous permet d’ajouter celui-ci au panier du rendez-vous pour être ensuite partagé par mail au client. Le document est dans l’état « sélectionné » lorsque l’étoile est pleine. 
+
+![selection](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/selection.jpg)
+
+**Action sur les contenus web**
+
+L’application comporte des vues Google Maps pour la présenter la localisation des programmes et de ses alentours. Ces vues sont affichées dans le navigateur intégré de l’application. 
+
+Pour interagir avec le contenu de la page, cliquez sur le bouton central
+![naviguer](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/naviguer.jpg)
+
+Pour manipuler la fenêtre, cliquez sur le bouton « fin de navigation » 
+![fin_naviguer](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/fin_naviguer.jpg)
+
+Note : Vous pouvez à tout moment manipuler la fenêtre en la saisissant par la barre supérieure ou inférieure. 
+![fenetre](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/fenetre.jpg)
+
+Note : Assurez-vous d’être bien connecté à internet pour exploiter ce contenu en rendez-vous. 
+
+**Afficher la liste des documents ajoutés à la sélections(panier)**
+
+![157](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/157.jpg)
+
+La liste des documents ajoutés à la sélection est visualisable grâce au bouton « étoile » à gauche de la barre de documents.
+
+Pour revenir à la bibliothèque de documents, cliquez sur l’icône « documents » juste au-dessus. 
+
+**Partager les documents présentés avec votre client**
+
+Vous pouvez partager par mail les documents que vous aurez sélectionnés avec leurs annotations. 
+
+Avant d’effectuer cette opération, assurez-vous de les avoir marqués avec le bouton « sélection ». (Voir plus haut). 
+
+Rendez-vous ensuite dans le menu de l’application et cliquez sur « Partager ». 
+
+Effectuez ensuite la séquence suivante : 
+
+![145](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/145.jpg)
+
+Sélectionnez l’emplacement de votre choix pour l’enregistrement du fichier unique qui contiendra tous ces documents. 
+
+Utilisez votre boite mail pour envoyer cette pièce jointe selon votre méthode habituelle. 
+
+**Pour sauvegarder un rendez-vous client**
+
+Vous pouvez sauvegarder des documents annotés dans l’application. 
+
+Pour cela, assurez-vous d’avoir bien ajouté ces documents à la sélection. (voir plus haut)
+
+Rendez-vous ensuite dans le menu de l’application et cliquez sur « Enregistrer et quitter » puis « enregistrer ». Saisissez le nom de votre client puis cliquez sur « Enregistrer »
+
+![147](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/147.jpg)
+
+Les projets sauvegardés sont accessibles depuis l’accueil de l’application, via le bouton « Ouvrir »
+
+![149](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/149.jpg)
+
+##Détails des contenus## 
+
+**Recherche
+
+
+
+
+
+
