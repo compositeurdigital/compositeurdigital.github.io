@@ -20,7 +20,7 @@ Le stylet qui vous a été fourni est immédiatement reconnu par l’application
 
 A cette étape :
 
-→ Pensez à vérifier que vous disposez de la dernière mise à jour : L’icône de synchro en haut à droite doit être dans l’état suivant : 
+→ Pensez à vérifier que vous disposez de la dernière mise à jour. L’icône de synchro en haut à droite doit être dans l’état suivant : 
 
 ![status](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/status.png)
 
@@ -42,9 +42,9 @@ L’interface du Compositeur Digital est organisée de la façon suivante :
 
 ## Connaître les gestes et fonctions de base ##
 
-**Afficher un contenu :** Pour afficher un contenu cliquer une fois au doigt sur celui-ci.
+**Afficher un contenu :** Pour afficher un contenu, cliquez une fois au doigt sur celui-ci.
 
-**Zoomer :** Utiliser deux doigts pour agrandir ou rétrécir. Nous vous conseillons de vous entrainer quelques secondes pour maîtriser le geste en rendez-vous.
+**Zoomer :** Utilisez deux doigts pour agrandir ou rétrécir. Nous vous conseillons de vous entraîner quelques secondes pour maîtriser le geste en rendez-vous.
 
 ![zoom4](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/zoom4.png)
 
@@ -54,31 +54,31 @@ L’interface du Compositeur Digital est organisée de la façon suivante :
 
 **Pour écrire et gommer :** Le stylet qui vous a été fourni est immédiatement reconnu par l’application. Vous pouvez écrire directement sur vos contenus sans passer par un menu. Pour gommer, retournez le stylet et gommez. 
 
-**Actions sur un document :** Voici les actions qui vous seront utiles 
-* Dans le menu du document, accessible par les trois petits points en bas à droite, le mode diapositive vous permet de naviguer rapidement dans un contenu multi-pages :
+**Actions sur un document :** Voici les actions qui vous seront utiles
+* Dans le menu du document, accessible par les trois petits points en bas à droite, le mode diapositive vous permet de naviguer rapidement dans un contenu multi-pages
 
 ![diapo1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/diapo1.png)
 
-* Le bouton « Sélection », matérialisé par une étoile en bas à droite d’un document vous permet d’ajouter celui-ci au panier du rendez-vous pour être ensuite partagé par mail au client. Le document est dans l’état « sélectionné » lorsque l’étoile est pleine :
+* Le bouton « Sélection » , matérialisé par une étoile en bas à droite d’un document vous permet d’ajouter celui-ci au panier du rendez-vous pour être ensuite partagé par mail au client. Le document est dans l’état « sélectionné » lorsque l’étoile est pleine. 
 
 ![selection1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/selection1.png)
 
 **Action sur les contenus web**
 
-L’application comporte des vues Google Maps pour présenter la localisation des programmes et de ses alentours. Ces vues sont affichées dans le navigateur intégré de l’application. 
+L’application comporte des vues Google Maps pour la présenter la localisation des programmes et de ses alentours. Ces vues sont affichées dans le navigateur intégré de l’application. 
 
 Pour interagir avec le contenu de la page, cliquez sur le bouton central :
 ![naviguer1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/naviguer1.png)
 
-Pour manipuler la fenêtre, cliquez sur le bouton « fin de navigation » : 
+Pour manipuler la fenêtre, cliquez sur le bouton « fin de navigation » :
 ![fin_naviguer1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/fin_naviguer1.png)
 
-> NOTE : Vous pouvez à tout moment manipuler la fenêtre en la saisissant par la barre supérieure ou inférieure. 
+> NOTE : Vous pouvez à tout moment manipuler la fenêtre en la saisissant par la barre supérieure ou inférieure :
 ![fenetre1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/fenetre1.png)
 
-> NOTE : Assurez-vous d’être bien connecté à internet pour exploiter ce contenu en rendez-vous. 
+> NOTE : Assurez-vous d’être bien connecté à Internet pour exploiter ce contenu en rendez-vous. 
 
-**Afficher la liste des documents ajoutés à la sélections (panier)**
+**Afficher la liste des documents ajoutés à la sélections(panier)**
 
 ![157](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/157.png)
 
@@ -100,7 +100,7 @@ Effectuez ensuite la séquence suivante :
 
 Sélectionnez l’emplacement de votre choix pour l’enregistrement du fichier unique qui contiendra tous ces documents. 
 
-Utilisez votre boîte mail pour envoyer cette pièce jointe selon votre méthode habituelle. 
+Utilisez votre boite mail pour envoyer cette pièce jointe selon votre méthode habituelle. 
 
 **Pour sauvegarder un rendez-vous client**
 
@@ -108,7 +108,7 @@ Vous pouvez sauvegarder des documents annotés dans l’application.
 
 Pour cela, assurez-vous d’avoir bien ajouté ces documents à la sélection. (Voir plus haut)
 
-Rendez-vous ensuite dans le menu de l’application et cliquez sur « Enregistrer et quitter » puis « enregistrer ». Saisissez le nom de votre client puis cliquez sur « Enregistrer ».
+Rendez-vous ensuite dans le menu de l’application et cliquez sur « Enregistrer et quitter » puis « enregistrer ». Saisissez le nom de votre client puis cliquez sur « Enregistrer » :
 
 ![147](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/147.png)
 
@@ -124,21 +124,22 @@ Les projets sauvegardés sont accessibles depuis l’accueil de l’application,
 Cette section vous permet de rechercher les plans et vues 3D associées à un  lot. Les critères sont affichés dans le volet de gauche et les résultats sont présentés dans le volet de droite. L’affichage des résultats se met à jour dès qu’un critère est modifié. 
 
 > NOTE : Ce module n’affiche que les plans disponibles à la vente. 
-> NOTE : Si plusieurs critères sont sélectionnés, c’est la combinaison simultanée des critères qui est prise en compte 
+
+> NOTE : Si plusieurs critères sont sélectionnés, c’est la combinaison simultanée des critères qui est prise en compte. 
 
 **Plans Résidence**
 ![150](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/150.png)
 
 Cette section rassemble les plans de masse et les plans d’étage. 
 
-> NOTE : Il n’y a pas de liens vers les plans de lots depuis ces documents. 
+> NOTE : Il n’y a pas de lien vers les plans de lots depuis ces documents. 
 
 **Visuels**
 ![151](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/151.png)
 
 Cette section rassemble les perspectives du programme. 
 
-> NOTE : Il n’y a pas de lien vers les plans de lots depuis ces documents. 
+> NOTE : Il n’y a pas de liens vers les plans de lots depuis ces documents. 
 
 **Outils 3D** 
 ![152](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/152.png)
