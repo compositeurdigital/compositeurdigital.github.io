@@ -157,6 +157,6 @@ Cette rubrique affiche la plaquette du programme.
 ![155](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/155.jpg)
 Cette rubrique donne accès à un simulateur de prêt générique. Tous les paramètres sont modifiables indépendamment. 
 
-# Parcours recommandé pour la présentation des programmes#
+# Parcours recommandé pour la présentation des programmes
 
 Complément à venir...
