@@ -78,7 +78,7 @@ Pour manipuler la fenêtre, cliquez sur le bouton « fin de navigation » :
 
 > NOTE : Assurez-vous d’être bien connecté à Internet pour exploiter ce contenu en rendez-vous. 
 
-**Afficher la liste des documents ajoutés à la sélections(panier)**
+**Afficher la liste des documents ajoutés à la sélections (panier)**
 
 ![157](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/157.png)
 
