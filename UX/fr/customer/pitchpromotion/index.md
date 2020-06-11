@@ -163,4 +163,20 @@ Cette rubrique donne accès à un simulateur de prêt générique. Tous les para
 
 # Parcours recommandé pour la présentation des programmes
 
-Compléments à venir...
+Le Compositeur Digital est l’application qui vous permet de réaliser des présentations de programmes non linéaire. C’est vous qui choisissiez en fonction de la connaissance du client du programme de ce que vous souhaitez présenter. 
+
+Toutefois pour un client qui ne connait ni la localisation, ni le programme, nous vous proposons un exemple de parcours qui exploite toutes les capacités de l’outil pour une découverte efficace du programme. 
+
+
+1.	Plan de situation avec annotations des points d’intérêt personnalisés en fonction du prospect
+2.	(Optionnel) usage de Google Maps intégré. Attention : cela peut être chronophage dans le rendez-vous et détourner le prospect des atouts du programme.
+
+3.	Présentation de l’environnement du programme avec la plaquette ou les visuels des alentours. 
+4.	Découverte de l’implantation et du volume général avec la vue orbitale. Utilisation de la rotation 360° pour remettre en correspondance la vue de la résidence avec le plan de localisation  
+5.	Temps d’interaction client (découverte des besoins, motivations…) 
+6.	Présentation de la vue de perspective et remise en situation par rapport à un plan de masse
+7.	Présentation des vues 3D / Visite virtuelle des appartements types, lecture de la distribution 
+8.	Recherche d’un lot disponible et affichage cote à cote avec les autres visuels du lot + Annotation personnalisée sur le plan 
+9.	Temps d’interaction client (pre-closing) 
+10.	Ajout des documents clés à la sélection puis partage client. 
+
