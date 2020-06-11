@@ -116,12 +116,47 @@ Les projets sauvegardés sont accessibles depuis l’accueil de l’application,
 
 ![149](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/149.jpg)
 
-##Détails des contenus## 
+## Détails des contenus ## 
 
-**Recherche
+**Recherche**
+![143](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/143.jpg)
 
+Cette section vous permet de rechercher les plans et vues 3D associées à un  lot. Les critères sont affichés dans le volet de gauche et les résultats sont présentés dans le volet de droite. L’affichage des résultats se met à jour dès qu’un critère est modifié. 
 
+NOTE : Ce module n’affiche que les plans disponibles à la vente. 
+NOTE : Si plusieurs critères sont sélectionnés, c’est la combinaison simultanée des critères qui est prise en compte 
 
+**Plans Résidence**
+![150](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/150.jpg)
 
+Cette section rassemble les plans de masse et les plans d’étage. 
 
+NOTE : Il n’y a pas de liens vers les plans de lots depuis ces documents. 
 
+**Visuels**
+![151](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/151.jpg)
+
+Cette section rassemble les perspectives du programme. 
+
+NOTE : Il n’y a pas de liens vers les plans de lots depuis ces documents. 
+
+**Outils 3D** 
+![152](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/152.jpg)
+
+Cette section rassemble les maquettes orbitales et visites virtuelles disponibles 
+
+**Situation**
+![153](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/153.jpg)
+Cette section rassemble une image du plan de situation lorsqu’elle est disponible et un lien vers Google Maps paramétré avec l’emplacement du programme. Assurez-vous d’être connectés à Internet pour utiliser ce contenu. 
+
+**Plaquette**
+![154](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/154.jpg)
+Cette rubrique affiche la plaquette du programme.
+
+**Informations**
+![155](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/155.jpg)
+Cette rubrique donne accès à un simulateur de prêt générique. Tous les paramètres sont modifiables indépendamment. 
+
+# Parcours recommandé pour la présentation des programmes#
+
+Complément à venir...
