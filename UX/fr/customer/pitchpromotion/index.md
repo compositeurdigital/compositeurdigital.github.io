@@ -16,12 +16,20 @@ Le stylet qui vous a été fourni est immédiatement reconnu par l’application
 
 **Accueil de l’application**
 
-![accueil](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/138.png)
+![accueil](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/138.png)
 
 A cette étape :
 
 --> Pensez à vérifier que vous disposez de la dernière mise à jour : L’icône de synchro en haut à droite doit être dans l’état suivant : 
 
-![status](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/status.png)
+![status](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/status.png)
 
---> 
+--> Si l’icône est différente, cliquez dessus puis sur le bouton *actualiser*
+
+**Sélection du programme**
+
+Accédez à la région souhaitée puis sélectionnez le programme. 
+
+--> Certains programmes sont affichés avec l’étiquette « *Avant-première* ». Cela signifie que l’intégralité des contenus n’est pas encore disponible pour la commercialisation. 
+
+![139](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/139.png)
