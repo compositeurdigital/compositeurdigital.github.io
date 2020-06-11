@@ -46,18 +46,18 @@ L’interface du Compositeur Digital est organisée de la façon suivante :
 
 **Zoomer :** Utiliser deux doigts pour agrandir ou rétrécir. Nous vous conseillons de vous entrainer quelques secondes pour maitriser le geste en rendez-vous
 
-![zoom2](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/zoom2.jpg)
+![zoom4](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/zoom4.png)
 
 **Fermer un document :** Pour fermer un document, vous pouvez le « jeter », sur n’importe quel bord de l’écran. Vous pouvez également cliquer sur la croix en haut à droite de celui-ci. Pour rappel, un contenu fermé reste toujours accessible depuis son emplacement d’origine.
 
-![fermer](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/capture_fermer.jpg)
+![fermer1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/fermer1.png)
 
 **Pour écrire et gommer :** Le stylet qui vous a été fourni est immédiatement reconnu par l’application. Vous pouvez écrire directement sur vos contenus sans passer par un menu. Pour gommer, retournez le stylet est gommez. 
 
 **Actions sur un document :** Voici les actions qui vous seront utiles :
 * Dans le menu du document, accessible par les trois petits points en bas à droite, le mode diapositive vous permet de naviguer rapidement dans un contenu multi-pages
 
-![diapo](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/diapo1.jpg)
+![diapo1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/diapo1.png)
 
 * Le bouton « Sélection » , matérialisé par une étoile en bas à droite d’un document vous permet d’ajouter celui-ci au panier du rendez-vous pour être ensuite partagé par mail au client. Le document est dans l’état « sélectionné » lorsque l’étoile est pleine. 
 
