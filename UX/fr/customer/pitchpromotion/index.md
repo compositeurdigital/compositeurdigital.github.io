@@ -14,6 +14,14 @@ Le stylet qui vous a été fourni est immédiatement reconnu par l’application
 
 ## Accès aux programmes immobiliers dans le Compositeur Digital ##
 
-**Accueil de l’application **
+**Accueil de l’application**
 
 ![accueil](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/138.png)
+
+A cette étape :
+
+--> Pensez à vérifier que vous disposez de la dernière mise à jour : L’icône de synchro en haut à droite doit être dans l’état suivant : 
+
+![status](http://compositeurdigital.github.io/UX/fr/tutorials/remotemeeting/img/status.png)
+
+--> 
