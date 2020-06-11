@@ -61,20 +61,20 @@ L’interface du Compositeur Digital est organisée de la façon suivante :
 
 * Le bouton « Sélection » , matérialisé par une étoile en bas à droite d’un document vous permet d’ajouter celui-ci au panier du rendez-vous pour être ensuite partagé par mail au client. Le document est dans l’état « sélectionné » lorsque l’étoile est pleine. 
 
-![selection](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/selection.jpg)
+![selection1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/selection1.png)
 
 **Action sur les contenus web**
 
 L’application comporte des vues Google Maps pour la présenter la localisation des programmes et de ses alentours. Ces vues sont affichées dans le navigateur intégré de l’application. 
 
 Pour interagir avec le contenu de la page, cliquez sur le bouton central
-![naviguer](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/naviguer.jpg)
+![naviguer1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/naviguer1.png)
 
 Pour manipuler la fenêtre, cliquez sur le bouton « fin de navigation » 
-![fin_naviguer](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/fin_naviguer.jpg)
+![fin_naviguer1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/fin_naviguer1.png)
 
 Note : Vous pouvez à tout moment manipuler la fenêtre en la saisissant par la barre supérieure ou inférieure. 
-![fenetre](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/fenetre.jpg)
+![fenetre1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/fenetre1.png)
 
 Note : Assurez-vous d’être bien connecté à internet pour exploiter ce contenu en rendez-vous. 
 
