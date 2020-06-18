@@ -15,7 +15,7 @@ Les images sont prises en charge nativement par le Compositeur Digital UX.
 
 ## Extensions de fichiers
 
-Le Compositeur Digital UX prend en charge les fichiers `.jpg`, `.jpeg` et `.png`.
+Le Compositeur Digital UX prend en charge les fichiers `.jpg`, `.jpeg`, `.jfif`, `.png` et `.webp`.
 
 ## Actions dans Compositeur Digital UX
 

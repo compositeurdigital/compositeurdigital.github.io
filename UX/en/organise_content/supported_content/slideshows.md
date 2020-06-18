@@ -32,7 +32,7 @@ Slideshows support the following action. To have a complete overview of each act
 ## Content extension 
 
 To use a slideshow, put all the files you want in a folder, and add the extension `.slideshow` at the end of the name of your folder.
-Only use files that ends with `.jpg`, `.jpeg`, `.pdf`, `.png`, `.ppt` or `.pptx`.
+Only use files that ends with `.jpg`, `.jpeg`, `.jfif`, `.pdf`, `.png`, `.pptx` or `.webp`.
 
 ## Create a slideshow
 

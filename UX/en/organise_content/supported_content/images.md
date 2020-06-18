@@ -15,7 +15,7 @@ Images are supported natively by Compositeur Digital UX.
 
 ## File extensions
 
-Compositeur Digital UX supports `.jpg`, `.jpeg` and `.png` files.
+Compositeur Digital UX supports `.jpg`, `.jpeg`, `.jfif`, `.png` and `.webp` files.
 
 ## Actions within Compositeur Digital UX
 
