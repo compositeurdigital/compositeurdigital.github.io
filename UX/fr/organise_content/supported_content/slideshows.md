@@ -31,8 +31,8 @@ Les diaporamas prennent en charge les actions suivantes. Pour avoir un aperçu c
 
 ## Extension de dossier 
 
-Pour utiliser un diaporama, mettez tous les fichiers que vous voulez dans un dossier, et ajoutez l'extension `.slideshwo` à la fin du nom de votre dossier.
-N'utilisez que les fichiers qui se terminent par `.jpg`, `.jpeg`, `.pdf`, `.png`, `.pptx`.
+Pour utiliser un diaporama, mettez tous les fichiers que vous voulez dans un dossier, et ajoutez l'extension `.slideshow` à la fin du nom de votre dossier.
+N'utilisez que les fichiers qui se terminent par `.jpg`, `.jpeg`, `.jfif`, `.pdf`, `.png`, `.pptx` ou `.webp`.
 
 ## Créer un diaporama
 

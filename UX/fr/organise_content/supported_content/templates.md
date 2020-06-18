@@ -30,7 +30,7 @@ Selon le type de fichier (c'est-à-dire diaporama ou images...), consultez la pa
 
 Tous les modèles sont situés à la racine du dossier de votre univers, dans un dossier appelé `_toolbox`.
 
-À l'intérieur de ce dossier, vous pouvez créer autant de dossiers que vous le souhaitez, et y placer des images ou des documents de présentation (`.jpg`, `.png`, `.pdf`, `pptx`).
+À l'intérieur de ce dossier, vous pouvez créer autant de dossiers que vous le souhaitez, et y placer des images ou des documents de présentation (`.jpg`, `.jpeg`, `.jfif`, `.png`, `.pdf`, `pptx`, `.webp`).
 
 [Voir comment utiliser les modèles dans le Compositeur Digital UX](../../user_guide/workflow.md#use-templates)
 
