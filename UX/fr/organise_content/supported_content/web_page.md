@@ -83,6 +83,16 @@ Toutes les actions sont disponibles via l'objet `CDUX`.
 <a href="javascript:CDUX.openItem('../image.jpg');">image ouverte</a>
 <a href="javascript:CDUX.openItem('2ndPage.html?name=test');">ouvrir un nouveau site web</a>
 ```
+
+**importItem**(string base64, string filename)
+<br />Importez et ouvrez un fichier à partir de données binaires
+```javascript
+var pdf = new jsPDF();
+/* generate a pdf */
+var byteArray = pdf.output('arraybuffer');
+CDUX.importItem(window.btoa(byteArray), 'My File.pdf');
+```
+
 **SetJsonProjectData**(dataKey de la chaîne, valeur de la chaîne)
 <br />stocker la valeur (objet primitif ou complexe) dans le projet sous la clé donnée
 
