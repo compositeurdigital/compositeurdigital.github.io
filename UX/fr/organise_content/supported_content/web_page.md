@@ -175,7 +175,8 @@ Les métadonnées vous aideront à personnaliser le comportement de votre naviga
 | `web.showChrome`           | Vrai ou faux          | Si vrai, une barre de navigation en haut de la vue s'affiche. Sinon, aucune barre de navigation ne sera affichée. |
 | `web.viewport.width`       | 1000 (nombre)         | Définit la largeur par défaut de la vue.                                       |
 | `web.viewport.height`      | 800 (nombre)          | Définit la hauteur par défaut de la vue.                                      |
-| `web.nossl` | Vrai ou faux | Désactive les contrôles SSL et permet de naviguer sur des pages dont les certificats ne sont pas fiables. |  
+| `web.nossl` | Vrai ou faux | Désactive les contrôles SSL et permet de naviguer sur des pages dont les certificats ne sont pas reconnus. |
+| `web.newWindow.*`          | -                     | Les metadonnées préfixées de `web.newWindow` seront appliquées aux fen^tres ouvertes à partir de la page courante. Si aucune clé `web.newWindow` n'est spécifiée, les métadonnées courantes seront appliquées. |  
 
 Par défaut, le lien `cdurl` a les métadonnées `web.manipulationMode` définies à 1 et les métadonnées `web.showChrome` définies à Vrai.
 
