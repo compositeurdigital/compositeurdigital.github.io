@@ -122,14 +122,14 @@ Avec ProjectData, vous pouvez interagir avec les valeurs d'un autre aperçu sur 
 
 **Exemples**
 ```javascript
-    var objectValue = { 'nom' : 'Marc Dupont', 'NumerodeTéléphone' : '06 12 24 49 33' }
+    var objectValue = { 'name' : 'Marc Dupont', 'phoneNumber' : '06 12 24 49 33' }
     CDUX.setJsonProjectData('school.director', JSON.stringify(objectValue)) ;
     
     // pour récupérer ultérieurement cette valeur, utilisez :
     var director = JSON.parse(CDUX.getJsonProjectData('school.director')) ;
     
     //si vous voulez seulement obtenir le nom, vous pouvez aussi utiliser une clé plus précise :
-    var directorName = CDUX.getJsonProjectData('school.director.name')
+    var directorName = JSON.parse(CDUX.getJsonProjectData('school.director.name')) ;
     
     // pour être averti d'un changement de numéro de téléphone :
     fonction phoneChanged() { }

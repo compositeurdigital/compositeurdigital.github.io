@@ -118,7 +118,7 @@ CDUX.importItem(window.btoa(byteArray), 'My File.pdf');
 With ProjectData you can interact with with the values of an other webview, but also of a [Quiz](quiz.md), a [Form](form.md) or a [Mortgage simulator](simulator.md)
 
 **examples**
-
+```javascript
     var objectValue = { 'name': 'Marc Dupont', 'phoneNumber': '06 12 24 49 33' }
     CDUX.setJsonProjectData('school.director', JSON.stringify(objectValue));
     
@@ -126,7 +126,7 @@ With ProjectData you can interact with with the values of an other webview, but 
     var director = JSON.parse(CDUX.getJsonProjectData('school.director'));
     
     //if you only want to get the name, you can also use a more precise key :
-    var directorName = CDUX.getJsonProjectData('school.director.name')
+    var directorName = JSON.parse(CDUX.getJsonProjectData('school.director.name')) ;
     
     //to be warn of a change of phoneNumber :
     function phoneChanged() { }
@@ -135,7 +135,7 @@ With ProjectData you can interact with with the values of an other webview, but 
     //to be warn of a any change inside director's object :
     function infoChanged() { }
     CDUX.registerProjectDataChangedCallback('school.director', infoChanged.name, false);
-    
+```
 
 **Deprecated** *: the below methods are kept only for legacy reasons
 <br />getProjectData: retrieve a value stored on the current project by giving its key
