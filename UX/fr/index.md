@@ -11,6 +11,7 @@ Apprenez comment construire votre propre univers et quel type de contenu vous po
 
 * [**Contenu pris en charge**](organise_content/supported_content/index.md) : vérifiez tous les contenus disponibles.
 * [**Paramètres avancés**](organise_content/advanced_setting.md) : apprenez à tirer parti des *métadonnées*.
+* [**Fournisseurs de contenus**](organise_content/supported_providers.md) : une maquette à intégrer? Vérifiez si votre contenu est supporté.
 
 ### [Guide administratif](administrative_guide/index.md)
 Gérez votre *Compositeur Digital UX*
