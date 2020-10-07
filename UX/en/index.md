@@ -11,6 +11,7 @@ Learn how to build your own universe and what type of content you can use.
 
 * [**Supported content**](organise_content/supported_content/index.md) : check all the content available.
 * [**Advanced settings**](organise_content/advanced_setting.md) : learn how to take advantage of *meta data*.
+* [**Content provider**](organise_content/supported_provider.md) : verify if your content provider is supported.
 
 ### [Administrative guide](administrative_guide/index.md)
 Manage your *Compositeur Digital UX*
