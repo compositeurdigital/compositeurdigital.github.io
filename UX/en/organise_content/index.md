@@ -6,6 +6,9 @@ Learn how to create beautiful universes.
 ## [Supported content](supported_content/index.md)
 Check the list of supported content types and related actions.
 
+## [Supported providers](supported_providers.md)
+Check the list of supported media providers.
+
 ## [Templates](supported_content/templates.md)
 Learn how to boost your productivity with templates.
 
