@@ -158,14 +158,15 @@ With ProjectData you can interact with with the values of an other webview, but 
 
 Metadata will help you to customize the way your web viewer behaves.
 
-| Metadata Key                      | Value               | Description                                                               |
-|:---------------------------------:|:-------------------:|:--------------------------------------------------------------------------|
+| Metadata Key                      | Value               | Description                                                                 |
+|:---------------------------------:|:-------------------:|:----------------------------------------------------------------------------|
 | `table.viewer`                    | cdux                | Makes sure the `cdurl` link will be displayed inside Compositeur Digital UX |
-| `web.manipulationMode`            | `toggle` or `integrated`              | If `toggle`, all touch movements acts only on the container until the user enable navigation mode, then all interactions are transmited to the web content. If `integrated`, single taps are transmited to web content whereas more complex touch movements (slide, zoom, ...) will move the container  |
+| `web.manipulationMode`            | `toggle` or `integrated`| If `toggle`, all touch movements acts only on the container until the user enable navigation mode, then all interactions are transmited to the web content. If `integrated`, single taps are transmited to web content whereas more complex touch movements (slide, zoom, ...) will move the container  |
 | `web.showChrome`                  | True of False       | If true, a navigation bar at the top of the view will be shown. Else, no navigation bar will be displayed. |
-| `web.viewport.width`              | 1000 (number)       | Sets the default width of the view.                                       |
-| `web.viewport.height`             | 800 (number)        | Sets the default height of the view.                                      |
-| `web.nossl`                       | True or False       | Disables SSL checks and allows a web view to navigate to pages that have untrusted certificates. |  
+| `web.viewport.width`              | 1000 (number)       | Sets the default width of the view.                                         |
+| `web.viewport.height`             | 800 (number)        | Sets the default height of the view.                                        |
+| `web.nossl`                       | True or False       | Allow navigation to pages that have untrusted certificates.                 |
+| `web.newWindowOnNavigation`       | True or False       | Open all links in a new windows                                             |
 | `web.newWindow.*`                 | -                   | Any metadata with the `web.newWindow` prefix will be applied to new windows opened from the current page. If no such metadata is set, the current metadata will be used. |  
 
 By default , `cdurl` link have the metadata `web.manipulationMode` set to 1 and the metadata `web.showChrome` set to True.
