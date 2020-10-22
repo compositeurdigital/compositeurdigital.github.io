@@ -17,7 +17,7 @@ This section describes all the providers which are supported by Compositeur Digi
 | Habx       | &#x2714;     | &#x2716;      | &#x2716;      |
 | Hive&Co    | &#x2714;     | &#x2716;      | &#x2714;      |
 | TouteLa3d  | &#x2714;     | &#x2714;      | &#x2714;      |
-
+| VisioLab   | &#x2714;     | &#x2716;      | &#x2716;      |
 
 [Back to Organise Content](../index.md)
 
