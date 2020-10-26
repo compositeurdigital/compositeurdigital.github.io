@@ -58,9 +58,9 @@ Un formulaire est composé de petits éléments pour présenter ou collecter des
 Ils peuvent tous deux être décrits avec les attributs suivants :
 * `type` : à quoi ressemblera l'élément (voir les sections [Types d'entrée](#types-saisie) et [Types de présentateur](#types-de-présentateurs))
 * `text` : le titre ou la question affiché au-dessus de l'élément
-* `info-bulle` : ajoute un point d'interrogation à côté du titre pour afficher le texte donné ici
+* `tooltip` : ajoute un point d'interrogation à côté du titre pour afficher le texte donné ici
 * `valuekey` : stocker et récupérer la valeur d'une entrée sous cette clé
-* `visiblewhen` : ne montrer l'élément que lorsque la condition donnée est remplie (voir la section [Visibilité des éléments] (#visibilité-des-éléments))
+* `visiblewhen` : ne montrer l'élément que lorsque la condition donnée est remplie (voir la section [Visibilité des éléments](#visibilité-des-éléments))
 
 ## Organiser les éléments
 Les entrées et les présentateurs peuvent être écrits dans l'ordre d'apparition à l'intérieur de la balise `<form>` ou organisés en colonnes grâce à la balise `<section>`.
