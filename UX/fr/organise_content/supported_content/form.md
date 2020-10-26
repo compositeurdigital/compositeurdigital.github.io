@@ -17,7 +17,7 @@
 * [Lier des documents](#types-de-présentateurs)
    * [Documents](#documents)
 * [Autres valeurs](#autres-valeurs)
-* [Visibilité des éléments](# visibilité-des-éléments)
+* [Visibilité des éléments](#visibilité-des-éléments)
 * [Téléchargez un exemple](#télécharger-un-exemple)
 
 ## Description
