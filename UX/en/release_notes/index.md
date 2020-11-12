@@ -1,5 +1,19 @@
 # Release notes
 
+### 2.2 - November 12, 2020
+- Redesigned palette menu
+- Save & exit action replaced with distinct Home and Save actions
+- Quick empty workspace loading
+- Code activation: device Id displayed in settings
+- New Sharepoint connector with background synchronization
+- Webp & jfif image format support
+- Enhanced multi-touch manipulation pivot
+- Scale ruler (preview)
+- Webview new window setting in meta file
+- New background
+- [FIX] blurry image on mouse zoom
+- [FIX] Lot of bug fixes
+
 ### 2.1.29 - May 4, 2020
 - French translation for "Install demo contents" on shared  device.
 - Maximise folder
