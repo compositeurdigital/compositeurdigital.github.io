@@ -83,6 +83,16 @@ Toutes les actions sont disponibles via l'objet `CDUX`.
 <a href="javascript:CDUX.openItem('../image.jpg');">image ouverte</a>
 <a href="javascript:CDUX.openItem('2ndPage.html?name=test');">ouvrir un nouveau site web</a>
 ```
+
+**importItem**(string base64, string filename)
+<br />Importez et ouvrez un fichier à partir de données binaires
+```javascript
+var pdf = new jsPDF();
+/* generate a pdf */
+var byteArray = pdf.output('arraybuffer');
+CDUX.importItem(window.btoa(byteArray), 'My File.pdf');
+```
+
 **SetJsonProjectData**(dataKey de la chaîne, valeur de la chaîne)
 <br />stocker la valeur (objet primitif ou complexe) dans le projet sous la clé donnée
 
@@ -112,14 +122,14 @@ Avec ProjectData, vous pouvez interagir avec les valeurs d'un autre aperçu sur 
 
 **Exemples**
 ```javascript
-    var objectValue = { 'nom' : 'Marc Dupont', 'NumerodeTéléphone' : '06 12 24 49 33' }
+    var objectValue = { 'name' : 'Marc Dupont', 'phoneNumber' : '06 12 24 49 33' }
     CDUX.setJsonProjectData('school.director', JSON.stringify(objectValue)) ;
     
     // pour récupérer ultérieurement cette valeur, utilisez :
     var director = JSON.parse(CDUX.getJsonProjectData('school.director')) ;
     
     //si vous voulez seulement obtenir le nom, vous pouvez aussi utiliser une clé plus précise :
-    var directorName = CDUX.getJsonProjectData('school.director.name')
+    var directorName = JSON.parse(CDUX.getJsonProjectData('school.director.name')) ;
     
     // pour être averti d'un changement de numéro de téléphone :
     fonction phoneChanged() { }
@@ -165,7 +175,8 @@ Les métadonnées vous aideront à personnaliser le comportement de votre naviga
 | `web.showChrome`           | Vrai ou faux          | Si vrai, une barre de navigation en haut de la vue s'affiche. Sinon, aucune barre de navigation ne sera affichée. |
 | `web.viewport.width`       | 1000 (nombre)         | Définit la largeur par défaut de la vue.                                       |
 | `web.viewport.height`      | 800 (nombre)          | Définit la hauteur par défaut de la vue.                                      |
-| `web.nossl` | Vrai ou faux | Désactive les contrôles SSL et permet de naviguer sur des pages dont les certificats ne sont pas fiables. |  
+| `web.nossl` | Vrai ou faux | Désactive les contrôles SSL et permet de naviguer sur des pages dont les certificats ne sont pas reconnus. |
+| `web.newWindow.*`          | -                     | Les metadonnées préfixées de `web.newWindow` seront appliquées aux fen^tres ouvertes à partir de la page courante. Si aucune clé `web.newWindow` n'est spécifiée, les métadonnées courantes seront appliquées. |  
 
 Par défaut, le lien `cdurl` a les métadonnées `web.manipulationMode` définies à 1 et les métadonnées `web.showChrome` définies à Vrai.
 
