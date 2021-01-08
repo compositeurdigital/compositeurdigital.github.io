@@ -27,7 +27,6 @@ Vous devez être à l'aise avec :
 
 - La création et l'organisation de dossiers 
 - Le renommage des fichiers et des dossiers
-- C'est tout &#x1F601;
 
 ## Extensions de fichiers
 
