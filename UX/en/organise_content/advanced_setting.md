@@ -117,7 +117,7 @@ Configurable actions:
 | Metadata Key                      | Type      | Default | Description |
 |:--------------------------------- |:----------|:--------|:-|
 | `web.manipulationMode`            | `number`  | 0       | If `1`, the user will have to enable navigation mode, then the view will behave like a browser. If `0`, the navigation mode will be reduced. |
-| `web.showChrome`                  | `boolean` | false   | display a navigation bar at the top of the view |
+| `web.showChrome`                  | `boolean` | true    | display a navigation bar at the top of the view |
 | `web.viewport.width`              | `number`  | 1000    | Sets the default width of the page view |
 | `web.viewport.height`             | `number`  | 800     | Sets the default height of the page view |
 
