@@ -16,6 +16,7 @@
    * [Combobox](#combobox)
 * [Presenter types](#presenter-types)
    * [Documents](#documents)
+* [Form links](#form-links)
 * [Other Values](#other-values)
 * [Elements visibility](#elements-visibility)
 * [Download a sample](#download-a-sample)
@@ -204,7 +205,19 @@ To list a big quantity of answers in a reduced space, its recommanded to use a `
 </presenter>
 ```
 
-## Other Values
+## Form links
+Form links add an actionable link to open a sub-form that must exist in the .form folder. Values entered in the sub-form can be displayed with formatted labels.
+```xml
+<formlink source="Options">
+    <label text="Name: {subformName1}" />
+    <label text="{subformSurface:0 m²}" />
+</formlink>
+```
+
+- Specify the name of the linked sub-form with `source` (folder name without the `.form` extension)
+- Add a `label` entry for each line of information to display, occurences of `{valueKey}` will be replaced with the value if present, optionnaly add a format `{valueKey:format}` (see [Number](#number)).
+
+## Other values
 
 A `<choice>` of type `novalue` adds a check box under the input to deselect all other answers.
 

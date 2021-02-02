@@ -1,5 +1,30 @@
 # Release notes
 
+
+### 3.0.1457 - February 1, 2021
+- Web links in PDF and PowerPoint presentation now open in a web view instead of the browser
+- Added a default preview for empty product sheets
+- Support for hostpot text color
+- [FIX] Form combobox does not retain their value
+- [FIX] Inconsistant UI between file transfer and notes activities
+- [FIX] PowerPoint rendering issues
+- [FIX] PDF and PowerPoint not refreshed when changed in SharePoint if using MS365 connector
+- [FIX] Note activity assigned colors
+
+
+### 3.0.1428 - January 12, 2021
+
+#### New features
+- Companion
+- Web pages exportable as standalone html file
+- Forms: [sub-form links](../organise_content/supported_content/form.html#form-links) and compact UI
+
+#### General improvements and fixes
+- [FIX] Powerpoint rendering issues
+- [FIX] Annotations not saved in some cases
+- [FIX] First attached note always restored at default size
+- [FIX] Panorama loading error when encountering empty hotspots
+
 ### 2.2 - November 12, 2020
 - Redesigned palette menu
 - Save & exit action replaced with distinct Home and Save actions
