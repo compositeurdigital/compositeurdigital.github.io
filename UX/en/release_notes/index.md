@@ -5,7 +5,6 @@
 - Web links in PDF and PowerPoint presentation now open in a web view instead of the browser
 - Added a default preview for empty product sheets
 - Support for hostpot text color
-- [FIX] Importing multiple files at once could result in errors when saving a project
 - [FIX] Form combobox does not retain their value
 - [FIX] Inconsistant UI between file transfer and notes activities
 - [FIX] PowerPoint rendering issues
@@ -14,6 +13,7 @@
 
 
 ### 3.0.1428 - January 12, 2021
+
 #### New features
 - Companion
 - Web pages exportable as standalone html file
