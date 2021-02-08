@@ -1,5 +1,7 @@
 # Release notes
 
+### 3.0.1467 - February 5, 2021 
+- [FIX] Importing multiple files at once could result in errors when saving a project
 
 ### 3.0.1457 - February 1, 2021
 - Web links in PDF and PowerPoint presentation now open in a web view instead of the browser
