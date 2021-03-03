@@ -6,18 +6,24 @@ This section describes all the providers which are supported by Compositeur Digi
 
 | Provider       | Orbital view | Plans mapping | Virtual tours |
 |:--------------:|:------------:|:-------------:|:-------------:|
-| ArkaStudio     | &#x2716;     | &#x2716;      | &#x2714;      |
+| ArkaStudio     | &#x2714;     | &#x2714;      | &#x2714;      |
 | Artefacto      | &#x2714;     | &#x2714;      | &#x2714;      |
 | Axeon/Infime   | &#x2714;     | &#x2714;      | &#x2714;      |
 | BienIci        | &#x2716;     | &#x2716;      | &#x2714;      |
 | Drawbotics     | &#x2716;     | &#x2716;      | &#x2714;      |
+| Epsilon3D      | &#x2714;     | &#x2716;      | &#x2716;      |
+| Evimmo         | &#x2714;     | &#x2714;      | &#x2714;      |
 | Explorimmo     | &#x2716;     | &#x2716;      | &#x2714;      |
 | Figaro/3D immo | &#x2714;     | &#x2714;      | &#x2714;      |
 | Habiteo        | &#x2714;     | &#x2714;      | &#x2714;      |
 | Habx           | &#x2714;     | &#x2716;      | &#x2716;      |
 | Hive&Co        | &#x2714;     | &#x2716;      | &#x2714;      |
+| PreVisite      | &#x2716;     | &#x2716;      | &#x2714;      |
 | TouteLa3d      | &#x2714;     | &#x2714;      | &#x2714;      |
+| VirtualBuilding| &#x2714;     | &#x2714;      | &#x2714;      |
 | VisioLab       | &#x2714;     | &#x2716;      | &#x2716;      |
+| VirtualOnly    | &#x2714;     | &#x2716;      | &#x2716;      |
+| Vor            | &#x2714;     | &#x2716;      | &#x2714;      |
 
 [Back to Organise Content](../index.md)
 
