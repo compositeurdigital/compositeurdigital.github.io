@@ -67,6 +67,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `hideLinkLabel`                   | `boolean`    | false     | hide the document name in the universe bottom bar |
 | `table.alwaysBehind`              | `boolean`    | false     | force the document to stay under the others |
 | `table.alwaysOnTop`               | `boolean`    | false     | force the document to stay on top of the others |
+| `toolbox.startOpened`             | `boolean`    | false     | the toolbox category will be opened when accessed from the sidebar |
 
 #### Menu actions
 

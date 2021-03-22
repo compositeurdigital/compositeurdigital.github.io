@@ -1,5 +1,22 @@
 # Release notes
 
+### 3.0.1572 - March 22, 2021 
+
+- Annotations: quick mouse annotation by holding the *Ctrl* key or with the mouse's middle button
+- Web: 'integrated' interaction mode support for number inputs
+- Web: 'integrated' interaction mode shows the virtual touch keyboard for text or number inputs
+- Rename projects from the project list or from the workspace
+- Improved readability of source loading errors
+- Ability to open a toolbox category by default with the [`toolbox.startOpened`](../organise_content/advanced_setting.html#metadata-supported) meta
+- [FIX] Sequence pois inaccessible if displayed close to the bottom slider
+- [FIX] Incorrect form layout when elements visibility change
+- [FIX] Slideshow not always correctly updated from cloud-stored documents modifications
+- [FIX] Combobox scaling issue in filters 
+- [FIX] PDF and Powepoint links issues with empty links and web urls ending in  '/'
+- [FIX] Powerpoint rendering issues
+- [FIX] USB cache errors
+
+
 ### 3.0.1467 - February 5, 2021 
 - [FIX] Importing multiple files at once could result in errors when saving a project
 
