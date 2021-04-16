@@ -80,19 +80,20 @@ Clicking on "Open" drives you to the projects you have been working on. All the 
 Once you have decided which project or universe you want to work on, tapping on the project/universe icon will launch the workspace.
 The workspace is divided into 3 areas:
 
-![Compositeur Digital UX working page](../img/pres_workspace.jpg)
+![Compositeur Digital UX working page](../img/pres_workspace4.jpg)
 
-1. The workspace : a collaborative area, to display, manipulate and edit content.
+1. The workspace: a collaborative area, to display, manipulate and edit content.
 1. A dock to browse and access your content.
 1. The menu button, available on the right side and left side of the screen, useful to : 
    - a. Add notes, blanksheets, stickers or templates.
    - b. Change the ink type and color of your pen, use your finger to draw on documents, ect.
-   - c. Access settings of your project : you can enable / disable options such as tape or rotation from this menu.
-   - d. Import documents : select a list of file, paste content from your clipboard, take a screenshot of another app.
+   - c. Access settings of your project: you can enable / disable options such as tape or rotation from this menu.
+   - d. Import documents: select a list of file, paste content from your clipboard, take a screenshot of another app.
    - e. Share your work
    - f. Save your project
-   - g. Visualize all your documents : selection, imported documents, recycle bin, universes.
-   - h. Browse all the templates available : stickers, diagrams, boards...
+   - g. Visualize all your documents: selection, imported documents, recycle bin, universes.
+   - h. Browse all the templates available: stickers, diagrams, boards...
+   - i. Start web activities and imply your audience / attendees: [more details here](webactivities.md) ![pres_icon_webactivity.JPG](../img/pres_icon_webactivity.JPG)
 
 #### Open a document
 
