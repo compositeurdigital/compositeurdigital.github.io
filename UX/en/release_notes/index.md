@@ -1,5 +1,19 @@
 # Release notes
 
+
+### 3.0.1606 - April 16, 2021 
+
+- [FIX] Combobox scaling issue in forms 
+- [FIX] Settings not applied when restoring a project
+
+
+### 3.0.1586 - April 2, 2021 
+
+- The rename project dialog includes the current name for ease of use
+- [FIX] Cannot activate touch annotations from side menu
+- [FIX] Theme not correctly reset when leaving a project
+
+
 ### 3.0.1572 - March 22, 2021 
 
 - Annotations: quick mouse annotation by holding the *Ctrl* key or with the mouse's middle button
