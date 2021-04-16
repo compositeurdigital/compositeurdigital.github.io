@@ -1,4 +1,4 @@
-# Web activities : Campanion
+# Web activities | The Campanion
 
 The Companion is a functionality that makes able an animator to exchange ideas through post-it and/or files with other users who participate at the same session.
 
