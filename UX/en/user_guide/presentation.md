@@ -93,7 +93,7 @@ The workspace is divided into 3 areas:
    - f. Save your project
    - g. Visualize all your documents: selection, imported documents, recycle bin, universes.
    - h. Browse all the templates available: stickers, diagrams, boards...
-   - i. Start web activities and imply your audience / attendees: [more details here](webactivities.md) ![pres_icon_webactivity.JPG](../img/pres_icon_webactivity.JPG)
+   - i. Start web activities and imply your audience / attendees: [more details here](webactivities.md)   ![pres_icon_webactivity.JPG](../img/pres_icon_webactivity.JPG)
 
 #### Open a document
 
