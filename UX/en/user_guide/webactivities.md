@@ -77,7 +77,7 @@ The attendee can write an idea on a post it and click on `Share`. It will then a
 
 The attendee can now upload any file (image or pdf) and load it by cliking on `Share`. It will then appear in the universe:
 
-![universe_file_transfer](../img/universe_file_transfer.jpg)
+![universe_file_transfer](../img/universe_file_transfer2.jpg)
 
 
 The animator can now open the files and the notes by cliking on the folder.
