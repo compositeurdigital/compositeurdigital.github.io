@@ -1,8 +1,8 @@
 # Web activities
 
-Web activities is a functionality that makes able an animator to exchange ideas through post-it and/or files with other users who participate at the same session.
+Web activities allow presenter to exchange ideas through post-it and/or files with other users who participate at the same session.
 
-## Point of view: animator ##
+## Point of view: presenter ##
 
 ![pres_icon_webactivity.JPG](../img/pres_icon_webactivity.JPG)
 
@@ -59,11 +59,11 @@ To open the link from the QR code:
 Once the attendee has joined the activity by opening the link:
 1.	he is invited to enter his name to join the activity
 2.	he has to write his name
-3.	he eventually has to wait the animator to launch the activity 
+3.	he eventually has to wait the presenter to launch the activity 
 
-*Meanwhile the animator can either start an* `Idea Board`*, either a* `File transfer`*.*
+*Meanwhile the presenter can either start an* `Idea Board`*, either a* `File transfer`*.*
 
-**If the animator starts an Idea board:**
+**If the presenter starts an Idea board:**
 
 ![user_idea_board](../img/user_idea_board.jpg)
 
@@ -71,7 +71,7 @@ The attendee can write an idea on a post it and click on `Share`. It will then a
 
 ![universe_idea_board](../img/universe_idea_board.jpg)
 
-**If the animator starts a File transfer:**
+**If the presenter starts a File transfer:**
 
 ![user_file_transfer](../img/user_file_transfer.jpg)
 
@@ -80,7 +80,7 @@ The attendee can now upload any file (image or pdf) and load it by cliking on `S
 ![universe_file_transfer](../img/universe_file_transfer2.jpg)
 
 
-The animator can now open the files and the notes by cliking on the folder.
+The presenter can now open the files and the notes by cliking on the folder.
 
 The operations apply in the same way when the participant opens the link on his computer.
 
