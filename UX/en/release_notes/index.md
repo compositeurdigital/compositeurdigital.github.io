@@ -1,6 +1,18 @@
 # Release notes
 
 
+
+### 3.0.1689 - May 12, 2021 
+
+- The order of selected documents is conserved between sessions
+- [FIX] Documents still marked as selected after being taped or pinned
+- [FIX] Application cannot be closed
+- [FIX] Duplicated sync error icon
+- [FIX] History not rememberd on resume after error
+- [FIX] SharePoint/OneDrive: file modifications not detected in some cases
+- [FIX] License account not shown on some versions of Windows 10
+
+
 ### 3.0.1606 - April 16, 2021 
 
 - [FIX] Combobox scaling issue in forms 
