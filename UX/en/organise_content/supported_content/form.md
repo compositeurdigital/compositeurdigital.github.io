@@ -208,7 +208,7 @@ To list a big quantity of answers in a reduced space, its recommanded to use a `
 ## Form links
 Form links add an actionable link to open a sub-form that must exist in the .form folder. Values entered in the sub-form can be displayed with formatted labels.
 ```xml
-<formlink source="Options">
+<formlink source="Options" clearValues="true">
     <label text="Name: {subformName1}" />
     <label text="{subformSurface:0 m²}" />
 </formlink>
@@ -216,6 +216,7 @@ Form links add an actionable link to open a sub-form that must exist in the .for
 
 - Specify the name of the linked sub-form with `source` (folder name without the `.form` extension)
 - Add a `label` entry for each line of information to display, occurences of `{valueKey}` will be replaced with the value if present, optionnaly add a format `{valueKey:format}` (see [Number](#number)).
+- set `clearValues="true"` to reset the label values when the form becomes hidden (with [`visibleWhen`](#elements-visibility)) 
 
 ## Other values
 
