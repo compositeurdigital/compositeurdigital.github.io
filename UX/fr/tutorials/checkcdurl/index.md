@@ -10,9 +10,9 @@ En utilisant l'explorateur de fichier, faîtes un double-click sur votre fichier
 
 ![Votre lien s'ouvre dans le Compositeur Digital UX](../../img/check_cdurl_1.JPG)
 
-Pour interagir avec la vue web, cliquez sur l'icône de la main. Vous pouvez ensuite interagir avec la page web. Si votre PC dispose d'un écran tactile, vérifiez que la page réagit bien lorsque vous touchez le contenu. 
+Pour interagir avec la vue web, cliquez sur l'icône de la main. Vous pouvez ensuite interagir avec la page web. 
 
 ![Vous pouvez interagir avec la page web](../../img/check_cdurl_2.JPG)
 
-Certains sites n'offrent pas un support complet des interactions tactiles, cela peut dégrader l'expérience que vous retrouvez dans le *Compositeur Digital UX*.
+**Attention : Certains sites n'offrent pas un support complet des interactions tactiles. Cela peut dégrader l'expérience que vous retrouvez dans le *Compositeur Digital UX*. Si votre PC dispose d'un écran tactile, vérifiez que la page réagit bien lorsque vous touchez le contenu.**
 
