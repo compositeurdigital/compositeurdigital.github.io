@@ -6,7 +6,11 @@ Votre PC doit être équipé de Windows 10 et vous devez avoir le logiciel *Comp
 
 ### Ouvrir le lien
 
-En utilisant l'explorateur de fichier, faîtes un double-click sur votre fichier `.cdurl`. Le *Compositeur Digital UX* se lance, et ouvre une session dans laquelle votre lien s'affiche. 
+En utilisant l'explorateur de fichier, faîtes un double-click sur votre fichier `.cdurl`. 
+
+![Un exemple de fichier .cdurl dans l'explorateur de fichiers](../../img/check_cdurl_3.JPG)
+
+Le *Compositeur Digital UX* se lance, et ouvre une session dans laquelle votre lien s'affiche. 
 
 ![Votre lien s'ouvre dans le Compositeur Digital UX](../../img/check_cdurl_1.JPG)
 
