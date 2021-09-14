@@ -2,6 +2,28 @@
 
 
 
+### 3.1.1956 - September 14, 2021 
+
+- New UI matching Windows 11 visual style
+- [New share experience](../img/share.jpg)
+- Performance improvements of universe loading
+- Annotations: set the default inking color and size for an universe ([see documentation](../organise_content/advanced_setting.html#inking))
+- Better positionning of documents with `desiredWidth` or `desiredHeight` values of 100% or over
+- Catalog: large sets of options can be set to open in a popup to save space
+- Catalog: added quarter range filter for dates
+- Productsheet: popup for additionnal information
+- Video: `video.backgroundColor` metadata to control the color shown while the video loads
+- New `hideLinkTypeIcon` metadata to control the appearance of documents in a folder
+- [FIX] Imported documents missing when saving a new project but not closing it
+- [FIX] 'Rename project' actually creates a copy
+- [FIX] PowerPoint links with `#Page Name` anchors not recognized
+- [FIX] SharePoint/OneDrive cache constantly growing
+- [FIX] Activities service connection issues
+- [FIX] Folders should not allow to navigate up to the productsheet they reside in
+- [FIX] Crash on devices without removeble storage capabilitiy
+- [FIX] Small stickers erratic behavior when moved
+
+
 ### 3.0.1737 - June 3, 2021 
 
 - Search/Filter: `bannerColor` for first-level results

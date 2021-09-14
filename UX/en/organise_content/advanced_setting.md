@@ -65,9 +65,19 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 | `themeColor`                      | `color`      | -         | forces a theme color for the universe/element and its contents | 
 | `table.showOnStart`               | `boolean`    | false     | open the document automatically when the universe is launched | 
 | `hideLinkLabel`                   | `boolean`    | false     | hide the document name in the universe bottom bar |
+| `hideLinkTypeIcon`                | `boolean`    | false     | hide the document type icon in folder views |
 | `table.alwaysBehind`              | `boolean`    | false     | force the document to stay under the others |
 | `table.alwaysOnTop`               | `boolean`    | false     | force the document to stay on top of the others |
 | `toolbox.startOpened`             | `boolean`    | false     | the toolbox category will be opened when accessed from the sidebar |
+
+#### Inking
+
+Set the default ink color and size for an universe with the follwing values:
+
+| Metadata Key      | Type         | Default   | Description |
+|:----------------- |:-------------|:----------|:-|
+| `ink.color`       | `red\|orange\|yellow\|green\|turquoise\|blue\|pink\|violet\|black\|white`      | black            | sets the default pen color. |
+| `ink.penName`     | `fine\|thick\|marker`    | fine    | set the default pen size. |
 
 #### Menu actions
 
@@ -98,6 +108,16 @@ Configurable actions:
 
 
 ## Content specific metadata
+
+### Slideshow
+
+| Metadata Key                      | Type      | Default | Description |
+|:--------------------------------- |:----------|:--------|:-|
+| `video.controls.position`         | `auto\|bottom\|left\|right\|leftandright` | auto   | controls where to place the previous and next page buttons as illustrated below |
+| `video.controls.hide`             | `boolean` | false   | hides the previous and next page buttons |
+
+When set to `auto` the position will be `leftandright` when document rotation is enabled and `bottom` otherwise.
+![Slideshow controls position](../img/slideshow_controls.jpg)
 
 ### Video and audio
 
