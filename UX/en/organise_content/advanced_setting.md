@@ -76,8 +76,8 @@ Set the default ink color and size for an universe with the follwing values:
 
 | Metadata Key      | Type         | Default   | Description |
 |:----------------- |:-------------|:----------|:-|
-| `ink.color`       | `red\|orange\|yellow\|green\|turquoise\|blue\|pink\|violet\|black\|white`      | black            | sets the default pen color. |
-| `ink.penName`     | `fine\|thick\|marker`    | fine    | set the default pen size. |
+| `ink.color`       | `red|orange|yellow|green|turquoise|blue|pink|violet|black|white`      | black            | sets the default pen color. |
+| `ink.penName`     | `fine|thick|marker`    | fine    | set the default pen size. |
 
 #### Menu actions
 
@@ -113,7 +113,7 @@ Configurable actions:
 
 | Metadata Key                      | Type      | Default | Description |
 |:--------------------------------- |:----------|:--------|:-|
-| `video.controls.position`         | `auto\|bottom\|left\|right\|leftandright` | auto   | controls where to place the previous and next page buttons as illustrated below |
+| `video.controls.position`         | `auto|bottom|left|right|leftandright` | auto   | controls where to place the previous and next page buttons as illustrated below |
 | `video.controls.hide`             | `boolean` | false   | hides the previous and next page buttons |
 
 When set to `auto` the position will be `leftandright` when document rotation is enabled and `bottom` otherwise.
