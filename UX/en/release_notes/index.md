@@ -2,7 +2,11 @@
 
 
 
-### 3.1.1956 - September 14, 2021 
+### 3.1.1970 - September 16, 2021 
+
+- [FIX] Webview: captures are not made at the correct resolution
+
+### 3.1.1956 - September 15, 2021 
 
 - New UI matching Windows 11 visual style
 - [New share experience](../img/share.jpg)
