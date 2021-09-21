@@ -3,10 +3,10 @@
 ### [Pour commencer](gettingstarted/index.md)
 Installer et lancer *Compositeur Digital UX*.
 
-### [Découvrir](onboarding/index.md)
+### [Découvrir](user_guide/index.md)
 Découvrez comment interagir avec *Compositeur Digital UX*.  
 
-### [Organiser le contenu](organise_content/index.md)
+### [Vos contenus](organise_content/index.md)
 Apprenez comment construire votre propre univers et quel type de contenu vous pouvez utiliser.
 
 * [**Contenu pris en charge**](organise_content/supported_content/index.md) : vérifiez tous les contenus disponibles.
@@ -19,6 +19,12 @@ Gérez votre *Compositeur Digital UX*
 * [**Licence**](administrative_guide/index.md#licence-compositeur-digital-ux) : activez votre licence Compositeur Digital UX.
 * [**Office365**](administrative_guide/index.md#compte-office365) : connectez Compositeur Digital UX à votre compte Office365.
 * [**Mode kiosque**](administrative_guide/index.md#mode-kiosque) : configurez votre application pour qu'elle soit utilisée dans la configuration du kiosque.
+
+### Tutos 
+* [**Créer un univers**](tutorials/createuniverse/index.md)
+* [**Utiliser le Compositeur Digital UX dans une réunion Teams**](tutorials/remotemeeting/index.md)
+* [**Tester un contenu en ligne**](tutorials/checkcdurl/index.md)
+
 
 ### [FAQ](FAQ/index.md)
 Contient des questions fréquemment posées sur l'installation et l'utilisation de *Compositeur Digital UX* et fournit des solutions aux problèmes courants.
