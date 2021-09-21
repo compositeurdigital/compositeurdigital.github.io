@@ -3,7 +3,7 @@
 ### [Pour commencer](gettingstarted/index.md)
 Installer et lancer *Compositeur Digital UX*.
 
-### [Guide de l'utilisateur](user_guide/index.md)
+### [Découvrir](onboarding/index.md)
 Découvrez comment interagir avec *Compositeur Digital UX*.  
 
 ### [Organiser le contenu](organise_content/index.md)
