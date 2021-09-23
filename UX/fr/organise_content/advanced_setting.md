@@ -18,16 +18,16 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 
 ## Résumé 
 * [Types de valeurs](#types-de-valeurs)
-* [Métadonnées prises en charge](#métadonnées-prises-en-charge)
+* [Métadonnées prises en charge](#metadonnées-prises-en-charge)
 * [Métadonnées spécifiques au contenu](#métadonnées-spécifiques-au-contenu)
   * [Diaporama](#diaporama)
-  * [Vidéo et audio](#vidéo-et-audio)
+  * [Vidéo et audio](#video-et-audio)
   * [Web](#web)
   * [simulateur de prêt](#simulateur-de-prêt)
   * [Simulateur d'épargne](#simulateur-d'épargne)
   * [Objets 3D](#objets-3d)
   * [Interface de recherche](#interfaces-de-recherche)
-* [Valeurs partagées](#valeurs-partagées)
+* [Valeurs partagées](#valeurs-partagees)
 
 ## Types de valeurs
 
@@ -146,7 +146,7 @@ WhLorsque la position est paramétré `auto`, la position sera `leftandright` si
 | `web.viewport.width`              | `nombre`  | 1000       | Définit la largeur par défaut de la vue de la page |
 | `web.viewport.height`             | `nombre`  | 800        | Définit la hauteur par défaut de la vue de la page |
 
-### Simutateur de prêt
+### Simulateur de prêt
 
 | Paramètre                           | Type     | Par défaut         | Description |
 |:-------------------------------------------- |:---------|:-------------------|:------------|
