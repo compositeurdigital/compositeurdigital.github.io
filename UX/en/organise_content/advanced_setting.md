@@ -2,17 +2,17 @@
 
 You can modify a document's behavior or associated actions using specific parameters described in a file named `_meta.txt`.
 
-To modify the behavior of a folder in the application, the meta file must be placed inside the targeted folder, and named `_meta.txt`.
+To modify the behavior of a folder, the meta file must be placed inside the targeted folder, and named `_meta.txt`.
 
-To modify the behavior of a document in the application, the meta file must be named after the document's file name followed by the suffix `_meta` and the `txt` extension. It must be saved at the same location as the target document. 
+To modify the behavior of a document, the meta file must be named after the document's file name followed by the suffix `_meta` and the `txt` extension. It must be saved at the same location as the target document. 
 
 > Example: for a file named `1 - image.jpg`, the corresponding meta file should to be named as follows : `1 - image_meta.txt`.
 
 In the meta file, each line (called `meta`) shall describe a parameter using the following structure: `metaName = value`
 
-A binary meta (true or false) is described as follows:  `metaName = true`. It's default value is `false`. The values `1` (true) and `0` (false) can also be used.
+A binary value (true or false) is described as follows:  `metaName = true`. Its default value is `false`. The values `1` (true) and `0` (false) can also be used.
 
-To apply a specific behavior to a set of documents, use the `*.` prefix on the description of the meta and save the meta file in the folder containing the set of targeted documents
+To apply a specific behavior to a set of documents, use the `*.` prefix on the parameter and save the meta file in the folder containing the set of targeted documents
 
 > Example : `*.table.hideCommands = true`
 
@@ -43,9 +43,9 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 
 | Metadata Key                      | Type         | Default   | Description |
 |:--------------------------------- |:-------------|:----------|:-|
-| `culture`                         | `text`       | unset     | indicates the language used in the universe. Supported values are `fr` or `en` |
-| `canStick`                        | `boolean`    |false      | indicates that the object can be sticked like a note |
-| `canWrite`                        | `boolean`    |false      | indicates that text can be typed on this object |
+| `culture`                         | `text`       | -         | indicates the language used in the universe. Supported values are `fr` or `en` |
+| `canStick`                        | `boolean`    | false     | indicates that the object can be sticked like a note |
+| `canWrite`                        | `boolean`    | false     | indicates that text can be typed on this object |
 | `desiredHeight`                   | `dimension`  | 400       | sets the default height of the document |
 | `desiredWidth`                    | `dimension`  | 400       | sets the default width of the document |
 | `isPaper`                         | `boolean`    | false     | removes the background of the document's buttons (action and close buttons)|
@@ -72,12 +72,12 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the d
 
 #### Inking
 
-Set the default ink color and size for an universe with the follwing values:
+Set the default ink color and size for an universe with the follwing parameters:
 
 | Metadata Key      | Type         | Default   | Description |
 |:----------------- |:-------------|:----------|:-|
-| `ink.color`       | `red|orange|yellow|green|turquoise|blue|pink|violet|black|white`      | black            | sets the default pen color. |
-| `ink.penName`     | `fine|thick|marker`    | fine    | set the default pen size. |
+| `ink.color`       | `red|orange|yellow|green|turquoise|blue|pink|violet|black|white` | black | sets the default pen color |
+| `ink.penName`     | `fine|thick|marker` | fine    | set the default pen size |
 
 #### Menu actions
 
@@ -185,7 +185,7 @@ When set to `auto` the position will be `leftandright` when document rotation is
 | `obj3D.backgroundcolor`           | `color`  | #dce1e1 | sets a solid background color |
 | `obj3D.camera.h`                  | `number` | 0       | sets the default azimuth (horizontal rotation) for the camera position |
 | `obj3D.camera.v`                  | `number` | 0       | sets the default pitch (vertical rotation) for the camera position |
-| `obj3D.renderingmode`             | `text`   | Normal  | sets the rendering mode of the object. Supported modes are `Normal` (default mode), `Transparent` and `Wireframe`. |
+| `obj3D.renderingmode`             | `Normal|Transparent|WireFrame`   | `Normal`  | sets the rendering mode of the object. Supported modes are `Normal` (default mode), `Transparent` and `Wireframe`. |
 
 ### Search interfaces
 
