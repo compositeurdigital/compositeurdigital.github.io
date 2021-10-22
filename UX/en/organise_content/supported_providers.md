@@ -4,7 +4,7 @@ This section describes all the providers which are supported by Compositeur Digi
 
 ## Details
 
-| Provider       | Orbital view | Plans mapping | Virtual tours |
+| Provider       | Orbital view (rendering) | Orbital view (hotspots) | Virtual tours |
 |:--------------:|:------------:|:-------------:|:-------------:|
 | ArkaStudio     | &#x2714;     | &#x2714;      | &#x2714;      |
 | Artefacto      | &#x2714;     | &#x2714;      | &#x2714;      |
