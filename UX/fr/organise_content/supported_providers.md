@@ -4,7 +4,7 @@ Cette section répertorie l'ensemble des fournisseurs de contenus pour lesquels 
 
 ## Détails
 
-| Fournisseur    | Vue orbitale | Mapping des plans | Visites virtuelles |
+| Fournisseur    | Vue orbitale (rendu) | Vue oribital (hotspot) | Visites virtuelles |
 |:--------------:|:------------:|:-----------------:|:------------------:|
 | ArkaStudio     | &#x2714;     | &#x2714;      | &#x2714;      |
 | Artefacto      | &#x2714;     | &#x2714;      | &#x2714;      |
