@@ -145,6 +145,7 @@ WhLorsque la position est paramétré `auto`, la position sera `leftandright` si
 | `web.showChrome`                  | `booléen` | true       | affiche une barre de navigation en haut de la vue |
 | `web.viewport.width`              | `nombre`  | 1000       | Définit la largeur par défaut de la vue de la page |
 | `web.viewport.height`             | `nombre`  | 800        | Définit la hauteur par défaut de la vue de la page |
+| `table.viewer`                    | `texte`   | extern     | Force l'ouverture du lien web dans votre navigateur |
 
 ### Simulateur de prêt
 
