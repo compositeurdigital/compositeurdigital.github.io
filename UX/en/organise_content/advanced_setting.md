@@ -141,6 +141,7 @@ When set to `auto` the position will be `leftandright` when document rotation is
 | `web.showChrome`                  | `boolean` | true    | display a navigation bar at the top of the view |
 | `web.viewport.width`              | `number`  | 1000    | Sets the default width of the page view |
 | `web.viewport.height`             | `number`  | 800     | Sets the default height of the page view |
+| `table.viewer`                    | `text`    | extern  | Opens the link in the default web browser |
 
 ### Mortgage simulator
 
