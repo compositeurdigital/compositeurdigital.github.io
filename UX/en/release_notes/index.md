@@ -2,6 +2,10 @@
 
 
 
+### 3.1.2172 - November 16, 2021 
+
+- [FIX] Kiosk: does not reset to the default univers after standby expiration
+
 ### 3.1.1970 - September 16, 2021 
 
 - [FIX] Webview: captures are not made at the correct resolution
