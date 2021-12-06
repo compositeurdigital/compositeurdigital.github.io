@@ -1,5 +1,26 @@
 # Release notes
 
+### 3.2.2307 - December 6, 2021
+
+#### New features
+- Web memory: store a view of your session in the cloud and share a personalized link to a web page containing your documents and notes
+
+- Catalog: new cleaner search filters experience
+- Catalog with map: direct touch manipulation of the map
+
+#### General improvements and fixes
+- Slideshow & images: new action to change a document orientation
+- Slideshow: control where the previous/next button are shown with `slideshow.controls.position` ([see documentation](../organise_content/advanced_setting.html#slideshow))
+- Stickers: define extra-small stickers with the parameter `desiredWidth`, suggested value `desiredWidth=40`
+- Web: display the manipulation invite in the bottom right corner (instead of centerd ofer the page content) with `action.manipulation.location`
+- Sharepoint & OneDrive: new connectors with differential updates for faster synchronization
+- Settings: detailed application information
+- General performance improvements
+- [FIX] Toolbox: custom toolbox element are not available if standard templates are disabled
+- [FIX] Panorama: spherical panoramas displayed with the wrong orientation
+- [FIX] PowerPoint: links in SmartArt elements not recognized
+- [FIX] Cannot open files with Compositeur Digital UX from file explorer
+- [FIX] Timers: the progress ring does not indicate the remaining/elapsed time
 
 
 ### 3.1.2172 - November 16, 2021 

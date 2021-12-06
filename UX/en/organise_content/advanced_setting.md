@@ -113,8 +113,8 @@ Configurable actions:
 
 | Metadata Key                      | Type      | Default | Description |
 |:--------------------------------- |:----------|:--------|:-|
-| `video.controls.position`         | `auto|bottom|left|right|leftandright` | auto   | controls where to place the previous and next page buttons as illustrated below |
-| `video.controls.hide`             | `boolean` | false   | hides the previous and next page buttons |
+| `slideshow.controls.position`     | `auto|bottom|left|right|leftandright` | auto   | controls where to place the previous and next page buttons as illustrated below |
+| `slideshow.controls.hide`         | `boolean` | false   | hides the previous and next page buttons |
 
 When set to `auto` the position will be `leftandright` when document rotation is enabled and `bottom` otherwise.
 ![Slideshow controls position](../img/slideshow_controls.jpg)
