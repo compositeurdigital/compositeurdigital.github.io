@@ -1,5 +1,11 @@
 # Release notes
 
+
+### 3.2.2371 - December 28, 2021
+
+- [FIX] Repeated user information access autorization prompt on shared devices
+- [FIX] Catalog: crash when using special `round` result display
+
 ### 3.2.2307 - December 6, 2021
 
 #### New features

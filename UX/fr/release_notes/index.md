@@ -1,6 +1,11 @@
 # Notes de publication
 
 
+### 3.2.2371 - 28 décembre 2021
+
+- [FIX] Demande d'autorisation d'accèes aux informations utilisateur systématique sur les dispositifs partagés tels que les Surface Hub
+- [FIX] Catalogue: crash lors de l'utilisation du format d'affichage des résultats `round`
+
 ### 3.2.2307 - 6 décembre 2021
 
 #### Nouveautés
