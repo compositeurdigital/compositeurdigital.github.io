@@ -1,6 +1,24 @@
 # Release notes
 
 
+### 3.2.2469 - February 21, 2022
+
+Catalog: direct input for minimum and maximum for numeric filters
+Catalog: sort by "Yes/No", "Oui/Non", ... values
+Support for license-activated features and feature packs
+Web memory: web pages exportable as a pdf with a preview and a link
+[FIX] PDF and PowerPoint pages loading sometimes hang when reloading an univers
+[FIX] Stickers shared if not sticked to a document
+[FIX] Stickers displayed as a black shape in the templates tool panel
+[FIX] Indext panorama can not load
+[FIX] Sequences: interactive polygons not displayed
+[FIX] Stickers: setting a relative size (eg `desiredWidth=5%`) prevents `isSticker=true` behavior 
+[FIX] PowerPoint: deeplinks are not recognized if the document is part of an MS365 repository
+[FIX] Catalog: trimmed text on some numeric filters
+[FIX] OneDrive/SharePoint with USB cahce: missing metadata after second session in the same univers 
+[FIX] Slideshow: interactive elements do not follow rotation
+
+
 ### 3.2.2371 - December 28, 2021
 
 - [FIX] Repeated user information access autorization prompt on shared devices
