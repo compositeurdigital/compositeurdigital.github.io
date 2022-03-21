@@ -3,7 +3,6 @@
 
 ### 3.2.2622 - March 21, 2022
 	
-- Web memory: mail recipient can be set	by other modules (eg. CRM)
 - PowerPoint: improved rendering of cropped images	
 - Product sheet: associated documents are now shared in addition to the pdf summary
 - Catalogue: numeric filter with option to set a single minumum or maximum value

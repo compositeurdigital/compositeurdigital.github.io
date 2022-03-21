@@ -2,9 +2,8 @@
 
 
 ### 3.2.2622 - 21 mars 2022
-	
-- Souvenir en ligne : destinataire pré-renseigné si ajouté par un autre module (ex: CRM)	
-- PowerPoint : amélioration du rendu des images découpées	
+		
+- PowerPoint : amélioration du rendu des images découpées
 - Fiche produit : export des documents associés après une page de garde lors d'un partage
 - Catalogue : filtre numérique permettant la définition d'une valeur minimum ou maximum uniquement
 - Catalogue : invite sur les champs texte
