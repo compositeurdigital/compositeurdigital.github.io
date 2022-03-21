@@ -1,6 +1,20 @@
 # Release notes
 
 
+### 3.2.2622 - March 21, 2022
+	
+- Web memory: mail recipient can be set	by other modules (eg. CRM)
+- PowerPoint: improved rendering of cropped images	
+- Product sheet: associated documents are now shared in addition to the pdf summary
+- Catalogue: numeric filter with option to set a single minumum or maximum value
+- Catalogue: placeholder for text filters
+- Catalogue: selection summary for groupe and combined filters
+- PDF/PowerPoint: orientation adjustments persist per user 
+- SharePoint: stability and speed improvements
+- Simplified experience to sart a remote document presentation activity
+- PDF export for local web pages
+- [FIX] Dynamics CRM: cannot share selection
+
 ### 3.2.2469 - February 21, 2022
 
 Catalog: direct input for minimum and maximum for numeric filters
