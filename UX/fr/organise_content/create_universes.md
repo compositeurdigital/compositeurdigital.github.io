@@ -63,13 +63,13 @@ Différents arrière-plans peuvent être définis, adaptés à différents forma
 
 Voici une liste de tous les formats d'écran pris en charge.
 
-| Format| Nom du fichier     |
-|:-----:|:------------------:|
-| 3:2   | `_background3_2`   |
-| 4:3   | `_background4_3`   |
-| 5:4   | `_background5_4`   |
-| 16:9  | `_background16_9`  |
-| 16:10 | `_background16_10` |
+| Format| Nom du fichier     | Tailles (exemples en pixels, FullHD) |
+|:-----:|:------------------:|:----------------------------:|
+| 3:2   | `_background3_2`   | 2496x1664 |
+| 4:3   | `_background4_3`   | 2500x1875 |
+| 5:4   | `_background5_4`   | 2500x2000 |
+| 16:9  | `_background16_9`  | 1920×1080 |
+| 16:10 | `_background16_10` | 1920x1280 |
 
 L'utilisation de différents fichiers de fond, adaptés à différents formats d'écran, vous permet de vous assurer que vous pouvez visualiser votre univers sur n'importe quel format d'écran.
 
