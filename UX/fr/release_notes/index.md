@@ -1,5 +1,9 @@
 # Notes de publication
 
+### 3.2.2769 - 5 mai 2022
+	
+- Support de la migration des projets enregistrés localement lorsqu'un univers change d'emplacement
+
 
 ### 3.2.2622 - 21 mars 2022
 		

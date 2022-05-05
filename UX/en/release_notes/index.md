@@ -1,6 +1,10 @@
 # Release notes
 
 
+### 3.2.2769 - May 5, 2022
+	
+- Support for migrating locally saved projects when universe location is changed
+
 ### 3.2.2622 - March 21, 2022
 	
 - PowerPoint: improved rendering of cropped images	
