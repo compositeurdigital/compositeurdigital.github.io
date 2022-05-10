@@ -67,6 +67,8 @@ Vous pouvez personnaliser l'arrière-plan de la scène. Par défaut, si aucune `
 1. Un fichier d'arrière-plan nommé `_background.(jpg, png, jpeg)`.
 1. Un méta-fichier avec une ligne `obj3D.backgroundcolor = <color>` pour définir une couleur de fond.
 
+> Lombre portée est désactivée lorsqu'une texture de skybox est utilisée
+
 ## Métadonnées disponibles
 
 | Clé de métadonnées                | Type     | Par défaut | Description |
@@ -75,6 +77,7 @@ Vous pouvez personnaliser l'arrière-plan de la scène. Par défaut, si aucune `
 | `obj3D.camera.h`                  | `nombre` | 0          | définit l'azimut par défaut (rotation horizontale) pour la position de la caméra |
 | `obj3D.camera.v`                  | `nombre` | 0          | définit l'inclinaison par défaut (rotation verticale) pour la position de la caméra |
 | `obj3D.renderingmode`             | `texte`   | Normal    | définit le mode de rendu de l'objet. Les modes pris en charge sont 'Normal' (mode par défaut, coin supérieur gauche), 'Transparent' (coin supérieur droit) et 'Wireframe' (coin inférieur gauche). |
+| `obj3D.disableShadow`             | `booléen`| false      | désactive le plan de sol et l'ombre portée  |
 
 ![Modes de rendu des obj 3D](../../../en/img/content_3d-obj_rendering-modes.jpg)
 

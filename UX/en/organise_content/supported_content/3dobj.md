@@ -61,11 +61,13 @@ Inside your 3d object folder, only use files that end with `.3ds`, `.bmp`, `.dds
 
 ## Scene background
 
-You can customize the background of the scene. By default, if no skybox, background or color are defined, we use a default image background. You can define: 
+You can customize the background of the scene. By default, if no skybox, background or color are defined, a default image background will be used. You can define: 
 
 1. A skybox texture (`.dds` file) which will be mapped in the background of the scene. It has to be named `_skybox.dds`.
 1. A background file named `_background.(jpg, png, jpeg)`.
 1. A meta file with a line `obj3D.backgroundcolor = <color>` to set a background color.
+
+> Shadows are disabled when using a skybox texture
 
 ## Metadata available
 
@@ -75,6 +77,7 @@ You can customize the background of the scene. By default, if no skybox, backgro
 | `obj3D.camera.h`                  | `number` | 0       | sets the default azimuth (horizontal rotation) for the camera position |
 | `obj3D.camera.v`                  | `number` | 0       | sets the default pitch (vertical rotation) for the camera position |
 | `obj3D.renderingmode`             | `text`   | Normal  | sets the rendering mode of the object. Supported modes are `Normal` (default mode, top left corner), `Transparent` (top right corner) and `Wireframe` (bottom left corner). |
+| `obj3D.disableShadow`             | `boolean`| false   | disable floor plane with projected shadow |
 
 ![Obj 3D rendering modes](../../img/content_3d-obj_rendering-modes.jpg)
 
