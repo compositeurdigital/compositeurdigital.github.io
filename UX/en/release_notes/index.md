@@ -9,7 +9,6 @@
 - [FIX] SharePoint: documents not updated when refreshed
 - [FIX] PowerPoint links to documents outside the current universe trigger an import
 
-
 ### 3.3.2813 - May 16, 2022
 
 - Video: add .video folder extension to play a list of videos in sequence
@@ -22,7 +21,6 @@
 - Slideshow: PowerPoint ratio extension is not ignored when the file is defined as the background.
 - [FIX] Web view crashes when used a background.
 - [FIX] Importing a URL won't load the web page
-- 
 
 ### 3.2.2769 - May 5, 2022
 	
