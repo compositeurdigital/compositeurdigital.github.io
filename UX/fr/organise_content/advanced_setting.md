@@ -18,7 +18,7 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 
 ## Résumé 
 * [Types de valeurs](#types-de-valeurs)
-* [Métadonnées prises en charge](#metadonnées-prises-en-charge)
+* [Métadonnées prises en charge](#métadonnées-prises-en-charge)
 * [Métadonnées spécifiques au contenu](#métadonnées-spécifiques-au-contenu)
   * [Diaporama](#diaporama)
   * [Vidéo et audio](#video-et-audio)
@@ -49,6 +49,7 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 | `canWrite`                        | `booléen`    | false        | indique que du texte peut être tapé sur cet objet |
 | `desiredHeight`                   | `dimension`  | 400          | définit la hauteur par défaut du document |
 | `desiredWidth`                    | `dimension`  | 400          | définit la largeur par défaut du document |
+| `desiredPosition(.x|.y)`          | `position`   | auto         | contrôle l'endroint d'apparition du cocument. Définir une valeur relative pour `desiredPosition.x` et `desiredPosition.y` (ex `desiredPosition.x=50%`) une une valeur prédéfinie parmis `center`, `top`,`left`, `right`,`bottom`, `topleft`, `topright`, `bottomleft`, `bottomright` (ex `desiredPosition=center`) |
 | `isPaper`                         | `booléen`    | false        | supprime le fond des boutons du document (boutons d'action et de fermeture)|
 | `hideBottomBarDots`               | `booléen`    | false        | cache le bouton de la barre inférieure |
 | `maxHeight`                       | `dimension`  | -            | définit la hauteur maximale |

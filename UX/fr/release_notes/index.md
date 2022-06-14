@@ -1,5 +1,28 @@
 # Notes de publication
 
+
+### 3.3.2856 - 10 juin 2022
+
+- Nouveau paramètre `desiredPosition` ([sevoire documentation](../organise_content/advanced_setting.html##métadonnées-prises-en-charge)))
+- [FIX] Video : bouton play/pause toujours visible même si désactivés par le paramètre `video.controls.hide`
+- [FIX] Powerpoint : problèmes de rendu
+- [FIX] SharePoint: documents non mis à jour lors d'une actualisation
+- [FIX] Les liens PowerPoint vers des documents en dehors de l'univers déclenchent un import
+
+
+### 3.3.2813 - 16 mai 2022
+
+- Video : add .video folder extension to play a list of videos in sequence
+- Video : rework video controls. Play/Pause action will always be available at the bottom right corner of the video. Full control can be shown on tap.
+- 3D objects : handle shadows and ground textures.
+- 3D objects : rework object orientation (.obj) for better positionning
+- Product sheet : add `disableExport` to prevent an area from being exported
+- PowerPoint : improve rendering of images
+- Start Page : handles Category names and previews
+- Slideshow : PowerPoint ratio extension is not ignored when the file is defined as the background.
+- [FIX] Web view crashes when used a background.
+- [FIX] Importing a URL won't load the web page
+
 ### 3.2.2769 - 5 mai 2022
 	
 - Support de la migration des projets enregistrés localement lorsqu'un univers change d'emplacement
