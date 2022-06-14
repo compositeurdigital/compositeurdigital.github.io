@@ -1,5 +1,18 @@
 # Release notes
 
+### 3.3.2813 - May 16, 2022
+
+- Video: add .video folder extension to play a list of videos in sequence
+- Video: rework video controls. Play/Pause action will always be available at the bottom right corner of the video. Full control can be shown on tap.
+- 3D objects: handle shadows and ground textures.
+- 3D objects: rework object orientation (.obj) for better positionning
+- Product sheet : add `disableExport` to prevent an area from being exported
+- PowerPoint : improve rendering of images
+- Start Page : handles Category names and previews
+- Slideshow : PowerPoint ratio extension is not ignored when the file is defined as the background.
+- [FIX] Web view crashes when used a background.
+- [FIX] Importing a URL won't load the web page
+- 
 
 ### 3.2.2769 - May 5, 2022
 	
