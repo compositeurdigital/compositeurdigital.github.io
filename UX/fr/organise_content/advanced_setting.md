@@ -58,12 +58,14 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 | `minWidth`                        | `dimension`  | -            | définit la largeur minimale |
 | `name`                            | `texte`      | nom du fichier | change le nom affiché du document en "nom A" (exemple) |
 | `hidden`                          | `booléen`    | false        | change le nom affiché du document en "nom A" (exemple) |
-| `noChrome`                        | `booléen`    | false        |  cache tous les boutons chromés (fermer, menu), et l'ombre sous le document.|
+| `noChromeButtons`                 | `boolean`    | false        | cache les boutons d'action (fermer, menu).|
+| `noChromeShadow`                  | `boolean`    | false        | désactive l'ombre sous le document.|
+| `noChrome`                        | `booléen`    | false        | cache les boutons d'action (fermer, menu), et l'ombre sous le document.|
 | `orientation`                     | `nombre`     | 0            | fait pivoter le document : `-90` pour tourner à gauche, `90` pour tourner à droite ou `180` pour retourner le document |
-| `table.noClose`                   | `booléen`    | false         | empêche la fermeture du document (le bouton de fermeture est désactivé et la projection hors de l'écran ne se ferme pas) |
-| `table.hideCommands`              | `booléen`    | false         | cache les boutons de contrôle d'un document (page précédente/suivante, contrôles de lecture vidéo...) |
-| `table.noRotate`                  | `booléen`    | false         | empêche la rotation du document |
-| `table.viewer`                    | `cdux` ou `externe` | non définit   | L'utilisation de `cdux` assure que le lien `cdurl` sera affiché dans le Compositeur Digital UX. Avec `extern`, le document est ouvert en utilisant le viewer natif. |
+| `table.noClose`                   | `booléen`    | false        | empêche la fermeture du document (le bouton de fermeture est désactivé et la projection hors de l'écran ne se ferme pas) |
+| `table.hideCommands`              | `booléen`    | false        | cache les boutons de contrôle d'un document (page précédente/suivante, contrôles de lecture vidéo...) |
+| `table.noRotate`                  | `booléen`    | false        | empêche la rotation du document |
+| `table.viewer`                    | `cdux` ou `externe` | non défini  | L'utilisation de `cdux` assure que le lien `cdurl` sera affiché dans le Compositeur Digital UX. Avec `extern`, le document est ouvert en utilisant le viewer natif. |
 | `themeColor`                      | `couleur`      | -          | force un thème couleur pour l'univers/élément et son contenu | 
 | `table.showOnStart`               | `booléen`    | false        | ouvre le document automatiquement au lancement de l'univers | 
 | `hideLinkLabel`                   | `booléen`    | false        | cache le nom du document dans la barre inférieure de l'univers |
