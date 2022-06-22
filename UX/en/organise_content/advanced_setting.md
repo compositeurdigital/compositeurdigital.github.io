@@ -57,6 +57,8 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the p
 | `minWidth`                        | `dimension`  | -         | sets the minimum width |
 | `name`                            | `text`       | file name | change the displayed name of the document to "A name" (example) |
 | `hidden`                          | `boolean`    | false     | hides the item from the main bar or folder views |
+| `noChromeButtons`                 | `boolean`    | false     | hides all the chrome buttons (close, menu).|
+| `noChromeShadow`                  | `boolean`    | false     | hides the shadow under the document.|
 | `noChrome`                        | `boolean`    | false     | hides all the chrome buttons (close, menu), and the shadow under the document.|
 | `orientation`                     | `number`     | 0         | rotates the document: `-90` to turn left, `90` to turn right or `180` to flip the document |
 | `table.noClose`                   | `boolean`    | false     | prevents closing the document (close button disabled and throwing out of screen does not close) |
