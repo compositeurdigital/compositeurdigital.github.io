@@ -1,5 +1,7 @@
 # Notes de publication
 
+### 3.3.2871 - 17 juin 2022
+- [FIX] Paramètre d'univers `themeColor` non pris en compte
 
 ### 3.3.2856 - 10 juin 2022
 

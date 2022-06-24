@@ -1,5 +1,7 @@
 # Release notes
 
+### 3.3.2871 - June 17, 2022
+- [FIX] `themeColor` universe meta not applied
 
 ### 3.3.2856 - June 10, 2022
 
