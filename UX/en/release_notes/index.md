@@ -1,6 +1,13 @@
 # Release notes
 
+### 3.5.2928 - July 5, 2022
+
+- Webview2: link to donwload and install the Microsoft Webview2 Runtime if missing
+- [FIX] Standby video playback stops instead of looping back
+- [FIX] SharePoint: documents not updated when refreshed
+
 ### 3.3.2871 - June 17, 2022
+
 - [FIX] `themeColor` universe meta not applied
 
 ### 3.3.2856 - June 10, 2022

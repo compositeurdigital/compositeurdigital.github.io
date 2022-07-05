@@ -1,5 +1,11 @@
 # Notes de publication
 
+### 3.5.2928 - July 5, 2022
+
+- Webview2: lien pour télécharger et installer Microsoft Webview2 Runtime si non trouvé
+- [FIX] Les vidéos de veille ne sont pas lues en boucle
+- [FIX] SharePoint: documents non mis à jour
+
 ### 3.3.2871 - 17 juin 2022
 - [FIX] Paramètre d'univers `themeColor` non pris en compte
 
