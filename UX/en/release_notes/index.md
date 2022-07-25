@@ -1,5 +1,9 @@
 # Release notes
 
+### 3.5.2965 - July 25, 2022
+
+- [FIX] Account settings not read when launching the app.
+
 ### 3.5.2928 - July 5, 2022
 
 - Webview2: link to donwload and install the Microsoft Webview2 Runtime if missing
