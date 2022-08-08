@@ -1,5 +1,10 @@
 # Release notes
 
+### 3.5.3016 - August 8, 2022
+
+- WebView : update CDUX.FindItems API to return item's preview & icon relative paths
+- WebView : add CUDX.ClearWorkspace method to clear all workspace's item.
+
 ### 3.5.2994 - August 5, 2022
 
 - [FIX] BoardItem crashes
