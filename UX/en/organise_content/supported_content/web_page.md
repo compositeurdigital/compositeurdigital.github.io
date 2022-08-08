@@ -99,7 +99,14 @@ CDUX.importItem(window.btoa(byteArray), 'My File.pdf');
 **SetJsonInstanceData**(string dataKey, string value)
 <br />store the value (primitive or complex object) in the webview instance under the given key
 
-**GetJsonInstanceData**(string dataKey): retrieve the value stored in the webview instance under the given key
+**GetJsonInstanceData**(string dataKey)
+<br />retrieves the value stored in the webview instance under the given key
+
+**GetJsonUniverseData**(string dataKey)
+<br />retrieves the value stored in universe data under the given key
+
+**GetJsonInstanceDataFor**(string instanceId, string dataKey)
+<br />retrives the value stored in the instance having instanceId under the given key
 
 **RegisterProjectDataChangedCallback**(string dataKey, string callBackFunctionName, bool sendNewValueAsArgument)
 <br />subscribe to project data changes at the given key. Each time the value is changed (or a subvalue of the given key) the function given in parameter is called, with or without sending the new value as parameter.
@@ -116,6 +123,30 @@ CDUX.importItem(window.btoa(byteArray), 'My File.pdf');
 **Project and Instance Data**
 <br />Project Data are shared with all other documents whereas Instance Data only concerns the current instance of your document (Note that InstanceData will be copied in case you duplicate the webview).
 With ProjectData you can interact with with the values of an other webview, but also of a [Quiz](quiz.md), a [Form](form.md) or a [Mortgage simulator](simulator.md)
+
+**GetCurrentItem**(bool includeMetadata, bool includeResources)
+<br />returns information (item's relative path to the webView, item's preview & icon relative path, if any) about the current item.
+
+**FindItems**(string relativePath, bool includeMetadata, bool includeResources)
+<br />return information about the item matching the relative path (relative path, preview & icon path if any, item's content).
+
+**ClearWorkspace**(bool keepInstance)
+<br />clears the workspace. If keep instance is true, the web view will stay in the workspace.
+
+**SetCurrentPage**(string pageId)
+<br />change the current instance page
+
+**GetCurrentPage**
+<br />returns the current instance page id
+
+**GetCurrentInstance**
+<br />returns the current instance id
+
+**GetCurrentSelection**
+<br/>returns all the id of the instances that are part of the user's selection.
+
+**OpenInstance**(string instanceId)
+<br />opens the instance in the workspace
 
 **examples**
 ```javascript
