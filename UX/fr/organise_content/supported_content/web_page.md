@@ -102,7 +102,14 @@ CDUX.importItem(window.btoa(byteArray), 'My File.pdf');
 **SetJsonInstanceData**(dataKey de la chaîne, valeur de la chaîne)
 <br />stocker la valeur (objet primitif ou complexe) dans l'instance webview sous la clé donnée
 
-**GetJsonInstanceData**(dataKey de la chaîne) : récupère la valeur stockée dans l'instance webview sous la clé donnée
+**GetJsonInstanceData**(dataKey de la chaîne) 
+<br />récupère la valeur stockée dans l'instance webview sous la clé donnée
+
+**GetJsonUniverseData**(string dataKey)
+<br />récupères la valeur stockée dans l'univers sous la clé donnée
+
+**GetJsonInstanceDataFor**(string instanceId, string dataKey)
+<br />récupères la valeur stockée dans l'instance InstanceId sous la clé donnée.
 
 **RegisterProjectDataChangedCallback**(dataKey de la chaîne, chaîne callBackFunctionName, bool sendNewValueAsArgument)
 <br />s'abonner aux changements de données du projet à la clé donnée. Chaque fois que la valeur est modifiée (ou une sous-valeur de la clé donnée), la fonction donnée en paramètre est appelée, avec ou sans envoi de la nouvelle valeur en paramètre.
@@ -119,6 +126,30 @@ CDUX.importItem(window.btoa(byteArray), 'My File.pdf');
 **Données relatives aux projets et aux instances**
 <br />Les données de projet sont partagées avec tous les autres documents alors que les données d'instance ne concernent que l'instance actuelle de votre document (Notez que les données d'instance seront copiées au cas où vous dupliqueriez l'aperçu du site).
 Avec ProjectData, vous pouvez interagir avec les valeurs d'un autre aperçu sur le web, mais aussi d'un [Quiz](quiz.md), d'un [Formulaire](form.md) ou d'un [Simulateur de prêt hypothécaire](simulateur.md)
+
+**GetCurrentItem**(bool includeMetadata, bool includeResources)
+<br />retourne un json contenant les informations relatives à la webView : Id, RelativePath, PreviewPath, IconPath, Content...
+
+**FindItems**(string relativePath, bool includeMetadata, bool includeResources)
+<br />retourne un json contenant un tableau d'information relatives aux items correspondant au chemin relatif donné.
+
+**ClearWorkspace**(bool keepInstance)
+<br />Nettoie l'espace de travail, en conservant l'instance ayant appelé la méthode (si keepInstance)
+
+**SetCurrentPage**(string pageId)
+<br />Change la page de l'instance.
+
+**GetCurrentPage**
+<br />renvoie l'id de la page de l'instance
+
+**GetCurrentInstance**
+<br />renvoie l'id de l'instance
+
+**GetCurrentSelection**
+<br/>renvoie l'id des instances présentes dans la sélection.
+
+**OpenInstance**(string instanceId)
+<br />Ouvre l'instance dans le workspace.
 
 **Exemples**
 ```javascript
