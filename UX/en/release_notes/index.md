@@ -1,5 +1,9 @@
 # Release notes
 
+### 3.5.2994 - August 5, 2022
+
+- [FIX] BoardItem crashes
+
 ### 3.5.2965 - July 25, 2022
 
 - [FIX] Account settings not read when launching the app.
