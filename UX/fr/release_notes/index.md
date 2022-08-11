@@ -1,6 +1,20 @@
 # Notes de publication
 
-### 3.5.2928 - July 5, 2022
+### 3.5.3047 - 11 août 2022
+
+-  Nouveau paramètre `hideBottomBar` pour cacher complètement la barre de documents lorsque réduite
+- [FIX] PowerBI: rapports non affichés
+
+### 3.5.3016 - 8 août 2022
+
+- WebView : `CDUX.FindItems()` fournit les chemins vers les vignettes et icônes du document
+- WebView : ajout de `CUDX.ClearWorkspace()`
+
+### 3.5.2965 - 25 juillet 2022
+
+- [FIX] Paramètres de compte non appliqués au démarrage de l'application
+
+### 3.5.2928 - 5 juillet 2022
 
 - Webview2: lien pour télécharger et installer Microsoft Webview2 Runtime si non trouvé
 - [FIX] Les vidéos de veille ne sont pas lues en boucle

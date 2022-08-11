@@ -51,7 +51,8 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 | `desiredWidth`                    | `dimension`  | 400          | définit la largeur par défaut du document |
 | `desiredPosition(.x|.y)`          | `position`   | auto         | contrôle l'endroint d'apparition du cocument. Définir une valeur relative pour `desiredPosition.x` et `desiredPosition.y` (ex `desiredPosition.x=50%`) une une valeur prédéfinie parmis `center`, `top`,`left`, `right`,`bottom`, `topleft`, `topright`, `bottomleft`, `bottomright` (ex `desiredPosition=center`) |
 | `isPaper`                         | `booléen`    | false        | supprime le fond des boutons du document (boutons d'action et de fermeture)|
-| `hideBottomBarDots`               | `booléen`    | false        | cache le bouton de la barre inférieure |
+| `hideBottomBarDots`               | `booléen`    | false        | cache le bouton de la barre inférieure lorsque celle-ci est réduite |
+| `hideBottomBar`                   | `booléen`    | false        | cache la barre inférieure lorsque celle-ci est réduite |
 | `maxHeight`                       | `dimension`  | -            | définit la hauteur maximale |
 | `maxWidth`                        | `dimension`  | -            | définit la largeur maximale |
 | `minHeight`                       | `dimension`  | -            | définit la hauteur mimimale |

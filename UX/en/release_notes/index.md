@@ -1,9 +1,15 @@
 # Release notes
 
+
+### 3.5.3047 - August 11, 2022
+
+- New `hideBottomBar` parameter to completely hide the bottom bar when collapsed
+- [FIX] PowerBI: reports not displaying
+
 ### 3.5.3016 - August 8, 2022
 
-- WebView : update CDUX.FindItems API to return item's preview & icon relative paths
-- WebView : add CUDX.ClearWorkspace method to clear all workspace's item.
+- WebView: `CDUX.FindItems()` now returns the item's preview & icon relative paths
+- WebView: added `CUDX.ClearWorkspace()`
 
 ### 3.5.2994 - August 5, 2022
 

@@ -50,7 +50,8 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the p
 | `desiredWidth`                    | `dimension`  | 400       | sets the default width of the document |
 | `desiredPosition(.x|.y)`          | `position`   | auto      | controls where the documment appears on screen. Set both `desiredPosition.x` and `desiredPosition.y` to a relative value (eg `desiredPosition.x=50%`) or use a predefined value `center`, `top`,`left`, `right`,`bottom`, `topleft`, `topright`, `bottomleft`, `bottomright` (eg `desiredPosition=center`) |
 | `isPaper`                         | `boolean`    | false     | removes the background of the document's buttons (action and close buttons)|
-| `hideBottomBarDots`               | `boolean`    | false     | hides the bottom bar button |
+| `hideBottomBarDots`               | `boolean`    | false     | hides the bottom bar button when collapsed |
+| `hideBottomBar`                   | `boolean`    | false     | hides the bottom bar completely when collapsed |
 | `maxHeight`                       | `dimension`  | -         | sets the maximum height |
 | `maxWidth`                        | `dimension`  | -         | sets the maximum width |
 | `minHeight`                       | `dimension`  | -         | sets the minimum height |
