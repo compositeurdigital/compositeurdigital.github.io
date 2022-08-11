@@ -2,7 +2,7 @@
 
 ### 3.5.3047 - 11 août 2022
 
--  Nouveau paramètre `hideBottomBar` pour cacher complètement la barre de documents lorsque réduite
+- Nouveau paramètre `hideBottomBar` pour cacher complètement la barre de documents lorsque réduite
 - [FIX] PowerBI: rapports non affichés
 
 ### 3.5.3016 - 8 août 2022
@@ -25,7 +25,7 @@
 
 ### 3.3.2856 - 10 juin 2022
 
-- Nouveau paramètre `desiredPosition` ([sevoire documentation](../organise_content/advanced_setting.html##métadonnées-prises-en-charge)))
+- Nouveau paramètre `desiredPosition` ([voir documentation](../organise_content/advanced_setting.html##métadonnées-prises-en-charge)))
 - [FIX] Video : bouton play/pause toujours visible même si désactivés par le paramètre `video.controls.hide`
 - [FIX] Powerpoint : problèmes de rendu
 - [FIX] SharePoint: documents non mis à jour lors d'une actualisation
