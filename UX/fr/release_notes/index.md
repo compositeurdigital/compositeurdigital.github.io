@@ -1,5 +1,10 @@
 # Notes de publication
 
+
+### 3.5.3069 - 31 août 2022
+
+- [FIX] Webview2: crash à la fermeture d'un projet avec un fond HTML
+
 ### 3.5.3047 - 11 août 2022
 
 - Nouveau paramètre `hideBottomBar` pour cacher complètement la barre de documents lorsque réduite

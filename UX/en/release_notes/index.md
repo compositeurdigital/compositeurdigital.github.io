@@ -1,5 +1,8 @@
 # Release notes
 
+### 3.5.3069 - August 31, 2022
+
+- [FIX] Webview2: crash when leaving a project with an HTML background
 
 ### 3.5.3047 - August 11, 2022
 
