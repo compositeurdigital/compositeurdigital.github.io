@@ -69,6 +69,7 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 | `table.viewer`                    | `cdux` ou `externe` | non défini  | L'utilisation de `cdux` assure que le lien `cdurl` sera affiché dans le Compositeur Digital UX. Avec `extern`, le document est ouvert en utilisant le viewer natif. |
 | `themeColor`                      | `couleur`      | -          | force un thème couleur pour l'univers/élément et son contenu | 
 | `table.showOnStart`               | `booléen`    | false        | ouvre le document automatiquement au lancement de l'univers | 
+| `noHistory`                       | `boolean`    | false        | le document ne sera pas enregistré dans la corbeille à sa fermeture | 
 | `hideLinkLabel`                   | `booléen`    | false        | cache le nom du document dans la barre inférieure de l'univers |
 | `hideLinkTypeIcon`                | `boolean`    | false        | cache l'icone de type de document dans les vues de dossier |
 | `table.alwaysBehind`              | `boolean`    | false        | force le document à rester en arrière plan |

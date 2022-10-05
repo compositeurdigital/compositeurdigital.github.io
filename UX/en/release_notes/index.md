@@ -1,5 +1,39 @@
 # Release notes
 
+
+### 3.6.3226 - October 5, 2022
+
+#### New features 
+
+- Updated UI to match Windows 11 visual style with rounded corners and folders redesign
+- TV Studio mode and other feature packs
+- Import video streams from webcams and video capture devices
+- Web memory: option to generate a shareable link rather than having the platform sending an email
+- Miracast display host support (on Windows 11)
+- Webview2 rolling out
+
+#### General improvements and fixes
+ 
+- New `noHistory=true` parameter to prevent documents from appearing in the recycle bin
+- Surface pen button support: press to advance to the next slide, long press to return to previous 
+- Powerpoint backgrounds now export in Web memory & Companion apps
+- Slideshow: Create multiple version of a document with parameter `?newInstance=true` in hypertext links
+- Webview: new apis  ([see documentation](../organise_content/supported_content/web_page.html)))
+- Videos: Timestamp & playlist hints
+
+- [FIX] Web memory: display aspect ratio lost on 
+- [FIX] Video thumbnails missing in some cases
+- [FIX] sticked/taped documents restored at the wrong size when opening a project- [FIX] Video loop state lost after project reload
+- [FIX] Fallback to closest aspect ratio background when no exact match
+- [FIX] Source settings not applied when swithcing sources
+- [FIX] empty universe projects thumbnail show trasparent background
+- [FIX] Escape key does not gracefully exit the Share dialog
+- [FIX] Menu appears at the top left after unpin
+- [FIX] exception when loading video thumbnail in history
+- [FIX] Activities appear centered, as opposed to templates/notes that appear on the side
+- [FIX] File upload activity 'file type not supported' error
+
+
 ### 3.5.3069 - August 31, 2022
 
 - [FIX] Webview2: crash when leaving a project with an HTML background

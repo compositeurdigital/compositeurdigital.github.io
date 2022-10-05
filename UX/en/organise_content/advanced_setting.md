@@ -68,6 +68,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the p
 | `table.viewer`                    | `cdux` or `extern` | unset   | Using `cdux` it makes sure the `cdurl` link will be displayed inside Compositeur Digital UX. With `extern`, the document is opened using the native viewer. |
 | `themeColor`                      | `color`      | -         | forces a theme color for the universe/element and its contents | 
 | `table.showOnStart`               | `boolean`    | false     | open the document automatically when the universe is launched | 
+| `noHistory`                       | `boolean`    | false     | prevent the document from going to the recycle bin when closed | 
 | `hideLinkLabel`                   | `boolean`    | false     | hide the document name in the universe bottom bar |
 | `hideLinkTypeIcon`                | `boolean`    | false     | hide the document type icon in folder views |
 | `table.alwaysBehind`              | `boolean`    | false     | force the document to stay under the others |
