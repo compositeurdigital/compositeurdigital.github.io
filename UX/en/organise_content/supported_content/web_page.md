@@ -57,10 +57,6 @@ To display a web site link which will be opened in a web browser, create a file 
 
 To display a web site inside your Compositeur Digital UX, you need a `.cdurl` file, and a `meta` file. Metadata are very useful to customize the way your Compositeur Digital UX acts. [Check the metadata section for more information](../advanced_setting.md).
 
-Create a file named `<NameOfYourCdurlFile>_meta.txt`,  e.g., i have a `.cdurl` file named `msn.cdurl`, my meta file should be named `msn_meta.txt`.
-
-Inside this meta file, add a line : `table.viewer = cdux`.
-With this line, the web page will be opened inside your Compositeur Digital UX.
 
 ![Compositeur Digital UX Web viewer](../../img/content_web_page_cdux_folder.JPG)
 
@@ -75,7 +71,7 @@ If you have several `html` files inside this folder, by default, Compositeur Dig
 ### Interactions with Compositeur Digital UX
 
 With html contents, you can have interaction between your webpage an Compositeur Digital UX using javascript.
-All actions are available through the object `CDUX`.
+All actions are available through the object `CDUX`. All 'get' operations are asynchronous.
 
 **openItem**(string path)
 <br />open an item from your universe by giving its relative path from your webview
@@ -93,59 +89,59 @@ CDUX.importItem(window.btoa(byteArray), 'My File.pdf');
 **SetJsonProjectData**(string dataKey, string value)
 <br />store the value (primitive or complex object) in the project under the given key
 
-**GetJsonProjectData**(string datakey)
+**async getJsonProjectData**(string datakey)
 <br />retrieve the value stored in the project under the given key
 
-**SetJsonInstanceData**(string dataKey, string value)
+**setJsonInstanceData**(string dataKey, string value)
 <br />store the value (primitive or complex object) in the webview instance under the given key
 
-**GetJsonInstanceData**(string dataKey)
+**async getJsonInstanceData**(string dataKey)
 <br />retrieves the value stored in the webview instance under the given key
 
-**GetJsonUniverseData**(string dataKey)
+**async getJsonUniverseData**(string dataKey)
 <br />retrieves the value stored in universe data under the given key
 
-**GetJsonInstanceDataFor**(string instanceId, string dataKey)
+**async getJsonInstanceDataFor**(string instanceId, string dataKey)
 <br />retrives the value stored in the instance having instanceId under the given key
 
-**RegisterProjectDataChangedCallback**(string dataKey, string callBackFunctionName, bool sendNewValueAsArgument)
+**registerProjectDataChangedCallback**(string dataKey, string callBackFunctionName, bool sendNewValueAsArgument)
 <br />subscribe to project data changes at the given key. Each time the value is changed (or a subvalue of the given key) the function given in parameter is called, with or without sending the new value as parameter.
 
-**UnRegisterProjectDataChangedCallback**(string dataKey)
+**unRegisterProjectDataChangedCallback**(string dataKey)
 <br />unsubscribe to the project changes for this key
 
-**RegisterInstanceDataChangedCallback**(string dataKey, string callBackFunctionName, bool sendNewValueAsArgument)
+**registerInstanceDataChangedCallback**(string dataKey, string callBackFunctionName, bool sendNewValueAsArgument)
 <br />subscribe to instance data changes at the given key. Each time the value is changed (or a subvalue of the given key) the function given in parameter is called, with or without sending the new value as parameter.
 
-**UnRegisterInstanceDataChangedCallback**(string dataKey)
+**unRegisterInstanceDataChangedCallback**(string dataKey)
 <br />unsubscribe to the instance changes for this key
 
-**Project and Instance Data**
+**project and Instance Data**
 <br />Project Data are shared with all other documents whereas Instance Data only concerns the current instance of your document (Note that InstanceData will be copied in case you duplicate the webview).
 With ProjectData you can interact with with the values of an other webview, but also of a [Quiz](quiz.md), a [Form](form.md) or a [Mortgage simulator](simulator.md)
 
-**GetCurrentItem**(bool includeMetadata, bool includeResources)
+**async getCurrentItem**(bool includeMetadata, bool includeResources)
 <br />returns information (item's relative path to the webView, item's preview & icon relative path, if any) about the current item.
 
-**FindItems**(string relativePath, bool includeMetadata, bool includeResources)
+**async findItems**(string relativePath, bool includeMetadata, bool includeResources)
 <br />return information about the item matching the relative path (relative path, preview & icon path if any, item's content).
 
-**ClearWorkspace**(bool keepInstance)
+**clearWorkspace**(bool keepInstance)
 <br />clears the workspace. If keep instance is true, the web view will stay in the workspace.
 
-**SetCurrentPage**(string pageId)
+**setCurrentPage**(string pageId)
 <br />change the current instance page
 
-**GetCurrentPage**
+**async getCurrentPage**
 <br />returns the current instance page id
 
-**GetCurrentInstance**
+**async getCurrentInstance**
 <br />returns the current instance id
 
-**GetCurrentSelection**
+**async getCurrentSelection**
 <br/>returns all the id of the instances that are part of the user's selection.
 
-**OpenInstance**(string instanceId)
+**openInstance**(string instanceId)
 <br />opens the instance in the workspace
 
 **examples**
@@ -154,10 +150,10 @@ With ProjectData you can interact with with the values of an other webview, but 
     CDUX.setJsonProjectData('school.director', JSON.stringify(objectValue));
     
     //to retrieve later this value use :
-    var director = JSON.parse(CDUX.getJsonProjectData('school.director'));
+    var director = JSON.parse(await CDUX.getJsonProjectData('school.director'));
     
     //if you only want to get the name, you can also use a more precise key :
-    var directorName = JSON.parse(CDUX.getJsonProjectData('school.director.name')) ;
+    var directorName = JSON.parse(await CDUX.getJsonProjectData('school.director.name')) ;
     
     //to be warn of a change of phoneNumber :
     function phoneChanged() { }
