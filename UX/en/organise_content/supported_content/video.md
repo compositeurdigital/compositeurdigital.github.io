@@ -58,8 +58,6 @@ Our recommendation is to use WMV and MP4(H264) format for a safe use.
 | `video.controls.alwaysvisible`    | `boolean` | false   | forces the display of the video playback controls permanently |
 | `video.controls.hide`             | `boolean` | false   | hides the video playback controls permanently |
 
-[Access common metadatas](../advanced_setting.md#summary)
-
 Next: [Audio (Compositeur Digital UX format)](audio.md)
 
 [Back to Supported Content](index.md)

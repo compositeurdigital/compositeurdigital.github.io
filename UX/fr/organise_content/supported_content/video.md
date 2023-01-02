@@ -61,8 +61,6 @@ Les vidéos 360° peuvent être visionnées avec un player qui permet à l'utili
 | `video.controls.alwaysvisible` | `booléen` | faux       | force l'affichage permanent des commandes du player vidéo       |
 | `video.controls.hide`          | `booléen` | faux       | cache les contrôles de lecture vidéo en permanence              |
 
-[Accéder aux métadonnées communes](../advanced_setting.md#résumé)
-
 Suivant : [Fichiers audio](audio.md)
 
 [Retour aux Contenus pris en charge](index.md)

@@ -72,8 +72,6 @@ Pour utiliser un chronomètre ou un compte à rebours, ajoutez l'extension `.tim
 | `timer.duration`   | `texte`| 0          | définit la durée de la minuterie (par exemple 1h5m30s pour 1 heure, 5 minutes et 30 secondes). Si un `timer.format` est défini, il essaie d'analyser la durée avec le format. |
 | `timer.format`     | `text` | -          | définit le format à utiliser lors de l'analyse de la durée (par exemple `hhh:mm:ss`) |
 
-[Accéder aux métadonnées communes](../advanced_setting.md#résumé)
-
 Suivant : [Diaporamas (format Compositeur Digital UX)](slideshows.md)
 
 [Retour aux Contenu pris en charge](index.md)

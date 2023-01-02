@@ -54,8 +54,6 @@ To use a mortgage simulator, add the extension `.simupret` at the end of the nam
 | `simulator.hideInfine`                       | `number` | false              | hide the "in Fine" option |
 | `simulator.infineDefaultValue`               | `number` | false              | sets the default value of a In Fine option |
 
-[Access common metadatas](../advanced_setting.md#summary)
-
 ## Download a sample
 
 A Demo Universe which contains samples for a mortgage simulator is available, [give it a try!](../Demo-Universe.zip) &#x1f604;

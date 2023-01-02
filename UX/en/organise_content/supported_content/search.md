@@ -124,7 +124,6 @@ Metadata will help you to customize the way your search interface behaves.
 |:----------------------------------|:---------|:--------|:------------|
 | `catalog.resultsMaxCount`         |`number`  | 40      | The maximum number of results wich can be viewed in the result page. |
 
-[Access common metadatas](../advanced_setting.md#summary)
 
 ## Download a sample
 

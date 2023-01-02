@@ -19,9 +19,13 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the p
 ## Summary 
 * [Value types](#value-types)
 * [Metadata supported](#metadata-supported)
-  * [Inking](#inking)
-  * [Menu actions](#menu-actions)
-  * [Configurable actions](#configurable-actions)
+* [Content specific metadata](#content-specific-metadata)
+  * [Video and audio](#video-and-audio)
+  * [Web](#web)
+  * [Mortgage simulator](#mortgage-simulator)
+  * [Savings simulator](#savings-simulator)
+  * [3D objects](#3d-objects)
+  * [Search interface](#search-interfaces)
 * [Shared values](#shared-values)
 
 ## Value types
@@ -71,7 +75,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the p
 | `table.alwaysOnTop`               | `boolean`    | false     | force the document to stay on top of the others |
 | `toolbox.startOpened`             | `boolean`    | false     | the toolbox category will be opened when accessed from the sidebar |
 
-### Inking
+#### Inking
 
 Set the default ink color and size for an universe with the follwing parameters:
 
@@ -80,7 +84,7 @@ Set the default ink color and size for an universe with the follwing parameters:
 | `ink.color`       | `red|orange|yellow|green|turquoise|blue|pink|violet|black|white` | black | sets the default pen color |
 | `ink.penName`     | `fine|thick|marker` | fine    | set the default pen size |
 
-### Menu actions
+#### Menu actions
 
 The default actions available in the document menu can be individually configured. Set the following parameters by replacing `<key>` with the action keys listed below. 
 > Example: 
@@ -89,13 +93,14 @@ The default actions available in the document menu can be individually configure
 >
 >`actions.selection.location = shortcut` to give quick access to the selection action
 
-| Metadata Key                      | Type                  | Default   | Description                                                                     |
-|:----------------------------------|:----------------------|:----------|:--------------------------------------------------------------------------------|
-| `actions.disabled`                | `boolean`             | false     | hides the menu button entirely on a document.                                   |
-| `actions.<key>.disabled`          | `boolean`             | false     | hides the `<key>` action.                                                       |
-| `actions.<key>.location`          | `menu` or `shortcut`  | menu      | defines if the `<key>` action should be available in the menu or as a shortcut. |
 
-### Configurable actions:
+| Metadata Key                      | Type         | Default   | Description |
+|:--------------------------------- |:-------------|:----------|:-|
+| `actions.disabled`                | `boolean`    | false     | hides the menu button entirely on a document. |
+| `actions.<key>.disabled`   | `boolean`    | false     | hides the `<key>` action. |
+| `actions.<key>.location`   | `menu` or `shortcut`       | menu      | defines if the `<key>` action should be available in the menu or as a shortcut. |
+
+Configurable actions:
 
 | Action key    | Description |
 |:--------------|-------------|
@@ -105,6 +110,94 @@ The default actions available in the document menu can be individually configure
 |`share`        | Share the document |
 |`saveas`       | Save the document on the computer or on a removable device |
 |`open`         | Open the document externally |
+
+
+## Content specific metadata
+
+### Slideshow
+
+| Metadata Key                      | Type      | Default | Description |
+|:--------------------------------- |:----------|:--------|:-|
+| `slideshow.controls.position`     | `auto|bottom|left|right|leftandright` | auto   | controls where to place the previous and next page buttons as illustrated below |
+| `slideshow.controls.hide`         | `boolean` | false   | hides the previous and next page buttons |
+
+When set to `auto` the position will be `leftandright` when document rotation is enabled and `bottom` otherwise.
+![Slideshow controls position](../img/slideshow_controls.jpg)
+
+### Video and audio
+
+| Metadata Key                      | Type      | Default | Description |
+|:--------------------------------- |:----------|:--------|:-|
+| `video.autoplay`                  | `boolean` | true    | start playing video on display |
+| `video.autoplay.delay`            | `number ` | 0       | delay autoplay by the number of seconds specified |
+| `video.autoclose`                 | `boolean` | false   | close the video when playback reaches end |
+| `video.autoclose.delay`           | `number ` | 0       | delay autoclose by the number of seconds specified |
+| `video.mute`                      | `boolean` | false   | defines if a video is muted or not |
+| `video.rewind`                    | `boolean` | false   | go back to the first frame when the video ends |
+| `video.loop`                      | `boolean` | false   | replay from start when the video ends |
+| `video.controls.alwaysvisible`    | `boolean` | false   | force the display of the video playback controls |
+| `video.controls.hide`             | `boolean` | false   | hides the video playback controls permanently |
+
+### Web
+
+| Metadata Key                      | Type      | Default | Description |
+|:--------------------------------- |:----------|:--------|:-|
+| `web.manipulationMode`            | `number`  | 0       | If `1`, the user will have to enable navigation mode, then the view will behave like a browser. If `0`, the navigation mode will be reduced. |
+| `web.showChrome`                  | `boolean` | true    | display a navigation bar at the top of the view |
+| `web.viewport.width`              | `number`  | 1000    | Sets the default width of the page view |
+| `web.viewport.height`             | `number`  | 800     | Sets the default height of the page view |
+| `table.viewer`                    | `text`    | extern  | Opens the link in the default web browser |
+
+### Mortgage simulator
+
+| Metadata Key                                 | Type     | Default            | Description |
+|:-------------------------------------------- |:---------|:-------------------|:-|
+| `simulator.additionalCostsRateDefaultValue`  | `number` | 0                  | sets the default value of the addtional costs rate |
+| `simulator.additionalCostsRateLabel`         | `text`   | `Additional costs` | sets the label of the additional costs line | 
+| `simulator.additionalCostsRateMinValue`      | `number` | 0                  | sets the min value for the additional costs rate |
+| `simulator.additionalCostsRateMaxValue`      | `number` | 50                 | sets the max value for the additional costs rate |
+| `simulator.additionalCostsRateTickFrequency` | `number` | 1                  | sets the interval between two values for the additional costs rate |
+| `simulator.creditMaxValue`                   | `number` | 800000             | sets the maximum value of a loan |
+| `simulator.creditTickFrequency`              | `number` | 5000               | sets the interval between two values for a loan |
+| `simulator.creditDefaultValue`               | `number` | 300000             | sets the default loan value |
+| `simulator.durationMinValue`                 | `number` | 5                  | sets the shortest duration of a loan |
+| `simulator.durationMaxValue`                 | `number` | 30                 | sets the longest duration of a loan |
+| `simulator.durationTickFrequency`            | `number` | 1                  | sets the interval between two values for a loan duration |
+| `simulator.durationDefaultValue`             | `number` | 20                 | sets the default duration of a loan |
+
+### Savings simulator
+
+| Metadata Key                                 | Type     | Default            | Description |
+|:-------------------------------------------- |:---------|:-------------------|:-|
+| `simulator.depositFrequencyDefault`          | `text`   | `Month`            | sets the default value of the deposit frequency. It could be `Month`, `Quarter` or `Year` |
+| `simulator.interestRateMinValue`             | `number` | 0                  | sets the min value for the interest rate |
+| `simulator.interestRateMaxValue`             | `number` | 10                 | sets the max value for the interest rate |
+| `simulator.interestRateDefaultValue`         | `number` | 2.75               | sets the default value for the interest rate |
+| `simulator.regularDepositMinValue`           | `number` | 10                 | sets the minimum deposit value |
+| `simulator.regularDepositMaxValue`           | `number` | 20000              | sets the maximum deposit value |
+| `simulator.regularDepositTickFrequency`      | `number` | 100                | sets the interval between two values for a deposit |
+| `simulator.savingsTermMinValue`              | `number` | 0                  | sets the shortest duration of a saving plan |
+| `simulator.savingsTermMaxValue`              | `number` | 30                 | sets the longest duration of a saving plan |
+| `simulator.savingsTermDefaultValue`          | `number` | 20                 | sets the default duration of a saving plan |
+| `simulator.savingsTermTickFrequency`         | `number` | 1                  | sets the interval between two values for a saving plan duration |
+| `simulator.startingDepositMinValue`          | `number` | 0                  | sets the min value for the starting deposit amount |
+| `simulator.startingDepositMaxValue`          | `number` | 800000             | sets the max value for the starting deposit amount |
+| `simulator.startingDepositTickFrequency`     | `number` | 5000               | sets the interval between two values for a starting deposit amount |
+
+### 3D objects
+
+| Metadata Key                      | Type     | Default | Description |
+|:--------------------------------- |:---------|:--------|:-|
+| `obj3D.backgroundcolor`           | `color`  | #dce1e1 | sets a solid background color |
+| `obj3D.camera.h`                  | `number` | 0       | sets the default azimuth (horizontal rotation) for the camera position |
+| `obj3D.camera.v`                  | `number` | 0       | sets the default pitch (vertical rotation) for the camera position |
+| `obj3D.renderingmode`             | `Normal|Transparent|WireFrame`   | `Normal`  | sets the rendering mode of the object. Supported modes are `Normal` (default mode), `Transparent` and `Wireframe`. |
+
+### Search interfaces
+
+| Metadata Key                      | Type     | Default | Description |
+|:----------------------------------|:---------|:--------|:------------|
+| `catalog.resultsMaxCount`         |`number`  | 40      | The maximum number of results wich can be viewed in the result page. |
 
 ## Shared values
 
@@ -118,5 +211,7 @@ Some values can be shared between different items, e.g. informations about a con
 | `phoneNumber`                    | `text`    | defines the phone number of the current contact |
 | `organization`                   | `text`    | defines the organization of the current contact |
 | `finance.budget`                 | `number`  | defines the amount of the mortgage loan of the current contact |
+
+
 
 [Back to Organise Content](index.md)

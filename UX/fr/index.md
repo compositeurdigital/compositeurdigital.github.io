@@ -4,7 +4,7 @@
 Installer et lancer *Compositeur Digital UX*.
 
 ### [Découvrir](user_guide/index.md)
-Découvrez comment interagir avec *Compositeur Digital UX*.
+Découvrez comment interagir avec *Compositeur Digital UX*.  
 
 ### [Vos contenus](organise_content/index.md)
 Apprenez comment construire votre propre univers et quel type de contenu vous pouvez utiliser.
@@ -32,4 +32,4 @@ Contient des questions fréquemment posées sur l'installation et l'utilisation 
 ### [Notes de version](../en/release_notes/index.md)
 Description des nouvelles fonctionnalités et des corrections de bogues dans les versions de *Compositeur Digital UX*.  
 
-[Retour au Choix de documentation](../../selector/selector_fr.md)
+[Retour au Choix de documentation](../../selector/index.md)

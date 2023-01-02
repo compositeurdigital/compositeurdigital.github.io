@@ -46,8 +46,6 @@ Le lecteur audio prend en charge les actions suivantes. Pour avoir un aperçu co
 | `video.controls.alwaysvisible`    | `booléen` | faux       | force l'affichage permanent des commandes du player audio        |
 | `video.controls.hide`             | `booléen` | faux       | cache les commandes du player audio de façon permanente          |
 
-[Accéder aux métadonnées communes](../advanced_setting.md#résumé)
-
 Suivant: [Livre d'or (format Compositeur Digital UX)](guestbook.md)
 
 [Retrour aux Contenus pris en charge](index.md)

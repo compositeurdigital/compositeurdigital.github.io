@@ -73,8 +73,6 @@ To use, either a stopwatch or a countdown, add the extension `.timer` or `horlog
 | `timer.duration`                  | `text`   | 0       | sets the timer duration (e.g. 1h5m30s for 1 hour, 5 minutes and 30 seconds). If a `timer.format` is defined, it tries to parse the duration with the format. |
 | `timer.format`                    | `text`   | -       | sets the format to use when parsing the duration (e.g. `hh:mm:ss`) |
 
-[Access common metadatas](../advanced_setting.md#summary)
-
 Next : [Slideshows (Compositeur Digital UX format)](slideshows.md)
 
 [Back to Supported Content](index.md)

@@ -79,8 +79,6 @@ You can customize the background of the scene. By default, if no skybox, backgro
 | `obj3D.renderingmode`             | `normal|transparent|wireframe` | normal  | sets the rendering mode of the object |
 | `obj3D.disableShadow`             | `boolean`| false   | disable floor plane with projected shadow |
 
-[Access common metadatas](../advanced_setting.md#summary)
-
 ![Obj 3D rendering modes](../../img/content_3d-obj_rendering-modes.jpg)
 
 ## Download a sample

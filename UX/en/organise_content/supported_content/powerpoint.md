@@ -6,7 +6,6 @@
 * [Actions within Compositeur Digital UX](#actions-within-compositeur-digital-ux)
 * [Hot spots](#hot-spots)
 * [Slideshow](#slideshow)
-* [Metadata available](#metadata-available)
 
 ## Description
 
@@ -52,15 +51,6 @@ You can create a "hot spot" on a document to open another document when touched.
 > Note 2: You can also right-click on the shape and go to the HyperLink menu
 	
 4. Save your Powerpoint presentation at the desired location in your universe folder.
-
-## Metadata Available
-
-| Parameter                         | Type      | Default | Description |
-|:--------------------------------- |:----------|:--------|:-|
-| `video.controls.position`         | `auto|bottom|left|right|leftandright` | auto   | defines the display position of the next page and previous page buttons |
-| `video.controls.hide`             | `boolean` | false   | hides the next page and previous page buttons |
-
-[Access common metadatas](../advanced_setting.md#summary)
 
 ## Slideshow
 

@@ -62,8 +62,6 @@ Pour utiliser un simulateur de prêt, ajoutez l'extension `.simupret` à la fin 
 | `simulator.hideInfine`                         | `nombre` | faux                 | cacher l'option "in Fine"                         |
 | `simulator.infineDefaultValue`                 | `nombre` | faux                 | fixe la valeur par défaut d'une option In Fine    |
 
-[Accéder aux métadonnées communes](../advanced_setting.md#résumé)
-
 ## Télécharger un exemple
 
 Un univers de démonstration contenant des exemples de simulateurs de prêts hypothécaires est disponible, [essayez-le !](../../../en/organise_content/Demo-Universe.zip) &#x1f604;

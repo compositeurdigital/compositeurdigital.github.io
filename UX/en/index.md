@@ -4,7 +4,7 @@
 Install and launch *Compositeur Digital UX*.
 
 ### [User guide](user_guide/index.md)
-Discover how to interact with *Compositeur Digital UX*.
+Discover how to interact with *Compositeur Digital UX*.  
 
 ### [Organise content](organise_content/index.md)
 Learn how to build your own universe and what type of content you can use.
@@ -26,4 +26,5 @@ Contains frequently asked questions about installing and using *Compositeur Digi
 ### [Release notes](release_notes/index.md)
 Description of new features and bug fixes in releases of the *Compositeur Digital UX*  
 
-[Back to Documentation choice](../../selector/selector_en.md)
+
+[Back to Documentation choice](../../index.md)
