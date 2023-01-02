@@ -1,2 +1,102 @@
 theme: jekyll-theme-cayman
 title: Compositeur Digital Documentation
+
+defaults:
+  # All pages have by default the "General" category, and no category link
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      category: "General"
+      category_path: ""
+
+# [ START ] Setting categories
+  - scope:
+      path: "UX"
+      type: "pages"
+    values:
+      layout: default
+      category: "UX"
+
+  - scope:
+      path: "V4"
+      type: "pages"
+    values:
+      layout: default
+      category: "V4"
+
+  - scope:
+      path: "UX/*/organise_content"
+      type: "pages"
+    values:
+      category: "Organise content"
+
+  - scope:
+      path: "UX/*/organise_content/supported_content"
+      type: "pages"
+    values:
+      category: "Supported content"
+
+  # [ START ] Setting language specific values
+  # UX
+  
+  # fr
+  - scope:
+      path: "UX/fr"
+      type: "pages"
+    values:
+      language: "fr"
+      category_path: "/UX/fr"
+
+  - scope:
+      path: "UX/fr/organise_content"
+      type: "pages"
+    values:
+      category_path: "/UX/fr/organise_content"
+
+  - scope:
+      path: "UX/fr/organise_content/supported_content"
+      type: "pages"
+    values:
+      category_path: "/UX/fr/organise_content/supported_content"
+
+  # en
+  - scope:
+      path: "UX/en"
+      type: "pages"
+    values:
+      language: "en"
+      category_path: "/UX/en"
+      
+  - scope:
+      path: "UX/en/organise_content"
+      type: "pages"
+    values:
+      category_path: "/UX/en/organise_content"
+
+  - scope:
+      path: "UX/en/organise_content/supported_content"
+      type: "pages"
+    values:
+      category_path: "/UX/en/organise_content/supported_content"
+
+  # V4
+
+  # fr
+  - scope:
+      path: "V4/fr"
+      type: "pages"
+    values:
+      language: "fr"
+      category_path: "/V4/fr"
+
+  #en
+  - scope:
+      path: "V4/en"
+      type: "pages"
+    values:
+      language: "en"
+      category_path: "/V4/en"
+  # [ END ] Setting language specific values
+
+# [ END ] Setting categories

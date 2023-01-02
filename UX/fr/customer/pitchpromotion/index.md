@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Guide Compositeur Digital Pitch Promotion #
 
 ## A faire impérativement avant votre premier RDV – Premier lancement ##
@@ -16,13 +20,13 @@ Le stylet qui vous a été fourni est immédiatement reconnu par l’application
 
 **Accueil de l’application**
 
-![accueil](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/138.png)
+![accueil](img/138.png)
 
 A cette étape :
 
 → Pensez à vérifier que vous disposez de la dernière mise à jour. L’icône de synchro en haut à droite doit être dans l’état suivant : 
 
-![status](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/status.png)
+![status](img/status.png)
 
 → Si l’icône est différente, cliquez dessus puis sur le bouton *actualiser*.
 
@@ -32,13 +36,13 @@ Accédez à la région souhaitée puis sélectionnez le programme.
 
 → Certains programmes sont affichés avec l’étiquette « *Avant-première* ». Cela signifie que l’intégralité des contenus n’est pas encore disponible pour la commercialisation. 
 
-![139](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/139.png)
+![139](img/139.png)
 
 ## Présentation générale de l’environnement Compositeur Digital ##
 
 L’interface du Compositeur Digital est organisée de la façon suivante :
 
-![142](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/142.png)
+![142](img/142.png)
 
 ## Connaître les gestes et fonctions de base ##
 
@@ -46,41 +50,41 @@ L’interface du Compositeur Digital est organisée de la façon suivante :
 
 **Zoomer :** Utilisez deux doigts pour agrandir ou rétrécir. Nous vous conseillons de vous entraîner quelques secondes pour maîtriser le geste en rendez-vous.
 
-![zoom4](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/zoom4.png)
+![zoom4](img/zoom4.png)
 
 **Fermer un document :** Pour fermer un document, vous pouvez le « jeter », sur n’importe quel bord de l’écran. Vous pouvez également cliquer sur la croix en haut à droite de celui-ci. Pour rappel, un contenu fermé reste toujours accessible depuis son emplacement d’origine.
 
-![fermer1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/fermer1.png)
+![fermer1](img/fermer1.png)
 
 **Pour écrire et gommer :** Le stylet qui vous a été fourni est immédiatement reconnu par l’application. Vous pouvez écrire directement sur vos contenus sans passer par un menu. Pour gommer, retournez le stylet et gommez. 
 
 **Actions sur un document :** Voici les actions qui vous seront utiles
 * Dans le menu du document, accessible par les trois petits points en bas à droite, le mode diapositive vous permet de naviguer rapidement dans un contenu multi-pages
 
-![diapo1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/diapo1.png)
+![diapo1](img/diapo1.png)
 
 * Le bouton « Sélection » , matérialisé par une étoile en bas à droite d’un document vous permet d’ajouter celui-ci au panier du rendez-vous pour être ensuite partagé par mail au client. Le document est dans l’état « sélectionné » lorsque l’étoile est pleine. 
 
-![selection1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/selection1.png)
+![selection1](img/selection1.png)
 
 **Action sur les contenus web**
 
 L’application comporte des vues Google Maps pour la présenter la localisation des programmes et de ses alentours. Ces vues sont affichées dans le navigateur intégré de l’application. 
 
 Pour interagir avec le contenu de la page, cliquez sur le bouton central :
-![naviguer1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/naviguer1.png)
+![naviguer1](img/naviguer1.png)
 
 Pour manipuler la fenêtre, cliquez sur le bouton « fin de navigation » :
-![fin_naviguer1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/fin_naviguer1.png)
+![fin_naviguer1](img/fin_naviguer1.png)
 
 > NOTE : Vous pouvez à tout moment manipuler la fenêtre en la saisissant par la barre supérieure ou inférieure :
-![fenetre1](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/fenetre1.png)
+![fenetre1](img/fenetre1.png)
 
 > NOTE : Assurez-vous d’être bien connecté à Internet pour exploiter ce contenu en rendez-vous. 
 
 **Afficher la liste des documents ajoutés à la sélections (panier)**
 
-![157](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/157.png)
+![157](img/157.png)
 
 La liste des documents ajoutés à la sélection est visualisable grâce au bouton « étoile » à gauche de la barre de documents.
 
@@ -96,7 +100,7 @@ Rendez-vous ensuite dans le menu de l’application et cliquez sur « Partager �
 
 Effectuez ensuite la séquence suivante : 
 
-![145](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/145.png)
+![145](img/145.png)
 
 Sélectionnez l’emplacement de votre choix pour l’enregistrement du fichier unique qui contiendra tous ces documents. 
 
@@ -110,16 +114,16 @@ Pour cela, assurez-vous d’avoir bien ajouté ces documents à la sélection. (
 
 Rendez-vous ensuite dans le menu de l’application et cliquez sur « Enregistrer et quitter » puis « enregistrer ». Saisissez le nom de votre client puis cliquez sur « Enregistrer » :
 
-![147](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/147.png)
+![147](img/147.png)
 
 Les projets sauvegardés sont accessibles depuis l’accueil de l’application, via le bouton « Ouvrir » :
 
-![149](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/149.png)
+![149](img/149.png)
 
 ## Détails des contenus ## 
 
 **Recherche**
-![143](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/143.png)
+![143](img/143.png)
 
 Cette section vous permet de rechercher les plans et vues 3D associées à un  lot. Les critères sont affichés dans le volet de gauche et les résultats sont présentés dans le volet de droite. L’affichage des résultats se met à jour dès qu’un critère est modifié. 
 
@@ -128,36 +132,36 @@ Cette section vous permet de rechercher les plans et vues 3D associées à un  l
 > NOTE : Si plusieurs critères sont sélectionnés, c’est la combinaison simultanée des critères qui est prise en compte. 
 
 **Plans Résidence**
-![150](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/150.png)
+![150](img/150.png)
 
 Cette section rassemble les plans de masse et les plans d’étage. 
 
 > NOTE : Il n’y a pas de lien vers les plans de lots depuis ces documents. 
 
 **Visuels**
-![151](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/151.png)
+![151](img/151.png)
 
 Cette section rassemble les perspectives du programme. 
 
 > NOTE : Il n’y a pas de liens vers les plans de lots depuis ces documents. 
 
 **Outils 3D** 
-![152](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/152.png)
+![152](img/152.png)
 
 Cette section rassemble les maquettes orbitales et visites virtuelles disponibles. 
 
 **Situation**
-![153](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/153.png)
+![153](img/153.png)
 
 Cette section rassemble une image du plan de situation lorsqu’elle est disponible et un lien vers Google Maps paramétré avec l’emplacement du programme. Assurez-vous d’être connecté à Internet pour utiliser ce contenu. 
 
 **Plaquette**
-![154](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/154.png)
+![154](img/154.png)
 
 Cette rubrique affiche la plaquette du programme.
 
 **Informations**
-![155](http://compositeurdigital.github.io/UX/fr/customer/pitchpromotion/img/155.png)
+![155](img/155.png)
 
 Cette rubrique donne accès à un simulateur de prêt générique. Tous les paramètres sont modifiables indépendamment. 
 

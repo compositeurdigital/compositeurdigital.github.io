@@ -1,0 +1,423 @@
+<!-- HTML search field -->
+
+<style>
+    #search-container {
+        position: relative;
+
+        margin: 16px;
+
+        transition: 0.5s;
+    }
+
+    .input-container {
+        display: flex;
+
+        align-items: center;
+        justify-content: flex-start;
+
+        height: 42px;
+
+        background-color: #ff6b87;
+
+        border-style: none;
+        border-radius: 10px 10px 0 0;
+
+        transition: 0.1s;
+
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+    }
+
+    #search-input {
+        width: 24vh;
+
+        margin: 0px;
+        padding: 10px;
+
+        color: white;
+        background-color: transparent;
+        border-style: none;
+
+        transition: 0.5s cubic-bezier(.5,-0.45,.5,1.45);
+    }
+
+    #search-input::placeholder {
+        color: rgba(255, 255, 255, 65%);
+        transition: 0.3s ease-in-out;
+    }
+
+    #search-input:focus-visible {
+        outline: none;
+    }
+
+    #search-icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        font-size: 1.15rem;
+
+        width: 42px;
+        height: 42px;
+
+        background-color: transparent;
+
+        border-style: none;
+        border-radius: 0 10px 0 0;
+
+        padding-left: 0px;
+        padding-right: 0px;
+
+        transition: background-color 0.2s;
+    }
+
+    #search-icon:hover {
+        background-color: #F03B5E;
+    }
+
+    #search-icon:focus-visible {
+        outline: solid;
+    }
+
+    #search-icon img {
+        width: 20px;
+        height: 20px;
+    }
+
+    #tmp-results-container,
+    #results-container {
+        position: absolute;
+        list-style: none;
+
+        width: 100%;
+
+        margin: 0px;
+        padding: 4px;
+
+        overflow: hidden;
+        display: block;
+        background-color: white;
+
+        border-radius: 0 0 10px 10px;
+
+        box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4);
+
+        transition: 0.5s;
+    }
+
+    #results-container {
+        display: none;
+    }
+
+    .chunk {
+        list-style: none;
+
+        padding: 2px;
+        margin: 4px;
+
+        color: black;
+
+        transition: 0.3s;
+    }
+
+    .chunk a:hover {
+        text-decoration: none;
+    }
+
+    .chunk a {
+        display: flex;
+        align-items: center;
+    }
+
+    .chunk-image {
+        width: 10px;
+        height: 10px;
+    }
+
+    .chunk h3 {
+        flex-grow: 1;
+        text-align: left;
+
+        padding: 0;
+        margin: 4px;
+    }
+
+    .chunk h3 {
+        color: #F03B5E;
+    }
+
+    .chunk h3:hover {
+        cursor: pointer;
+    }
+
+    .page-item {
+        display: flex;
+        align-items: center;
+        position: relative;
+
+        color: #F03B5E;
+
+        border-radius: 10px;
+
+        transition: padding 0.2s;
+    }
+
+    .page-item:hover {
+        font-weight: bold;
+
+        text-decoration: none;
+
+        color: white;
+        background-color: #F03B5E;
+    }
+
+    .page-item a {
+        display: block;
+        text-align: left;
+
+        width: 100%;
+
+        padding: 8px;
+
+        color: #F03B5E;
+
+        border-radius: 10px;
+    }
+
+    .page-item:hover a {
+        color: white;
+    }
+
+    .page-arrow {
+        width: 16px;
+        height: 16px;
+
+        padding-right: 8px;
+
+        color: white;
+    }
+
+    /* ---------------------------------------- [ INPUT CONTAINER ] ---------------------------------------- */
+
+    /* [ Not searching ] || [ Placeholder shown ] || [ Not focused ] => 10px corner radius everywhere */
+    #search-container:not([isSearching]) .input-container,
+    .input-container:has(#search-input:placeholder-shown),
+    .input-container:has(#search-input:not(:focus)) {
+        border-radius: 100px;
+    }
+
+    /* [ Searching ] => Transition animation to 0 */
+    #search-container[isSearching] .input-container {
+        transition: 0s;
+    }
+
+    /* ------------------------------------------ [ SEARCH INPUT ] ----------------------------------------- */
+
+    /* [ Not searching ] => Input field width = 0 */
+    #search-container:not([isSearching]) .input-container #search-input {
+        width: 0px;
+        padding: 0px;
+        color: #ff6b87;
+    }
+
+    /* [ Not searching ] => Input field width = 0 */
+    #search-container:not([isSearching]) .input-container #search-input::placeholder {
+        color: #ff6b87;
+    }
+
+    /* ------------------------------------------ [ SEARCH ICON ] ------------------------------------------ */
+
+    #search-container:has(#search-input:placeholder-shown) #search-icon,
+    #search-container:has(.input-container #search-input:not(:focus)) #search-icon {
+        border-radius: 0 100px 100px 0;
+    }
+
+    #search-container:not([isSearching]) #search-icon {
+        border-radius: 100px !important;
+    }
+
+    #search-container[isSearching] #search-icon {
+        background-color: #F03B5E;
+    }
+
+    /* ---------------------------------------- [ RESULT CONTAINER ] --------------------------------------- */
+
+    /* [ Not searching ] || [ Placeholder shown ] || [ Not focused ] => Don't display the container */
+    
+    #search-container:not([isSearching]) #results-container,
+    #search-container:has(#search-input:placeholder-shown) #results-container,
+    #search-container:has(.input-container #search-input:not(:focus)) #results-container,
+    #search-container:not([isSearching]) #tmp-results-container,
+    #search-container:has(#search-input:placeholder-shown) #tmp-results-container,
+    #search-container:has(.input-container #search-input:not(:focus)) #tmp-results-container {
+            display: none;
+    }
+
+    #tmp-results-container:hover,
+    #results-container:hover {
+        display: block !important;
+    }
+
+</style>
+
+<div id="search-container">
+    <div class="input-container">
+        <input type="text" id="search-input" placeholder="...">
+        <button id="search-icon">
+            <img src="/assets/img/search-icon.svg" />
+        </button>
+    </div>
+    <ul id="results-container"></ul>
+    <ul id="tmp-results-container"></ul>
+</div>
+
+<!-- Grab search-script.js -->
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+
+<!-- Configuration -->
+<script type="text/javascript">
+    // 🔍
+    
+    function init() {
+        let searchButton = document.getElementById("search-icon");
+        let searchContainer = document.getElementById("search-container");
+
+        searchButton.addEventListener("click", () => {
+            searchContainer.toggleAttribute("isSearching");
+        });
+    }
+
+    function createCategory(category) {
+        let section = document.createElement("ul");
+        
+        section.className = "chunk";
+        
+        let sectionTitle = document.createElement("h3");
+        let sectionImage = document.createElement("img");
+        let sectionLink = document.createElement("a");
+        
+        sectionImage.classList.add("chunk-image");
+        sectionImage.setAttribute("src", "/assets/img/circle.svg");
+        sectionLink.href = category.path;
+        
+        sectionTitle.appendChild(document.createTextNode(category.name));
+        
+        sectionLink.appendChild(sectionImage);
+        sectionLink.append(sectionTitle);
+        
+        section.appendChild(sectionLink);
+        
+        category.items.forEach(item => {
+            section.appendChild(item);
+        });
+
+        return section;
+    }
+
+    function categorize() {
+        let resultContainer = document.getElementById("results-container");
+        let tmpResultContainer = document.getElementById("tmp-results-container");
+
+        let results = Array.from(resultContainer.getElementsByTagName("li"));
+        let categories = []; // Stores an object with category name + list of items
+
+        let i = 0;
+        
+        /* Go through all the results */
+        while (i < results.length) {
+            let subCategories = [];
+            let lastCategory = categories[categories.length - 1];
+            
+            let lastCategoryName = undefined;
+            let lastCategoryPath = undefined;
+
+            /* All results are sorted this way: '<category>-<title>', by category then by title */
+            while (i < results.length) {
+                let item = results[i];
+
+                /* If the last category is the same as the current */
+                if (lastCategoryName === undefined || item.getAttribute("category") === lastCategoryName) {
+                    subCategories.push(item);
+                } else {
+                    break;
+                }
+
+                lastCategoryName = item.getAttribute("category");
+                lastCategoryPath = item.getAttribute("category_path");
+
+                console.log(item.getAttribute("category_path"));
+
+                i++
+            }
+
+            /* Push a "Category" object that holds the category name and all its children */
+            categories.push({name: lastCategoryName, path: lastCategoryPath, items: subCategories});
+        }
+
+        resultContainer.innerHTML = "";
+        tmpResultContainer.innerHTML = "";
+
+        console.log("-- REFRESH -------------------------------------------------");
+
+        categories.forEach(category => {
+            console.log(category);
+
+            let subList = createCategory(category);
+
+            tmpResultContainer.appendChild(subList);
+        });
+
+        console.log("--- END ----------------------------------------------------");
+        console.log(" ");
+    }
+
+    window.addEventListener("load", () => {
+        let jsonIndexFiles = new Map([
+            // ['fr', 'https://frafmonster.github.io/compositeurdigital.github.io/data/search_fr.json'],
+            ['fr', '/data/search_fr.json'],
+            // ['en', 'https://frafmonster.github.io/compositeurdigital.github.io/data/search_en.json']
+            ['en', '/data/search_en.json']
+        ]);
+
+        let placeholders = new Map([
+            ['fr', "Rechercher..."],
+            ['en', "Search..."]
+        ]);
+
+        init();
+        
+        let language = navigator.language.split("-")[0];
+
+        console.log(language);
+
+        if (language !== undefined) {
+            let searchInput = document.getElementById("search-input");            
+            let json = jsonIndexFiles.get(language);
+
+            searchInput.placeholder = placeholders.get(language);
+
+            searchInput.addEventListener("input", () => {
+                categorize()
+            });
+            
+            SimpleJekyllSearch({
+                searchInput: document.getElementById('search-input'),
+                resultsContainer: document.getElementById('results-container'),
+                json: json,
+                searchResultTemplate: `
+                <li category="{category}" category_path="{category_path}" class="page-item">
+                    <a class="page-link" href="{{ site.url }}{url}">
+                        {title}
+                    </a>
+                    <img class="page-arrow" src="/assets/img/right-arrow-icon.svg">
+                </li>`,
+                limit: 20,
+                sortMiddleware: function(a, b) {
+                    let astr = a.category + "-" + a.title;
+                    let bstr = b.category + "-" + b.title;
+                    
+                    return astr.localeCompare(bstr);
+                }
+            });
+        }
+    });
+</script>
