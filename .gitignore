@@ -4,5 +4,4 @@
 
 /.vs
 _site
-Gemfile
 *.lock
