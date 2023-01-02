@@ -7,6 +7,7 @@
 * [Create a savings simulator](#create-a-savings-simulator)
 * [Metadata available](#metadata-available)
 * [Download a sample](#download-a-sample)
+* [Metadata available](#metadata-available)
 
 ## Description
 
@@ -53,6 +54,8 @@ To use a savings simulator, add the extension `.simuinvest` at the end of the na
 | `simulator.startingDepositMinValue`          | `number` | 0                  | sets the min value for the starting deposit amount |
 | `simulator.startingDepositMaxValue`          | `number` | 800000             | sets the max value for the starting deposit amount |
 | `simulator.startingDepositTickFrequency`     | `number` | 5000               | sets the interval between two values for a starting deposit amount |
+
+[Access common metadatas](../advanced_setting.md#summary)
 
 ## Download a sample
 

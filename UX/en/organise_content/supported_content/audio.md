@@ -46,6 +46,8 @@ Audio player support the following action. To have a complete overview of each a
 | `video.mute`                      | `boolean` | false   | force the video to be muted |
 | `video.controls.alwaysvisible`    | `boolean` | false   | force the display of the video playback controls |
 
+[Access common metadatas](../advanced_setting.md#summary)
+
 Next: [Guestbook (Compositeur Digital UX format)](guestbook.md)
 
 [Back to Supported Content](index.md)

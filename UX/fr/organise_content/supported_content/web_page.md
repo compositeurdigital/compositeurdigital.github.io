@@ -202,12 +202,14 @@ Les métadonnées vous aideront à personnaliser le comportement de votre naviga
 | Clé des métadonnées        | Valeur                | Description |
 |:--------------------------:|:----------------------|:------------|
 | `table.viewer`             | cdux                  | S'assure que le lien `cdurl` sera affiché dans le Compositeur Digital UX |
-|  Mode de manipulation Web  | `toggle` ou `intégré` | Si `toggle`, tous les mouvements tactiles agissent uniquement sur le conteneur jusqu'à ce que l'utilisateur active le mode de navigation, alors toutes les interactions sont transmises au contenu Web. S'il est "intégré", les simples pressions sont transmises au contenu web tandis que les mouvements tactiles plus complexes (glisser, zoom, ...) déplaceront le conteneur |
+| `web.manipulationMode`     | `toggle` ou `intégré` | Si `toggle`, tous les mouvements tactiles agissent uniquement sur le conteneur jusqu'à ce que l'utilisateur active le mode de navigation, alors toutes les interactions sont transmises au contenu Web. S'il est "intégré", les simples pressions sont transmises au contenu web tandis que les mouvements tactiles plus complexes (glisser, zoom, ...) déplaceront le conteneur |
 | `web.showChrome`           | Vrai ou faux          | Si vrai, une barre de navigation en haut de la vue s'affiche. Sinon, aucune barre de navigation ne sera affichée. |
 | `web.viewport.width`       | 1000 (nombre)         | Définit la largeur par défaut de la vue.                                       |
 | `web.viewport.height`      | 800 (nombre)          | Définit la hauteur par défaut de la vue.                                      |
 | `web.nossl` | Vrai ou faux | Désactive les contrôles SSL et permet de naviguer sur des pages dont les certificats ne sont pas reconnus. |
 | `web.newWindow.*`          | -                     | Les metadonnées préfixées de `web.newWindow` seront appliquées aux fen^tres ouvertes à partir de la page courante. Si aucune clé `web.newWindow` n'est spécifiée, les métadonnées courantes seront appliquées. |  
+
+[Accéder aux métadonnées communes](../advanced_setting.md#résumé)
 
 Par défaut, le lien `cdurl` a les métadonnées `web.manipulationMode` définies à 1 et les métadonnées `web.showChrome` définies à Vrai.
 

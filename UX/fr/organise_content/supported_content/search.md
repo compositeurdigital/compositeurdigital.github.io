@@ -127,6 +127,7 @@ Les métadonnées vous aideront à personnaliser le comportement de votre interf
 |:--------------------------|:--------|:-----------|:------------|
 | `catalog.resultsMaxCount` |`nombre` | 40         | Le nombre maximum de résultats qui peuvent être visualisés dans la page de résultats. |
 
+[Accéder aux métadonnées communes](../advanced_setting.md#résumé)
 
 ## Télécharger un exemple
 

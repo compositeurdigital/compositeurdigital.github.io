@@ -198,6 +198,8 @@ Metadata will help you to customize the way your web viewer behaves.
 | `web.newWindowOnNavigation`       | True or False       | Open all links in a new windows                                             |
 | `web.newWindow.*`                 | -                   | Any metadata with the `web.newWindow` prefix will be applied to new windows opened from the current page. If no such metadata is set, the current metadata will be used. |  
 
+[Access common metadatas](../advanced_setting.md#summary)
+
 By default , `cdurl` link have the metadata `web.manipulationMode` set to 1 and the metadata `web.showChrome` set to True.
 
 Folders with the extension `.web` or `html` have the metadata `web.manipulationMode` set to 0 and the metadata `web.showChrome` set to False.

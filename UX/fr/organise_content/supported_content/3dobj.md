@@ -81,6 +81,8 @@ Vous pouvez personnaliser l'arrière-plan de la scène. Par défaut, si aucune `
 
 ![Modes de rendu des obj 3D](../../../en/img/content_3d-obj_rendering-modes.jpg)
 
+[Accéder aux métadonnées communes](../advanced_setting.md#résumé)
+
 ## Téléchager un exemple
 
 Un univers de démonstration qui contient des exemples de contenus 3D est disponible, [essayez-le!](../../../en/organise_content/Demo-Universe.zip) &#x1f604;
