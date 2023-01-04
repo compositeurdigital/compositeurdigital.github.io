@@ -7,8 +7,10 @@ defaults:
       path: ""
       type: "pages"
     values:
+      tags: ""
       category: "General"
       category_path: ""
+      app_version: ""
 
 # [ START ] Setting categories
   - scope:
@@ -17,6 +19,7 @@ defaults:
     values:
       layout: default
       category: "UX"
+      app_version: "UX"
 
   - scope:
       path: "V4"
@@ -24,18 +27,7 @@ defaults:
     values:
       layout: default
       category: "V4"
-
-  - scope:
-      path: "UX/*/organise_content"
-      type: "pages"
-    values:
-      category: "Organise content"
-
-  - scope:
-      path: "UX/*/organise_content/supported_content"
-      type: "pages"
-    values:
-      category: "Supported content"
+      app_version: "V4"
 
   # [ START ] Setting language specific values
   # UX
@@ -53,12 +45,26 @@ defaults:
       type: "pages"
     values:
       category_path: "/UX/fr/organise_content"
+      category: "Organiser vos contenus"
 
   - scope:
       path: "UX/fr/organise_content/supported_content"
       type: "pages"
     values:
       category_path: "/UX/fr/organise_content/supported_content"
+      category: "Contenu pris en charge"
+
+  - scope:
+      path: "UX/fr/organise_content/advanced_setting.md"
+      type: "pages"
+    values:
+      tags: "Parametres avances"
+      
+  - scope:
+      path: "UX/fr/organise_content/supported_providers.md"
+      type: "pages"
+    values:
+      tags: "Fournisseurs de contenus"
 
   # en
   - scope:
@@ -73,12 +79,26 @@ defaults:
       type: "pages"
     values:
       category_path: "/UX/en/organise_content"
+      category: "Organise content"
 
   - scope:
       path: "UX/en/organise_content/supported_content"
       type: "pages"
     values:
       category_path: "/UX/en/organise_content/supported_content"
+      category: "Supported content"
+
+  - scope:
+      path: "UX/en/organise_content/advanced_setting.md"
+      type: "pages"
+    values:
+      tags: "Advanced settings"
+      
+  - scope:
+      path: "UX/en/organise_content/supported_providers.md"
+      type: "pages"
+    values:
+      tags: "Content provider"
 
   # V4
 

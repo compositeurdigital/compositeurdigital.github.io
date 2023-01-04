@@ -1,4 +1,4 @@
- # Panorama : vue à 360°
+# Panorama : vue à 360°
 
 ## Résumé
 * [Description](#description)

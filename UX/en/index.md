@@ -27,4 +27,4 @@ Contains frequently asked questions about installing and using *Compositeur Digi
 Description of new features and bug fixes in releases of the *Compositeur Digital UX*  
 
 
-[Back to Documentation choice](../../index.md)
+[Back to Documentation choice](../../selector/selector_en.md)
