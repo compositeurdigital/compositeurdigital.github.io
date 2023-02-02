@@ -1,5 +1,10 @@
 # Notes de publication
 
+
+### 3.6.3619 - 2 février 2023
+
+- [FIX] Consommation mémoire excessive pour les univers contenants de nombreux documents PowerPoint
+
 ### 3.6.3226 - 5 octobre 2022
 
 #### Nouvelles fonctionnalités

@@ -1,5 +1,8 @@
 # Release notes
 
+### 3.6.3619 - February 2, 2023
+
+- [FIX] Excessive memory consumption for universes with many PowerPoint documents
 
 ### 3.6.3226 - October 5, 2022
 
