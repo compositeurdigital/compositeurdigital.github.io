@@ -1,5 +1,50 @@
 # Release notes
 
+### 3.7.3764 - March 7, 2023
+
+#### New features
+
+- Improved application statup time and universe loading time
+- Webview2 as default if runtime if a suitable runtime is found
+- Webview: new api call `getSessionSettings()` to get the current presenter side
+- Share with Microsoft 365 Outlook: mail compose page integrated to the share experience
+- Share with Microsoft 365 Outlook available for sharing a web memory link
+- Share with Outlook app available when installed from Windows Store
+- Activities: New serverless service excen.se
+- Activities: New vote activity 
+- Universe selector: interactive PowerPoint for universe selection 
+- Universe editor: Select documents preview from an inline menu, with image paste support
+- Universe editor: Common settings editable
+- Universe editor: Powerpoint/PDF: interactive areas visualization
+- Universe editor: Videos: playbakc settings (loop, mute, controls behavior)
+- Universe editor: Navigation bar with current selection path and previous/next/parent actions 
+- Universe editor: Drag and drop documents from file explorer
+- Universe editor: Zoom on selected document
+
+#### General improvements and fixes
+
+- Web memory: Handle large volume of shared documents  
+- New presenter side interface
+- Powerpoint/PDF: improved loading and display time
+- Product sheets: New style to match folder view
+- Support for .csv data files that are not UTF8 encoded
+- Support for Samsung Flip version 4 devices
+- [FIX] PDF: Error displayed for absolute links
+- [FIX] Manipulation locked on some devices with stylus support
+- [FIX] Videos: play /pause button still visible despite `video.controls.hide=true` setting
+- [FIX] Web memory: shared documents counted twice
+- [FIX] Menu `open` action generates a PDF for images instead of opening the actual image
+- [FIX] Sustom start page interface not applied when switching source
+- [FIX] Webview: locked manipulations
+- [FIX] External projects do not load if their name includes special characters
+- [FIX] Crash after a short time for some univers containing panoramas
+- [FIX] Panoramas: the rendering of preview can hang all future renders
+- [FIX] Catalog: error when text input stays open
+- [FIX] Catalog: manipulation not recognised if started from results list 
+- [FIX] Background videos not played in a loop
+- [FIX] Document menu: cropped selection indicator
+
+
 ### 3.6.3619 - February 2, 2023
 
 - [FIX] Excessive memory consumption for universes with many PowerPoint documents

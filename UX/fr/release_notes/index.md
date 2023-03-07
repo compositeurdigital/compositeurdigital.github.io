@@ -1,6 +1,52 @@
 # Notes de publication
 
 
+### 3.7.3764 - 7 mars 2023
+
+#### Nouvelles fonctionnalités
+
+- Amélioration du temps de démarrage de l'application et du temps de chargement des univers
+- Webview2 utilisée par défaut si le runtime est présent
+- Webview : nouvelle appel disponible `getSessionSettings()` pour intérroger la position du présentateur
+- Partage par Microsoft 365 Outlook avec fenêtre de composition intégrée à l'expérience de partage
+- Partage par Microsoft 365 Outlook disponible pour le partage des souvenirs en ligne
+- Partage par l'application Outlook dans la version disponible sur le Microsoft Store
+- Activités : Nouveau service (serverless) excen.se
+- Activités : Nouvelle activité de vote 
+- Sélecteur d'univers : support des PowerPoint interactifs pour la sélection d'univers 
+- Éditeur : Sélection des vignettes de documents par un menu, et support du copier-coller
+- Éditeur : Édition des paramètres communs
+- Éditeur : Powerpoint/PDF : Visualisation des zones interactives
+- Éditeur : Vidéos : paramétrages de la lecture (en boucle, automatique, sourdine)
+- Éditeur : Barre de navigation avec le chemin courant et actions précédent/suivant/parent 
+- Éditeur : Ajout de documents par glisser-déposer 
+- Éditeur : Zoom sur le document sélectionné 
+
+#### Améliorations et correctifs
+
+- Souvenir en ligne : gestion des gros volumes de documents partagés
+- Interface de sélection de la position du présentateur revue 
+- Powerpoint et PDF : amélioration des performance de chargement et de l'affichage
+- Fiches produit : style des icônes similaire aux dossiers
+- Chargement des fichiers de données .csv autres qu'encodés en UTF8
+- Support des écrans Samsung Flip version 4
+- [FIX] PDF : Ouverture de documents en erreur pour les liens fichier absolus 
+- [FIX] Manipulations bloquées sur certains dispositifs tactiles avec reconaissance du stylet
+- [FIX] Vidéos : bouton lecture/pause visible malgré le paramètrage `video.controls.hide=true`
+- [FIX] Souvenir : fichiers comptés en double dans l'interface
+- [FIX] L'action `ouvrir` génère un PDF pour des images
+- [FIX] Interface spécialisée de la page d'accueil non appliquée lors du changement de source
+- [FIX] Webview: Manipulation bloquées
+- [FIX] Le chargement des projets externes ne se fait pas si leur nom comporte certains caractères spéciaux
+- [FIX] Crash peu après l'ouverture de certains univers contenant des panoramas 
+- [FIX] Panoramas : le rendu des vignettes peut provoque le blocage et l'export de tous les documents
+- [FIX] Catalogue : erreur lorsque la zone de saisie textuelle reste ouverte
+- [FIX] Catalogue : Manipulation tactile impossible à partir 
+- [FIX] Les vidéos en fond d'écran ne sont pas jouées en boucle
+- [FIX] Menu document: indicateur de sélection tronqué
+
+
+
 ### 3.6.3619 - 2 février 2023
 
 - [FIX] Consommation mémoire excessive pour les univers contenants de nombreux documents PowerPoint
