@@ -1,6 +1,6 @@
 # Release notes
 
-### 3.7.3764 - March 7, 2023
+### 3.7.3779 - March 7, 2023
 
 #### New features
 
@@ -13,13 +13,13 @@
 - Activities: New serverless service excen.se
 - Activities: New vote activity 
 - Universe selector: interactive PowerPoint for universe selection 
-- Universe editor: Select documents preview from an inline menu, with image paste support
-- Universe editor: Common settings editable
-- Universe editor: Powerpoint/PDF: interactive areas visualization
-- Universe editor: Videos: playbakc settings (loop, mute, controls behavior)
-- Universe editor: Navigation bar with current selection path and previous/next/parent actions 
-- Universe editor: Drag and drop documents from file explorer
-- Universe editor: Zoom on selected document
+- Universe designer: Select documents preview from an inline menu, with image paste support
+- Universe designer: Common settings editable
+- Universe designer: Powerpoint/PDF: interactive areas visualization
+- Universe designer: Videos: playbakc settings (loop, mute, controls behavior)
+- Universe designer: Navigation bar with current selection path and previous/next/parent actions 
+- Universe designer: Drag and drop documents from file explorer
+- Universe designer: Zoom on selected document
 
 #### General improvements and fixes
 

@@ -1,7 +1,7 @@
 # Notes de publication
 
 
-### 3.7.3764 - 7 mars 2023
+### 3.7.3779 - 7 mars 2023
 
 #### Nouvelles fonctionnalités
 
