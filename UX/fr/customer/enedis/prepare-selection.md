@@ -1,6 +1,6 @@
 ## Préparer une sélection
 
-## [Prochaine étape : Partager sa sélection](./
+## [Prochaine étape : Partager sa sélection](./share-selection.md)
 
 ## Autres rubriques
 * [**Lancer l'application**](./start-app.md)
