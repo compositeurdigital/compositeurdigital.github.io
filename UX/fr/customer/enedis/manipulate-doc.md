@@ -1,6 +1,6 @@
 ## Manipuler des documents
 
-##[Prochaine étape : Annoter des documents](./annotate.md)
+## [Prochaine étape : Annoter des documents](./annotate.md)
 
 ## Autres rubriques 
 * [**Lancer l'application**](./start-app.md)
