@@ -1,14 +1,15 @@
-# Lancer un environnement
+# Revenir à l'écran d'accueil
 
-1. Cliquez sur "espace vierge" pour démarrer un nouvel environnement de travail vide.
-2. Si vous avez [créé des environnements de travail](./prepare-content.md), ces environnement apparaissent à droite du bouton "espace vierge".
+1. Ouvrir le menu principal
+2. Cliquer sur **Accueil**
+3. Choisir si vous souhaitez enregistrer votre projet ou non
 
-
-## [Prochaine étape : Manipuler des documents](./manipulate-doc.md)
+## [Prochaine étape : Ouvrir un project](./open-project.md)
 
 ## Autres rubriques
 * [**Préparer son dossier de travail**](./prepare-content.md)
 * [**Démarrer l'application**](./start-app.md)
+* [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
 * [**Annoter des documents**](./annotate.md)
 * [**Ajouter des notes et des feuilles blanches**](./add-notes.md)
@@ -17,6 +18,5 @@
 * [**Préparer une sélection**](./prepare-selection.md)
 * [**Partager sa sélection**](./share-selection.md)
 * [**Enregistrer son projet**](./save-project.md)
-* [**Retourner à l'écran d'accueil**](./back-home.md)
 * [**Ouvrir un projet**](./open-project.md)
 * [**Fermer l'application**](./close-app.md)

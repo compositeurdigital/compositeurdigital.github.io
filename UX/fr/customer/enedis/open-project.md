@@ -1,15 +1,32 @@
-## Ouvrir un projet
+# Ouvrir un projet
 
-##[Prochaine étape : Manipuler des documents](./manipulate-doc.md)
+1. Cliquer sur l'onglet **Ouvrir**
+2. Cliquer sur le projet à ouvrir
+
+**Note**
+
+Il est possible de partager un projet à quelqu'un qui pourra l'ouvrir dans l'application. Le projet doit être créé à partir de l'environnement de travail **espace vierge**.
+
+1. Cliquer sur l'onglet **Ouvrir**
+2. Sélectionner le projet à partager
+3. Cliquer sur le bouton *...*
+4. Cliquer sur **Partager**
+5. Ce partage utilise le partage natif Windows, vous pouvez rajouter Outlook comme application de partage
+
+## [Prochaine étape : Fermer l'application](./manipulate-doc.md)
+
 
 ## Autres rubriques
-* [**Lancer l'application**](./start-app.md)
-* [**Lancer un univers**](./new-universe.md)
+* [**Préparer son dossier de travail**](./prepare-content.md)
+* [**Démarrer l'application**](./start-app.md)
+* [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
 * [**Annoter des documents**](./annotate.md)
 * [**Ajouter des notes et des feuilles blanches**](./add-notes.md)
 * [**Importer des documents en live**](./import-docs.md)
+* [**Animer une session d'activités en ligne**](./companion.md)
 * [**Préparer une sélection**](./prepare-selection.md)
 * [**Partager sa sélection**](./share-selection.md)
 * [**Enregistrer son projet**](./save-project.md)
+* [**Retourner à l'écran d'accueil**](./back-home.md)
 * [**Fermer l'application**](./close-app.md)
