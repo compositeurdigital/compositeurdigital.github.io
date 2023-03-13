@@ -1,44 +1,44 @@
-# Animer une session d'activités web
+# Animer une session d'activitÃ©s web
 
-Les activités web vous permettent d'inclure vos collaborateurs au cours de deux types d'exercices
-- Tableau d'idées
+Les activitÃ©s web vous permettent d'inclure vos collaborateurs au cours de deux types d'exercices
+- Tableau d'idÃ©es
 - Transfert de fichiers (les utilisateurs peuvent partager des documents avec vous)
 
-Chaque utilisateur peut se connecter à une application mobile, connectée avec votre session du Compositeur Digital UX.
+Chaque utilisateur peut se connecter Ã  une application mobile, reliÃ©e Ã  votre session du Compositeur Digital UX.
 
-## Démarrer les activités web
+## DÃ©marrer les activitÃ©s web
 
 1. Ouvrir le menu principal
 2. Cliquez sur le bouton *people*
-3. Cliquez sur **Démarrer les activités web**
+3. Cliquez sur **DÃ©marrer les activitÃ©s web**
 4. Cliquez sur **Afficher lien web**
-5. Un QR code apparaît, il peut être scanné par vos collaborateurs. L'url de la session est également visible sous le QR code.
+5. Un QR code apparaÃ®t, il peut Ãªtre scannÃ© par vos collaborateurs. L'url de la session est Ã©galement visible sous le QR code.
 
-## Démarrer un brainstorming
+## DÃ©marrer un brainstorming
 
 1. Ouvrir le menu principal
 2. Cliquez sur le bouton *people*
-3. Cliquer sur **Tableau d'idées**
-4. Une activité est désormais manipulable dans l'espace de travail.
-5. Cliquez sur le bouton **Démarrer** de cet élément.
-6. Les utilisateurs connectés à la session peuvent désormais partager leurs idées. Toutes les idées reçues sont classées par utilisateur. Pour révéler les idées d'un utilisateur, cliquez sur son nom. Une feuille blanche, remplie de notes apparaît. Les notes peuvent ensuite être déplacées et triées.
-7. Pour arrêter l'activité, cliquez sur le bouton *pause* en bas à droite.
+3. Cliquer sur **Tableau d'idÃ©es**
+4. Une activitÃ© est dÃ©sormais manipulable dans l'espace de travail.
+5. Cliquez sur le bouton **DÃ©marrer** de cet Ã©lÃ©ment.
+6. Les utilisateurs connectÃ©s Ã  la session peuvent dÃ©sormais partager leurs idÃ©es. Toutes les idÃ©es reÃ§ues sont classÃ©es par utilisateur. Pour rÃ©vÃ©ler les idÃ©es d'un utilisateur, cliquez sur son nom. Une feuille blanche, remplie de notes apparaÃ®t. Les notes peuvent ensuite Ãªtre dÃ©placÃ©es et triÃ©es.
+7. Pour arrÃªter l'activitÃ©, cliquez sur le bouton *pause* en bas Ã  droite.
 
 **Note**
 
-Vous pouvez exporter toutes les notes reçues sous la forme d'un tableau Excel. Chaque colonne correspond à un utilisateur, une idée par ligne.
+Vous pouvez exporter toutes les notes reÃ§ues sous la forme d'un tableau Excel. Chaque colonne correspond Ã  un utilisateur, une idÃ©e par ligne.
 
-1. Ouvrir le menu contextuel de l'activité : bouton *...* en bas à droite
+1. Ouvrir le menu contextuel de l'activitÃ© : bouton *...* en bas Ã  droite
 2. Cliquer sur le bouton **Plus**
 3. Cliquer sur le bouton **Enregistrer sous**
-4. Sélectionner l'emplacement où le tableur doit être enregistré.
+4. SÃ©lectionner l'emplacement oÃ¹ le tableur doit Ãªtre enregistrÃ©.
 
-## Démarrer un transfert de fichiers
+## DÃ©marrer un transfert de fichiers
 
 1. Ouvrir le menu principal
 2. Cliquez sur le bouton *people*
 3. Cliquer sur **Transfert de fichiers**
-4. Une activité est désormais manipulable dans l'espace de travail.
-5. Cliquez sur le bouton **Démarrer** de cet élément.
-6. Les utilisateurs connectés à la session peuvent désormais partager des fichiers. Tous les fichiers envoyés par les utilisateurs sont visibles dans l'activité, et également dans l'onglet **Importés** du menu principal.
-7. Pour arrêter l'activité, cliquez sur le bouton *pause* en bas à droite.
+4. Une activitÃ© est dÃ©sormais manipulable dans l'espace de travail.
+5. Cliquez sur le bouton **DÃ©marrer** de cet Ã©lÃ©ment.
+6. Les utilisateurs connectÃ©s Ã  la session peuvent dÃ©sormais partager des fichiers. Tous les fichiers envoyÃ©s par les utilisateurs sont visibles dans l'activitÃ©, et Ã©galement dans l'onglet **ImportÃ©s** du menu principal.
+7. Pour arrÃªter l'activitÃ©, cliquez sur le bouton *pause* en bas Ã  droite
