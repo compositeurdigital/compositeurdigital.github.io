@@ -10,8 +10,9 @@ La sauvegarde d'un projet ne conserve **QUE les documents présents à l'écran 
 3. Donner un nom à votre projet.
 4. Cliquer sur **Enregistrer**
 
-<iframe width="864" height="480" src="./media/save-project.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<video controls muted loop autoplay width="864" height="480">
+	<source src="./media/save-project.mp4" type="video/mp4">
+</video>
 
 ## [Prochaine étape : Revenir à l'écran d'accueil](./back-home.md)
 

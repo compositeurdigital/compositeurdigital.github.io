@@ -5,7 +5,9 @@
 3. (a) Si votre stylet dispose d'un bouton en haut, retournez votre stylet de telle sorte que le bouton haut soit pressé contre l'écran : les annotations précedemment écrites sont effacées.
 3. (b) Si votre stylet dispose d'un bouton au milieu, pressez ce bouton et appliquez la pointe de votre stylet sur le document : les annotations s'effacent.
 
-<iframe width="864" height="480" src="./media/annotate.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video controls muted loop autoplay width="864" height="480">
+	<source src="./media/annotate.mp4" type="video/mp4">
+</video>
 
 
 ## Modifier l'encre utilisée
@@ -14,7 +16,9 @@
 2. Accéder à l'onglet "Palette"
 3. Chosissez la couleur de votre stylet, et l'épaisseur du trait souhaitée.
 
-<iframe width="864" height="480" src="./media/change-palette.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video controls muted loop width="864" height="480">
+	<source src="./media/change-palette.mp4" type="video/mp4">
+</video>
 
 
 ## [Prochaine étape : Ajouter des notes et des feuilles blanches](./add-notes.md)
