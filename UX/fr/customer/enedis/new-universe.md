@@ -3,6 +3,8 @@
 1. Cliquez sur "espace vierge" pour démarrer un nouvel environnement de travail vide.
 2. Si vous avez [créé des environnements de travail](./prepare-content.md), ces environnement apparaissent à droite du bouton "espace vierge".
 
+<iframe width="864" height="480" src="./media/launch-empty.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## [Prochaine étape : Manipuler des documents](./manipulate-doc.md)
 

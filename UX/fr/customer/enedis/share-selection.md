@@ -30,6 +30,9 @@ Pour commencer un partage:
 6. Une fois le souvenir prêt, vous pouvez copier le lien de partage et l'envoyer comme bon vous semble.
 7. Vous pouvez aussi le partager en envoyant un mail via Microsoft 365
 
+<iframe width="864" height="480" src="./media/share-selection-souvenir.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Partager avec Outlook
 
 Si vous avez Outlook d'installé sur votre poste, pouvez directement lancer une fenêtre d'édition de mail depuis le Compositeur Digital.

@@ -8,6 +8,9 @@
 4. Sélectionner les éléments à importer.
 5. Cliquer sur **Ok**
 
+<iframe width="864" height="480" src="./media/import-files.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Le contenu du presse-papier
 
 Si vous avez copié un fichier, une image ou une URL dans votre presse-papier, vous pouvez coller le contenu du presse-papier dans l'espace de travail.
@@ -20,6 +23,8 @@ Si vous avez copié un fichier, une image ou une URL dans votre presse-papier, v
 2. Cliquer sur **Importer des documents**
 3. Cliquer sur **Coller**
 
+<iframe width="864" height="480" src="./media/paste-image.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Une capture d'une application
 
 Si vous souhaitez manipuler un contenu qui n'est pas nativement pris en charge par le Compositeur Digital UX (par exemple les tableurs Excel), vous pouvez importer une capture de l'application Excel.
@@ -31,6 +36,8 @@ Si vous souhaitez manipuler un contenu qui n'est pas nativement pris en charge p
 6. Sélectionner l'application à capturer
 7. Cliquer sur **Ok**
 
+<iframe width="864" height="480" src="./media/app-capture.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Un flux vidéo
 
 Vous pouvez importer à tout moment un flux vidéo venant d'un périphérique relié physiquement au PC (webcam, liseuse, ect) ou un flux vidéo distant (NDI)
@@ -41,13 +48,14 @@ Vous pouvez importer à tout moment un flux vidéo venant d'un périphérique re
 6. Sélectionner le flux vidéo à importer
 7. Cliquer sur **Ok**
 
+<iframe width="864" height="480" src="./media/import-video-stream.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Visualiser les documents importés
 
 1. Ouvrir le menu principal
 2. Cliquer sur l'onglet **Importés** en bas du menu
 
-
-## [Prochaine étape : Préparer une sélection](./prepare-selection.md)
+## [Prochaine étape : Animer une session d'activités en ligne](./companion.md)
 
 ## Autres rubriques 
 * [**Préparer son dossier de travail**](./prepare-content.md)

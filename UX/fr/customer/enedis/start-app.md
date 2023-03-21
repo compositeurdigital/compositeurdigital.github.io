@@ -1,8 +1,11 @@
 # Démarrer l'application
 
 1. Taper dans la zone de recherche Windows : Compositeur Digital UX
-2. Cliquer sur l'icône Compositeur Digital UX
-3. L'application se lance
+2. Cliquer sur le bouton "Epingler à la barre des tâches"
+3. Cliquer sur l'application dans la barre des tâches
+4. L'application se lance
+
+<iframe width="864" height="480" src="./media/start-app.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## [Prochaine étape : Lancer un environnement](./new-universe.md)
 

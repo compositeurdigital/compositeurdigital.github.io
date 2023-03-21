@@ -4,6 +4,9 @@
 2. Cliquer sur **Accueil**
 3. Choisir si vous souhaitez enregistrer votre projet ou non
 
+<iframe width="864" height="480" src="./media/back-home.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## [Prochaine étape : Ouvrir un project](./open-project.md)
 
 ## Autres rubriques

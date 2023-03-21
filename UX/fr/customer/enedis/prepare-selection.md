@@ -7,6 +7,9 @@ Il est possible de consituer une sélection de documents au fil de votre session
 1. Ouvrir le menu contextuel : bouton *...* situé en bas à droite de votre document
 2. Cliquer sur **Ajouter à la sélection**
 
+<iframe width="864" height="480" src="./media/add-selection.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Visualiser sa sélection
 
 1. Ouvrir le menu principal
@@ -20,6 +23,8 @@ Il est possible de consituer une sélection de documents au fil de votre session
 
 Ou directement depuis l'onglet **Sélection**
 1. Cliquer sur le bouton *X* en haut à droite de l'aperçu.
+
+<iframe width="864" height="480" src="./media/remove-selection.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## [Prochaine étape : Partager sa sélection](./share-selection.md)

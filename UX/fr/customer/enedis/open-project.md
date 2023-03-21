@@ -3,6 +3,8 @@
 1. Cliquer sur l'onglet **Ouvrir**
 2. Cliquer sur le projet à ouvrir
 
+<iframe width="864" height="480" src="./media/open-project.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Note**
 
 Il est possible de partager un projet à quelqu'un qui pourra l'ouvrir dans l'application. Le projet doit être créé à partir de l'environnement de travail **espace vierge**.
@@ -13,7 +15,7 @@ Il est possible de partager un projet à quelqu'un qui pourra l'ouvrir dans l'ap
 4. Cliquer sur **Partager**
 5. Ce partage utilise le partage natif Windows, vous pouvez rajouter Outlook comme application de partage
 
-## [Prochaine étape : Fermer l'application](./manipulate-doc.md)
+## [Prochaine étape : Fermer l'application](./close-app.md)
 
 
 ## Autres rubriques
