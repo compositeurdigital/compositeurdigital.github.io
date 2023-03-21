@@ -5,8 +5,9 @@
 3. Différentes rubriques sont disponibles : *Panneaux*, *Feuilles blanches* et *Notes*
 4. Cliquez sur un élement de ces rubriques pour l'ajouter à l'espace de manipulation.
 
-<iframe width="864" height="480" src="./media/add-notes.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<video controls muted loop autoplay width="864" height="480">
+	<source src="./media/add-notes.mp4" type="video/mp4">
+</video>
 
 ## [Prochaine étape : Importer des documents en live](./import-docs.md)
 

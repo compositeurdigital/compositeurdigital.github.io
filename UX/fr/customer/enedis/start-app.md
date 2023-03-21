@@ -5,7 +5,9 @@
 3. Cliquer sur l'application dans la barre des tâches
 4. L'application se lance
 
-<iframe width="864" height="480" src="./media/start-app.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video controls muted loop autoplay width="864" height="480">
+	<source src="./media/start-app.mp4" type="video/mp4">
+</video>
 
 ## [Prochaine étape : Lancer un environnement](./new-universe.md)
 

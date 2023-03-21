@@ -4,8 +4,9 @@
 2. Une fois le document apparu dans l'espace de manipulation, vous pouvez le déplacer, l'agrandir ou encore le retourner.
 3. Vous pouvez naviguer dans le document à l'aide des flèches "<" et ">" présentes en bas du document.
 
-<iframe width="864" height="480" src="./media/manipulate-docs.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<video controls muted loop autoplay width="864" height="480">
+	<source src="./media/manipulate-docs.mp4" type="video/mp4">
+</video>
 
 ## [Prochaine étape : Annoter des documents](./annotate.md)
 

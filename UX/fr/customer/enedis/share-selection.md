@@ -30,8 +30,9 @@ Pour commencer un partage:
 6. Une fois le souvenir prêt, vous pouvez copier le lien de partage et l'envoyer comme bon vous semble.
 7. Vous pouvez aussi le partager en envoyant un mail via Microsoft 365
 
-<iframe width="864" height="480" src="./media/share-selection-souvenir.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<video controls muted loop autoplay width="864" height="480">
+	<source src="./media/share-selection-souvenir.mp4" type="video/mp4">
+</video>
 
 ## Partager avec Outlook
 
