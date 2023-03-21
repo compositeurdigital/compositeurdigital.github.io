@@ -1,15 +1,26 @@
-## Ajouter des notes et des feuilles blanches
+# Ajouter des notes et des feuilles blanches
+
+1. Ouvrir le menu principal.
+2. Accéder à l'onglet "Documents".
+3. Différentes rubriques sont disponibles : *Panneaux*, *Feuilles blanches* et *Notes*
+4. Cliquez sur un élement de ces rubriques pour l'ajouter à l'espace de manipulation.
+
+<iframe width="864" height="480" src="./media/add-notes.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## [Prochaine étape : Importer des documents en live](./import-docs.md)
 
 ## Autres rubriques
-* [**Lancer l'application**](./start-app.md)
-* [**Lancer un univers**](./new-universe.md)
-* [**Ouvrir un projet**](./open-project.md)
+* [**Préparer son dossier de travail**](./prepare-content.md)
+* [**Démarrer l'application**](./start-app.md)
+* [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
 * [**Annoter des documents**](./annotate.md)
-* [**Ajouter des notes et des feuilles blanches**](./add-notes.md)
+* [**Importer des documents en live**](./import-docs.md)
+* [**Animer une session d'activités en ligne**](./companion.md)
 * [**Préparer une sélection**](./prepare-selection.md)
 * [**Partager sa sélection**](./share-selection.md)
 * [**Enregistrer son projet**](./save-project.md)
+* [**Retourner à l'écran d'accueil**](./back-home.md)
+* [**Ouvrir un projet**](./open-project.md)
 * [**Fermer l'application**](./close-app.md)

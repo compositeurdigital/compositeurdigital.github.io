@@ -1,12 +1,15 @@
-# Guide Compositeur Digital Enedis
+# Revenir à l'écran d'accueil
 
-## Rappel du principe d'utilisation de l'application
+1. Ouvrir le menu principal
+2. Cliquer sur **Accueil**
+3. Choisir si vous souhaitez enregistrer votre projet ou non
 
-Le Compositeur Digital est optimisé pour les écrans tactiles. Utilisez bien le doigt et non la souris pour contrôler les boutons l’application. 
+<iframe width="864" height="480" src="./media/back-home.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Le stylet qui vous a été fourni est immédiatement reconnu par l’application. Vous pouvez écrire directement sur vos contenus sans passer par un menu. Pour gommer, retournez-le et gommez. 
 
-## Sommaire
+## [Prochaine étape : Ouvrir un project](./open-project.md)
+
+## Autres rubriques
 * [**Préparer son dossier de travail**](./prepare-content.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
@@ -18,6 +21,5 @@ Le stylet qui vous a été fourni est immédiatement reconnu par l’application
 * [**Préparer une sélection**](./prepare-selection.md)
 * [**Partager sa sélection**](./share-selection.md)
 * [**Enregistrer son projet**](./save-project.md)
-* [**Retourner à l'écran d'accueil**](./back-home.md)
 * [**Ouvrir un projet**](./open-project.md)
 * [**Fermer l'application**](./close-app.md)
