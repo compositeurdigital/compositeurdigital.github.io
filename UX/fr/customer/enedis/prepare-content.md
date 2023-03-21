@@ -8,6 +8,10 @@
 6. Ouvrir le dossier précedemment créé.
 7. Déposer des documents dans ce dossier. Il est possible de créer des dossiers et des sous-dossiers pour préparer une arborescence de contenus.
 
+<video controls muted loop autoplay width="864" height="480">
+	<source src="./media/create-universe.mp4" type="video/mp4">
+</video>
+
 **Rappel**
 
 Le Compositeur Digital UX vous permet de visualiser les contenus suivants:
@@ -17,6 +21,14 @@ Le Compositeur Digital UX vous permet de visualiser les contenus suivants:
 - Modéles 3D (.obj, .3ds)
 
 Tout autre type de fichier ne pourra être visualisé.
+
+## Récupérer des contenus sur OGED
+
+1. Se connecter à la plateforme OGED
+2. Télécharger les contenus à présenter dans le dossier "Téléchargements".
+3. Copier les fichiers téléchargés dans votre univers.
+
+![oged](./media/OGED.jpg)
 
 ## [Prochaine étape : démarrer l'application](./start-app.md)
 
