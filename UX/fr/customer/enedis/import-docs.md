@@ -17,7 +17,7 @@
 Si vous avez copié un fichier, une image ou une URL dans votre presse-papier, vous pouvez coller le contenu du presse-papier dans l'espace de travail.
 
 **Solution 1**
-1. Appuyze sur Ctrl+V
+1. Appuyez sur Ctrl+V
 
 **Solution 2**
 1. Ouvrir le menu principal
