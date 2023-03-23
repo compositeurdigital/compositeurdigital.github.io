@@ -2,13 +2,12 @@
 
 ## Rappel du principe d'utilisation de l'application
 
-Le Compositeur Digital est optimisé pour les écrans tactiles. Utilisez bien le doigt et non la souris pour contrôler les boutons l’application. 
+Le Compositeur Digital est une application Microsoft optimisée pour les écrans tactiles. Utilisez bien le doigt et non la souris pour contrôler les boutons de l’application. 
 
-Le stylet qui vous a été fourni est immédiatement reconnu par l’application. Vous pouvez écrire directement sur vos contenus sans passer par un menu. Pour gommer, retournez-le et gommez. 
+Si votre PC est équipé d'un stylet, il est immédiatement reconnu par l’application. Vous pouvez écrire directement sur vos contenus sans passer par un menu. Pour gommer, retournez-le et gommez. 
 
 ## Sommaire
-* [**Préparer son dossier de travail**](./prepare-content.md)
-* [**Démarrer l'application**](./start-app.md)
+* [&rarr; **Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
 * [**Annoter des documents**](./annotate.md)
@@ -21,3 +20,5 @@ Le stylet qui vous a été fourni est immédiatement reconnu par l’application
 * [**Retourner à l'écran d'accueil**](./back-home.md)
 * [**Ouvrir un projet**](./open-project.md)
 * [**Fermer l'application**](./close-app.md)
+
+* [**Préparer son dossier de travail**](./prepare-content.md)

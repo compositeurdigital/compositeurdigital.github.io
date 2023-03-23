@@ -14,10 +14,9 @@ La sauvegarde d'un projet ne conserve **QUE les documents présents à l'écran 
 	<source src="./media/save-project.mp4" type="video/mp4">
 </video>
 
-## [Prochaine étape : Revenir à l'écran d'accueil](./back-home.md)
+## [&rarr; Prochaine étape : Revenir à l'écran d'accueil](./back-home.md)
 
 ## Autres rubriques
-* [**Préparer son dossier de travail**](./prepare-content.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
@@ -30,3 +29,5 @@ La sauvegarde d'un projet ne conserve **QUE les documents présents à l'écran 
 * [**Retourner à l'écran d'accueil**](./back-home.md)
 * [**Ouvrir un projet**](./open-project.md)
 * [**Fermer l'application**](./close-app.md)
+
+* [**Préparer son dossier de travail**](./prepare-content.md)

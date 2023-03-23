@@ -30,10 +30,9 @@ Tout autre type de fichier ne pourra être visualisé.
 
 ![oged](./media/OGED.jpg)
 
-## [Prochaine étape : démarrer l'application](./start-app.md)
+## [&rarr; Prochaine étape : démarrer l'application](./start-app.md)
 
 ## Autres rubriques
-* [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
 * [**Annoter des documents**](./annotate.md)
@@ -46,3 +45,5 @@ Tout autre type de fichier ne pourra être visualisé.
 * [**Retourner à l'écran d'accueil**](./back-home.md)
 * [**Ouvrir un projet**](./open-project.md)
 * [**Fermer l'application**](./close-app.md)
+
+* [**Démarrer l'application**](./start-app.md)

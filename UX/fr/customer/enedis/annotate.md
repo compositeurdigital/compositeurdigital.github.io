@@ -21,10 +21,9 @@
 </video>
 
 
-## [Prochaine étape : Ajouter des notes et des feuilles blanches](./add-notes.md)
+## [&rarr; Prochaine étape : Ajouter des notes et des feuilles blanches](./add-notes.md)
 
 ## Autres rubriques
-* [**Préparer son dossier de travail**](./prepare-content.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
@@ -37,3 +36,5 @@
 * [**Retourner à l'écran d'accueil**](./back-home.md)
 * [**Ouvrir un projet**](./open-project.md)
 * [**Fermer l'application**](./close-app.md)
+
+* [**Préparer son dossier de travail**](./prepare-content.md)

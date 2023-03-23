@@ -17,11 +17,10 @@ Il est possible de partager un projet à quelqu'un qui pourra l'ouvrir dans l'ap
 4. Cliquer sur **Partager**
 5. Ce partage utilise le partage natif Windows, vous pouvez rajouter Outlook comme application de partage
 
-## [Prochaine étape : Fermer l'application](./close-app.md)
+## [&rarr; Prochaine étape : Fermer l'application](./close-app.md)
 
 
 ## Autres rubriques
-* [**Préparer son dossier de travail**](./prepare-content.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
@@ -34,3 +33,5 @@ Il est possible de partager un projet à quelqu'un qui pourra l'ouvrir dans l'ap
 * [**Enregistrer son projet**](./save-project.md)
 * [**Retourner à l'écran d'accueil**](./back-home.md)
 * [**Fermer l'application**](./close-app.md)
+
+* [**Préparer son dossier de travail**](./prepare-content.md)

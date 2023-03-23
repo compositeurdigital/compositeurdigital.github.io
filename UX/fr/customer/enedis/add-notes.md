@@ -9,10 +9,9 @@
 	<source src="./media/add-notes.mp4" type="video/mp4">
 </video>
 
-## [Prochaine étape : Importer des documents en live](./import-docs.md)
+## [&rarr; Prochaine étape : Importer des documents en live](./import-docs.md)
 
 ## Autres rubriques
-* [**Préparer son dossier de travail**](./prepare-content.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
@@ -25,3 +24,5 @@
 * [**Retourner à l'écran d'accueil**](./back-home.md)
 * [**Ouvrir un projet**](./open-project.md)
 * [**Fermer l'application**](./close-app.md)
+
+* [**Préparer son dossier de travail**](./prepare-content.md)

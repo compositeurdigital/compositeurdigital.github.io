@@ -40,10 +40,9 @@ Si vous avez Outlook d'installé sur votre poste, pouvez directement lancer une 
 4. Cliquez sur **Outlook**
 5. Vérifier dans votre barre des tâches, une fenêtre Outlook doit s'ouvrir derrière l'application.
 
-## [Prochaine étape : Enregistrer son projet](./save-project.md)
+## [&rarr; Prochaine étape : Enregistrer son projet](./save-project.md)
 
 ## Autres rubriques 
-* [**Préparer son dossier de travail**](./prepare-content.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
@@ -56,3 +55,5 @@ Si vous avez Outlook d'installé sur votre poste, pouvez directement lancer une 
 * [**Retourner à l'écran d'accueil**](./back-home.md)
 * [**Ouvrir un projet**](./open-project.md)
 * [**Fermer l'application**](./close-app.md)
+
+* [**Préparer son dossier de travail**](./prepare-content.md)

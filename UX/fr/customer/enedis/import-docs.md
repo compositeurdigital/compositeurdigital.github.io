@@ -62,10 +62,9 @@ Vous pouvez importer à tout moment un flux vidéo venant d'un périphérique re
 1. Ouvrir le menu principal
 2. Cliquer sur l'onglet **Importés** en bas du menu
 
-## [Prochaine étape : Animer une session d'activités en ligne](./companion.md)
+## [&rarr; Prochaine étape : Animer une session d'activités en ligne](./companion.md)
 
 ## Autres rubriques 
-* [**Préparer son dossier de travail**](./prepare-content.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
@@ -78,4 +77,6 @@ Vous pouvez importer à tout moment un flux vidéo venant d'un périphérique re
 * [**Retourner à l'écran d'accueil**](./back-home.md)
 * [**Ouvrir un projet**](./open-project.md)
 * [**Fermer l'application**](./close-app.md)
+
+* [**Préparer son dossier de travail**](./prepare-content.md)
 

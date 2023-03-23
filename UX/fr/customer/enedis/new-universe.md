@@ -7,10 +7,9 @@
 	<source src="./media/launch-empty.mp4" type="video/mp4">
 </video>
 
-## [Prochaine étape : Manipuler des documents](./manipulate-doc.md)
+## [&rarr; Prochaine étape : Manipuler des documents](./manipulate-doc.md)
 
 ## Autres rubriques
-* [**Préparer son dossier de travail**](./prepare-content.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
 * [**Annoter des documents**](./annotate.md)
@@ -23,3 +22,5 @@
 * [**Retourner à l'écran d'accueil**](./back-home.md)
 * [**Ouvrir un projet**](./open-project.md)
 * [**Fermer l'application**](./close-app.md)
+
+* [**Préparer son dossier de travail**](./prepare-content.md)

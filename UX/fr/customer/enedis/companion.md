@@ -55,10 +55,9 @@ Vous pouvez exporter toutes les notes reçues sous la forme d'un tableau Excel. 
 	<source src="./media/start-file-transfert.mp4" type="video/mp4">
 </video>
 
-## [Prochaine étape : Préparer une sélection](./prepare-selection.md)
+## [&rarr; Prochaine étape : Préparer une sélection](./prepare-selection.md)
 
 ## Autres rubriques 
-* [**Préparer son dossier de travail**](./prepare-content.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
@@ -70,3 +69,5 @@ Vous pouvez exporter toutes les notes reçues sous la forme d'un tableau Excel. 
 * [**Retourner à l'écran d'accueil**](./back-home.md)
 * [**Ouvrir un projet**](./open-project.md)
 * [**Fermer l'application**](./close-app.md)
+
+* [**Préparer son dossier de travail**](./prepare-content.md)

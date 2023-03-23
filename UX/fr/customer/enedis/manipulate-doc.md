@@ -8,10 +8,9 @@
 	<source src="./media/manipulate-docs.mp4" type="video/mp4">
 </video>
 
-## [Prochaine étape : Annoter des documents](./annotate.md)
+## [&rarr; Prochaine étape : Annoter des documents](./annotate.md)
 
 ## Autres rubriques 
-* [**Préparer son dossier de travail**](./prepare-content.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Annoter des documents**](./annotate.md)
@@ -24,3 +23,5 @@
 * [**Retourner à l'écran d'accueil**](./back-home.md)
 * [**Ouvrir un projet**](./open-project.md)
 * [**Fermer l'application**](./close-app.md)
+
+* [**Préparer son dossier de travail**](./prepare-content.md)
