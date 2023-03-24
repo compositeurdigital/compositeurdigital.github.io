@@ -1,6 +1,12 @@
 # Release notes
 
 
+
+### 3.7.3879 - March 24, 2023
+
+- [FIX] Document menu still visible with parameter `nochromebuttons=true`
+
+
 ### 3.7.3800 - March 13, 2023
 
 - [FIX] Application and camera capture inactive in import menu
