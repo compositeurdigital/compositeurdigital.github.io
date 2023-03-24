@@ -1,6 +1,17 @@
 # Notes de publication
 
 
+
+### 3.7.3879 - March 24, 2023
+
+- [FIX] Menu de document toujours visible avec le paramètre `nochromebuttons=true`
+
+### 3.7.3800 - 13 mars 2023
+
+- [FIX] Capture de fenêtre et photo inactifs dans le menu importer 
+- [FIX] Documents ajoutés manquants lors d'une actualisation de l'univers
+
+
 ### 3.7.3779 - 7 mars 2023
 
 #### Nouvelles fonctionnalités

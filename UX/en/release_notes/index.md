@@ -1,5 +1,12 @@
 # Release notes
 
+
+### 3.7.3800 - March 13, 2023
+
+- [FIX] Application and camera capture inactive in import menu
+- [FIX] Newly added documents missing when refreshing universe
+
+
 ### 3.7.3779 - March 7, 2023
 
 #### New features
