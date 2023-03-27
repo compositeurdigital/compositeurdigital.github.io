@@ -8,8 +8,8 @@ Si votre PC est équipé d'un stylet, il est immédiatement reconnu par l’appl
 
 ## Installation
 
-L'application est disponible dans votre centre logiciel [un guide d'installation est à votre disposition](./media/Install.pdf). Lors du premier lancement de l'application, vous devrez activer l'application. 
-[Les comptes disponibles sont listés ici](./media/Activation.pdf).
+L'application est disponible dans votre centre logiciel [un guide d'installation est à votre disposition](./media/Install.pdf). 
+
 
 ## Sommaire
 * [&rarr; **Démarrer l'application**](./start-app.md)
