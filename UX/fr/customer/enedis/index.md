@@ -6,6 +6,11 @@ Le Compositeur Digital est une application Microsoft optimisée pour les écrans
 
 Si votre PC est équipé d'un stylet, il est immédiatement reconnu par l’application. Vous pouvez écrire directement sur vos contenus sans passer par un menu. Pour gommer, retournez-le et gommez. 
 
+## Installation
+
+L'application est disponible dans votre centre logiciel [un guide d'installation est à votre disposition](./media/Install.pdf). Lors du premier lancement de l'application, vous devrez activer l'application. 
+[Les comptes disponibles sont listés ici](./media/Activation.pdf).
+
 ## Sommaire
 * [&rarr; **Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
