@@ -137,6 +137,7 @@ When set to `auto` the position will be `leftandright` when document rotation is
 | `video.loop`                      | `boolean` | false   | replay from start when the video ends |
 | `video.controls.alwaysvisible`    | `boolean` | false   | force the display of the video playback controls |
 | `video.controls.hide`             | `boolean` | false   | hides the video playback controls permanently |
+| `video.background.color`          | `color`   | #000000 (black) | color visible while the media is being loaded, format `#RRGGBB`, or `#AARRGGBB` for transparency (alpha) |
 
 
 ### Web

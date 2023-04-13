@@ -1,8 +1,14 @@
 # Notes de publication
 
+### 3.7.3987 - 13 avril 2023
 
+- [FIX] Erreur lors du partage de souvenir en langue française 
+- [FIX] Partage Outlook MS365 non interactive
+- [FIX] Orientation interne aux pages PDF perdue lors de l'export si le document est annoté
+- [FIX] Activité transfert de fichier refuse les fichiers
+- [FIX] Couleur de fond vidéo non appliquée
 
-### 3.7.3879 - March 24, 2023
+### 3.7.3879 - 24 mars 2023
 
 - [FIX] Menu de document toujours visible avec le paramètre `nochromebuttons=true`
 

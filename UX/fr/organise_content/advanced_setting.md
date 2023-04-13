@@ -141,6 +141,7 @@ WhLorsque la position est paramétré `auto`, la position sera `leftandright` si
 | `video.loop`                      | `booléen` | false      | reprend au début lorsque la vidéo se termine |
 | `video.controls.alwaysvisible`    | `booléen` | false      | force l'affichage des commandes de lecture vidéo |
 | `video.controls.hide`             | `booléen` | false      | cache les contrôles de lecture vidéo en permanence |
+| `video.background.color`          | `couleur` | -          | Couleur visible le temps que la vidéo se charge, format `#RRGGBB`, ou `#AARRGGBB` pour la transparence (alpha) |
 
 ### Web
 

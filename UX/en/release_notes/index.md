@@ -1,6 +1,14 @@
 # Release notes
 
 
+### 3.7.3987 - April 13, 2023
+
+- [FIX] Error when sharing web memory when current language is French
+- [FIX] Outlook MS365 compose window not responding
+- [FIX] PDF internal page orientation is lost on export if document has annotations
+- [FIX] File transfer activity rejects all file types
+- [FIX] Video background color not applied
+
 
 ### 3.7.3879 - March 24, 2023
 
