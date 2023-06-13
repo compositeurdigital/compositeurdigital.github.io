@@ -1,6 +1,15 @@
 # Release notes
 
 
+### 3.7.4149 - June 13, 2023
+
+- Universe and imported documents' annotations and notes are preserved when saving projects
+- [FIX] Crash on some devices with 175% dpi scaling
+- [FIX] Document and universe previews not aligned
+- [FIX] Documents are blurry during the appear animation
+- [FIX] Share with MS 365 Outlook email attachments
+
+
 ### 3.7.3987 - April 13, 2023
 
 - [FIX] Error when sharing web memory when current language is French

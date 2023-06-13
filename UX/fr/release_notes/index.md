@@ -1,5 +1,15 @@
 # Notes de publication
 
+
+### 3.7.4149 - 13 juin 2023
+
+- Les annotations et notes des documents de l'univers ou importés sont conservés à l'enregistrement d'un projet
+- [FIX] Crash sur certains affichages mis à l'échelle de 175% 
+- [FIX] Vignettes de documents et univers non centrés
+- [FIX] Les documents sont affichés flous pendant la durée de l'animation d'apparition
+- [FIX] Pièces jointes du partage MS 365 Outlook
+
+
 ### 3.7.3987 - 13 avril 2023
 
 - [FIX] Erreur lors du partage de souvenir en langue française 
