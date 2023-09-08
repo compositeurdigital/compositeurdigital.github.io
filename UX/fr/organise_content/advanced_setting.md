@@ -45,11 +45,11 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 | Paramètre                         | Type         | Par défaut   | Description |
 |:--------------------------------- |:-------------|:-------------|:------------|
 | `culture`                         | `texte`      | -            | indique la langue utilisée dans l'univers. Les valeurs prises en charge sont "fr" ou "en" |
-| `canStick`                        | `booléen`    | false        | que l'objet peut être collé comme une note |
+| `canStick`                        | `booléen`    | false        | indique que l'objet peut être collé comme une note |
 | `canWrite`                        | `booléen`    | false        | indique que du texte peut être tapé sur cet objet |
 | `desiredHeight`                   | `dimension`  | 400          | définit la hauteur par défaut du document |
 | `desiredWidth`                    | `dimension`  | 400          | définit la largeur par défaut du document |
-| `desiredPosition(.x|.y)`          | `position`   | auto         | contrôle l'endroint d'apparition du cocument. Définir une valeur relative pour `desiredPosition.x` et `desiredPosition.y` (ex `desiredPosition.x=50%`) une une valeur prédéfinie parmis `center`, `top`,`left`, `right`,`bottom`, `topleft`, `topright`, `bottomleft`, `bottomright` (ex `desiredPosition=center`) |
+| `desiredPosition(.x|.y)`          | `position`   | auto         | contrôle l'endroit d'apparition du document. Définir une valeur relative pour `desiredPosition.x` et `desiredPosition.y` (ex `desiredPosition.x=50%`) une une valeur prédéfinie parmis `center`, `top`,`left`, `right`,`bottom`, `topleft`, `topright`, `bottomleft`, `bottomright` (ex `desiredPosition=center`) |
 | `isPaper`                         | `booléen`    | false        | supprime le fond des boutons du document (boutons d'action et de fermeture)|
 | `hideBottomBarDots`               | `booléen`    | false        | cache le bouton de la barre inférieure lorsque celle-ci est réduite |
 | `hideBottomBar`                   | `booléen`    | false        | cache la barre inférieure lorsque celle-ci est réduite |
@@ -74,7 +74,7 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 | `hideLinkTypeIcon`                | `boolean`    | false        | cache l'icone de type de document dans les vues de dossier |
 | `table.alwaysBehind`              | `boolean`    | false        | force le document à rester en arrière plan |
 | `table.alwaysOnTop`               | `boolean`    | false        | force le document à rester au premier plan |
-| `toolbox.startOpened`             | `boolean`    | false        | les élement de la boite à outils seront visibles lors de l'affichage de la barre latérale |
+| `toolbox.startOpened`             | `boolean`    | false        | les éléments de la boite à outils seront visibles lors de l'affichage de la barre latérale |
 
 
 #### Annotations
@@ -100,9 +100,9 @@ Les actions disopnibles dans le menu de chaque documents sont configurable indiv
 
 | Paramètre                  | Type         | Default   | Description |
 |:-------------------------- |:-------------|:----------|:-|
-| `actions.disabled`         | `boolean`    | false     | cache les bouton d'accès au menu |
+| `actions.disabled`         | `boolean`    | false     | cache le bouton d'accès au menu |
 | `actions.<key>.disabled`   | `boolean`    | false     | cache l'action `<key>` |
-| `actions.<key>.location`   | `menu` or `shortcut`    | menu     | définit si l'action `<key>` doit apparître dasn le menu ou en accès rapide à côté du menu |
+| `actions.<key>.location`   | `menu` or `shortcut`    | menu     | définit si l'action `<key>` doit apparître dans le menu ou en accès rapide à côté du menu |
 
 Actions configurables :
 
