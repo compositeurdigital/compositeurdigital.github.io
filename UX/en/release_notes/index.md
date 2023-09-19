@@ -1,6 +1,12 @@
 # Release notes
 
 
+
+
+### 3.7.4373 - September 19, 2023
+
+- [FIX] Share with Outlook stuck on white page
+
 ### 3.7.4149 - June 13, 2023
 
 - Universe and imported documents' annotations and notes are preserved when saving projects

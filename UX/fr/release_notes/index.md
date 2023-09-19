@@ -1,5 +1,8 @@
 # Notes de publication
 
+### 3.7.4373 - 19 septembre 2023
+
+- [FIX] Partage avec Outlook bloqué sur une page blanche
 
 ### 3.7.4149 - 13 juin 2023
 
