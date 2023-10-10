@@ -3,6 +3,10 @@
 
 
 
+### 3.7.4525 - October 10, 2023
+
+- [FIX] Some PDF documents can become invalid after being shared
+
 ### 3.7.4373 - September 19, 2023
 
 - [FIX] Share with Outlook stuck on white page

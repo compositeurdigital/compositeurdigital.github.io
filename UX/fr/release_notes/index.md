@@ -1,5 +1,12 @@
 # Notes de publication
 
+
+
+### 3.7.4525 - 10 octobre 2023
+
+- [FIX] Certains documents PDF partagés sans annotations deviennent illisibles
+
+
 ### 3.7.4373 - 19 septembre 2023
 
 - [FIX] Partage avec Outlook bloqué sur une page blanche
