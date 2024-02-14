@@ -2,6 +2,45 @@
 
 
 
+### 4.0.5082 - 14 février 2023
+
+#### Nouvelles fonctionnalités
+
+- Nouvelle gestion des présentations PowerPoint, améliore le rendu de certains graphiques et polices de caractères
+- Nouvelle interface graphique du menu de documents et des actions
+- Recherche intégrée au menu de documents
+- Nouvelle interface graphique de l'éditeur
+- Nouveau mode d'interaction des vues web :
+  - Possibilité d'interagir par simples appuis et au clavier sans entrer en mode interaction tactile
+  - Possibilité de déplacer la vue web par une bordure en mode interaction tactile
+- Nouvelles activités en ligne et interface graphique unifiée :
+  - Plusieurs types de votes rapides (Oui/Non, Vrai/Faux, ❤️/💔, Note de 1 à 5)
+  - Vote pour un croquis
+  - Diffusion de documents à tous les participants
+- Souvenir en ligne : tableau de suivi des souvenirs partagés sur la page d'accueil en option
+
+
+#### Améliorations et correctifs
+
+- Support des liens interactifs dans les PDF/PowerPoint importés
+- Activités : nouvelle présentation du lien/QRCode avec action de partage
+- Activités : ouverture automatique du lien/QRCode au démarrage 
+- Partage avec MS365 Outlook : sélection d'un rendez-vous en cours ou proche comme sujet d'email
+- Souvenir en ligne : nouvelle présentation du lien de souvenir
+- Souvenir en ligne : enregistrement des destinataires lors d'un partage par mail
+- Notes et pages blanches : détection des liens web dans le texte saisi ou collé
+- Animation de déplacement lorsque `desiredposition` est défini
+- Coins arrondis en proportion des dimensions du document avec le paramètre `cornerRadius` 
+- [FIX] Vignettes non affichées au premier chargement d'un univers Teams/SharePoint
+- [FIX] Les sous-dossiers sélectionnés ne sont pas rétablis au chargement/rafraichissement d'un projet
+- [FIX] Souvenir en ligne : la composition de mail ne permet de saisir que 2 destinataires
+- [FIX] Catalogue : Impossible d'effacer complètement une limite haute/basse d'un filtre de prix
+- [FIX] Catalogue - filtre régions : sélection incorrecte lorsque des régions ne contiennent pas de résultats
+- [FIX] Editeur : impossible de supprimer un répertoire sur un lecteur réseau
+- [FIX] Editeur : impossible de faire défiler certains éléments des applis web intégrées
+
+
+
 ### 3.7.4525 - 10 octobre 2023
 
 - [FIX] Certains documents PDF partagés sans annotations deviennent illisibles

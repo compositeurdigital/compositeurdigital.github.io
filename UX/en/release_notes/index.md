@@ -1,7 +1,41 @@
 # Release notes
 
 
+### 4.0.5082 - February 14, 2023
 
+#### New features
+
+- New integration of PowerPoint presentations, with improved render for some graphs and fonts
+- New visual design for the documents menu and actions
+- Search function available from the documents menu
+- New visual design for the integrated universe designer
+- New interaction mode for web pages:
+    - Clicking, tapping and typing are available directly without switching mode 
+    - While in touch interaction mode, pages can be moved and resized from their border
+- New online activities, with a renewed visual design:
+    - Multiple vote formats (Yes/No, True/False, ❤️/💔, rate 1 to 5)
+    - Vote for a sketch
+    - Broadcast documents to all participants
+- Web memory: dashboard of shared souvenirs from the home page as an option
+
+
+#### General improvements and fixes
+
+- Support for hyperlinks in imported PDF/PowerPoint files
+- Activities: new link/QRCode style with copy and share actions
+- Activities: link/QRCode displayed when starting a session
+- MS365 Outlook: select a current or recent meeting as subject for the e-mail
+- Web memory: new style for the link to share
+- Web memory: assign the actual recipients from sent email when sent with Outlook
+- Notes and blank sheet: web link detection from typed or pasted text
+- Move animation when `desiredposition` is specified
+- Rounded corner in proportion with the document size with parameter `cornerRadius` 
+- [FIX] Thumbnails not displayed on first display of a Teams/SharePoint universe
+- [FIX] Currently displayed sub folders are not restored when loading a saved project
+- [FIX] Web memory: e-mail composition does not allow entering more than two recipients
+- [FIX] Catalog: lower and higher bounds cannot be reset from price filters
+- [FIX] Designer: folders on network share cannot be removed
+- [FIX] Designer: some integrated web app elements cannot be scrolled
 
 ### 3.7.4525 - October 10, 2023
 
@@ -391,7 +425,7 @@
 - Sidebar and main menu UI tweaks
 - [FIX] Webview action buttons may be invisible on white pages
 - [FIX] Forms with dynamic content may crash on some devices
-- [FIX] CRM search : entity data not imported
+- [FIX] CRM search: entity data not imported
 - [FIX] Performance issue when displaying many notes
 - [FIX] Template elements misalignment on some devices
 - [FIX] Importing documents in a SharePoint/Teams project fail in some cases
@@ -534,7 +568,7 @@
 - Integrated stickers and templates
 - Share with SendGrid
 - `.cdurl`: inline metadata and web pages displayed in a webview by default
-- Demo banking : simuinvest
+- Demo banking: simuinvest
 - [FIX] Catalog: formatting and slider steps for value ranges under 10
 - [FIX] Dynamics crmsearch view not updating
 - [FIX] Free license refresh button
@@ -650,7 +684,7 @@
 
 ### 2.0.8 - January 16, 2019
 - From an empty universe, on a shared device (e.g. a SurfaceHub), it is now possible to add a cloud location to save your project directly from the save window.
-- Improved search engine : zoom functions tuned in map view.
+- Improved search engine: zoom functions tuned in map view.
 - [FIX] Fixed error when launching a Map without a token.
 
 ### 2.0.7 - January 11, 2019
@@ -661,9 +695,9 @@
 - [FIX] Restore project state when close/restart app
 - [FIX] Fixed error when changing project location to OneDrive
 
-[comment]: # (-	Support : [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
+[comment]: # (-	Support: [Boogie Board Sync](https://myboogieboard.com/products/sync) tablet)
 ### 2.0.4 - January 8, 2019
-- Improved search engine : map view
+- Improved search engine: map view
 - [FIX] Fixed store locations not updated after a connection to an Office 365 account
 - [FIX] Fixed sorting of projects when changing store location
 
@@ -721,7 +755,7 @@
 
 ### 1.4.0 - June 21, 2018
 - Support: Samsung Flip stylus
-- Custom toolbox notes : ink to text conversion
+- Custom toolbox notes: ink to text conversion
 -	New experience when launching Compositeur Digital UX for the first time
 -	Speed-up launching time
 -	Aras PLM demo

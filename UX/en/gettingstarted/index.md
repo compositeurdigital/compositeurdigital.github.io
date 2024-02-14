@@ -3,9 +3,9 @@
 ## Prerequisites
 
 1. Multitouch enabled PC.
-1. Windows 10 Creators Update (10.0, Build 15063) or later.
+1. Windows 10/11 version 1903 (build 18362) or newer.
 
-> *How can I know which Windows 10 version I am using?*
+> *How can I know which Windows version I am using?*
 
 > 1. Hit the "Search Windows" button (looks like a magnifying glass).
 > 1. Enter `winver`.
