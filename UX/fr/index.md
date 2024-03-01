@@ -30,7 +30,7 @@ Gérez votre *Compositeur Digital UX*
 ### [FAQ](FAQ/index.md)
 Contient des questions fréquemment posées sur l'installation et l'utilisation de *Compositeur Digital UX* et fournit des solutions aux problèmes courants.
 
-### [Notes de version](../en/release_notes/index.md)
+### [Notes de version](../fr/release_notes/index.md)
 Description des nouvelles fonctionnalités et des corrections de bogues dans les versions de *Compositeur Digital UX*.  
 
 [Retour au Choix de documentation](../../selector/index.md)
