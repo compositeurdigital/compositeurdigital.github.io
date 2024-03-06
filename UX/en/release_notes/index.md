@@ -1,7 +1,21 @@
 # Release notes
 
 
-### 4.0.5082 - February 14, 2023
+### 4.0.5193 - March 5, 2024
+
+- Support for mutliple slide PowerPoint universe selectors
+- Video: Play/Pause action is always visible, unless explicitely disabled with `actions.playpause.disabled=1`
+- [FIX] Error when automatic universe reset occurs in Kiosk mode
+- [FIX] Invalid actiovation state for some multi-user installs, if shared application data is enabled
+- [FIX] PowerPoint universe selectors not updated if changed
+- [FIX] Univers designe pannel cannot be disabled
+- [FIX] Activities: sketch vote results visuals do not match the actual drawings 
+- [FIX] Designer: universe properties, including background selection, are not displayed
+- [FIX] Unwanted closing of documents on tap for some large touch screen devices
+- [FIX] Installation script closes its terminal on success
+
+
+### 4.0.5082 - February 14, 2024
 
 #### New features
 

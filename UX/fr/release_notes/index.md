@@ -1,8 +1,22 @@
 # Notes de publication
 
 
+### 4.0.5193 - 5 mars 2024
 
-### 4.0.5082 - 14 février 2023
+- Support des sélecteurs d'univers PowerPoint de plusieurs pages
+- Bouton Lecture/Pause de vidéo toujours visible, sauf si explicitement désactivé avec `actions.playpause.disabled=1`
+- [FIX] Erreur lors du rafraichissement automatique de l'univers par défaut en mode kiosque
+- [FIX] Etat d'activation incorrect pour les installations multi-utilisateur avec données applicatives partagées
+- [FIX] Sélecteur d'univers PowerPoint non mis à jour après modification du fichier
+- [FIX] Le panneau de conception d'univers ne peut pas êre désactivé
+- [FIX] Activités: la capture des résultats de votes pour un dessin ne correspond pas à l'affichage pendant le vote
+- [FIX] L'éditeur n'affiche pas l'interface de configuration de fond d'écran au chargement d'un univers
+- [FIX] Appel systématique au service d'activation par les installations enregistrées sans abonnement
+- [FIX] Fermeture intempestive des éléments après un appui court
+- [FIX] Le script d'installation ferme l'invite de commande après installation
+
+
+### 4.0.5082 - 14 février 2024
 
 #### Nouvelles fonctionnalités
 
