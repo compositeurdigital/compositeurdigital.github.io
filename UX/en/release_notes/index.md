@@ -1,6 +1,10 @@
 # Release notes
 
 
+### 4.0.5207 - March 14, 2024
+
+- [FIX] Missing catalog search results after case change
+
 ### 4.0.5193 - March 5, 2024
 
 - Support for mutliple slide PowerPoint universe selectors

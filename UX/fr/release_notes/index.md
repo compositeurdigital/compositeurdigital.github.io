@@ -1,6 +1,10 @@
 # Notes de publication
 
 
+### 4.0.5207 - 14 mars2024
+
+- [FIX] Résultats de recherche manquants après changement de casse
+
 ### 4.0.5193 - 5 mars 2024
 
 - Support des sélecteurs d'univers PowerPoint de plusieurs pages
