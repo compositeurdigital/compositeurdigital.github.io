@@ -1,5 +1,9 @@
 # Notes de publication
 
+### 4.0.5263 - 2 avril 2024
+
+- [FIX] Impossible d'importer certains liens web à partir du presse-papier
+- [FIX] Erreur d'accès lors de l'édition de documents MS365 en ligne
 
 ### 4.0.5207 - 14 mars2024
 

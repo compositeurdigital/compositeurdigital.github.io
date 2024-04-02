@@ -1,5 +1,9 @@
 # Release notes
 
+### 4.0.5263 - April 2, 2024
+
+[FIX] Cannot import some web links for clipboard
+[FIX] Access error when editing MS365 documents online
 
 ### 4.0.5207 - March 14, 2024
 
