@@ -1,5 +1,9 @@
 # Notes de publication
 
+### 4.0.5297 - 15 avril 2024
+
+[FIX] Le texte saisi dans des modèles PowerPoint est manquant si le document n'est pas affiché au moment du partage 
+
 ### 4.0.5263 - 2 avril 2024
 
 - [FIX] Impossible d'importer certains liens web à partir du presse-papier

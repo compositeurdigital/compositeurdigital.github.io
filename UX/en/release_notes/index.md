@@ -1,5 +1,9 @@
 # Release notes
 
+### 4.0.5297 - April 15, 2024
+
+[FIX] Text entered in PowerPoint templates missing in exported PDF if document was closed when sharing
+
 ### 4.0.5263 - April 2, 2024
 
 [FIX] Cannot import some web links for clipboard
