@@ -21,7 +21,6 @@ Gérez votre *Compositeur Digital UX*
 * [**Mode kiosque**](administrative_guide/index.md#mode-kiosque) : configurez votre application pour qu'elle soit utilisée dans la configuration du kiosque.
 
 ### Tutos 
-* [**Créer un univers**](tutorials/createuniverse/index.md)
 * [**Utiliser le Compositeur Digital UX dans une réunion Teams**](tutorials/remotemeeting/index.md)
 * [**Tester un contenu en ligne**](tutorials/checkcdurl/index.md)
 
