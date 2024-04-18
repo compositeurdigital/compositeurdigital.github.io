@@ -1,7 +1,7 @@
 # Compositeur Digital UX
 
 ### Pour commencer
-* [***Découverte (tutoriel)**](onboarding/index.md)
+* [**Découverte (tutoriel)**](onboarding/index.md)
 
 ### [Découvrir](user_guide/index.md)
 Découvrez comment interagir avec *Compositeur Digital UX*.  
