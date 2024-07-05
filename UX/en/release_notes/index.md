@@ -1,5 +1,39 @@
 # Release notes
 
+### 4.1.5501 - July 5, 2024
+
+#### New features
+
+- New share experience unifying web memory and file sharing
+- Outlook client share target automatically enable if found install from Office 15 or 16
+- New web page import experience
+- Designer: New interface for web link creation
+- New network share connector, synchronizes documents like Teams/SharePoint
+
+#### General improvements and fixes
+
+- Use web page icons as preview
+- Share with Outlook MS365 only available if the user is currently connected
+- Option to display a button to hide the bottom bar: `bottombar.showQuickHideAction=true`
+- Zoom with mouse wheel is reduced
+- Designer: support for additionnal templates from a network share
+- Designer: disable actions to add, delete, move, rename documents with meta parameters `editor.disableAdd`,  `editor.disableMove`, `editor.disableRename`, `editor.disableDelete`
+- Designer: template elements can be made invisible
+- [FIX] Undesired click triggered after html view is moved
+- [FIX] Unreadable mp3 file icon
+- [FIX] Project export fails
+- [FIX] Crash using keyboard shortcutes in certain conditions
+- [FIX] Univers designer is not the exact aspect ratio selected
+- [FIX] Dynamic HTML designer crash
+- [FIX] Miracast display does not start
+- [FIX] Changed Miracast receiver name to 'CDUX  machine' for a better identification
+- [FIX] Nearby sharing not completing
+- [FIX] Incomplete template creation in designer after renaming or moving an element
+- [FIX] Designer zoom
+- [FIX] Designer for dynamic HTML does not always follow selection
+- [FIX] Panorama/3D objects: crashes can occur when the manipulation action no longer reflect the actual state
+- [FIX] Crash on closing or bringing elements to the front
+
 
 ### 4.0.5387 - May 27, 2024
 
