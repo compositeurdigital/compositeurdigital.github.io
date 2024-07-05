@@ -53,6 +53,7 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 | `isPaper`                         | `booléen`    | false        | supprime le fond des boutons du document (boutons d'action et de fermeture)|
 | `hideBottomBarDots`               | `booléen`    | false        | cache le bouton de la barre inférieure lorsque celle-ci est réduite |
 | `hideBottomBar`                   | `booléen`    | false        | cache la barre inférieure lorsque celle-ci est réduite |
+| `bottombar.showQuickHideAction`   | `booléen`    | false        | affiche un bouton permettant de cacher la barre inférieure |
 | `maxHeight`                       | `dimension`  | -            | définit la hauteur maximale |
 | `maxWidth`                        | `dimension`  | -            | définit la largeur maximale |
 | `minHeight`                       | `dimension`  | -            | définit la hauteur mimimale |
@@ -114,6 +115,7 @@ Actions configurables :
 |`share`        | Partager le docuement |
 |`saveas`       | Enregistrer le document sur l'ordinateur |
 |`open`         | Ouvrir le docuement en dehors de l'application |
+|`playpause`    | Ouvrir le docuement en dehors de l'application |
 
 
 ## Métadonnées spécifiques au contenu

@@ -1,5 +1,40 @@
 # Notes de publication
 
+### 4.1.5501 - 5 juillet 2024
+
+#### Nouvelles fonctionnalités
+
+- Nouvelle expérience de partage, le souvenir en ligne est unifié avec le partage de fichier et peut être partagé par Outlook ou Thunderbird
+- Nouvel outil de capture : capturer une sélection ou toute la vue du document
+- Activation automatique du partage Outlook si l'application est installée et configurée (Office 15 ou 16)
+- Nouvelle expérience d'import de pages web
+- Editeur : nouvelle interface d'ajout de lien web 
+- Nouveau connecteur de partage réseau, garde les documents synchronisés comme pour Teams/SharePoint
+
+#### Améliorations et correctifs
+
+- Utilisation des icônes de pages web en vignette
+- Le partage Outlook MS365 n'est proposé que si l'utilisateur est connecté dans le Compositeur Digital
+- Raccourci pour cacher la barre de documents en option : `bottombar.showQuickHideAction=true`
+- Facteur de zoom réduit à la molette de souris
+- Editeur : possibilité de définir des modèles supplémentaires à partir d'un emplacement réseau
+- Editeur : paramétrage des actions d'ajout, suppression, déplacement, renommage par les metas `editor.disableAdd`,  `editor.disableMove`, `editor.disableRename`, `editor.disableDelete`
+- Editeur : possibilité de rendre des éléments de modèles invisibles
+- [FIX] Clic intempestif après avoir déplacé une vue HTML
+- [FIX] Icône de fichiers mp3 invisible
+- [FIX] Export de projet en erreur
+- [FIX] Crash lors de l'utilisation des raccourcis claviers dans certaines conditions
+- [FIX] Taille d'écran de la visualisation d'univers incorrecte 
+- [FIX] Crash de la Webview2 du designer d'application dynamiques
+- [FIX] La diffusion Miracast ne démarre pas
+- [FIX] Nom d'affichage Miracast de forme 'CDUX  machine' pour une meilleure identification
+- [FIX] Le partage à proximité Windows n'aboutit pas
+- [FIX] La création d'élément à partir d'un modèle est incomplète après un renommage ou déplacement
+- [FIX] Zoom dans l'éditeur
+- [FIX] Designer HTMLApp ne suit pas toujours la sélection
+- [FIX] Panorama et objets 3D : des crashs peuvent survenir lorsque l'action de manipulation ne suit plus l'état réel
+- [FIX] Crash lors de fermeture/mise au premier plan de documents
+
 
 ### 4.0.5387 - 27 mai 2024
 

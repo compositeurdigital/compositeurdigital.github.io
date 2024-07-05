@@ -52,6 +52,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the p
 | `isPaper`                         | `boolean`    | false     | removes the background of the document's buttons (action and close buttons)|
 | `hideBottomBarDots`               | `boolean`    | false     | hides the bottom bar button when collapsed |
 | `hideBottomBar`                   | `boolean`    | false     | hides the bottom bar completely when collapsed |
+| `bottombar.showQuickHideAction`   | `boolean`    | false     | displays a button to hide the bottom bar |
 | `maxHeight`                       | `dimension`  | -         | sets the maximum height |
 | `maxWidth`                        | `dimension`  | -         | sets the maximum width |
 | `minHeight`                       | `dimension`  | -         | sets the minimum height |
