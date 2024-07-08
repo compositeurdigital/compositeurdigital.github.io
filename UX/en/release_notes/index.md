@@ -1,5 +1,9 @@
 # Release notes
 
+### 4.1.5507 - July 8, 2024
+
+- [FIX] App fails to launch for new installs from 'online install' link
+
 ### 4.1.5501 - July 5, 2024
 
 #### New features

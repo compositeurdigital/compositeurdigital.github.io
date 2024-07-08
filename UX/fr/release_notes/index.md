@@ -1,5 +1,10 @@
 # Notes de publication
 
+
+### 4.1.5507 - 8 juillet 2024
+
+- [FIX] L'application ne se lance pas pour les nouvelles installations à partir du lien "en ligne" 
+
 ### 4.1.5501 - 5 juillet 2024
 
 #### Nouvelles fonctionnalités
