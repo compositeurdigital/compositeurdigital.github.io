@@ -1,5 +1,8 @@
 # Notes de publication
 
+### 4.1.5526 - 11 juillet 2024
+
+- [FIX] Pièces jointes manquantes lors du partage avec Outlook
 
 ### 4.1.5507 - 8 juillet 2024
 

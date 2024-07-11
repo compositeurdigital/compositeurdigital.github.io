@@ -1,5 +1,9 @@
 # Release notes
 
+### 4.1.5526 - July 11, 2024
+
+- [FIX] Attached files missing when sharing with Outlook
+
 ### 4.1.5507 - July 8, 2024
 
 - [FIX] App fails to launch for new installs from 'online install' link
