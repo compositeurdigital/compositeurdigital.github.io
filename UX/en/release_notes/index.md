@@ -1,5 +1,12 @@
 # Release notes
 
+### 4.1.5639 - September 5, 2024
+
+- [FIX] Webview: inaccessible scrollbars
+- [FIX] Webview: cannont select text in text inputs
+- [FIX] Calculator buttons are misaligned
+- [FIX] Designer: treeview contextual menu does not match selection on Windows 10
+
 ### 4.1.5526 - July 11, 2024
 
 - [FIX] Attached files missing when sharing with Outlook

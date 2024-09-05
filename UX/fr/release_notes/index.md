@@ -1,5 +1,12 @@
 # Notes de publication
 
+### 4.1.5639 - 5 septembre 2024
+
+- [FIX] Webview : barres de défilement inaccessible
+- [FIX] Webview : texte non sélectionnable dans les zones de saisie
+- [FIX] Calculatrice : les boutons ne sont pas alignés entre eux
+- [FIX] Éditeur : le menu contextuel de l'arbre des contenus ne correspond pas à la sélection sous Windows 10
+
 ### 4.1.5526 - 11 juillet 2024
 
 - [FIX] Pièces jointes manquantes lors du partage avec Outlook
