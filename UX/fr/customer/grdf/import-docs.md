@@ -79,4 +79,5 @@ Vous pouvez importer à tout moment un flux vidéo venant d'un périphérique re
 * [**Fermer l'application**](./close-app.md)
 
 * [**Préparer son dossier de travail**](./prepare-content.md)
+* [**Appliquer un fond d'écran personnalisé**](./change-background.md)
 

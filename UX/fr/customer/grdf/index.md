@@ -4,7 +4,7 @@
 
 Le Compositeur Digital est une application Microsoft optimisée pour les écrans tactiles. Utilisez bien le doigt et non la souris pour contrôler les boutons de l’application. 
 
-Si votre PC est équipé d'un stylet, il est immédiatement reconnu par l’application. Vous pouvez écrire directement sur vos contenus sans passer par un menu. Pour gommer, retournez-le et gommez. 
+Si votre PC est équipé d'un stylet, il est immédiatement reconnu par l’application, vous pouvez alors écrire directement sur vos contenus sans passer par un menu.
 
 ## Installation
 
@@ -29,3 +29,4 @@ Pour obtenir vos identifiants de connexion, rapprochez-vous de [Patrick Lecat](m
 * [**Fermer l'application**](./close-app.md)
 
 * [**Préparer son dossier de travail**](./prepare-content.md)
+* [**Appliquer un fond d'écran personnalisé**](./change-background.md)

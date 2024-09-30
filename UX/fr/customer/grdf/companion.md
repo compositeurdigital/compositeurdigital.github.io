@@ -71,3 +71,4 @@ Vous pouvez exporter toutes les notes reçues sous la forme d'un tableau Excel. 
 * [**Fermer l'application**](./close-app.md)
 
 * [**Préparer son dossier de travail**](./prepare-content.md)
+* [**Appliquer un fond d'écran personnalisé**](./change-background.md)
