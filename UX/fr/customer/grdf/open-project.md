@@ -1,6 +1,6 @@
 # Ouvrir un projet
 
-1. Cliquer sur l'onglet **Ouvrir**
+1. Cliquer sur l'onglet **Reprendre**
 2. Cliquer sur le projet à ouvrir
 
 <video controls muted loop autoplay width="864" height="480">
@@ -11,7 +11,7 @@
 
 Il est possible de partager un projet à quelqu'un qui pourra l'ouvrir dans l'application. Le projet doit être créé à partir de l'environnement de travail **espace vierge**.
 
-1. Cliquer sur l'onglet **Ouvrir**
+1. Cliquer sur l'onglet **Reprendre**
 2. Sélectionner le projet à partager
 3. Cliquer sur le bouton *...*
 4. Cliquer sur **Partager**
