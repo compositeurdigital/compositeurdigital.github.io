@@ -46,10 +46,10 @@ Par défaut, les activités utilisent l'identité des participants. Il est possi
 4. Une activité **Idées** est désormais manipulable dans l'espace de travail.
 5. Cliquer sur le bouton *...* 
 6. Cliquer sur le bouton *Anonymat désactivé*. Il apparaît désormais comme sélectionné, et le label affiche à présent *Anonymat activé*. Il vous suffit de recliquer sur ce bouton pour sortir du mode anonymat. Attention, une fois l'activité démarrée dans ce mode, il n'est plus possible de le changer. Si vous faîtes ce changement, les activités que vous créérez par la suite seront toutes initiées en mode anonyme.  
-5. Cliquer sur le bouton **play** de cet élément.
-6. Les utilisateurs connectés à la session peuvent désormais partager leurs idées. 
-7. Pour arrêter l'activité, cliquez sur le bouton **stop** sur le bord.
-8. Un seul élément apparaît, avec les idées de tout le monde, sans possibilité d'afficher l'auteur.
+7. Cliquer sur le bouton **play** de cet élément.
+8. Les utilisateurs connectés à la session peuvent désormais partager leurs idées. 
+9. Pour arrêter l'activité, cliquez sur le bouton **stop** sur le bord.
+10. Un seul élément apparaît, avec les idées de tout le monde, sans possibilité d'afficher l'auteur.
 
 <video controls muted loop width="864" height="480">
 	<source src="./media/start-note-activity-private-mode.mp4" type="video/mp4">
@@ -65,9 +65,9 @@ Par défaut, les activités se lancent sans limite de temps. Vous êtes libre de
 4. Une activité *Idées** est désormais manipulable dans l'espace de travail.
 5. Cliquer sur le bouton *chrono* 
 6. Sélectionner une durée
-5. Cliquer sur le bouton **play** de cet élément.
-6. Les utilisateurs connectés à la session peuvent désormais partager leurs idées. 
-7. A la fin du temps imparti, une minuterie retentie, et vous pouvez arrêter l'activité en cliquant sur **stop** ou la laisser continuer.
+7. Cliquer sur le bouton **play** de cet élément.
+8. Les utilisateurs connectés à la session peuvent désormais partager leurs idées. 
+9. A la fin du temps imparti, une minuterie retentie, et vous pouvez arrêter l'activité en cliquant sur **stop** ou la laisser continuer.
 
 <video controls muted loop width="864" height="480">
 	<source src="./media/start-note-activity-time.mp4" type="video/mp4">
@@ -114,10 +114,10 @@ Exprimez une idée à évaluer, présentez un document, puis démarrez l'activit
 2. Cliquer sur le bouton *people*
 3. Cliquer sur **Votes**, puis **Note**
 4. Une activité **Note** est désormais manipulable dans l'espace de travail 
-6. Cliquez sur le bouton **play** de cet élément
-7. Les utilisateurs connectés à la session peuvent désormais donner leur note.
-8. Pour arrêter l'activité, cliquez sur le bouton **stop** sur le bord.
-9. La note moyenne s'affiche. Il est possible de détacher cette note. Pour cela cliquez sur le bouton *appareil photo*. Un sticker apparaît, vous pouvez le coller sur le contenu évalué.
+5. Cliquez sur le bouton **play** de cet élément
+6. Les utilisateurs connectés à la session peuvent désormais donner leur note.
+7. Pour arrêter l'activité, cliquez sur le bouton **stop** sur le bord.
+8. La note moyenne s'affiche. Il est possible de détacher cette note. Pour cela cliquez sur le bouton *appareil photo*. Un sticker apparaît, vous pouvez le coller sur le contenu évalué.
 
 <video controls muted loop width="864" height="480">
 	<source src="./media/start-vote-note-activity.mp4" type="video/mp4">
@@ -132,10 +132,10 @@ Exprimez une question fermée, un choix, un document, puis démarrez l'activité
 2. Cliquer sur le bouton *people*
 3. Cliquer sur **Questions**, puis sélectionner le type de question.
 4. Une activité **Question** est désormais manipulable dans l'espace de travail 
-6. Cliquez sur le bouton **play** de cet élément
-7. Les utilisateurs connectés à la session peuvent désormais donner leur réponse.
-8. Pour arrêter l'activité, cliquez sur le bouton **stop** sur le bord.
-9. Les détails des réponses s'affichent, avec le choix dominant. Il est possible de détacher le score. Pour cela cliquez sur le bouton *appareil photo*. Un sticker apparaît, vous pouvez le coller sur le contenu évalué.
+5. Cliquez sur le bouton **play** de cet élément
+6. Les utilisateurs connectés à la session peuvent désormais donner leur réponse.
+7. Pour arrêter l'activité, cliquez sur le bouton **stop** sur le bord.
+8. Les détails des réponses s'affichent, avec le choix dominant. Il est possible de détacher le score. Pour cela cliquez sur le bouton *appareil photo*. Un sticker apparaît, vous pouvez le coller sur le contenu évalué.
 
 <video controls muted loop width="864" height="480">
 	<source src="./media/start-question-activity.mp4" type="video/mp4">
@@ -162,10 +162,10 @@ Exprimez une question fermée, un choix, un document, puis démarrez l'activité
 2. Cliquez sur le bouton *people*
 3. Cliquer sur **Transferts**, puis **Envoi**
 4. Une activité est désormais manipulable dans l'espace de travail.
-1. Choisissez les documents à envoyer. Ceux-ci doivent être affichés sur l'espace de travail ou présents dans votre sélection. 
-5. Cliquez sur le bouton **play** de cet élément.
-6. Les utilisateurs connectés à la session peuvent désormais télécharger les fichiers. Attention, dès que vous arrêtez l'activité, les fichiers ne sont plus récupérables
-7. Pour arrêter l'activité, cliquez sur le bouton **stop** en bas à droite
+5. Choisissez les documents à envoyer. Ceux-ci doivent être affichés sur l'espace de travail ou présents dans votre sélection. 
+6. Cliquez sur le bouton **play** de cet élément.
+7. Les utilisateurs connectés à la session peuvent désormais télécharger les fichiers. Attention, dès que vous arrêtez l'activité, les fichiers ne sont plus récupérables
+8. Pour arrêter l'activité, cliquez sur le bouton **stop** en bas à droite
 
 <video controls muted loop width="864" height="480">
 	<source src="./media/start-file-share.mp4" type="video/mp4">
@@ -176,10 +176,10 @@ Exprimez une question fermée, un choix, un document, puis démarrez l'activité
 Il est possible de donner la main sur un contenu à un participant. Celui-ci pourra alors annoter le contenu ou bien naviguer dans le document et changer la page visible dans le Compositeur Digital.
 
 1. Choisissez le document sur lequel le contrôle doit être donnée. 
-5. Cliquez sur le bouton **people** de cet élément (il apparaît en bas à droite, au dessus du bouton **...**)
-1. Choisissez le participant.
-1. Une bordure de couleur apparaît alors autour du contenu, indiquant qu'il est manipulé par le participant.
-1. Pour arrêter la prise en main, cliquez sur les initiales du participant en bas à droite, ou démarrer une autre activité.
+2. Cliquez sur le bouton **people** de cet élément (il apparaît en bas à droite, au dessus du bouton **...**)
+3. Choisissez le participant.
+4. Une bordure de couleur apparaît alors autour du contenu, indiquant qu'il est manipulé par le participant.
+5. Pour arrêter la prise en main, cliquez sur les initiales du participant en bas à droite, ou démarrer une autre activité.
 
 <video controls muted loop width="864" height="480">
 	<source src="./media/start-presenter.mp4" type="video/mp4">
