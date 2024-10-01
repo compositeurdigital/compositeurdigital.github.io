@@ -13,20 +13,22 @@ Il est possible de consituer une sélection de documents au fil de votre session
 
 ## Visualiser sa sélection
 
-1. Ouvrir le menu principal
-2. Cliquer sur l'onglet **Sélection** en bas du menu
-3. Vous pouvez réordonner votre sélection en manipulant (drag-and-drop) les aperçus.
+1. Cliquez sur l'icône de la sélection, présente sur le menu des contenus en bas à droite.
 
 ## Retirer un élement de sa sélection
 
 1. Ouvrir le menu contextuel : bouton *...* situé en bas à droite de votre document
 2. Cliquer sur **Retirer  de la sélection**
 
+<video controls muted loop width="864" height="480">
+	<source src="./media/remove-selection-1.mp4" type="video/mp4">
+</video>
+
 Ou directement depuis l'onglet **Sélection**
 1. Cliquer sur le bouton *X* en haut à droite de l'aperçu.
 
 <video controls muted loop width="864" height="480">
-	<source src="./media/remove-selection.mp4" type="video/mp4">
+	<source src="./media/remove-selection-2.mp4" type="video/mp4">
 </video>
 
 ## [&rarr; Prochaine étape : Partager sa sélection](./share-selection.md)

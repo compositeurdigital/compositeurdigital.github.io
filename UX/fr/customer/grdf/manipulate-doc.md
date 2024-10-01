@@ -2,7 +2,7 @@
 
 1. Toucher un document dans la barre de contenu pour l'ouvrir à l'écran.
 2. Une fois le document apparu dans l'espace de manipulation, vous pouvez le déplacer, l'agrandir.
-3. Vous pouvez naviguer dans le document à l'aide des flèches "<" et ">" présentes en bas du document.
+3. Vous pouvez naviguer dans le document à l'aide des flèches "<" et ">" présentes sur le bord du document.
 
 <video controls muted loop autoplay width="864" height="480">
 	<source src="./media/manipulate-docs.mp4" type="video/mp4">

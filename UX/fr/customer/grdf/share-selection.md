@@ -9,7 +9,7 @@ Il est possible de concaténer les documents en un seul PDF (pour les présentat
 
 Le partage peut s'effectuer de plusieurs manières : 
 - Par mail avec Outlook (si installé sur votre poste)
-- En créant un *souvenir en ligne*, dont le lien sera remis aux participants par mail. Le *souvenir en ligne* est un espace virtuel qui permet à vos collaborateurs de retrouver les documents que vous aurez montré pendant votre session, avec un style visuel rappelant l'expérience vécu dans le Compositeur Digital UX. La durée de vie du souvenir est limitée dans le temps (30 jours ou plus, selon les besoins).
+- En créant un *Souvenir en ligne*, dont le lien sera remis aux participants par mail, ou sous la forme d'un QR Code. Le *Souvenir en ligne* est un espace virtuel qui permet à vos collaborateurs de retrouver les documents que vous aurez montré pendant votre session, avec un style visuel rappelant l'expérience vécu dans le Compositeur Digital UX. La durée de vie du souvenir est limitée dans le temps (30 jours ou plus, selon les besoins).
 - En exportant les contenus localement sur votre PC.
 
 Pour commencer un partage:
@@ -39,6 +39,10 @@ Pour commencer un partage:
 Si vous avez Outlook d'installé sur votre poste, pouvez directement lancer une fenêtre d'édition de mail depuis le Compositeur Digital.
 4. Cliquez sur **Outlook**
 5. Vérifier dans votre barre des tâches, une fenêtre Outlook doit s'ouvrir derrière l'application.
+
+<video controls muted loop autoplay width="864" height="480">
+	<source src="./media/share-selection-outlook.mp4" type="video/mp4">
+</video>
 
 ## [&rarr; Prochaine étape : Enregistrer son projet](./save-project.md)
 

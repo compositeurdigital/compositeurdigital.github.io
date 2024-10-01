@@ -24,9 +24,6 @@ Si vous avez copié un fichier, une image ou une URL dans votre presse-papier, v
 2. Cliquer sur **Importer des documents**
 3. Cliquer sur **Coller**
 
-<video controls muted loop width="864" height="480">
-	<source src="./media/paste-image.mp4" type="video/mp4">
-</video>
 
 ## Une capture d'une application
 
@@ -43,19 +40,28 @@ Si vous souhaitez manipuler un contenu qui n'est pas nativement pris en charge p
 	<source src="./media/app-capture.mp4" type="video/mp4">
 </video>
 
+## Une page web
+
+Vous pouvez à tout moment importer des pages web dans votre univers
+1. Cliquer sur **Importer des documents**
+2. Cliquer sur **Page web**
+3. Entrez l'url de votre site ou saisissez des mots clés
+4. Interagissez avec votre page web.
+
+<video controls muted loop width="864" height="480">
+	<source src="./media/import-web-page.mp4" type="video/mp4">
+</video>
+
+
 ## Un flux vidéo
 
 Vous pouvez importer à tout moment un flux vidéo venant d'un périphérique relié physiquement au PC (webcam, liseuse, ect) ou un flux vidéo distant (NDI)
-1. Lancer l'application que vous souhaité importer
+1. Connectez le périphérique d'acquisition à votre PC
 2. Revenez dans le Compositeur Digital UX
 3. Cliquer sur **Importer des documents**
 4. Cliquer sur **FluxVidéo**
 6. Sélectionner le flux vidéo à importer
 7. Cliquer sur **Ok**
-
-<video controls muted loop width="864" height="480">
-	<source src="./media/import-video-stream.mp4" type="video/mp4">
-</video>
 
 ## Visualiser les documents importés
 

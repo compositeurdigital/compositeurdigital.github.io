@@ -6,7 +6,7 @@
 
 
 <video controls muted loop autoplay width="864" height="480">
-	<source src="./media/create-cdux-folder.mp4" type="video/mp4">
+	<source src="./media/create-cdux-folder1.mp4" type="video/mp4">
 </video>
 
 ## Utiliser l'éditeur intégré à l'application
@@ -22,7 +22,7 @@
 9. Vous pouvez présenter vos contenus
 
 <video controls muted loop autoplay width="864" height="480">
-	<source src="./media/create-universe-designer.mp4" type="video/mp4">
+	<source src="./media/create-universe-designer1.mp4" type="video/mp4">
 </video>
 
 ## Utiliser l'explorateur de fichier
@@ -33,7 +33,7 @@
 4. Déposer des documents dans ce dossier. Il est possible de créer des dossiers et des sous-dossiers pour préparer une arborescence de contenus.
 
 <video controls muted loop autoplay width="864" height="480">
-	<source src="./media/create-universe-windows-explorer.mp4" type="video/mp4">
+	<source src="./media/create-universe-windows-explorer1.mp4" type="video/mp4">
 </video>
 
 **Rappel**

@@ -1,6 +1,6 @@
 # Personnaliser le fond d'écran de l'application
 
-1. Des propositions de fonds d'écrans sont [disponibles ici](./media/backgrounds.zip). Vous pouvez les récupérer et les utiliser librement, ou prendre des images de votre choix. Privilégié des images avec une bonne résolution, qui s'adapteront bien aux formats d'écrans des dispositifs sur lesquels l'application pourra être utilisée. 
+1. Des propositions de fonds d'écrans sont [disponibles ici](./media/backgrounds.zip). Vous pouvez les récupérer et les utiliser librement, ou prendre des images de votre choix. Privilégier des images avec une bonne résolution, qui s'adapteront bien aux formats d'écrans des dispositifs sur lesquels l'application pourra être utilisée. 
 2. Ouvrir l'explorateur de fichiers
 3. Accéder au dossier *C:\Users\\\<users>\Documents\\*
 4. Prenez une image à appliquer comme fond, et collez là dans le dossier *Compositeur Digital UX*
@@ -9,7 +9,7 @@
 
 
 <video controls muted loop autoplay width="864" height="480">
-	<source src="./media/change-background.mp4" type="video/mp4">
+	<source src="./media/add-global-background.mp4" type="video/mp4">
 </video>
 
 **Note**
