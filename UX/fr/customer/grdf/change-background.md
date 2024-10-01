@@ -1,11 +1,11 @@
-# Personnaliser le fond d'écran de l'application
+# Personnaliser le fond d'Ã©cran de l'application
 
-1. Des propositions de fonds d'écrans sont [disponibles ici](./media/backgrounds.zip). Vous pouvez les récupérer et les utiliser librement, ou prendre des images de votre choix. Privilégié des images avec une bonne résolution, qui s'adapteront bien aux formats d'écrans des dispositifs sur lesquels l'application pourra être utilisée. 
+1. Des propositions de fonds d'Ã©crans sont [disponibles ici](./media/backgrounds.zip). Vous pouvez les rÃ©cupÃ©rer et les utiliser librement, ou prendre des images de votre choix. PrivilÃ©giÃ© des images avec une bonne rÃ©solution, qui s'adapteront bien aux formats d'Ã©crans des dispositifs sur lesquels l'application pourra Ãªtre utilisÃ©e. 
 2. Ouvrir l'explorateur de fichiers
-3. Accéder au dossier *C:\Users\\\<users>\Documents\\*
-4. Prenez une image à appliquer comme fond, et collez là dans le dossier *Compositeur Digital UX*
+3. AccÃ©der au dossier *C:\Users\\\<users>\Documents\\*
+4. Prenez une image Ã  appliquer comme fond, et collez lÃ  dans le dossier *Compositeur Digital UX*
 5. Renommez cette image *_background*
-6. Lancez l'application et vérifiez que l'image s'applique bien
+6. Lancez l'application et vÃ©rifiez que l'image s'applique bien
 
 
 <video controls muted loop autoplay width="864" height="480">
@@ -14,23 +14,23 @@
 
 **Note**
 
-Vous pouvez personnaliser vos univers avec un fond spécifique, pour cela ajouter une image dans le dossier de votre univers, et renommez là en *_background*.
-Il est également possible de passer par l'éditeur intégré à l'application et cliquez sur *Ajouter un arrière plan* sur le volet de droite.
+Vous pouvez personnaliser vos univers avec un fond spÃ©cifique, pour cela ajouter une image dans le dossier de votre univers, et renommez lÃ  en *_background*.
+Il est Ã©galement possible de passer par l'Ã©diteur intÃ©grÃ© Ã  l'application et cliquez sur *Ajouter un arriÃ©re plan* sur le volet de droite.
 
 
 ## Autres rubriques
-* [**Démarrer l'application**](./start-app.md)
+* [**DÃ©marrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
 * [**Annoter des documents**](./annotate.md)
 * [**Ajouter des notes et des feuilles blanches**](./add-notes.md)
 * [**Importer des documents en live**](./import-docs.md)
-* [**Animer une session d'activités en ligne**](./companion.md)
-* [**Préparer une sélection**](./prepare-selection.md)
-* [**Partager sa sélection**](./share-selection.md)
+* [**Animer une session d'activitÃ©s en ligne**](./companion.md)
+* [**PrÃ©parer une sÃ©lection**](./prepare-selection.md)
+* [**Partager sa sÃ©lection**](./share-selection.md)
 * [**Enregistrer son projet**](./save-project.md)
-* [**Retourner à l'écran d'accueil**](./back-home.md)
+* [**Retourner Ã  l'Ã©cran d'accueil**](./back-home.md)
 * [**Ouvrir un projet**](./open-project.md)
 * [**Fermer l'application**](./close-app.md)
 
-* [**Préparer son dossier de travail**](./prepare-content.md)
+* [**PrÃ©parer son dossier de travail**](./prepare-content.md)

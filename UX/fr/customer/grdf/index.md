@@ -12,8 +12,25 @@ L'application est disponible dans votre centre logiciel, [un guide d'installatio
 
 Pour obtenir vos identifiants de connexion, rapprochez-vous de [Patrick Lecat](mailto:patrick.lecat@grdf.fr).
 
+## Démonstration générale
 
-## Sommaire
+<iframe title="vimeo-player" 
+		src="https://player.vimeo.com/video/986301291?h=ccacb85b45" 
+		width="640" 
+		height="360" 
+		frameborder="0"
+		allowfullscreen></iframe>
+
+
+<iframe title="vimeo-player" 
+		src="https://player.vimeo.com/video/984304465?h=ff21c5ddcc" 
+		width="640" 
+		height="360" 
+		frameborder="0"    
+		allowfullscreen></iframe>
+
+
+## Présentation pas à pas
 * [&rarr; **Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
