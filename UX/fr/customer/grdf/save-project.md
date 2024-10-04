@@ -17,6 +17,7 @@ La sauvegarde d'un projet ne conserve **QUE les documents présents à l'écran 
 ## [&rarr; Prochaine étape : Revenir à l'écran d'accueil](./back-home.md)
 
 ## Autres rubriques
+* [**Configurer le clavier tactile**](./clavier-tactile.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)

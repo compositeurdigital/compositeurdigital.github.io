@@ -71,6 +71,7 @@ Vous pouvez importer à tout moment un flux vidéo venant d'un périphérique re
 ## [&rarr; Prochaine étape : Animer une session d'activités en ligne](./companion.md)
 
 ## Autres rubriques 
+* [**Configurer le clavier tactile**](./clavier-tactile.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)

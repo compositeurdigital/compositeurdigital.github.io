@@ -21,6 +21,7 @@ Il est possible de partager un projet à quelqu'un qui pourra l'ouvrir dans l'ap
 
 
 ## Autres rubriques
+* [**Configurer le clavier tactile**](./clavier-tactile.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)

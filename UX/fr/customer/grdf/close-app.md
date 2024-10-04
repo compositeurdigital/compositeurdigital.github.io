@@ -5,6 +5,7 @@
 3. Si une session est en cours, l'application vous demande si celle-ci doit être enregistrée avant de fermer l'application.
 
 ## Autres rubriques
+* [**Configurer le clavier tactile**](./clavier-tactile.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
