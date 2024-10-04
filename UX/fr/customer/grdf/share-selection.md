@@ -47,6 +47,7 @@ Si vous avez Outlook d'installé sur votre poste, pouvez directement lancer une 
 ## [&rarr; Prochaine étape : Enregistrer son projet](./save-project.md)
 
 ## Autres rubriques 
+* [**Configurer le clavier tactile**](./clavier-tactile.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)

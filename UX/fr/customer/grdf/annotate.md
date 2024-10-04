@@ -15,6 +15,7 @@
 ## [&rarr; Prochaine étape : Ajouter des notes et des feuilles blanches](./add-notes.md)
 
 ## Autres rubriques
+* [**Configurer le clavier tactile**](./clavier-tactile.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)

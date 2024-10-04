@@ -10,6 +10,7 @@
 ## [&rarr; Prochaine étape : Manipuler des documents](./manipulate-doc.md)
 
 ## Autres rubriques
+* [**Configurer le clavier tactile**](./clavier-tactile.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
 * [**Annoter des documents**](./annotate.md)

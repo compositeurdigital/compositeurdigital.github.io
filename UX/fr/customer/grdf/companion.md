@@ -189,6 +189,7 @@ Il est possible de donner la main sur un contenu à un participant. Celui-ci pou
 ## [&rarr; Prochaine étape : Préparer une sélection](./prepare-selection.md)
 
 ## Autres rubriques 
+* [**Configurer le clavier tactile**](./clavier-tactile.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)

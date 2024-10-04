@@ -50,6 +50,7 @@ Tout autre type de fichier ne pourra être visualisé.
 ## [&rarr; Prochaine étape : appliquez un fond d'écran personnalisé](./change-background.md)
 
 ## Autres rubriques
+* [**Configurer le clavier tactile**](./clavier-tactile.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
 * [**Annoter des documents**](./annotate.md)

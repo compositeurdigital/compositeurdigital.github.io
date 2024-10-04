@@ -12,6 +12,7 @@
 ## [&rarr; Prochaine étape : Importer des documents en live](./import-docs.md)
 
 ## Autres rubriques
+* [**Configurer le clavier tactile**](./clavier-tactile.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)

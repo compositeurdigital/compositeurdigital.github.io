@@ -34,6 +34,7 @@ Ou directement depuis l'onglet **Sélection**
 ## [&rarr; Prochaine étape : Partager sa sélection](./share-selection.md)
 
 ## Autres rubriques
+* [**Configurer le clavier tactile**](./clavier-tactile.md)
 * [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)

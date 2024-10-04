@@ -31,7 +31,9 @@ Pour obtenir vos identifiants de connexion, rapprochez-vous de [Patrick Lecat](m
 
 
 ## Présentation pas à pas
-* [&rarr; **Démarrer l'application**](./start-app.md)
+
+* [&rarr; **Configurer le clavier tactile**](./clavier-tactile.md)
+* [**Démarrer l'application**](./start-app.md)
 * [**Lancer un environnement**](./new-universe.md)
 * [**Manipuler des documents**](./manipulate-doc.md)
 * [**Annoter des documents**](./annotate.md)
