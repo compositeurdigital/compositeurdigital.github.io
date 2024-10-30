@@ -75,7 +75,7 @@ L'utilisation de différents fichiers de fond, adaptés à différents formats d
 
 ## Fond interactif
 
-Si vous souhaitez avoir un fond interactif, qui contient des hyperliens pour afficher votre contenu, c'est également possible. Préparez un fichier powerpoint, avec une diapositive contenant votre image de fond. Dans cette diapositive, n'oubliez pas de créer des [Hot Spots](../supported_content/powerpoint.md#hot-spots) pour afficher vos menus, ou vos fichiers. Le nom du fichier doit être `_background.pptx`. 
+Si vous souhaitez avoir un fond interactif, qui contient des hyperliens pour afficher votre contenu, c'est également possible. Préparez un fichier powerpoint, avec une diapositive contenant votre image de fond. Dans cette diapositive, n'oubliez pas de créer des [Hot Spots](./supported_content/powerpoint.md#hot-spots) pour afficher vos menus, ou vos fichiers. Le nom du fichier doit être `_background.pptx`. 
 
 ![Dossier fond interactif](../../en/img/interactive_background.JPG)
 
