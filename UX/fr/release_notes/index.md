@@ -1,5 +1,9 @@
 # Notes de publication
 
+### 4.1.5865 - 31 octobre 2024 
+
+- [FIX] Les captures entières de document peuvent apparaître en double
+
 ### 4.1.5639 - 5 septembre 2024
 
 - [FIX] Webview : barres de défilement inaccessible

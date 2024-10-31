@@ -1,5 +1,9 @@
 # Release notes
 
+### 4.1.5865 - October 31, 2024
+
+- [FIX] Full size captures are created twice in some cases
+
 ### 4.1.5639 - September 5, 2024
 
 - [FIX] Webview: inaccessible scrollbars
