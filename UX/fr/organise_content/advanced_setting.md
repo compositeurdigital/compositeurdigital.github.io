@@ -49,6 +49,7 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 | `canWrite`                        | `booléen`    | false        | indique que du texte peut être tapé sur cet objet |
 | `desiredHeight`                   | `dimension`  | 400          | définit la hauteur par défaut du document |
 | `desiredWidth`                    | `dimension`  | 400          | définit la largeur par défaut du document |
+| `desiredSizeBehavior`             | `auto|fit|fill` | auto   | définit la façon dont les dimensions `desiredWidth` and `desiredHeight` appliquées à la taille du document. `auto` ajuste la taille en conservant la longuer de la diagonale, `fit` ajuste à la plus grande taille possible contenue dans les dimensions souhaitées, `fill` ajuste à la plus petite taille possible recouvrant les dimensions souhaitées |
 | `desiredPosition(.x|.y)`          | `position`   | auto         | contrôle l'endroit d'apparition du document. Définir une valeur relative pour `desiredPosition.x` et `desiredPosition.y` (ex `desiredPosition.x=50%`) une une valeur prédéfinie parmis `center`, `top`,`left`, `right`,`bottom`, `topleft`, `topright`, `bottomleft`, `bottomright` (ex `desiredPosition=center`) |
 | `isPaper`                         | `booléen`    | false        | supprime le fond des boutons du document (boutons d'action et de fermeture)|
 | `hideBottomBarDots`               | `booléen`    | false        | cache le bouton de la barre inférieure lorsque celle-ci est réduite |
@@ -58,17 +59,22 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 | `maxWidth`                        | `dimension`  | -            | définit la largeur maximale |
 | `minHeight`                       | `dimension`  | -            | définit la hauteur mimimale |
 | `minWidth`                        | `dimension`  | -            | définit la largeur minimale |
-| `name`                            | `texte`      | nom du fichier | change le nom affiché du document en "nom A" (exemple) |
-| `hidden`                          | `booléen`    | false        | change le nom affiché du document en "nom A" (exemple) |
+| `name`                            | `texte`      | nom du fichier | change le nom affiché du document|
+| `subname`                         | `text`       | -            | définit un texte sedondaire, affiché sous le nom dans certaines vues (ex. résultats de recherche) |
+| `hidden`                          | `booléen`    | false        | rend le document non visible dans la barre de contenus, les vues dossier our les résultats de recherche |
 | `noChromeButtons`                 | `boolean`    | false        | cache les boutons d'action (fermer, menu).|
 | `noChromeShadow`                  | `boolean`    | false        | désactive l'ombre sous le document.|
-| `noChrome`                        | `booléen`    | false        | cache les boutons d'action (fermer, menu), et l'ombre sous le document.|
+| `noChrome`                        | `booléen`    | false        | cache les boutons d'action (fermer, menu), et l'ombre sous le document |
+| `simpleshadow`                    | `booléen`    | false        | affiche une ombre simlifié|
+| `cornerRadius`                    | `dimension`  | 8            | taille des arrondis aux coins du documents, valeur numérique en pixels ou pourcentaige de la plus petite dimension du document |
+| `noRoundedCorner`                 | `booléen`    | false        | désactive les arrondis aux coins des documents |
 | `orientation`                     | `nombre`     | 0            | fait pivoter le document : `-90` pour tourner à gauche, `90` pour tourner à droite ou `180` pour retourner le document |
 | `table.noClose`                   | `booléen`    | false        | empêche la fermeture du document (le bouton de fermeture est désactivé et la projection hors de l'écran ne se ferme pas) |
 | `table.hideCommands`              | `booléen`    | false        | cache les boutons de contrôle d'un document (page précédente/suivante, contrôles de lecture vidéo...) |
 | `table.noRotate`                  | `booléen`    | false        | empêche la rotation du document |
-| `table.viewer`                    | `cdux` ou `externe` | non défini  | L'utilisation de `cdux` assure que le lien `cdurl` sera affiché dans le Compositeur Digital UX. Avec `extern`, le document est ouvert en utilisant le viewer natif. |
-| `themeColor`                      | `couleur`      | -          | force un thème couleur pour l'univers/élément et son contenu | 
+| `table.noInertia`                 | `booléen`    | false        | empêche le déplacement inertiel des documents. Note : désactive la fermeture par lancer sur le côtés |
+| `table.viewer`                    | `cdux|extern`| cdux         | L'utilisation de `cdux` assure que le lien `cdurl` sera affiché dans le Compositeur Digital UX. Avec `extern`, le document est ouvert en utilisant le viewer natif. |
+| `themeColor`                      | `couleur`    | -            | force un thème couleur pour l'univers/élément et son contenu | 
 | `table.showOnStart`               | `booléen`    | false        | ouvre le document automatiquement au lancement de l'univers | 
 | `noHistory`                       | `boolean`    | false        | le document ne sera pas enregistré dans la corbeille à sa fermeture | 
 | `hideLinkLabel`                   | `booléen`    | false        | cache le nom du document dans la barre inférieure de l'univers |
@@ -78,13 +84,17 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 | `toolbox.startOpened`             | `boolean`    | false        | les éléments de la boite à outils seront visibles lors de l'affichage de la barre latérale |
 
 
+
+
 #### Annotations
 
 Définissez la couleur et la taille du stylet à l'aide des paramètres suivants :
 
 | Metadata Key      | Type         | Default   | Description |
 |:----------------- |:-------------|:----------|:-|
-| `ink.color`       | `red|orange|yellow|green|turquoise|blue|pink|violet|black|white` | black | définit le couleur par défaut |
+
+| `ink.color`       | `yellow|orange|beige|red|pink|prune|violet|blue|pervenche|turquoise|celadon|emerald|green|gray|black|white|theme|usercolor|customcolor` | black | définit la couleur par défaut |
+| `ink.drawingColor`| `color` | - | couleur utilisée lorsque `ink.color` est définit à `customcolor` |
 | `ink.penName`     | `fine|thick|marker` | fine | définit la taille du stylet |
 
 

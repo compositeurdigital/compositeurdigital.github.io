@@ -48,6 +48,7 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the p
 | `canWrite`                        | `boolean`    | false     | indicates that text can be typed on this object |
 | `desiredHeight`                   | `dimension`  | 400       | sets the default height of the document |
 | `desiredWidth`                    | `dimension`  | 400       | sets the default width of the document |
+| `desiredSizeBehavior`             | `auto|fit|fill` | auto   | defines how the default dimension are applied when both `desiredWidth` and `desiredHeight` are set. `auto` adjust the dimension to preserve diagonal length, `fit` adjusts to the largest dimension that fit the desired size, `fill` adjust to the smallest dimension tha covers the desired size |
 | `desiredPosition(.x|.y)`          | `position`   | auto      | controls where the documment appears on screen. Set both `desiredPosition.x` and `desiredPosition.y` to a relative value (eg `desiredPosition.x=50%`) or use a predefined value `center`, `top`,`left`, `right`,`bottom`, `topleft`, `topright`, `bottomleft`, `bottomright` (eg `desiredPosition=center`) |
 | `isPaper`                         | `boolean`    | false     | removes the background of the document's buttons (action and close buttons)|
 | `hideBottomBarDots`               | `boolean`    | false     | hides the bottom bar button when collapsed |
@@ -57,16 +58,21 @@ To apply a specific behavior to a set of documents, use the `*.` prefix on the p
 | `maxWidth`                        | `dimension`  | -         | sets the maximum width |
 | `minHeight`                       | `dimension`  | -         | sets the minimum height |
 | `minWidth`                        | `dimension`  | -         | sets the minimum width |
-| `name`                            | `text`       | file name | change the displayed name of the document to "A name" (example) |
+| `name`                            | `text`       | file name | change the displayed name of the document |
+| `subname`                         | `text`       | -         | set as sub name of the document, displayed below the name in some contexts (eg. search results) |
 | `hidden`                          | `boolean`    | false     | hides the item from the main bar or folder views |
 | `noChromeButtons`                 | `boolean`    | false     | hides all the chrome buttons (close, menu).|
 | `noChromeShadow`                  | `boolean`    | false     | hides the shadow under the document.|
 | `noChrome`                        | `boolean`    | false     | hides all the chrome buttons (close, menu), and the shadow under the document.|
+| `simpleshadow`                    | `boolean`    | false     | simplify the document shadow |
+| `cornerRadius`                    | `dimension`  | 8         | roundid corners size, numerical value in pixels or a percentage of the smallest dimension of the document |
+| `noRoundedCorner`                 | `boolean`    | false     | désactive les arrondis aux coins des documents |
 | `orientation`                     | `number`     | 0         | rotates the document: `-90` to turn left, `90` to turn right or `180` to flip the document |
 | `table.noClose`                   | `boolean`    | false     | prevents closing the document (close button disabled and throwing out of screen does not close) |
 | `table.hideCommands`              | `boolean`    | false     | hides the control buttons of a document (previous/next page, video playback controls…) |
 | `table.noRotate`                  | `boolean`    | false     | inhibits rotation for the document |
-| `table.viewer`                    | `cdux` or `extern` | unset   | Using `cdux` it makes sure the `cdurl` link will be displayed inside Compositeur Digital UX. With `extern`, the document is opened using the native viewer. |
+| `table.noInertia`                 | `boolean`    | false     | prevent inertial movement of documents. Note: disables closing documents from sides |
+| `table.viewer`                    | `cdux|extern` | cdux     | Using `cdux` it makes sure the `cdurl` link will be displayed inside Compositeur Digital UX. With `extern`, the document is opened using the native viewer. |
 | `themeColor`                      | `color`      | -         | forces a theme color for the universe/element and its contents | 
 | `table.showOnStart`               | `boolean`    | false     | open the document automatically when the universe is launched | 
 | `noHistory`                       | `boolean`    | false     | prevent the document from going to the recycle bin when closed | 
@@ -82,7 +88,8 @@ Set the default ink color and size for an universe with the follwing parameters:
 
 | Metadata Key      | Type         | Default   | Description |
 |:----------------- |:-------------|:----------|:-|
-| `ink.color`       | `red|orange|yellow|green|turquoise|blue|pink|violet|black|white` | black | sets the default pen color |
+| `ink.color`       | `yellow|orange|beige|red|pink|prune|violet|blue|pervenche|turquoise|celadon|emerald|green|gray|black|white|theme|usercolor|customcolor` | black | sets the default pen color |
+| `ink.drawingColor`| `color` | - | color used when `ink.color` is set to `customcolor` |
 | `ink.penName`     | `fine|thick|marker` | fine    | set the default pen size |
 
 #### Menu actions
