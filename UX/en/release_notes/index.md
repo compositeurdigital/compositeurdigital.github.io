@@ -1,7 +1,7 @@
 # Release notes
 
 
-### 4.2.5944 - November 18, 2024
+### 4.2.5944 - November 22, 2024
 
 #### New features
 

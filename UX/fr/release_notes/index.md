@@ -1,7 +1,7 @@
 # Notes de publication
 
 
-### 4.2.5944 - 18 novembre 2024
+### 4.2.5944 - 22 novembre 2024
 
 #### Nouvelles fonctionnalités
 
