@@ -49,8 +49,8 @@ Pour appliquer un comportement spécifique à un ensemble de documents, utilisez
 | `canWrite`                        | `booléen`    | false        | indique que du texte peut être tapé sur cet objet |
 | `desiredHeight`                   | `dimension`  | 400          | définit la hauteur par défaut du document |
 | `desiredWidth`                    | `dimension`  | 400          | définit la largeur par défaut du document |
-| `desiredSizeBehavior`             | `auto|fit|fill` | auto   | définit la façon dont les dimensions `desiredWidth` and `desiredHeight` appliquées à la taille du document. `auto` ajuste la taille en conservant la longuer de la diagonale, `fit` ajuste à la plus grande taille possible contenue dans les dimensions souhaitées, `fill` ajuste à la plus petite taille possible recouvrant les dimensions souhaitées |
-| `desiredPosition(.x|.y)`          | `position`   | auto         | contrôle l'endroit d'apparition du document. Définir une valeur relative pour `desiredPosition.x` et `desiredPosition.y` (ex `desiredPosition.x=50%`) une une valeur prédéfinie parmis `center`, `top`,`left`, `right`,`bottom`, `topleft`, `topright`, `bottomleft`, `bottomright` (ex `desiredPosition=center`) |
+| `desiredSizeBehavior`             | `auto|fit|fill` | auto   | définit la façon dont les dimensions `desiredWidth` and `desiredHeight` sont appliquées à la taille du document. `auto` ajuste la taille en conservant la longuer de la diagonale, `fit` ajuste à la plus grande taille possible contenue dans les dimensions souhaitées, `fill` ajuste à la plus petite taille possible recouvrant les dimensions souhaitées |
+| `desiredPosition(.x|.y)`          | `position`   | auto         | contrôle l'endroit d'apparition du document. Définir une valeur relative pour `desiredPosition.x` et `desiredPosition.y` (ex `desiredPosition.x=50%`) ou une valeur prédéfinie parmis `center`, `top`,`left`, `right`,`bottom`, `topleft`, `topright`, `bottomleft`, `bottomright` (ex `desiredPosition=center`) |
 | `isPaper`                         | `booléen`    | false        | supprime le fond des boutons du document (boutons d'action et de fermeture)|
 | `hideBottomBarDots`               | `booléen`    | false        | cache le bouton de la barre inférieure lorsque celle-ci est réduite |
 | `hideBottomBar`                   | `booléen`    | false        | cache la barre inférieure lorsque celle-ci est réduite |
@@ -92,7 +92,6 @@ Définissez la couleur et la taille du stylet à l'aide des paramètres suivants
 
 | Metadata Key      | Type         | Default   | Description |
 |:----------------- |:-------------|:----------|:-|
-
 | `ink.color`       | `yellow|orange|beige|red|pink|prune|violet|blue|pervenche|turquoise|celadon|emerald|green|gray|black|white|theme|usercolor|customcolor` | black | définit la couleur par défaut |
 | `ink.drawingColor`| `color` | - | couleur utilisée lorsque `ink.color` est définit à `customcolor` |
 | `ink.penName`     | `fine|thick|marker` | fine | définit la taille du stylet |
