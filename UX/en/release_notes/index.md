@@ -1,5 +1,57 @@
 # Release notes
 
+
+### 4.2.5944 - November 18, 2024
+
+#### New features
+
+- New color palette and new control pane for annotations without digital pen
+- Add notes, blank sheets and other templates by drag and drop from the side menus
+- Drag and drop files from File Explorer to import them
+- Web pages can be resized
+- New document import method: quick transfer from collaborative activities
+- Notes and blank sheets: dictation to add text (Windows 11 only)
+
+#### General improvements and fixes
+
+- Notes added via the new note button appear at the same size as their note of origin
+- Documents stay visible after being detached from the document they were taped on
+- More progressive stroke thickness variation based on pressure from stylus that support pressure
+- Application version available from side me settings panel
+- Mouse annotations can now be activated by pressing `D` to draw, `E` to erase
+- New parameters do disable document manipulation inertia: meta `table.noInertia=true`, setting `cdux.workspace.manipulation.disableInertia=true`
+- Web memory: new HTML message styling for share methods other than an email message
+- Retain web pages actual uri to restore their state
+- Reduced minimal capture area
+- [FIX] Conversion of PowerPoint files from a Teams library generates a bitmap pdf even when a vector render is possible 
+- [FIX] Collaboratives activities failure after stopping an activity then starting another 
+- [FIX] Recently created Teams channels are not visible from the add source dialog 
+- [FIX] Capture and import fail when working offline in a universe from a OneDrive source 
+- [FIX] Projects created in a OneDrive source appear twice in the project list
+- [FIX] Interactive HTML view no longer respond to touch taps after having been moved
+- [FIX] Collaboratives activities: chaining remote presentations cause an error
+- [FIX] Some vote results stickers cannot be resized
+- [FIX] Annotation strokes added via remote presentations are randomly deleted
+- [FIX] Captures sent to web memory include black rounded corners
+- [FIX] Tape indicators are not visible when energy saving mode is active
+- [FIX] Low performance on SurfaceHub 2S, new global parameter `disableEffects`
+- [FIX] Error when cancelling upload of a web memory
+- [FIX] Random error when closing a search module 
+- [FIX] Notes and blankshet sometimes lock out of text input with a virtual keyboard
+- [FIX] Virtual keyboard is not shown for web views
+- [FIX] Designer: error when renaming an custom interactive web view
+- [FIX] Designer: error when opening an custom interactive web background
+- [FIX] Designer: unexpected reset of maps display style
+- [FIX] Crash when loading projects in Teams/SharePoint sources containing a very large number of projects
+- [FIX] Designer tab unavailable if This computer > Documents does not contain a folder named Compositeur Digital UX
+- [FIX] Designer: interactive web view cannot handle items with a `#` in their file name
+- [FIX] Double-clicking the save button may cause an error followed by a later crash 
+- [FIX] "Created by" is lost when saving a project
+- [FIX] Sequence view slider is shown behind menu button
+- [FIX] Cannont move search results with map results
+- [FIX] Tab selector is visible in kiosk mode
+
+
 ### 4.1.5865 - October 31, 2024
 
 - [FIX] Full size captures are created twice in some cases

@@ -1,5 +1,57 @@
 # Notes de publication
 
+
+### 4.2.5944 - 18 novembre 2024
+
+#### Nouvelles fonctionnalités
+
+- Nouvelle palette de couleurs et nouveau panneau de contrôle des annotations sans stylet
+- Ajout des notes, feuilles et autres modèles des menus latéraux par glisser-déposer
+- Import de documents par glisser-déposer depuis l'explorateurs de fichier
+- Pages web redimensionnables
+- Nouvelle méthode d'import de fichier : ajout rapide par les activités collaboratives
+- Notes et feuilles blanches : ajout de texte par dictée (Windows 11 uniquement)
+
+#### Améliorations et correctifs
+
+- Les notes créées à partir du bouton nouvelle note s'affichent à la même taille que la note d'origine
+- Les documents décollés restent affichés au premier plan
+- Variation de l'épaisseur des tracés plus progressive lors de l'utilisation d'un stylet avec support de la pression
+- Affichage des informations de version dans les menus latéraux
+- Les touches de raccourcis pour l'annotation à la souris sont désormais `D` pour dessiner, `E` pour effacer
+- Nouveaux paramètres pour désactiver l'inertie : meta `table.noInertia=true` et setting `cdux.workspace.manipulation.disableInertia=true`
+- Souvenir en ligne : partage du lien dans un message HTML adapté au partage autre que par email
+- Enregistrement de l'url courante des pages web pour rétablissement dans leur état
+- Réduction de la taille minimale des zones capturées
+- [FIX] La conversion des fichiers PowerPoint provenant d'un emplacement Teams génère un rendu image même si un rendu vectoriel est possible 
+- [FIX] Activités collaboratives en erreur après avoir arrêté puis redémarré une activité 
+- [FIX] Les canaux Teams créés récemment ne sont pas visibles dans la fenêtre d'ajout de source 
+- [FIX] Erreur lors de capture ou import de documents lors de l'utilisation hors ligne
+- [FIX] Les projets créés dans une source OneDrive apparaissent en double
+- [FIX] Les vues HTML interactives ne répondent plus aux appuis tactiles après avoir été déplacées
+- [FIX] Activités collaboratives : l'enchainement de plusieurs présentations interrompt l'activité
+- [FIX] La capture de résultats des activités de vote ne se redimensionne pas
+- [FIX] Les traces ajoutées par activité de présentation distante s'effacent aléatoirement
+- [FIX] Les captures envoyées au souvenir en ligne contiennent des bords arrondis sur fond noir
+- [FIX] Les scotchs disparaissent des docs scotchés en mode économie d'énergie
+- [FIX] Performance dégradée sur Surface Hub 2S lors du partage, ajout du paramètre global `disableEffects`
+- [FIX] Erreur lors de l'annulation du téléversement des souvenirs en ligne
+- [FIX] Erreur aléatoire à la fermeture des modules de recherche (catalogue)
+- [FIX] L'activation de la saisie de texte au clavier sur les notes et feuilles blanche est parfois inopérante
+- [FIX] Le clavier virtuel ne s'affiche pas pour les pages web
+- [FIX] Éditeur : renommage en erreur lorsque le dossier contient des vues web personnalisées sur un partage réseau
+- [FIX] Éditeur : erreur à l'ouverture de vues web personnalisées 
+- [FIX] Éditeur : réinitialisation intempestive du mode d'affichage des cartes
+- [FIX] Crash lors de l'affichage des projets pour les emplacements Teams/SharePoint contenant de très nombreux projets
+- [FIX] Éditeur inaccessible si l'emplacement Ce PC > Documents ne contient pas de dossier Compositeur Digital UX
+- [FIX] Editeur : Les vues web interactives se peuvent pas gérer de nom de fichier ou dossier contenant le caractère `#`
+- [FIX] Un double clic sur Enregistrer peut provoquer une erreur puis un crash 
+- [FIX] Information "Créé par" perdue lors de l'enregistrement d'un projet
+- [FIX] La barre de défilement des vues orbitales s'affiche sous le menu
+- [FIX] Impossible de déplacer les modules de recherches avec cartographie
+- [FIX] Sélecteur d'onglet vide visible sur la page d'accueil en mode kiosque
+
+
 ### 4.1.5865 - 31 octobre 2024 
 
 - [FIX] Les captures entières de document peuvent apparaître en double
