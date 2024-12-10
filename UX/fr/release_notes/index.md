@@ -1,5 +1,12 @@
 # Notes de publication
 
+### 4.2.5974 - 10 décembre 2024
+
+- Support de la migration depuis une installation en version 3.x avec login automatique
+- [FIX] Erreur lorsqu'un projet est fermé immédiatement après son ouverture
+- [FIX] Le menu contextuel des univers est activable en mode kiosque 
+- [FIX] Erreur lors de l'actualisation d'univers lorsque OneDrive synchronise les documents personnels
+
 
 ### 4.2.5944 - 22 novembre 2024
 

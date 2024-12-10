@@ -1,5 +1,11 @@
 # Release notes
 
+### 4.2.5974 - December 10, 2024
+
+- Support for migration from 3.x installs with automatic login
+- [FIX] Error when closing a project immediately after having opened it
+- [FIX] Universes contextual menus are available in kiosk mode
+- [FIX] Error when refreshing a universe when OneDrive synchronizes personal documents
 
 ### 4.2.5944 - November 22, 2024
 
