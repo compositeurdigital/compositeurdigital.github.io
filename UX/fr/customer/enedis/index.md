@@ -10,7 +10,7 @@ Si votre PC est équipé d'un stylet, il est immédiatement reconnu par l’appl
 
 L'application est disponible dans votre centre logiciel [un guide d'installation est à votre disposition](./media/Install.pdf). 
 
-Pour obtenir vos identifiants de connexion, rapprochez-vous de [Patrick Lecat](mailto:patrick.lecat@enedis.fr).
+Pour obtenir vos identifiants de connexion, rapprochez-vous de [Justin CHEVALIER](mailto:justin.chevalier@enedis.fr).
 
 
 ## Sommaire
