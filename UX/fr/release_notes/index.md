@@ -1,5 +1,18 @@
 # Notes de publication
 
+
+### 4.3.6013 - 18 décembre 2024
+
+- Support du format video MXF (édition Studio)
+- Support des flux vidéo RTP, RTSP, HTTP (édition Studio) 
+- Vidéo : action optionnelle de retour en arrière avec le paramètre `video.fastrewind.duration`
+- Encre éphémère : ajouter des annotations visibles quelques secondes sur des vidéos en cours de lecture ou sur tous les documents
+- Alerte lors qu'un emplacement pré-configuré n'est pas trouvé
+- Les dossiers "Compositeur" "Excense", "CDUX" sont reconnus comme emplacement d'univers
+- [FIX] Editeur et enregistrement non disponible pour l'emplacement "Ce PC > Documents" lorsque les documents sont sauvegardés avec OneDrive
+- [FIX] Les annotations peuvent déborder de certains stickers non rectangulaires
+- [FIX] Message d'erreur de connexion non explicite pour certaines erreurs, telles qu'un erreur provenant d'un proxy
+
 ### 4.2.5974 - 10 décembre 2024
 
 - Support de la migration depuis une installation en version 3.x avec login automatique

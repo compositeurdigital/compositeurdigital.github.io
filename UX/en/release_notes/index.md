@@ -1,5 +1,18 @@
 # Release notes
 
+
+### 4.3.6013 - 18 décembre 2024
+
+- MXF video format support (Studio edition)
+- Support for RTP, RTSP, HTTP video streams (Studio edition) 
+- Video: optional quick rewind of a few seconds with `video.fastrewind.duration`
+- Dynamic ink: draw annotations that show for a few seconds on playing videos or any documents
+- Warn if pre-configured universe location is not available
+- Folders named "Compositeur" "Excense", "CDUX" are recognized as universe sources
+- [FIX] Designer and project saving not available for "This computer > Documents" when Onedrive documents backup is enabled
+- [FIX] Annotations can be drawn outside some non-rectangular stickers
+- [FIX] Some activations errors are not explicit, eg. proxy auth errors
+
 ### 4.2.5974 - December 10, 2024
 
 - Support for migration from 3.x installs with automatic login
