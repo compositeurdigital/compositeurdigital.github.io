@@ -1,7 +1,13 @@
 # Release notes
 
 
-### 4.3.6013 - 18 décembre 2024
+### 4.3.6080 - January 6, 2025
+
+- [FIX] Some older Outlook mail boxes aure not detected
+- [FIX] Occasional crash when opening documents
+- [FIX] Tape visual is not resized to match document size
+
+### 4.3.6013 - Decembre 18, 2024
 
 - MXF video format support (Studio edition)
 - Support for RTP, RTSP, HTTP video streams (Studio edition) 

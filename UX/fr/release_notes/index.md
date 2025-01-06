@@ -1,5 +1,10 @@
 # Notes de publication
 
+### 4.3.6080 - 6 janvier 2025
+
+- [FIX] Certaines boîtes mail Outlook ne sont pas détectées
+- [FIX] Crash occasionnel à l'ouverture de documents
+- [FIX] Les adhésifs ne sont pas redimensionnés avec le document
 
 ### 4.3.6013 - 18 décembre 2024
 
