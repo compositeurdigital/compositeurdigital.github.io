@@ -1,6 +1,18 @@
 # Release notes
 
 
+### 4.3.6180 - January 10, 2025
+
+- [FIX] Approximative/incorrect ink to text recognition
+- [FIX] Documents added by drag and drop are stuck if the origin templage group is closed
+- [FIX] Random crash when opening a file upload activity from the "Get a transfer link" action
+- [FIX] The "Get a transfer link" action does not function when selected from the imported document list
+- [FIX] Miracast error when quickly opening/closing or refreshing a project repeatedly
+- [FIX] Error when My OneDrive is not available during tutorial
+- [FIX] Error loading .cdux project files
+- [FIX] Attempts at fixing elusive crash on document opening
+- [FIX] Missing warning message When unpluging the removable storage that contains the current universe
+
 ### 4.3.6080 - January 6, 2025
 
 - [FIX] Some older Outlook mail boxes aure not detected

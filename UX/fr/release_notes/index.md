@@ -1,5 +1,18 @@
 # Notes de publication
 
+
+### 4.3.6129 - 10 janvier 2025
+
+- [FIX] La reconnaissance d'écriture produit des mots approximatifs et incorrects
+- [FIX] Document bloqué si pendant l'ajout par glisser-déposer le groupe de modèles est fermé
+- [FIX] Crash aléatoire lors du démarrage des activités par l'action "Obtenir un lien de transfert"
+- [FIX] L'action "Obtenir un lien de transfert" ne fonctionne pas depuis le menu contextuel de la liste des documents importés
+- [FIX] Erreur Miracast lorsque l'utilisateur ouvre puis quitte un projet, ou actualise l'univers, à multiple reprises rapidement
+- [FIX] Erreur lorsque le dossier OneDrive personnel n'est pas disponible pendant le tutorial
+- [FIX] Erreur lors du chargement de fichiers de projets .cdux
+- [FIX] Tentatives de correctif pour un crash élusif à l'ouverture de document
+- [FIX] Message d'avertissement manquant lorsque la clef USB contenant l'univers courant est retirée
+
 ### 4.3.6080 - 6 janvier 2025
 
 - [FIX] Certaines boîtes mail Outlook ne sont pas détectées
