@@ -1,7 +1,11 @@
 # Release notes
 
 
-### 4.3.6180 - January 10, 2025
+### 4.3.6154 - January 13, 2025
+
+- [FIX] Slideshow internal navigation and universe selector links
+
+### 4.3.6129 - January 10, 2025
 
 - [FIX] Approximative/incorrect ink to text recognition
 - [FIX] Documents added by drag and drop are stuck if the origin templage group is closed

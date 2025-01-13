@@ -1,6 +1,11 @@
 # Notes de publication
 
 
+### 4.3.6154 - 13 janvier 2025
+
+- [FIX] Les liens de navigation internes et de sélecteur d'univers PowerPoint ne fonctionnent plus
+
+
 ### 4.3.6129 - 10 janvier 2025
 
 - [FIX] La reconnaissance d'écriture produit des mots approximatifs et incorrects
