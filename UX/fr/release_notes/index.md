@@ -1,5 +1,8 @@
 # Notes de publication
 
+### 4.3.6159 - 14 janvier 2025
+
+- Rétablissement de la fonction d'effacement par l'appui du bouton des stylets au lieu de l'encre éphémère
 
 ### 4.3.6154 - 13 janvier 2025
 

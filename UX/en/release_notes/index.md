@@ -1,5 +1,8 @@
 # Release notes
 
+### 4.3.6159 - January 14, 2025
+
+- Reverted function of stylus barrel button to eraser from dynamic ink
 
 ### 4.3.6154 - January 13, 2025
 
