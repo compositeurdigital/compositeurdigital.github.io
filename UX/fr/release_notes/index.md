@@ -1,5 +1,13 @@
 # Notes de publication
 
+
+
+### 4.3.6235 - 27 janvier 2025
+
+- [FIX] Zones interactives inactives après avoir épinglé ou collé un document
+- [FIX] Certains dossiers synchronisés par OneDrive sont incorrectement marqués en lecture seule 
+
+
 ### 4.3.6159 - 14 janvier 2025
 
 - Rétablissement de la fonction d'effacement par l'appui du bouton des stylets au lieu de l'encre éphémère

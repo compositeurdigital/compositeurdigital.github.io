@@ -1,5 +1,11 @@
 # Release notes
 
+### 4.3.6235 - January 27, 2025
+
+- [FIX] Interactive areas become inactive after the document has been pinned or taped
+- [FIX] Some folders synchronized with OneDrive are incorrectly marked read-only
+
+
 ### 4.3.6159 - January 14, 2025
 
 - Reverted function of stylus barrel button to eraser from dynamic ink
