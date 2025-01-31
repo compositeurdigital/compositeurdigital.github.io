@@ -1,5 +1,10 @@
 # Release notes
 
+
+### 4.3.6278 - January 31, 2025
+
+- [FIX] Preconfigured save folder is not applied
+
 ### 4.3.6235 - January 27, 2025
 
 - [FIX] Interactive areas become inactive after the document has been pinned or taped
