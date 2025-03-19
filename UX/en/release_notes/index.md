@@ -1,6 +1,10 @@
 # Release notes
 
 
+### 4.3.6520 - March 19, 2025
+
+- [FIX] Rendering issue for some PDF files
+
 ### 4.3.6278 - January 31, 2025
 
 - [FIX] Preconfigured save folder is not applied

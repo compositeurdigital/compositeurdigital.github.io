@@ -1,6 +1,10 @@
 # Notes de publication
 
 
+### 4.3.6520 - 19 mars 2025
+
+- [FIX] Problème de randu de certains fichiers PDF
+
 ### 4.3.6278 - 31 janvier 2025
 
 - [FIX] Le répertoire d'enregistrement préconfiguré n'est pas appliqué
