@@ -1,9 +1,13 @@
 # Notes de publication
 
 
+### 4.3.6563 - 31 mars 2025
+
+- Rendu des PDF par PDFium disponibles pour les installations à partir du Windows Store
+
 ### 4.3.6520 - 19 mars 2025
 
-- [FIX] Problème de randu de certains fichiers PDF
+- [FIX] Problème de rendu de certains fichiers PDF
 
 ### 4.3.6278 - 31 janvier 2025
 

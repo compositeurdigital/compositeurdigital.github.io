@@ -1,5 +1,8 @@
 # Release notes
 
+### 4.3.6563 - March 31, 2025
+
+- PDF rendering with PDFium available for installes from Windows Store
 
 ### 4.3.6520 - March 19, 2025
 
