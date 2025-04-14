@@ -1,6 +1,10 @@
 # Notes de publication
 
 
+### 4.3.6651 - 14 avril 2025
+
+[FIX] Les documents PowerPoint sans annotation sont intégrés tels quels aux souvenirs plutôt qu'en PDF
+
 ### 4.3.6563 - 31 mars 2025
 
 - Rendu des PDF par PDFium disponibles pour les installations à partir du Windows Store

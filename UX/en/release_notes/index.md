@@ -1,5 +1,10 @@
 # Release notes
 
+
+### 4.3.6651 - April 14, 2025
+
+- [FIX] PowerPoint presentations without annotations are published to souvenirs as .pptx files rather than .pdf 
+
 ### 4.3.6563 - March 31, 2025
 
 - PDF rendering with PDFium available for installes from Windows Store
