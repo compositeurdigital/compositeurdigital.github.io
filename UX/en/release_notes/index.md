@@ -1,5 +1,9 @@
 # Release notes
 
+### 4.3.6724 - May 7, 2025
+
+- [FIX] Install script can't install app certificate.
+- [FIX] Install script shows incorrect french labels
 
 ### 4.3.6651 - April 14, 2025
 
