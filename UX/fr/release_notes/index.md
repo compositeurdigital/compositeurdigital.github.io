@@ -1,9 +1,13 @@
 # Notes de publication
 
+### 4.3.6724 - 7 mai 2025
+
+- [FIX] Le script d'installation de l'application échoue lors de l'installation du certificat
+- [FIX] Le script d'installation comporte des labels erronés
 
 ### 4.3.6651 - 14 avril 2025
 
-[FIX] Les documents PowerPoint sans annotation sont intégrés tels quels aux souvenirs plutôt qu'en PDF
+- [FIX] Les documents PowerPoint sans annotation sont intégrés tels quels aux souvenirs plutôt qu'en PDF
 
 ### 4.3.6563 - 31 mars 2025
 
