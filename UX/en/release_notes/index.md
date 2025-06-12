@@ -1,5 +1,72 @@
 # Release notes
 
+### 4.4.6845 - June 11, 2025
+
+#### New integrated universe designer
+
+- New editor interface with a large preview area
+- Create interactive links to a page or a section of pages with PDF and PowerPoint documents  
+- Create interactive links to embedded documents from PDF, PowerPoint, images and videos
+- Rename all added documents when added
+- Replace documents with an updated version
+- Universe templates, can be imported from a `.cduniverse` file
+- Optional visuals library for universe backgrounds and document previews 
+- Options to configure the main documents bar appearance
+- Set a preview for universes
+- Automatic optimization of documents an universe previews
+- Drag and drop to reorder documents from the hierachical view
+- Indicator of unresolved or missing links 
+
+#### New features
+
+- Choose to include linked pages and documents when sharing a PDF or a souvenir 
+- PDF and PowerPoint in a souvenir can be navigated inside the souvenir page
+- Interactive preview of published souvenirs
+- New options to share a souvenir link:
+    - QrCode to send a mail with a smartphone
+    - Mail client as available (Office Outlook classic, Thunderbird)
+    - Default system mail application (`mailto:`)
+- Share documents and souvenirs to current activities participants when sharing via email 
+- Activities: document upload now uses the unified share experience
+- Laser pointer, activated with `Ctrl+L`, or by holding `Alt`
+- Map view: support for custom map tile servers, defaults to Google maps
+- New demo universe 'One Energy'
+
+
+#### General improvements and fixes
+
+- New cleaner and lighter folder presentation style
+- New start page tabs presentation style
+- Unified default interactive tools previews (calculator, scale ruler, timer,...)
+- Help shortcuts to online documentation and support contact information
+- Quick access to media playback and inking settings from a presentation
+- Configurable default start page tab between Show, Continue and Design
+- Options to disable web view SSO
+- Clear web view cookies and cache from settings page, all data is cleared when logging out of an MS 365 account
+- 'Rename' and 'Save a copy' now both available from the project information panel
+- Navigation action remain visible when the document is partially off-screen
+- Universe location shortcuts to explore and set the primary location displayed on startup
+- Intermediate pen tip sizes for a total of 5 available sizes
+- Automatic selection of the default video capture device, and use the device display name
+- Adjusted font size for landscape format blank sheets
+- Designer: add existing document file picker filters out reserved file types
+- Setting to disable virtual pen shortcuts keys `D`, `E`, `T`
+- Webview: automatically display virtual keyboard when focusing a HTML element with `textbox` role
+- [FIX] The 'Open' action for web pages does not open the system's browser
+- [FIX] Missing non US translation if installed before the matching Windows language pack
+- [FIX] Blank view of imported documents or captures until manipulated
+- [FIX] Wrong tab selected when switching location on start page
+- [FIX] Designer: document name not updated in folder preview after rename
+- [FIX] Document locked out of manipulation after inteacting with a web view and the virtual keyboard
+- [FIX] Crash on system wake from sleep
+- [FIX] Simultaneous manipulation of a document and its sticked notes or taped documents causes flicker
+- [FIX] Missing notes / tape visual after navigating between a document's pages
+- [FIX] Taped documents restored at an incorrect location if the document has been rotated
+- [FIX] Project copy missing imported documents
+- [FIX] Documents sometimes added twice when clicked from toolbox
+- [FIX] Crash when importing many documents at once
+- [FIX] Quizz background not loading
+
 ### 4.3.6724 - May 7, 2025
 
 - [FIX] Install script can't install app certificate.

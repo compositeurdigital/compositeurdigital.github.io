@@ -1,5 +1,72 @@
 # Notes de publication
 
+### 4.4.6845 - 11 juin 2025
+
+#### Nouvel éditeur d'univers intégré
+
+- Nouvelle interface d'édition offrant une prévisualisation élargie
+- Création de liens interactifs vers une page ou une section du même document PDF ou PowerPoint 
+- Création de liens interactifs vers des documents existants à partir de PDF, PowerPoint, images et vidéos 
+- Possibilité de renommer les documents lors de l'ajout
+- Remplacement de tout type de document par une nouvelle version
+- Support de modèles d'univers, pouvant être importés à partir de fichiers `.cduniverse`
+- Bibliothèques de visuels optionnelles pour les vignettes de document et les fonds d'écran
+- Options de configuration de la barre de documents
+- Définition de vignettes d'univers
+- Optimisation automatique du poids des fichiers de vignettes
+- Ordonancemment des documents depuis la vue hiérarchique par glisser-déposer
+- Indicateur de liens non résolus ou manquants
+
+#### Nouvelles fonctionnalités
+
+- Option de d'inclure les pages et documents liés lors du partage d'un PDF ou d'un souvenir 
+- Les destinataire des souvenirs peuvent naviguer dans les présentations PDF et PowerPoint publiées
+- Prévisualisation des souvenirs dans le Compositeur Digital dès leur publication 
+- Nouvelles options de partage des liens de souvenir:
+    - QrCode pour l'envoi par mail à l'aide d'un smartphone
+    - Client mail disponible (Office Outlook classic, Thunderbird)
+    - Application de courrier du système (`mailto:`), si les clients ci-dessus ne sont pas détectés
+- Option d'ajout des participants des activités en cours comme destinataires lors du partage par mail d'un PDF ou d'un souvenir 
+- Activités: utilisation de l'expérience de partage unifiée pour l'envoi de fichier
+- Pointeur laser, s'active avec le raccourci `Ctrl+L`, ou en maintenant enfoncée la touche `Alt`
+- Carte interactive: support support de serveurs de tuiles personalisés. Google maps par défaut
+- Nouvel univers de démo 'One Energy'
+
+
+#### Améliorations et correctifs
+
+- Les actions de navigation restent visibles même si le document est partiellement hors de l'écran
+- Raccourcis d'aide : accès à la documentation en ligne et informations de contact du support
+- Accès rapide aux paramètre de lecture de medias et encre temporaire depuis l'espace de présntation
+- Onglet par défaut de l'accueil configurable ('Animer', 'Reprendre', 'Concevoir')
+- Option de désactivation de l'authentification unique par les vues web
+- Effacer les cookies et les données enregistrées depuis les paramètres, effacement de toutes les données lors de la déconnexion du compte MS 365
+- 'Renommer' et 'Enregistrer une copir' tous deux disponibles dans le panneau d'information du projet courant
+- Action contextuelles d'exploration des emplacements d'univers et de sélection comme emplacement de démarrage
+- Taille de pointes de stylet intermédiaires, portant le total à 5 tailles
+- Sélection automatique du périphérique de capture par défault, et utilisation du nom du périphérique plutôt que le le nom du fichier .videocapture
+- Taille de la fonte réduite pour les pages blanches au format paysage
+- Editeur: le sélecteur de fichier d'ajout de document filtre les extentions de fichiers réservés
+- Paramètre de désactivation des raccourcis clavier activant le stylet virtuel (`D`, `E`, `T`)
+- Webview: affichage du clavier virtuel lors de l'activation d'élément HTML ayant le role `textbox`
+- Nouvelle interface des dossiers
+- Nouvelle interface de sélection des modes 'Animer', 'Reprendre', 'Concevoir'
+- Unification des vignettes par défaut de la barre d'outils (calculatrice, mesure, chronomètre,...)
+- [FIX] L'action 'Ouvrir' des pages web n'ouvrent pas le navigateur web
+- [FIX] Traduction non disponible si l'application est installée avant le pack de langue Windows correspondant
+- [FIX] Affichage suspendu des captures et documents importés jusqu'à leur première manipulation
+- [FIX] Mauvais onglet sélectionné lors du changement d'emplacement
+- [FIX] Editeur: le nom des documents n'est pas actualisé dans les dossiers après renommage
+- [FIX] Documents bloqués / non interactifs après avoir interagi avec une page web et le clavier virtuel
+- [FIX] Crash à la sortie de veille du système
+- [FIX] La manipulation simultanée d'un document et de notes ou document scotché caus un clignotement 
+- [FIX] Notes ou adhésif manquant après navigation entre les pages d'un document
+- [FIX] Les documents collés s'affichent à une mauvaise position si le document a été pivoté  
+- [FIX] Les projets copiés perdent les documents importés  
+- [FIX] Documents parfois ajoutés deux fois lors d'un clic depuis la barre d'outils
+- [FIX] Crash lors de l'import simultané de plusieurs documents
+- [FIX] Les images de fond des quiz ne sont pas affichées
+
 ### 4.3.6724 - 7 mai 2025
 
 - [FIX] Le script d'installation de l'application échoue lors de l'installation du certificat
