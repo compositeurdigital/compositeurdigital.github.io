@@ -133,7 +133,6 @@ Actions configurables :
 
 | Paramètre                         | Type      | Default | Description |
 |:--------------------------------- |:----------|:--------|:-|
-| `slideshow.controls.position`         | `auto|bottom|left|right|leftandright` | auto   | définit la position ou s'affichent les boutons page suivante/précédente |
 | `slideshow.controls.hide`             | `boolean` | false   | cache les boutons page suivante/précédente |
 
 WhLorsque la position est paramétré `auto`, la position sera `leftandright` si la rotation des documents est activée, sinon `bottom`.
