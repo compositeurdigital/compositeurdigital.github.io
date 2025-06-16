@@ -3,6 +3,12 @@
 
 ### 4.4.6866 - 16 juin 2025
 
+- [FIX] Les vignettes de document ne peuvent pas être supprimées 
+- [FIX] Données provenant de formulaires manquante dans les rapports PowerPoint
+- [FIX] La génération des aperçus de modules de recharche avec carte bloquent toutes les générations d'aperçu
+- [FIX] Les aperçus des documents fermés continuent d'être générés après la fermeture du projet
+
+
 ### 4.4.6845 - 11 juin 2025
 
 #### Nouvel éditeur d'univers intégré

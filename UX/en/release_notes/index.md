@@ -1,10 +1,9 @@
 # Release notes
 
 
-
 ### 4.4.6866 - June 16, 2025
 
-- [FIX] Les vignettes de document ne pveunt pas être supprimées 
+- [FIX] Les vignettes de document ne peuvent pas être supprimées 
 - [FIX] Données provenant de formulaires manquante dans les rapports PowerPoint
 - [FIX] La génération des aperçus de modules de recharche avec carte bloquent toutes les générations d'aperçu
 - [FIX] Les aperçus des documents fermés continuent d'être générés après la fermeture du projet
