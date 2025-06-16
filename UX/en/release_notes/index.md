@@ -1,12 +1,14 @@
 # Release notes
 
 
-### 4.4.6866 - June 16, 2025
+### 4.4.6880 - June 16, 2025
 
-- [FIX] Les vignettes de document ne peuvent pas être supprimées 
-- [FIX] Données provenant de formulaires manquante dans les rapports PowerPoint
-- [FIX] La génération des aperçus de modules de recharche avec carte bloquent toutes les générations d'aperçu
-- [FIX] Les aperçus des documents fermés continuent d'être générés après la fermeture du projet
+- [FIX] Error creating a preview from a clipboard image
+- [FIX] PDF files are always exported with linked pages, regardless of user selected option
+- [FIX] Custom document thumbnails cannot be removed
+- [FIX] Form data missing from PowerPoint summaries 
+- [FIX] Closed document thumbnails continue being generated after leaving a project  
+- [FIX] Search module with map thumbnail generation never completes and blocks further tumbnail generation
 
 
 ### 4.4.6845 - June 11, 2025
