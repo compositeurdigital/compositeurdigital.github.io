@@ -1,11 +1,12 @@
 # Release notes
 
 
-### 4.4.6880 - June 16, 2025
+### 4.4.6885 - June 16, 2025
 
 - [FIX] Error creating a preview from a clipboard image
 - [FIX] PDF files are always exported with linked pages, regardless of user selected option
 - [FIX] Custom document thumbnails cannot be removed
+- [FIX] Missing bottom bar preview label frame in designer
 - [FIX] Form data missing from PowerPoint summaries 
 - [FIX] Closed document thumbnails continue being generated after leaving a project  
 - [FIX] Search module with map thumbnail generation never completes and blocks further tumbnail generation

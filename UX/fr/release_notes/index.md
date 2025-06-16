@@ -1,11 +1,12 @@
 # Notes de publication
 
 
-### 4.4.6880 - 16 juin 2025
+### 4.4.6885 - 16 juin 2025
 
 - [FIX] Erreur lors de la création d'une vignette depuis une image dans le presse-papier
 - [FIX] Les fichiers pdf sont toujours partagés en entier, même si le partage des pages liées n'est pas activé
 - [FIX] Les vignettes de document ne peuvent pas être supprimées
+- [FIX] Habillage du texte manquant de la barre de documents dans l'éditeur
 - [FIX] Données provenant de formulaires manquante dans les rapports PowerPoint
 - [FIX] La génération des aperçus de modules de recherche avec carte bloquent toutes les générations d'aperçu
 - [FIX] Les aperçus des documents fermés continuent d'être générés après la fermeture du projet
