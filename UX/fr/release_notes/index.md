@@ -1,6 +1,10 @@
 # Notes de publication
 
 
+### 4.4.6900 - 17 juin 2025
+
+- [FIX] Annotations ajoutées sur la mauvaise page lors du partage en PDF
+
 ### 4.4.6885 - 16 juin 2025
 
 - [FIX] Erreur lors de la création d'une vignette depuis une image dans le presse-papier

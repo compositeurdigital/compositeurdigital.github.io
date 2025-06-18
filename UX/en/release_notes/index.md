@@ -1,6 +1,10 @@
 # Release notes
 
 
+### 4.4.6900 - June 17, 2025
+
+- [FIX] Annotations are added to the wrong pages in shared PDF
+
 ### 4.4.6885 - June 16, 2025
 
 - [FIX] Error creating a preview from a clipboard image
