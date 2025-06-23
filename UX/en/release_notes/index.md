@@ -1,6 +1,13 @@
 # Release notes
 
 
+### 4.4.6929 - June 23, 2025
+
+- New document border and shadow styling options
+- [FIX] Color stripes around thumbnails in bottom bar
+
+
+
 ### 4.4.6900 - June 17, 2025
 
 - [FIX] Annotations are added to the wrong pages in shared PDF

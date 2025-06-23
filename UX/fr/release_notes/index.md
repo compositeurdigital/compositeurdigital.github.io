@@ -1,5 +1,9 @@
 # Notes de publication
 
+### 4.4.6929 - 23 juin 2025
+
+- Nouvelles options de styles des bordure et d'ombrage des documents
+- [FIX] Des barres colorées encadrent certaines vignettes de document
 
 ### 4.4.6900 - 17 juin 2025
 
