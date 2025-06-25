@@ -1,8 +1,14 @@
 # Notes de publication
 
+
+### 4.4.6943 - 25 juin 2025
+
+- Editeur: gestion des liens PowerPoint vers des pages d'autres présentations (signets)
+- [FIX] crash au lancement de l'éditeur si l'univers contient des constructions particulières de liens interactifs dans des présentations PowerPoint
+
 ### 4.4.6929 - 23 juin 2025
 
-- Nouvelles options de styles des bordure et d'ombrage des documents
+- Nouvelles options de styles de bordure et d'ombrage des documents
 - [FIX] Des barres colorées encadrent certaines vignettes de document
 
 ### 4.4.6900 - 17 juin 2025
