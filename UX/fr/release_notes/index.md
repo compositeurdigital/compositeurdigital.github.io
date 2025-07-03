@@ -1,6 +1,16 @@
 # Notes de publication
 
 
+### 4.4.7000 - 3 juillet 2025
+
+[FIX] L'action 'Ouvrir' ne fonctionne pas pour certains documents dans des univers sur OneDrive/SharePoint
+[FIX] Certains PDF exportés sont étirés dans la mauvaise orientation entre paysage et portrait 
+[FIX] Les autocollants ayant une taille définie relativement à la fenêtre s'affiche en grande taille lors du glisser-déposer
+[FIX] Les captures entières incluent le bouton d'accès au menu
+⁠[FIX] Les captures apparaissent parfois en aplat de couleur jusqu'à interaction 
+[FIX] Les liens vers des documents dont le nom est un nombre ne sont pas reconnus
+
+
 ### 4.4.6943 - 25 juin 2025
 
 - Editeur: gestion des liens PowerPoint vers des pages d'autres présentations (signets)

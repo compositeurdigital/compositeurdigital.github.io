@@ -1,5 +1,13 @@
 # Release notes
 
+### 4.4.7000 - 3 juillet 2025
+
+[FIX] The 'Open' action does not work for some document from OneDrive/SharePoint
+[FIX] Some exported PDF ar trache to the wrong portrait/landscape orientation 
+[FIX] Stickers with a size defined relatively to the windows size are very large when added with drag and drop
+[FIX] Full captures include the menu button
+⁠[FIX] Captures sometimes appear as colored rectangle until interacted with
+[FIX] Links to documents with a number as their file name ar not recognized
 
 ### 4.4.6943 - June 25, 2025
 
