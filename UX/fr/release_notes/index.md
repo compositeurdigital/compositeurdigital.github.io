@@ -1,6 +1,10 @@
 # Notes de publication
 
 
+### 4.4.7007 - 4 juillet 2025
+
+[FIX] Erreur de génération de PDF lors du partage de documents
+
 ### 4.4.7000 - 3 juillet 2025
 
 [FIX] L'action 'Ouvrir' ne fonctionne pas pour certains documents dans des univers sur OneDrive/SharePoint

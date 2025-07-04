@@ -1,6 +1,10 @@
 # Release notes
 
-### 4.4.7000 - 3 juillet 2025
+### 4.4.7007 - July 4, 2025
+
+[FIX] Error generating PDF when sharing documents
+
+### 4.4.7000 - July 3, 2025
 
 [FIX] The 'Open' action does not work for some document from OneDrive/SharePoint
 [FIX] Some exported PDF ar trache to the wrong portrait/landscape orientation 
