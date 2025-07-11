@@ -1,17 +1,32 @@
 # Release notes
 
+### 4.4.7040 - July 11, 2025
+
+- Video timestamps include hours for medias that ar more than 1 hour long 
+- When sharing a mail via QrCode, if no recipient is specified, a choice between iOS and Android will be presented
+- 'Refresh' action in webview menu
+- Duplicated documents will appear with the size of the original
+- Activities: support for zoomed pages when transfering files
+- [FIX] Annotations missing or on the wrong page when exoprting zoomed pages 
+- [FIX] Documents set to a small size are not visible when zoomed in the designer
+- [FIX] Webview: automatic document download does not occur until navigating back or to the home page
+- [FIX] Designer: Error message when navigating back after having deleted a document 
+- [FIX] Designer: drag and drop ordering misplaces documents if an interacitve background is present
+- [FIX] An error message can appear when leaving the designer if a document has been deleted
+
+
 ### 4.4.7007 - July 4, 2025
 
-[FIX] Error generating PDF when sharing documents
+- [FIX] Error generating PDF when sharing documents
 
 ### 4.4.7000 - July 3, 2025
 
-[FIX] The 'Open' action does not work for some document from OneDrive/SharePoint
-[FIX] Some exported PDF ar trache to the wrong portrait/landscape orientation 
-[FIX] Stickers with a size defined relatively to the windows size are very large when added with drag and drop
-[FIX] Full captures include the menu button
-⁠[FIX] Captures sometimes appear as colored rectangle until interacted with
-[FIX] Links to documents with a number as their file name ar not recognized
+- [FIX] The 'Open' action does not work for some document from OneDrive/SharePoint
+- [FIX] Some exported PDF ar trache to the wrong portrait/landscape orientation 
+- [FIX] Stickers with a size defined relatively to the windows size are very large when added with drag and drop
+- [FIX] Full captures include the menu button
+- ⁠[FIX] Captures sometimes appear as colored rectangle until interacted with
+- [FIX] Links to documents with a number as their file name ar not recognized
 
 ### 4.4.6943 - June 25, 2025
 

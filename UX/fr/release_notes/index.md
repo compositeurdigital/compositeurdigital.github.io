@@ -1,18 +1,33 @@
 # Notes de publication
 
 
+
+### 4.4.7040 - 11 juillet 2025
+
+- L'horodatage des vidéos affiche désormais les heures si le média dure plus d'une heure
+- Lors du partage de mail par QrCode, si aucun destinataire n'est renseigné, un choix est proposé entre les appareils iOS et Android
+- Action 'Actualiser' dans le menu des pages web
+- Les document dupliqués s'affichent à la même taille que l'original
+- Activités : génération des vignettes de documents zoomés lors du transfert de documents
+- [FIX] Les annotations s'affichent à la mauvaise page ou sont manquant dans les documents exportés à partir de pages extraites par un zoom 
+- [FIX] Les documents paramétrés pour s'afficher en petite taille ne sont pas visibles quand zoomés dans l'éditeur
+- [FIX] Webview : le téléchargement de fichiers ne s'opère qu'au retour à l'accueil ou à la page précédente
+- [FIX] Editeur : message d'erreur lors de l'appui sur le bouton retour après avoir supprimé un document
+- [FIX] Editeur : l'ordonnancement par glisser-déposer ne positionne pas les documents au bon endroit si un fond d'écran interactif est présent
+- [FIX] Un message d'erreur peut s'afficher lors du retour à l'accueil depuis l'édition d'un univers
+
 ### 4.4.7007 - 4 juillet 2025
 
-[FIX] Erreur de génération de PDF lors du partage de documents
+- [FIX] Erreur de génération de PDF lors du partage de documents
 
 ### 4.4.7000 - 3 juillet 2025
 
-[FIX] L'action 'Ouvrir' ne fonctionne pas pour certains documents dans des univers sur OneDrive/SharePoint
-[FIX] Certains PDF exportés sont étirés dans la mauvaise orientation entre paysage et portrait 
-[FIX] Les autocollants ayant une taille définie relativement à la fenêtre s'affiche en grande taille lors du glisser-déposer
-[FIX] Les captures entières incluent le bouton d'accès au menu
-⁠[FIX] Les captures apparaissent parfois en aplat de couleur jusqu'à interaction 
-[FIX] Les liens vers des documents dont le nom est un nombre ne sont pas reconnus
+- [FIX] L'action 'Ouvrir' ne fonctionne pas pour certains documents dans des univers sur OneDrive/SharePoint
+- [FIX] Certains PDF exportés sont étirés dans la mauvaise orientation entre paysage et portrait 
+- [FIX] Les autocollants ayant une taille définie relativement à la fenêtre s'affiche en grande taille lors du glisser-déposer
+- [FIX] Les captures entières incluent le bouton d'accès au menu
+- ⁠[FIX] Les captures apparaissent parfois en aplat de couleur jusqu'à interaction 
+- [FIX] Les liens vers des documents dont le nom est un nombre ne sont pas reconnus
 
 
 ### 4.4.6943 - 25 juin 2025
