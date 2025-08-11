@@ -1,11 +1,15 @@
 # Notes de publication
 
+### 4.4.7134 - 7 août 2025
 
+- Mode de partage "New Outlook" si détecté
+- [FIX] Les textes saisis dans les zones des saisie des PPTX ne sont pas visibles à l'export
+- [FIX] Webview : les appels à `getJsonProjectData` ne renvoient pas les données spéciales
 
 ### 4.4.7040 - 11 juillet 2025
 
 - L'horodatage des vidéos affiche désormais les heures si le média dure plus d'une heure
-- Lors du partage de mail par QrCode, si aucun destinataire n'est renseigné, un choix est proposé entre les appareils iOS et Android
+- Choix iOS/Android pour le partage de mail par QRCode si aucun destinataire n'est renseigné
 - Action 'Actualiser' dans le menu des pages web
 - Les document dupliqués s'affichent à la même taille que l'original
 - Activités : génération des vignettes de documents zoomés lors du transfert de documents

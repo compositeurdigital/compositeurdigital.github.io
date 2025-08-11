@@ -1,5 +1,11 @@
 # Release notes
 
+### 4.4.7134 - August 7, 2025
+
+- "New Outlook" share option if detected
+- [FIX] Text typed in  PPTX input text areas missing from export
+- [FIX] Webview: calls to `getJsonProjectData` do not return special values
+
 ### 4.4.7040 - July 11, 2025
 
 - Video timestamps include hours for medias that ar more than 1 hour long 
