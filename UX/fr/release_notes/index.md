@@ -1,5 +1,19 @@
 # Notes de publication
 
+
+
+### 4.4.7247 - 22 septembre 2025
+
+- Liste d'expéditeurs optionnelle pour la composition de mail de partage de souvenir
+- [FIX] Les destinataires de mail provenant des activités ne sont pas reconnus par Outlook (séparés par virgules plutôt que points-virgules)
+- [FIX] les fichiers .cdslideshow corrompus empêchent d'entrer dans un univers
+- [FIX] Les activations expirées ou dépassant la limite affichent toujours le message "compte supprimé"
+- [FIX] Les fichiers meta au format texte sont ignorés en présence du format json
+- [FIX] Les liens vers des documents intégrant d'autres documents ne sont pas reconnus
+- [FIX] Les liens de signet de PowerPoint n'ouvrent pas les pages extraites
+- [FIX] Les adresse mail saisies ne sont pas validées dans la fenêtre de composition de mail du souvenir
+- [FIX] Erreur possible lors du remplacement de fichier dans l'éditeur
+
 ### 4.4.7134 - 7 août 2025
 
 - Mode de partage "New Outlook" si détecté

@@ -1,5 +1,18 @@
 # Release notes
 
+
+### 4.4.7247 - September 22, 2025
+
+- Optionnal recipient suggestion list for souvenir mail composition form
+- [FIX] Mail addresses of connected participants are not recognized in Outlook
+- [FIX] Corrupted .cdslideshow files can prevent opening an univers
+- [FIX] Expired app activation or token limit reached always disply a "deleted account" error
+- [FIX] Text meta files are ignored if a json file also exists
+- [FIX] Links to documents containging documents themselves are broken
+- [FIX] Bookmark links from PowerPoint do not open extracted pages
+- [FIX] Mail addresses are not validated on enter in the souvenir composition form
+- [FIX] Possible error when replacing a document in the designer
+
 ### 4.4.7134 - August 7, 2025
 
 - "New Outlook" share option if detected
