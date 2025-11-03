@@ -1,19 +1,31 @@
 # Release notes
 
+### 4.4.7370 - October 31, 2025
+
+- New quick "Close all documents" action in bottom document bar, disabled by default and can be enabled via `bottombar.showQuickClearWorkspace` parameter
+- New loan simulator setting `simulator.hideTotalCost` (hides total loan cost in simulator) 
+- Product sheets: some values (e.g. availability) can be configured to be updated by other universe elements
+- Added links from product sheets to other documents or resources
+- [FIX] Error when loading SharePoint or network share sources
+- [FIX] Network share sources can add in a loop and block the application
+- [FIX] Windows session professional account continues to be used even after disconnection
+- [FIX] SharePoint content linked by PowerPoint presentations is not transferred to souvenir
+
 
 ### 4.4.7247 - September 22, 2025
 
-- Optionnal recipient suggestion list for souvenir mail composition form
+- Optional recipient suggestion list for souvenir mail composition form
 - [FIX] Mail addresses of connected participants are not recognized in Outlook
-- [FIX] Corrupted .cdslideshow files can prevent opening an univers
-- [FIX] Expired app activation or token limit reached always disply a "deleted account" error
+- [FIX] Corrupted .cdslideshow files can prevent opening a universe
+- [FIX] Expired app activation or token limit reached always displays a "deleted account" error
 - [FIX] Text meta files are ignored if a json file also exists
-- [FIX] Links to documents containging documents themselves are broken
+- [FIX] Links to documents containing documents themselves are broken
 - [FIX] Bookmark links from PowerPoint do not open extracted pages
 - [FIX] Mail addresses are not validated on enter in the souvenir composition form
 - [FIX] Possible error when replacing a document in the designer
 
 ### 4.4.7134 - August 7, 2025
+
 
 - "New Outlook" share option if detected
 - [FIX] Text typed in  PPTX input text areas missing from export

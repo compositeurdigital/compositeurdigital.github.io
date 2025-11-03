@@ -1,5 +1,15 @@
 # Notes de publication
 
+### 4.4.7370 - 31 octobre 2025
+
+- Nouvelle action rapide "Fermer tous les documents" dans la barre de documents inférieure, désactivée par défaut et activable via le paramètre `bottombar.showQuickClearWorkspace`
+- Nouveau paramétrage des simulateurs de prêts `simulator.hideTotalCost` (permet de masquer le coût total du prêt dans le simulateur)
+- Fiches produit : certaines valeurs (ex. disponibilité) peuvent êtres configurée pour être mises à jour par d'autres éléments de l'univers.
+- Ajout de liens depuis les fiches produit vers d'autres documents ou ressources
+- [FIX] Erreur lors du chargement des sources SharePoint ou partage réseau
+- [FIX] Les sources de partage réseau peuvent s'ajouter en boucle et bloquer l'application
+- [FIX] Le compte professionnel de la session Windows continue d'être utilisé même après déconnexion 
+- [FIX] Les contenus SharePoint liés par les présentations PowerPoint ne sont pas transmis au souvenir
 
 
 ### 4.4.7247 - 22 septembre 2025
