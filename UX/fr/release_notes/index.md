@@ -1,5 +1,11 @@
 # Notes de publication
 
+
+### 4.4.7381 - 4 novembre 2025
+
+- [FIX] Le choix entre Android et iOS n'est pas proposé lors du partage de souvenir par mail via mobile
+- [FIX] Les fiches produit n'affichent pas les informations lors du premier lancement
+
 ### 4.4.7370 - 31 octobre 2025
 
 - Nouvelle action rapide "Fermer tous les documents" dans la barre de documents inférieure, désactivée par défaut et activable via le paramètre `bottombar.showQuickClearWorkspace`

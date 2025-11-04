@@ -1,5 +1,11 @@
 # Release notes
 
+### 4.4.7381 - November 4, 2025
+
+- [FIX] Choice between Android and iOS not shown when sharing souvenir via mobile mail
+- [FIX] Product sheets do not display information on first launch
+
+
 ### 4.4.7370 - October 31, 2025
 
 - New quick "Close all documents" action in bottom document bar, disabled by default and can be enabled via `bottombar.showQuickClearWorkspace` parameter
