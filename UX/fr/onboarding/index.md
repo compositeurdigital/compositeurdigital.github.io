@@ -19,44 +19,44 @@ Cette application est destinée à tous les professionnels qui recherchent à r�
 ### Quel est le principe ?
 
 Le Compositeur Digital réutilise vos documents et contenus existants et vous permet de les afficher, de les manipuler et de les annoter sur votre espace de présentation. 
-Ces documents et contenus peuvent être des Présentation PowerPoint, Documents PDF, des images, des vidéos et mêmes des contenus 3D. 
+Ces documents et contenus peuvent être des présentations PowerPoint, documents PDF, des images, des vidéos et même des contenus 3D. 
 
 
 
 ### Quels sont les gains ?
 
 Votre présentation est riche et non linéaire. Vous adaptez le contenu de votre présentation à votre auditoire.
-Votre présentation met en valeur votre expertise et votre auditoire vous comprend. 
+Votre présentation met en valeur votre expertise et votre auditoire vous comprend mieux. 
 
 
 
 ### Est-ce simple ?
 
-Oui ! La création de vos présentations est très simple, il vous suffit de savoir glisser vos documents dans des répertoires ! Vous pouvez également habiller graphiquement votre environnement présentation. 
+Oui ! La création de vos présentations est très simple, il vous suffit de savoir glisser vos documents dans des répertoires ! Vous pouvez également habiller graphiquement votre environnement de présentation. 
 Le prise en main est intuitive, la manipulation des contenus est fluide.
 
 
 
 ### Et si vous vous posiez la question…
 
-Oui !  Le Compositeur Digital est une véritable alternative à PowerPoint et il va bien plus loin, c’est un nouveau standard de présentation. 
+Oui ! Le Compositeur Digital est une véritable alternative à PowerPoint et il va bien plus loin, c’est un nouveau standard de présentation. 
 
 
 
 ### Confidentialité
 
-Le Compositeur Digital n’est pas une plateforme mais une application qui est installée sur votre PC. Elle n’a accès qu’aux répertoires qui vous lui indiquerez. 
+Le Compositeur Digital n’est pas une plateforme mais une application qui est installée sur votre PC. Elle n’a accès qu’aux répertoires que vous lui indiquerez. 
 
 
 
 ### Les participants doivent-ils disposer de l’application ?
 
-Non. Seul vous, présentateur, devez disposer de l’application. En fin de présentation les contenus présentés peuvent être partagés au format PDF aux participants. 
+Non. Seul vous, présentateur, devez disposer de l’application. En fin de présentation les notes prises et les contenus présentés peuvent être partagés au format PDF aux participants. 
 
 
 ### Sur quel type de PC utiliser l’application ?
 
-Vous pouvez utiliser l’application sur PC Windows 10 tactile ou non.
+Vous pouvez utiliser l’application sur PC Windows 11, tactile ou non.
 
 
 ## 2. Découvrez les 5 fonctionnalités clés pour la présentation
@@ -71,7 +71,7 @@ Vous pouvez utiliser l’application sur PC Windows 10 tactile ou non.
 ![diapo](http://compositeurdigital.github.io/UX/fr/onboarding/img/diapo.png)
 
 
-### Ayez plus d’impact, augmentez l’attention de vos participants, vous pouvez Pointez, Zoomez, Annotez, Post-it sur vos contenus 
+### Ayez plus d’impact : augmentez l’attention de vos participants ! Vous pouvez pointer, zoomer et annoter sur vos contenus 
 
 ![annotations](http://compositeurdigital.github.io/UX/fr/onboarding/img/annotations.png)
 
