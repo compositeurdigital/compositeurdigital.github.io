@@ -1,10 +1,17 @@
 # Release notes
 
+### 4.4.7423 - November 17, 2025
+
+- [FIX] Universe thumbnails do not display in some cases when MyDrive is disabled
+
+### 4.4.7413 - November 14, 2025
+
+- [FIX] Random crash when loading a project or opening documents from the recycle bin
+
 ### 4.4.7381 - November 4, 2025
 
 - [FIX] Choice between Android and iOS not shown when sharing souvenir via mobile mail
 - [FIX] Product sheets do not display information on first launch
-
 
 ### 4.4.7370 - October 31, 2025
 

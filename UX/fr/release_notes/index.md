@@ -1,6 +1,14 @@
 # Notes de publication
 
 
+### 4.4.7423 - 17 novembre 2025
+
+- [FIX] Les vignettes d'univers ne s'affichent pas dans certains cas lorsque MyDrive est désactivé
+
+### 4.4.7413 - 14 novembre 2025
+
+- [FIX] Crash aléatoire lors du chargement d'un projet ou de l'ouverture de documents depuis la corbeille
+
 ### 4.4.7381 - 4 novembre 2025
 
 - [FIX] Le choix entre Android et iOS n'est pas proposé lors du partage de souvenir par mail via mobile
