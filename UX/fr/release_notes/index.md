@@ -1,5 +1,35 @@
 # Notes de publication
 
+### 4.5.7556 - 23 janvier 2026
+
+#### Souvenirs
+
+- Nouveaux sites de souvenir en ligne recréant l'expérience Compositeur Digital
+- Documents PDF, vidéos, pages web, etc directement lisibles et navigables depuis la page de souvenir
+- Les zooms internes et les liens de documents sont actionnables dans les souvenirs partagés
+- "Call to action" optionnel
+
+#### Activités collaboratives
+
+- Nouvelle activité collaborative "Vote visuel" : les participants ajoutent leur contribution en un seul geste
+- Les actions contextuelles des activités collaboratives sont désormais regroupées sous un bouton
+
+#### Nouvelles fonctionnalités
+
+- Export et import de fichiers .cduniverse/.cdtuniverse pour partager ou distribuer facilement des univers et des modèles
+- Personnalisation avancée de la barre de documents et du style des documents dans le concepteur
+
+#### Améliorations et correctifs
+
+- Concepteur : clic droit pour ajouter un lien interactif
+- Concepteur : le panneau des propriétés du document s'affiche désormais dans un panneau latéral
+- Concepteur de carte interactive intégré
+- Synchronisation plus rapide des partages réseau
+- Nouvelle animation visuelle des liens interactifs
+- Concepteur : description des liens plus explicite
+- Les pages web intégrées suivent la langue et la culture définie avec `culture=en` (exemple)
+- Commencer avec la barre de documents repliée avec `bottombar.collapse=true`
+
 
 ### 4.4.7423 - 17 novembre 2025
 

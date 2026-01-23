@@ -1,5 +1,36 @@
 # Release notes
 
+### 4.5.7556 - January 23, 2026
+
+#### Souvenirs
+
+- New souvenir online sites recreating the Compositeur Digital experience
+- PDF documents, videos, web pages, etc directly playable and navigable from the souvenir page
+- Document internal zooms and links are actionable in shared souvenirs
+- Optional call to action
+
+#### Collaborative activities
+
+- New "Visual vote" collaborative activity: let participants add their input with a single touch
+- Collaborative activities contextual actions now grouped in a single button
+
+#### New features
+
+- Export and import .cduniverse/.cdtuniverse files to easily share or distribute universes or templates
+- Advanced customization of the documents bar and documents style in the designer
+
+#### General improvements and fixes
+
+- Designer: right click to add an interactive link
+- Designer: document properties panel now appears in a side panel 
+- Integrated interactive map designer
+- Faster synchronization of network shares
+- New interactive link visual animation
+- Designer: clearer description of links
+- Integrated web pages follow the language and culture defined with `culture=fr`  (example)
+- Start with the documents bar collapsed with `bottombar.collapse=true`
+
+
 ### 4.4.7423 - November 17, 2025
 
 - [FIX] Universe thumbnails do not display in some cases when MyDrive is disabled
