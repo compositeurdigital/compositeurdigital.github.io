@@ -1,5 +1,16 @@
 # Notes de publication
 
+
+### 4.5.7587 - 12 février 2026
+
+- Limitation optionnelle de la longueur des noms de fichiers dossiers depuis l'éditeur
+- Nouvelle meta `editor.background.show = true` pour forcer l'affichage du fond d'écran dans l'arboresence des contenus
+- Nouvelle meta `web.enableHomeInteractivePage = true` pour autoriser les liens interactifs standard dans les vues interactives
+- [FIX] Message d'erreur lors de la sauvegarde du premier projet pour les univers de sources SharePoint 
+- [FIX] vignettes des .cdslideshow non accessibles depuis les vue web interactives
+- [FIX] Souvenirs : liens manquants dans certains PDF partagés
+- [FIX] Crash au chargement de projets avec vue web et certains modules de recherche avec mise à l'échelle de 150%
+
 ### 4.5.7556 - 23 janvier 2026
 
 #### Souvenirs

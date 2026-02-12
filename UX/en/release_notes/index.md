@@ -1,5 +1,16 @@
 # Release notes
 
+
+### 4.5.7556 - February 12, 2026
+
+- Optional limitation of file and folder name length in the designer
+- New `editor.background.show = true` meta to force display of the background in content hierarchy tree
+- New `web.enableHomeInteractivePage = true` meta to allow standard interactive links in interactive views
+- [FIX] Error message when saving first project for SharePoint source universes
+- [FIX] .cdslideshow thumbnails not accessible from interactive web views
+- [FIX] Souvenirs: missing links in some shared PDFs
+- [FIX] Crash when loading projects with web view and certain search modules with 150% scaling
+
 ### 4.5.7556 - January 23, 2026
 
 #### Souvenirs
