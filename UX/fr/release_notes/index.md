@@ -1,5 +1,8 @@
 # Notes de publication
 
+### 4.5.7799 - 23 mars 2026
+
+- [FIX] Message d'erreur lors du renommage d'un projet sur une source SharePoint
 
 ### 4.5.7587 - 12 février 2026
 

@@ -1,5 +1,8 @@
 # Release notes
 
+### 4.5.7799 - March 23, 2026
+
+- [FIX] Error message when renaming a project on a SharePoint source
 
 ### 4.5.7556 - February 12, 2026
 
