@@ -1,5 +1,10 @@
 # Release notes
 
+### 4.5.7890 - April 9, 2026
+
+- [FIX] Document bar access button not displayed for universes with interactive background
+- [FIX] Links to a page in another document do not work if the page is extracted by zoom
+
 ### 4.5.7799 - March 23, 2026
 
 - [FIX] Error message when renaming a project on a SharePoint source

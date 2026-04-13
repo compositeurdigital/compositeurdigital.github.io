@@ -1,5 +1,10 @@
 # Notes de publication
 
+### 4.5.7890 - 9 avril 2026
+
+- [FIX] Le bouton d'accès à la barre de documents n'est pas affiché pour les univers avec fond interactif
+- [FIX] Les liens vers une page d'un autre document ne fonctionnent pas si la page est extraite par un zoom
+
 ### 4.5.7799 - 23 mars 2026
 
 - [FIX] Message d'erreur lors du renommage d'un projet sur une source SharePoint
