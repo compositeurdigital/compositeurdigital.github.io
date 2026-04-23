@@ -176,4 +176,4 @@ Elle se trouve [ici](http://doc.compositeurdigital.com/UX/fr/index.html)
 
 ## 7. Comment solliciter le support ?
 
-Besoin d’un support ? Une recommandation ? Vous pouvez nous écrire [ici](https://www.compositeurdigital.com/wp/fr/contact)
+Besoin d’un support ? Une recommandation ? Vous pouvez nous écrire [ici](https://www.excense.fr/contact/)
