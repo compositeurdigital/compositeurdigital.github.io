@@ -1,5 +1,11 @@
 # Notes de publication
 
+### 4.5.8091 - 9 avril 2026
+
+- Nouvel emplacement de fichier de paramètres utilisateur : `%APPDATA%\Excense\Compositeur Digital UX`
+- Création forcée des répertoires sources avec le paramètre `cdux.sources.createIfDoesNotExist=true`
+- Catalogue : affichage des résultats dans une liste triable, à configurer en option
+
 ### 4.5.7890 - 9 avril 2026
 
 - [FIX] Le bouton d'accès à la barre de documents n'est pas affiché pour les univers avec fond interactif

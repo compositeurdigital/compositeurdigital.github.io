@@ -1,5 +1,11 @@
 # Release notes
 
+### 4.5.8091 - April 9, 2026
+
+- New user settings file location: `%APPDATA%\Excense\Compositeur Digital UX`
+- Forced creation of source directories with the `cdux.sources.createIfDoesNotExist=true` parameter
+- Catalog: display results in a sortable list, configurable as an option
+
 ### 4.5.7890 - April 9, 2026
 
 - [FIX] Document bar access button not displayed for universes with interactive background
